@@ -1,0 +1,24 @@
+[submodule "ia-para-produtos-classificacao-arvore-de-decisao"]
+	path = ia-para-produtos-classificacao-arvore-de-decisao
+	url = git@github.com:rocketseat-education/ia-para-produtos-classificacao-arvore-de-decisao.git
+[submodule "ia-para-produtos-regressao-polinomial"]
+	path = ia-para-produtos-regressao-polinomial
+	url = git@github.com:rocketseat-education/ia-para-produtos-regressao-polinomial.git
+[submodule "ia-para-produtos-regressao-multipla"]
+	path = ia-para-produtos-regressao-multipla
+	url = git@github.com:rocketseat-education/ia-para-produtos-regressao-multipla.git
+[submodule "ia-para-produtos-regressao-linear"]
+	path = ia-para-produtos-regressao-linear
+	url = git@github.com:rocketseat-education/ia-para-produtos-regressao-linear.git
+[submodule "ia-para-produtos-lightgbm"]
+	path = ia-para-produtos-lightgbm
+	url = git@github.com:rocketseat-education/ia-para-produtos-lightgbm.git
+[submodule "ia-para-produtos-desafio-regressao-linear-polinomial"]
+	path = ia-para-produtos-desafio-regressao-linear-polinomial
+	url = git@github.com:rocketseat-education/ia-para-produtos-desafio-regressao-linear-polinomial.git
+[submodule "ia-para-produtos-desafio-regressao-linear-multipla"]
+	path = ia-para-produtos-desafio-regressao-linear-multipla
+	url = git@github.com:rocketseat-education/ia-para-produtos-desafio-regressao-linear-multipla.git
+[submodule "ia-para-produtos-desafio-regressao-linear"]
+	path = ia-para-produtos-desafio-regressao-linear
+	url = git@github.com:rocketseat-education/ia-para-produtos-desafio-regressao-linear.git
