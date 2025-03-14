@@ -22,3 +22,6 @@
 [submodule "ia-para-produtos-desafio-regressao-linear"]
 	path = ia-para-produtos-desafio-regressao-linear
 	url = git@github.com:rocketseat-education/ia-para-produtos-desafio-regressao-linear.git
+[submodule "ia-challenge-estatistica"]
+	path = ia-challenge-estatistica
+	url = git@github.com:rocketseat-education/ia-challenge-estatistica.git
