@@ -25,3 +25,6 @@
 [submodule "ia-challenge-estatistica"]
 	path = ia-challenge-estatistica
 	url = git@github.com:rocketseat-education/ia-challenge-estatistica.git
+[submodule "ia-challenge-ml"]
+	path = ia-challenge-ml
+	url = https://github.com/rocketseat-education/ia-challenge-ml.git
