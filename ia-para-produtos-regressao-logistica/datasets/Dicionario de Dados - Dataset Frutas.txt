@@ -1,0 +1,13 @@
+Dicionário de Dados - Dataset Frutas
+
+A_id é Identificação única da amostra no Dataset
+Size é o tamanho da fruta
+Weight é o peso da fruta
+Sweetness é o nível de doçura da fruta
+Crunchiness é o nível de crocância da fruta
+Juiciness é o nível de suculência da fruta
+Ripeness é o nível de maturação da fruta
+Acidity é o nível de acidez da fruta
+Quality é a qualidade da fruta, podendo ser good (boa) ou bad (ruim)
+
+Todos os valores numéricos do dataset (exceto A_id) foram transformados previamente para um StandardScaler
