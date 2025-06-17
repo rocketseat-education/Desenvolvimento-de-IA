@@ -1,0 +1,20 @@
+index: Appears to be a simple row identifier.
+brand: Brand of the laptop.
+model: Model description of the laptop.
+price: Price of the laptop in some currency.
+rating: Rating given to the laptop.
+processor_brand: Brand of the processor.
+processor_tier: Type or tier of the processor (e.g., Core i3, Ryzen 5).
+num_cores: Number of processor cores.
+num_threads: Number of threads.
+ram_memory: RAM capacity in GB.
+primary_storage_type: Type of primary storage (e.g., SSD, HDD).
+primary_storage_capacity: Capacity of the primary storage in GB.
+gpu_brand: Brand of the GPU.
+gpu_type: Type of GPU (integrated or dedicated).
+is_touch_screen: Boolean indicating if the laptop has a touchscreen.
+display_size: Size of the display in inches.
+resolution_width: Width of the screen resolution in pixels.
+resolution_height: Height of the screen resolution in pixels.
+os: Operating system.
+year_of_warranty: Warranty period in years.
