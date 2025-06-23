@@ -1,0 +1,11 @@
+country - Nome do País
+child_mort - Mortalidade infantil a cada 1000 nascimentos
+exports; - Nível de Exportação (percentual com base no PIB)
+health - Investimento em Saúde (percentual com base no PIB)
+imports - Nível de Importação (percentual com base no PIB)
+income - Renda média por habitante
+inflation - Inflação
+life_expec - Expectativa de vida em anos
+total_fer - Total de crianças que poderiam ter nascido pra cada mulher, se o nível de fertilidade se mantem o mesmo
+gdpp - PIB per capita (PIB do país dividido pela população)
+income_category - Categoria do país com base na renda
