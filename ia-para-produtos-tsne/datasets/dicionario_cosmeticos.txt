@@ -1,0 +1,11 @@
+Categoria: Categoria do Produto
+Marca: Marca do Produto
+Nome: Nome do Produto
+Preco: Preço do Produto
+Rating: Rating do Produto
+Ingredientes: Lista de Ingredientes / Componentes
+Pele_Mista: Serve para Pele Mista?
+Pele_Seca: Serve para Pele Seca?
+Pele_Normal: Serve para Pele Normal?
+Pele_Oleosa: Serve para Pele Oleosa?
+Pele_Sensivel: Serve para Pele Sensível?
