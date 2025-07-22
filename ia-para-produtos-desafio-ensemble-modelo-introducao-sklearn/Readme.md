@@ -49,3 +49,27 @@ O primeiro dataset, utilizado para a tarefa de classificação binária, traz da
 
 
 📎 Link do dataset: [Airline Passenger Satisfaction – Kaggle](https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction)
+
+## 🚕 Dataset de Regressão: Taxi Price Prediction
+
+Neste desafio, você irá trabalhar com o dataset Taxi Price Prediction, que traz registros de corridas de táxi com informações como horário da corrida, localização de origem e destino, número de passageiros e valor final da tarifa. Seu objetivo será aplicar diferentes técnicas de ensemble learning para prever o valor da corrida, explorando a performance dos métodos de **Bagging**, **Boosting**, **Voting** e **Stacking**.
+
+
+### Principais colunas:
+
+| Coluna                  | Descrição                                                          |
+| ----------------------- | ------------------------------------------------------------------ |
+| `Trip_Distance_km`      | Distância da corrida em quilômetros                                |
+| `Time_of_Day`           | Período do dia da corrida (ex: Morning, Afternoon, Evening, Night) |
+| `Day_of_Week`           | Tipo de dia (Weekday ou Weekend)                                   |
+| `Passenger_Count`       | Número de passageiros na corrida                                   |
+| `Traffic_Conditions`    | Condições de tráfego (Low, Medium, High)                           |
+| `Weather`               | Condição climática durante a corrida (Clear, Rain, Snow)           |
+| `Base_Fare`             | Tarifa base aplicada à corrida                                     |
+| `Per_Km_Rate`           | Valor cobrado por quilômetro rodado                                |
+| `Per_Minute_Rate`       | Valor cobrado por minuto de corrida                                |
+| `Trip_Duration_Minutes` | Duração total da corrida em minutos                                |
+| `Trip_Price`            | 💰 **Valor final da corrida** (variável alvo a ser prevista)       |
+
+
+📎 Link do dataset: [Taxi Price Regression](https://www.kaggle.com/datasets/denkuznetz/taxi-price-prediction)
