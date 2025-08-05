@@ -1,0 +1,1001 @@
+ID,Nome_Empresa,Receita_Anual,Margem_Liquida,Endividamento,Setor,Regiao,Tempo_Operacao,Auditoria_Externa,Rating_Credito,Tipo_Empresa,Politica_Sustentabilidade,Estrategia_Expansao,Gestao_Risco,Cobertura_Seguros,Maturidade_Digital,Governanca_Corporativa,Cultura_Inovacao,Relacao_Comunidade,Risco_Credito,Risco_Compliance,Risco_Mercado
+1,Hahn Group,6523388,0.48287892097792934,1.0327667167116328,Manufatura,Europa,26,0,0.938714635374035,MEI,Baixa,Parcerias,Centralizada,Básica,Avançada,Fraca,Neutra,Regular,0,0,0
+2,Lopez Group,6650634,0.1212922916119091,0.49284112351672354,Tecnologia,Europa,20,1,0.49236230351962584,MEI,Baixa,Orgânica,Centralizada,Básica,Inicial,Média,Neutra,Ruim,0,0,0
+3,Sparks and Sons,4404572,0.1901137582230335,0.7570991380338556,Manufatura,América Latina,6,0,0.7008656991254286,S.A.,Alta,Orgânica,Decentralizada,Básica,Inicial,Alta,Neutra,Boa,0,0,0
+4,"Fields, Ramirez and Craig",2334489,0.4024424125235137,2.3279620788365847,Manufatura,Europa,6,1,0.8555511234358725,MEI,Alta,Parcerias,Centralizada,Nenhuma,Intermediária,Média,Inovadora,Excelente,1,0,0
+5,"Campbell, Hernandez and Lyons",9624682,0.174548803253561,1.7223574614072528,Saúde,América do Norte,18,1,0.41829111109348593,Limitada,Alta,Aquisições,Decentralizada,Nenhuma,Avançada,Fraca,Neutra,Regular,0,0,0
+6,Robinson Ltd,7304212,-0.07087599000680075,1.2905148128317276,Saúde,América do Norte,4,1,0.3094127948704444,Limitada,Média,Orgânica,Centralizada,Ampla,Avançada,Alta,Neutra,Ruim,1,0,1
+7,Bennett LLC,9728519,0.009717138236533904,0.13051573596854446,Tecnologia,Ásia,17,0,0.9367245558534901,S.A.,Baixa,Parcerias,Decentralizada,Básica,Avançada,Média,Neutra,Regular,0,1,0
+8,"Rios, Stevens and Johnson",4572471,0.016955848388027613,2.4817969611747284,Saúde,Europa,14,1,0.5156765510770731,Limitada,Média,Parcerias,Centralizada,Nenhuma,Intermediária,Alta,Neutra,Regular,1,0,0
+9,"Murphy, Walters and Cruz",4623669,0.07812268082031848,1.7114918437471438,Tecnologia,América Latina,14,0,0.497253886590878,Multinacional,Baixa,Aquisições,Decentralizada,Básica,Avançada,Média,Neutra,Ruim,0,1,0
+10,Larson Ltd,7504852,0.09875223373572455,0.8606139456278679,Financeiro,América Latina,13,0,0.17841609656349577,Limitada,Alta,Aquisições,Centralizada,Básica,Intermediária,Média,Conservadora,Boa,1,1,0
+11,Ortiz and Sons,5081505,0.35984741545198856,2.2102447839948116,Tecnologia,América Latina,7,0,0.10815501457335674,Limitada,Alta,Orgânica,Centralizada,Ampla,Inicial,Fraca,Neutra,Boa,1,0,0
+12,Duncan-Monroe,1866891,0.044570899334533086,0.7202358887003634,Financeiro,Ásia,44,0,0.8421068624835116,Limitada,Alta,Orgânica,Decentralizada,Nenhuma,Inicial,Fraca,Conservadora,Regular,0,1,0
+13,"Jimenez, Davis and Powell",4621373,0.1277622799089655,1.4056397900386037,Tecnologia,América do Norte,15,0,0.6141331761875181,Multinacional,Alta,Orgânica,Centralizada,Nenhuma,Avançada,Média,Neutra,Ruim,0,0,0
+14,Rivera Inc,6119877,0.23748319093573655,1.62656983295158,Manufatura,América Latina,19,0,0.3258245840194487,MEI,Baixa,Parcerias,Centralizada,Básica,Inicial,Alta,Conservadora,Boa,1,0,0
+15,Collins and Sons,3444769,0.06440816320811849,0.6305520914889483,Saúde,América do Norte,43,0,0.19173621739026647,Limitada,Alta,Orgânica,Decentralizada,Básica,Inicial,Alta,Neutra,Regular,1,1,0
+16,Sparks-Wiggins,9280351,0.385595369304633,2.44815346912143,Financeiro,Ásia,47,1,0.5554972801696314,S.A.,Baixa,Parcerias,Centralizada,Ampla,Avançada,Fraca,Neutra,Excelente,1,0,0
+17,Lawson Inc,203355,0.211217522963852,1.895660574349594,Tecnologia,Europa,44,1,0.5839192892611353,Multinacional,Baixa,Orgânica,Centralizada,Ampla,Inicial,Média,Neutra,Ruim,1,0,1
+18,Harris-Cummings,1362752,0.0058312754546800604,1.4387517412265678,Saúde,Europa,35,1,0.20699360124505817,S.A.,Média,Aquisições,Centralizada,Ampla,Avançada,Fraca,Neutra,Excelente,1,0,0
+19,Perry Inc,9884633,0.2998414398528797,0.5334270356207221,Tecnologia,Europa,17,0,0.8514057478914739,Limitada,Alta,Aquisições,Decentralizada,Ampla,Avançada,Média,Inovadora,Excelente,0,0,0
+20,Johnson-Schmitt,5764789,0.16935341110135005,0.2292596967952627,Saúde,América Latina,35,0,0.08426436615585109,S.A.,Alta,Parcerias,Decentralizada,Ampla,Inicial,Média,Neutra,Regular,1,0,0
+21,Patton-Riley,9795979,0.1741191238800728,0.8681435980503603,Saúde,Europa,19,0,0.3560930851664217,Limitada,Média,Aquisições,Decentralizada,Ampla,Inicial,Fraca,Conservadora,Ruim,1,0,0
+22,Adams-Johnson,9405648,0.13676156387131014,1.9076496061921666,Tecnologia,América Latina,20,0,0.6803844137625221,Multinacional,Baixa,Parcerias,Decentralizada,Básica,Inicial,Alta,Inovadora,Boa,1,0,0
+23,"Acosta, Miller and Munoz",5843066,0.14790836417487427,0.7463951159248602,Financeiro,Ásia,36,1,0.2741203638192007,S.A.,Alta,Parcerias,Decentralizada,Ampla,Inicial,Fraca,Inovadora,Boa,1,0,0
+24,Lee Group,6213790,0.3357493967463684,1.3949349291892121,Financeiro,Ásia,35,0,0.8276751947812718,S.A.,Baixa,Aquisições,Centralizada,Básica,Inicial,Média,Neutra,Regular,0,0,0
+25,Cruz Ltd,4821339,-0.12791296446807915,1.8470732241537835,Manufatura,América Latina,32,1,0.7398678266004035,Limitada,Média,Parcerias,Centralizada,Básica,Intermediária,Fraca,Conservadora,Boa,1,0,0
+26,Dunn-Hampton,9989550,0.034053967917337495,0.35906491515151445,Saúde,América do Norte,48,0,0.7890228445481342,Limitada,Baixa,Aquisições,Decentralizada,Nenhuma,Inicial,Alta,Conservadora,Boa,0,1,0
+27,Brown Inc,3375709,-0.14714764533727756,1.744715238678096,Manufatura,Europa,44,1,0.11910653587671627,MEI,Alta,Orgânica,Centralizada,Básica,Intermediária,Alta,Inovadora,Excelente,1,0,0
+28,Morrison Inc,184654,0.32727235452321557,0.3204901305041073,Manufatura,Europa,40,0,0.14054712799554292,Limitada,Baixa,Orgânica,Centralizada,Básica,Avançada,Média,Conservadora,Excelente,1,0,1
+29,"Mora, Ayala and Perry",5247581,-0.009388701695790414,2.4163113811047916,Tecnologia,Europa,24,1,0.2864737377445836,Limitada,Baixa,Aquisições,Centralizada,Ampla,Inicial,Fraca,Neutra,Ruim,1,0,0
+30,Tran LLC,2054354,0.4282012868732189,1.272145912155855,Tecnologia,América Latina,17,0,0.5180771651975611,MEI,Alta,Aquisições,Centralizada,Básica,Inicial,Alta,Neutra,Excelente,0,0,0
+31,Mosley-Smith,8342680,0.1686049266615056,0.4616226585037057,Tecnologia,Ásia,7,1,0.7480160766994024,Limitada,Alta,Aquisições,Decentralizada,Ampla,Inicial,Fraca,Neutra,Boa,0,0,0
+32,Smith LLC,2528388,0.3605248400402847,0.9217207264805115,Saúde,Europa,43,0,0.8365308907609035,Limitada,Baixa,Aquisições,Decentralizada,Ampla,Avançada,Alta,Neutra,Ruim,0,0,0
+33,"Rios, Rodriguez and Cochran",9016786,0.48525200493117276,1.0921994783086275,Tecnologia,Ásia,1,1,0.7043353159571805,MEI,Baixa,Orgânica,Centralizada,Ampla,Intermediária,Média,Neutra,Ruim,0,0,1
+34,"Davis, Gonzalez and Marks",2763046,0.3878522016195993,1.9196440265836896,Tecnologia,Europa,35,1,0.9285968815306384,Multinacional,Média,Parcerias,Centralizada,Nenhuma,Intermediária,Média,Inovadora,Regular,1,0,0
+35,Knight Group,5599720,0.4068956320080664,1.8842170865838623,Saúde,Europa,32,0,0.7387435096159303,Multinacional,Alta,Parcerias,Decentralizada,Ampla,Inicial,Fraca,Neutra,Excelente,1,0,0
+36,"Owens, Frederick and Butler",6740913,0.08558914675539127,1.5686572128095944,Saúde,América Latina,36,1,0.3062678870046147,Limitada,Baixa,Orgânica,Centralizada,Básica,Inicial,Média,Neutra,Ruim,1,0,0
+37,"James, Hall and Norman",3516664,0.1862058166815378,0.3542337101403831,Financeiro,América do Norte,13,0,0.2650812843385726,Limitada,Alta,Parcerias,Centralizada,Ampla,Inicial,Alta,Inovadora,Boa,1,0,0
+38,Sanchez PLC,3485659,-0.02227800516968702,0.46376649181041657,Tecnologia,América Latina,6,0,0.6961924503010899,MEI,Média,Orgânica,Centralizada,Ampla,Inicial,Média,Inovadora,Ruim,0,1,0
+39,"Moreno, Ramos and Jimenez",3485357,-0.06272083021458305,0.3250166095493359,Tecnologia,Europa,14,0,0.19287056868961427,MEI,Baixa,Parcerias,Decentralizada,Ampla,Avançada,Alta,Inovadora,Ruim,1,1,0
+40,Harrison-Jordan,1565689,0.15385551537422362,1.48521467989012,Tecnologia,Europa,37,1,0.09271481081026989,Multinacional,Baixa,Aquisições,Decentralizada,Nenhuma,Inicial,Alta,Conservadora,Regular,1,0,0
+41,Mitchell PLC,168148,0.21653428579029438,2.2051322596273693,Financeiro,América do Norte,48,1,0.5322228748561939,S.A.,Baixa,Aquisições,Centralizada,Básica,Avançada,Média,Conservadora,Boa,1,0,1
+42,Thompson LLC,1925665,0.037489872127333644,1.1411212294114523,Tecnologia,Ásia,15,0,0.8216415697789553,Limitada,Alta,Aquisições,Centralizada,Nenhuma,Inicial,Alta,Neutra,Boa,0,1,0
+43,Weiss-Oneal,2845683,0.19861046243445019,0.48603561749859087,Financeiro,Ásia,47,0,0.10137984246986353,S.A.,Média,Orgânica,Centralizada,Básica,Intermediária,Alta,Neutra,Excelente,1,0,0
+44,Sanchez-Bennett,4156518,0.421222337759452,1.4393015803575209,Manufatura,Europa,4,1,0.7918913237957292,S.A.,Alta,Orgânica,Centralizada,Nenhuma,Intermediária,Fraca,Neutra,Boa,0,0,1
+45,Castaneda Ltd,2769995,0.18970510934835622,2.0482053204777038,Financeiro,Ásia,40,1,0.8115720043515481,MEI,Baixa,Parcerias,Centralizada,Básica,Inicial,Fraca,Conservadora,Ruim,1,0,0
+46,Wilson and Sons,5097895,0.30456916741735457,1.880108947631032,Manufatura,Europa,16,1,0.48227400008154353,Limitada,Média,Parcerias,Centralizada,Nenhuma,Inicial,Fraca,Neutra,Boa,1,0,0
+47,Young-Cohen,6497986,0.3637204771505335,2.2154818712200512,Tecnologia,América do Norte,28,0,0.05731031001048681,Limitada,Baixa,Parcerias,Decentralizada,Ampla,Avançada,Média,Neutra,Boa,1,0,0
+48,Richardson-Arnold,1970928,0.49211014736880987,0.7669650333972827,Manufatura,América do Norte,16,0,0.1745898512471864,MEI,Baixa,Orgânica,Decentralizada,Nenhuma,Inicial,Fraca,Conservadora,Ruim,1,0,0
+49,Wood PLC,4255299,0.22223818152388566,0.5654892814426596,Financeiro,Europa,4,0,0.7074262751619323,S.A.,Alta,Parcerias,Centralizada,Nenhuma,Inicial,Alta,Inovadora,Regular,0,0,1
+50,Robbins-Lopez,6349859,0.3647951042738102,2.211559566260653,Saúde,América do Norte,45,0,0.7117779449909495,MEI,Baixa,Aquisições,Decentralizada,Ampla,Inicial,Média,Conservadora,Excelente,1,0,0
+51,"Lindsey, Clark and Hunt",2405413,0.47385452298841224,1.6781447506672553,Manufatura,América Latina,26,0,0.8983552751676653,Multinacional,Média,Parcerias,Centralizada,Ampla,Intermediária,Média,Neutra,Excelente,0,0,0
+52,"Spencer, Cole and Stevens",4010197,0.46108680790409134,0.84622943201813,Manufatura,América Latina,28,1,0.5826861465545828,Limitada,Baixa,Aquisições,Centralizada,Básica,Avançada,Média,Conservadora,Regular,0,0,0
+53,Fox-Gray,5658019,-0.10124270585560052,1.881635321374022,Tecnologia,América do Norte,32,0,0.1241073677137774,Multinacional,Baixa,Orgânica,Decentralizada,Básica,Intermediária,Média,Inovadora,Ruim,1,1,0
+54,Padilla and Sons,5514709,0.08447461579146538,2.0562841227528827,Financeiro,Europa,45,1,0.12141490550497214,MEI,Alta,Aquisições,Decentralizada,Básica,Avançada,Alta,Inovadora,Excelente,1,0,0
+55,Hoffman Group,371836,0.026793042774759707,1.5759477768187176,Manufatura,Europa,2,1,0.7211323573568237,Limitada,Média,Aquisições,Centralizada,Nenhuma,Intermediária,Alta,Inovadora,Regular,0,0,1
+56,Walters-Pope,3684702,-0.13915248953475548,1.7509218637117963,Manufatura,América do Norte,31,0,0.18378466510790115,Multinacional,Alta,Aquisições,Centralizada,Básica,Inicial,Fraca,Inovadora,Regular,1,1,0
+57,"Pena, Taylor and Hess",7381369,0.24326854243767235,1.000623770662399,Manufatura,Ásia,3,1,0.32838549961660535,Multinacional,Baixa,Orgânica,Decentralizada,Nenhuma,Intermediária,Média,Inovadora,Regular,1,0,1
+58,Humphrey-Wilson,2399435,0.31513322923720155,1.3928696016232938,Manufatura,América Latina,8,0,0.4872120069219139,S.A.,Alta,Orgânica,Decentralizada,Nenhuma,Intermediária,Fraca,Inovadora,Excelente,0,0,0
+59,Garcia-Jackson,8685377,0.3936896668268184,1.3579820097427893,Saúde,Ásia,24,1,0.0247648775761512,Limitada,Alta,Orgânica,Centralizada,Básica,Avançada,Alta,Neutra,Excelente,1,0,0
+60,Diaz-Jones,2758505,-0.11405617723610406,2.1353146987138523,Financeiro,Europa,15,0,0.24881902701993186,Multinacional,Alta,Orgânica,Centralizada,Básica,Avançada,Média,Neutra,Excelente,1,1,0
+61,Williams-Phelps,1371741,0.41351085311270563,2.115913552677238,Tecnologia,Europa,43,0,0.40788960850728007,Multinacional,Alta,Parcerias,Centralizada,Nenhuma,Intermediária,Alta,Conservadora,Excelente,1,0,0
+62,Mcguire Group,3869315,0.2500478945299772,2.0984331264329037,Tecnologia,Ásia,31,1,0.27963631849320625,S.A.,Baixa,Orgânica,Decentralizada,Ampla,Avançada,Fraca,Neutra,Boa,1,0,0
+63,"Jensen, Stewart and Hutchinson",1146797,0.2927622945969566,0.1264758742299179,Saúde,América do Norte,9,0,0.13637032746756583,Multinacional,Baixa,Aquisições,Centralizada,Ampla,Avançada,Alta,Inovadora,Regular,1,0,0
+64,Lara-Joyce,3147262,0.4374368024782127,1.8989091627253318,Financeiro,Ásia,39,1,0.7280122577961974,Multinacional,Média,Orgânica,Decentralizada,Nenhuma,Avançada,Média,Neutra,Boa,1,0,0
+65,Allen PLC,664685,0.23733288973027572,1.9208233362664116,Manufatura,Ásia,45,0,0.8131476551679849,Multinacional,Alta,Parcerias,Centralizada,Básica,Avançada,Média,Conservadora,Regular,1,0,0
+66,Porter Ltd,2979190,0.03510610000488453,1.7281091748523403,Saúde,América Latina,2,0,0.25747897614372484,S.A.,Alta,Parcerias,Decentralizada,Nenhuma,Avançada,Fraca,Inovadora,Excelente,1,1,1
+67,Mooney-White,5696411,0.3775751319958618,1.9150351789394862,Financeiro,América Latina,8,0,0.7744194946063033,Multinacional,Média,Parcerias,Decentralizada,Nenhuma,Intermediária,Média,Neutra,Excelente,1,0,0
+68,"Martinez, Hill and Gonzales",9800344,0.05414144853656334,2.1207288915921008,Manufatura,Ásia,7,1,0.38555356440131383,Multinacional,Alta,Aquisições,Decentralizada,Básica,Avançada,Alta,Neutra,Boa,1,0,0
+69,Velasquez-Howell,1107293,-0.17604032242562961,1.2287657298442856,Saúde,Ásia,44,1,0.5066857908540028,Limitada,Média,Orgânica,Decentralizada,Ampla,Inicial,Alta,Conservadora,Ruim,0,0,0
+70,"Bailey, Dunn and Anderson",4874183,0.3814581545956748,1.3049205123722731,Financeiro,Europa,39,0,0.8560010748931528,Limitada,Baixa,Orgânica,Centralizada,Nenhuma,Intermediária,Alta,Inovadora,Excelente,0,0,0
+71,"Gray, Mason and Thomas",3466612,0.041634501416892886,0.39931373658733715,Tecnologia,América Latina,42,1,0.7499536818024078,S.A.,Média,Orgânica,Decentralizada,Ampla,Intermediária,Alta,Conservadora,Ruim,0,0,0
+72,Tucker-Banks,8511855,0.34168416624093817,1.0249021193136683,Tecnologia,América Latina,16,0,0.8051168513161777,MEI,Alta,Aquisições,Decentralizada,Ampla,Intermediária,Fraca,Inovadora,Regular,0,0,0
+73,"Powell, Garcia and Sloan",5367180,0.05393052626616178,1.6440764317882823,Financeiro,Europa,35,1,0.13684516658635681,Limitada,Média,Aquisições,Decentralizada,Básica,Avançada,Alta,Inovadora,Boa,1,0,0
+74,Hall Ltd,7907313,0.4027476139823051,1.9729594627534588,Tecnologia,América do Norte,30,1,0.06971942583372948,S.A.,Baixa,Parcerias,Centralizada,Nenhuma,Inicial,Fraca,Neutra,Ruim,1,0,0
+75,Jones-Collins,2804238,-0.04634263244332893,0.6213018344589053,Financeiro,América Latina,10,0,0.8934047290879871,Multinacional,Alta,Parcerias,Centralizada,Nenhuma,Avançada,Alta,Conservadora,Ruim,0,1,0
+76,Johnson-Odonnell,2730708,0.48218308563920886,0.430774957982165,Manufatura,América Latina,38,0,0.38783426957109435,Multinacional,Baixa,Orgânica,Centralizada,Ampla,Intermediária,Fraca,Conservadora,Excelente,1,0,0
+77,Parrish LLC,3594679,0.3458311423516215,1.6913008108011813,Financeiro,América do Norte,18,0,0.28787967806968084,S.A.,Baixa,Aquisições,Centralizada,Ampla,Intermediária,Alta,Conservadora,Ruim,1,0,0
+78,Hill-Duncan,5617209,-0.12003345185572223,0.10451172045978555,Manufatura,América Latina,5,0,0.7246962542618245,Multinacional,Média,Aquisições,Centralizada,Básica,Intermediária,Alta,Inovadora,Ruim,0,1,0
+79,"Williams, Smith and Harrington",1867640,0.1960436339765923,0.5280942023375916,Saúde,América Latina,29,0,0.8364155965798566,Multinacional,Baixa,Orgânica,Centralizada,Ampla,Intermediária,Fraca,Conservadora,Regular,0,0,0
+80,Morgan Group,6823771,0.4897571185692142,0.16977131282548896,Financeiro,América do Norte,39,1,0.8624896218983009,MEI,Alta,Orgânica,Decentralizada,Básica,Avançada,Média,Inovadora,Boa,0,0,0
+81,"Ware, Guerra and Porter",1385160,0.12974581688567005,0.5005242828516903,Saúde,América do Norte,34,1,0.31599714112522737,Multinacional,Baixa,Parcerias,Decentralizada,Nenhuma,Inicial,Média,Conservadora,Excelente,1,0,0
+82,"Acevedo, Keith and Turner",6180526,-0.07252500282489174,0.5351662718212126,Tecnologia,Ásia,43,0,0.852212391201674,Limitada,Baixa,Parcerias,Decentralizada,Básica,Inicial,Média,Conservadora,Excelente,0,1,0
+83,"Kennedy, Wilcox and Sanchez",5273036,0.1393448570052423,1.030416627400946,Manufatura,Europa,45,0,0.04093394437434539,Multinacional,Média,Parcerias,Centralizada,Ampla,Intermediária,Fraca,Neutra,Ruim,1,0,0
+84,Rogers-West,1525472,0.15872035911734508,1.0655850992477343,Financeiro,Europa,23,0,0.049661491459718876,S.A.,Baixa,Orgânica,Decentralizada,Nenhuma,Inicial,Média,Conservadora,Regular,1,0,0
+85,Murphy and Sons,148984,0.3191808609600658,2.1982299294645706,Saúde,América do Norte,5,1,0.6235191951741544,MEI,Média,Orgânica,Decentralizada,Básica,Intermediária,Média,Neutra,Ruim,1,0,1
+86,Jones Group,6656168,0.28919209721263306,1.3242633099971803,Manufatura,América do Norte,30,0,0.06310636911554623,Multinacional,Média,Parcerias,Centralizada,Nenhuma,Intermediária,Fraca,Neutra,Ruim,1,0,0
+87,Duran-Thompson,1604384,0.08178503051788635,1.836171437469487,Manufatura,América Latina,6,0,0.3246091685101615,S.A.,Alta,Parcerias,Decentralizada,Básica,Inicial,Média,Inovadora,Excelente,1,1,0
+88,"Hanna, Payne and Miller",2330919,-0.04738382475413948,0.3499296590086899,Tecnologia,Ásia,46,1,0.672755986246924,Limitada,Alta,Aquisições,Centralizada,Ampla,Intermediária,Média,Conservadora,Ruim,0,0,0
+89,"Holland, Leon and Ross",7040119,0.25153791743853054,0.6410530131128652,Tecnologia,Ásia,44,1,0.33726689605422633,Multinacional,Alta,Aquisições,Decentralizada,Ampla,Inicial,Média,Conservadora,Ruim,1,0,0
+90,Ballard LLC,1837095,0.09519275418729724,1.7870642583488243,Manufatura,América do Norte,4,1,0.17959978144009592,MEI,Alta,Parcerias,Centralizada,Nenhuma,Intermediária,Fraca,Conservadora,Regular,1,0,1
+91,Warren PLC,4880450,-0.10740665221226875,0.2267295051244674,Manufatura,América Latina,29,1,0.28135062185384163,Multinacional,Média,Parcerias,Centralizada,Nenhuma,Inicial,Fraca,Neutra,Excelente,1,0,0
+92,"Blake, Giles and Davidson",7569344,0.4304006108654699,1.2678343893850075,Financeiro,América Latina,23,0,0.4575753322504318,S.A.,Baixa,Aquisições,Centralizada,Nenhuma,Intermediária,Média,Conservadora,Boa,0,0,0
+93,"Williams, Anderson and Sullivan",2209818,0.28385530032675804,1.5384855175910412,Manufatura,Europa,6,1,0.4753858553554824,MEI,Alta,Parcerias,Decentralizada,Básica,Inicial,Média,Inovadora,Regular,0,0,0
+94,Chan PLC,2331785,0.27822869951183693,1.5451495457259545,Financeiro,Europa,32,1,0.783000231347202,Multinacional,Alta,Aquisições,Decentralizada,Ampla,Intermediária,Fraca,Inovadora,Regular,0,0,0
+95,Larson PLC,3953339,0.3758087131381717,0.15503874704330087,Manufatura,América Latina,42,0,0.7501532294315125,Limitada,Alta,Aquisições,Centralizada,Nenhuma,Intermediária,Média,Conservadora,Regular,0,0,0
+96,Smith PLC,9567719,0.1707631750585567,0.8730592101500452,Tecnologia,Europa,18,0,0.4568178045561352,MEI,Baixa,Aquisições,Centralizada,Nenhuma,Intermediária,Fraca,Neutra,Excelente,0,0,0
+97,Boyd-Foley,1096107,0.37053809988171993,1.6275775625179696,Financeiro,América do Norte,15,0,0.8456673490987714,Limitada,Alta,Orgânica,Decentralizada,Nenhuma,Inicial,Média,Inovadora,Ruim,0,0,0
+98,Davis Group,7230144,0.14866352745770398,0.45759936675818425,Saúde,América Latina,40,1,0.11423713859139584,S.A.,Baixa,Orgânica,Decentralizada,Básica,Avançada,Fraca,Inovadora,Boa,1,0,0
+99,James Inc,4645583,-0.15297722005900297,1.7689975559873277,Tecnologia,Europa,32,0,0.2553533502289015,Multinacional,Média,Parcerias,Centralizada,Nenhuma,Intermediária,Alta,Neutra,Excelente,1,1,0
+100,"Nguyen, Potter and Duran",3847389,0.0836736616193821,1.8902205011528188,Financeiro,Ásia,9,1,0.8279764635022515,Limitada,Média,Aquisições,Decentralizada,Nenhuma,Intermediária,Alta,Inovadora,Ruim,1,0,0
+101,Johnson PLC,4242807,0.14822542578592338,2.4567260570707488,Financeiro,América Latina,37,1,0.3779940386261531,S.A.,Média,Orgânica,Decentralizada,Básica,Inicial,Fraca,Neutra,Regular,1,0,0
+102,Park PLC,8088004,0.304141807142607,0.6036207876553826,Saúde,América Latina,10,1,0.9811815587938422,Multinacional,Baixa,Parcerias,Decentralizada,Básica,Intermediária,Alta,Inovadora,Excelente,0,0,0
+103,Serrano Ltd,6345035,-0.12539488890992798,2.0803136023986766,Financeiro,Ásia,20,0,0.4662532815278354,S.A.,Alta,Parcerias,Centralizada,Nenhuma,Intermediária,Média,Neutra,Ruim,1,1,0
+104,Hughes Ltd,3702279,-0.10198702293768572,1.3487117846047696,Manufatura,América do Norte,6,1,0.7919356229637641,Limitada,Alta,Parcerias,Centralizada,Nenhuma,Intermediária,Fraca,Inovadora,Boa,0,0,0
+105,Martinez-Lamb,5615989,-0.015421338155768516,0.9963102307460162,Saúde,Ásia,48,0,0.40230704138237194,S.A.,Alta,Parcerias,Decentralizada,Básica,Intermediária,Fraca,Conservadora,Boa,0,1,0
+106,Snyder Ltd,2221690,-0.013451124640382473,0.39370421758042706,Tecnologia,América Latina,3,0,0.4249535190624304,MEI,Alta,Parcerias,Centralizada,Ampla,Avançada,Média,Inovadora,Ruim,0,1,1
+107,"Rodgers, Long and King",591234,0.3125292049213436,1.86521345557009,Tecnologia,América do Norte,42,0,0.3828831472841835,Multinacional,Alta,Aquisições,Decentralizada,Básica,Avançada,Média,Inovadora,Excelente,1,0,0
+108,"King, Williams and Cline",5501218,-0.024488537606881588,0.666058237944849,Manufatura,Europa,11,1,0.7190756205108118,S.A.,Baixa,Parcerias,Decentralizada,Ampla,Intermediária,Fraca,Conservadora,Regular,0,0,0
+109,Norman-Mitchell,7014550,0.24316864435021326,0.9914128044953098,Tecnologia,Europa,43,1,0.5475178840599945,Limitada,Média,Aquisições,Centralizada,Nenhuma,Intermediária,Média,Conservadora,Ruim,0,0,0
+110,"Malone, King and Le",6267294,0.14599169509678994,0.25010134455368427,Financeiro,Europa,17,1,0.9437781113683691,Multinacional,Alta,Orgânica,Centralizada,Nenhuma,Intermediária,Fraca,Conservadora,Regular,0,0,0
+111,"Russell, Lawson and Jackson",9386029,0.2013060647255804,2.0232805979668456,Financeiro,América Latina,32,0,0.25089031653410476,MEI,Média,Parcerias,Centralizada,Ampla,Avançada,Média,Conservadora,Boa,1,0,0
+112,"Rice, Stevens and Osborne",7006726,0.386674874224807,1.939812457531944,Manufatura,Ásia,4,1,0.10056273208344435,Multinacional,Baixa,Orgânica,Decentralizada,Básica,Avançada,Fraca,Neutra,Ruim,1,0,1
+113,Brown and Sons,5988794,0.08306705108431699,1.86067799210155,Tecnologia,América do Norte,4,1,0.3932614850992152,MEI,Baixa,Aquisições,Decentralizada,Nenhuma,Inicial,Média,Neutra,Boa,1,0,1
+114,"Sims, Miller and Gonzalez",7658158,0.3396379639449893,0.818664425180528,Tecnologia,Europa,17,1,0.616712707646776,Multinacional,Alta,Aquisições,Centralizada,Ampla,Inicial,Média,Inovadora,Regular,0,0,0
+115,"Hayes, Brown and Williams",6610425,0.09542524168548111,0.5163521782382974,Manufatura,América do Norte,41,1,0.860798936915495,S.A.,Baixa,Orgânica,Centralizada,Básica,Intermediária,Alta,Inovadora,Regular,0,0,0
+116,"Santos, Russell and Gill",8611017,0.04770996359287459,1.6301278347285513,Saúde,América Latina,19,1,0.34619688668032766,S.A.,Média,Parcerias,Centralizada,Ampla,Intermediária,Alta,Inovadora,Ruim,1,0,0
+117,Moreno Group,7987739,0.47103902411925436,1.2907993218717266,Tecnologia,Europa,5,0,0.6537867511244616,Limitada,Alta,Parcerias,Decentralizada,Básica,Avançada,Alta,Neutra,Ruim,0,0,0
+118,"Brown, Wu and Gardner",869598,-0.07094035552472577,0.5278059205711398,Saúde,América Latina,32,0,0.35019868102321905,MEI,Alta,Orgânica,Decentralizada,Básica,Intermediária,Média,Inovadora,Ruim,1,1,0
+119,Robbins Ltd,5392895,-0.1367641275956745,1.7461870505196728,Tecnologia,Ásia,22,0,0.6172195829944581,Limitada,Média,Orgânica,Decentralizada,Básica,Intermediária,Fraca,Inovadora,Boa,0,1,0
+120,Daugherty Inc,8071379,0.3396901478748349,2.478703436371129,Tecnologia,América Latina,6,0,0.8848079470306509,S.A.,Alta,Orgânica,Centralizada,Básica,Avançada,Média,Neutra,Regular,1,0,0
+121,Small Group,3431068,-0.1522252062521359,1.8933270105808904,Tecnologia,América Latina,35,1,0.23135764225940902,MEI,Alta,Parcerias,Centralizada,Ampla,Avançada,Alta,Inovadora,Regular,1,0,0
+122,Lawrence Inc,3356415,0.38595529349212054,1.8759673280454683,Tecnologia,Ásia,22,0,0.40424164210703917,Limitada,Média,Parcerias,Decentralizada,Ampla,Avançada,Média,Neutra,Boa,1,0,0
+123,"Sheppard, Bradford and Bryant",974371,0.10603537745007044,2.38075060703342,Financeiro,América do Norte,1,1,0.9932651964297465,Limitada,Alta,Parcerias,Centralizada,Ampla,Avançada,Alta,Neutra,Ruim,1,0,1
+124,Mercer LLC,5754237,0.44085957410433974,0.5870472821797652,Saúde,Ásia,20,0,0.8685570282494608,Limitada,Alta,Orgânica,Centralizada,Ampla,Inicial,Alta,Conservadora,Excelente,0,0,0
+125,Lewis-Nelson,1073548,0.3050730027853339,1.457319915811457,Saúde,Ásia,22,0,0.564639857896202,Limitada,Média,Parcerias,Centralizada,Ampla,Avançada,Fraca,Conservadora,Ruim,0,0,0
+126,Simmons-Walker,3444014,0.22728326690557027,2.45115211608132,Tecnologia,América Latina,48,0,0.5166275918542753,Limitada,Baixa,Aquisições,Centralizada,Básica,Avançada,Fraca,Neutra,Excelente,1,0,0
+127,"Buck, Hernandez and Taylor",7164746,0.4645147579404359,0.4967058663284189,Tecnologia,América do Norte,11,1,0.284600382304681,MEI,Média,Orgânica,Decentralizada,Nenhuma,Intermediária,Alta,Neutra,Excelente,1,0,0
+128,Warren-Franklin,9702083,0.07765456113643797,1.7806047026668503,Saúde,Europa,13,1,0.5172094276935294,Limitada,Alta,Parcerias,Centralizada,Nenhuma,Intermediária,Alta,Conservadora,Boa,0,0,0
+129,Hernandez-Bates,6316204,0.4678608555777431,1.5059443503325647,Financeiro,Ásia,42,0,0.8481814982799472,MEI,Média,Orgânica,Decentralizada,Ampla,Intermediária,Média,Inovadora,Regular,0,0,0
+130,Moore LLC,5293542,-0.10549910580515516,1.5075498212528966,Manufatura,América do Norte,3,1,0.6851745132777806,Limitada,Alta,Aquisições,Decentralizada,Ampla,Inicial,Alta,Inovadora,Regular,0,0,1
+131,Campos-Wright,3059034,0.1386284593526889,1.7744095060481804,Manufatura,Ásia,9,0,0.2900440281779866,S.A.,Alta,Aquisições,Centralizada,Nenhuma,Avançada,Média,Inovadora,Regular,1,0,0
+132,"Smith, Finley and Chavez",4674293,-0.011062144325463598,2.331080614901642,Saúde,Ásia,12,0,0.20146392105353295,S.A.,Média,Orgânica,Decentralizada,Básica,Avançada,Alta,Neutra,Regular,1,1,0
+133,Cole LLC,6806971,0.17788994523573537,1.9781966556432111,Tecnologia,Ásia,23,0,0.2652085369968291,Limitada,Alta,Orgânica,Decentralizada,Ampla,Inicial,Fraca,Conservadora,Boa,1,0,0
+134,"Buck, Wood and Hebert",143585,-0.08659028547589079,0.23472664819890401,Tecnologia,Ásia,14,1,0.16975920139282652,Multinacional,Baixa,Aquisições,Centralizada,Básica,Avançada,Fraca,Inovadora,Excelente,1,0,1
+135,"Rogers, Williamson and Brooks",2639448,0.38907076221703035,2.1465472477017067,Financeiro,América Latina,33,0,0.09564069602371594,S.A.,Alta,Orgânica,Decentralizada,Nenhuma,Intermediária,Alta,Conservadora,Regular,1,0,0
+136,Ortiz-Johnson,209556,0.39248549452019005,0.6412991918217582,Manufatura,América do Norte,18,0,0.419136174442055,MEI,Média,Aquisições,Decentralizada,Nenhuma,Inicial,Média,Conservadora,Excelente,0,0,1
+137,Weaver-Garcia,1675557,0.4686654189064352,1.0045939953672927,Financeiro,América do Norte,49,0,0.1132996043982677,Limitada,Baixa,Aquisições,Decentralizada,Ampla,Avançada,Média,Neutra,Boa,1,0,0
+138,"Rodriguez, Stokes and Jimenez",8406461,-0.09172950138173466,1.208158752669717,Manufatura,América do Norte,41,1,0.17191255772710434,MEI,Baixa,Parcerias,Decentralizada,Básica,Inicial,Média,Inovadora,Ruim,1,0,0
+139,Nelson Group,2109021,0.23633278563349347,1.254174401807367,Saúde,Ásia,9,0,0.5473246843394861,Multinacional,Alta,Orgânica,Decentralizada,Ampla,Inicial,Alta,Conservadora,Boa,0,0,0
+140,"Petersen, Ritter and Gonzalez",1301482,0.1319661160902587,1.1444329582128563,Manufatura,América Latina,23,1,0.16459927369957472,Limitada,Média,Orgânica,Decentralizada,Nenhuma,Avançada,Alta,Neutra,Regular,1,0,0
+141,Ochoa-Hayes,642335,0.041068612430963235,2.3496479061180744,Financeiro,Ásia,10,0,0.06387976743090285,S.A.,Alta,Parcerias,Decentralizada,Básica,Intermediária,Fraca,Neutra,Ruim,1,1,0
+142,Russell-Cowan,4370070,0.04607811279395315,1.794445618393659,Financeiro,Ásia,19,1,0.3173888500278852,MEI,Alta,Aquisições,Decentralizada,Ampla,Avançada,Fraca,Neutra,Boa,1,0,0
+143,"Lee, Clay and Morris",6800379,0.08895548542472656,1.6148095502960953,Financeiro,América do Norte,47,0,0.22031909862196752,S.A.,Média,Orgânica,Centralizada,Ampla,Avançada,Alta,Inovadora,Boa,1,1,0
+144,"Dickson, Vang and Chaney",3660920,0.2934478847822671,0.21962086667905972,Saúde,Ásia,5,0,0.5153051879943767,S.A.,Média,Parcerias,Centralizada,Ampla,Intermediária,Fraca,Inovadora,Excelente,0,0,0
+145,Neal Group,6960006,0.21880024078770818,2.2693919926248993,Manufatura,Europa,47,1,0.10236708458320931,Limitada,Alta,Parcerias,Centralizada,Nenhuma,Avançada,Média,Neutra,Boa,1,0,0
+146,Weaver Inc,2584413,0.12177705893279175,2.282536460820151,Manufatura,Ásia,23,1,0.7517707876829781,MEI,Baixa,Orgânica,Decentralizada,Ampla,Avançada,Média,Inovadora,Ruim,1,0,0
+147,Willis Group,3007360,-0.14684661274126456,1.9725113522322455,Financeiro,Europa,30,0,0.9062335194351386,Multinacional,Alta,Parcerias,Decentralizada,Básica,Avançada,Alta,Inovadora,Boa,1,1,0
+148,"Lee, Thomas and Perry",5995544,-0.14556425914473006,0.11687008915268599,Manufatura,Ásia,25,1,0.7434351739561944,S.A.,Baixa,Aquisições,Decentralizada,Ampla,Inicial,Média,Conservadora,Regular,0,0,0
+149,White-Garcia,5797469,-0.19836242656195524,0.23747260258629604,Tecnologia,América Latina,28,0,0.5328270374013943,Limitada,Alta,Parcerias,Centralizada,Nenhuma,Inicial,Alta,Neutra,Excelente,0,1,0
+150,Patel Group,2335000,0.47738957174496044,0.6405368854443754,Tecnologia,América Latina,34,0,0.8606678217888851,Limitada,Média,Aquisições,Centralizada,Ampla,Inicial,Média,Neutra,Ruim,0,0,0
+151,Anderson-Johns,7008531,-0.19632232700913058,0.41523857954777604,Tecnologia,América do Norte,45,0,0.6949183797815075,Multinacional,Baixa,Aquisições,Centralizada,Nenhuma,Avançada,Alta,Inovadora,Ruim,0,1,0
+152,Rogers LLC,4422252,-0.1278343777903786,1.0572064712889506,Manufatura,Ásia,48,1,0.010551122450189854,Limitada,Média,Orgânica,Decentralizada,Nenhuma,Intermediária,Média,Neutra,Boa,1,0,0
+153,"Lopez, Johnson and Arnold",5922184,0.020217589766587604,2.314295339410695,Saúde,Europa,47,0,0.3940901527745031,S.A.,Média,Parcerias,Centralizada,Básica,Inicial,Média,Neutra,Regular,1,1,0
+154,Smith-Hogan,502690,0.3652011762717328,1.2329450420727959,Saúde,Europa,25,1,0.8509518994068,Limitada,Média,Aquisições,Centralizada,Básica,Intermediária,Fraca,Neutra,Excelente,0,0,0
+155,"Murphy, Gomez and Chapman",2648421,0.4734691500348823,0.13216630343719746,Saúde,Ásia,10,0,0.3458588579752693,MEI,Média,Aquisições,Decentralizada,Ampla,Avançada,Fraca,Inovadora,Ruim,1,0,0
+156,Myers Group,2054109,0.3530094911542992,0.7785896549890288,Saúde,Europa,14,1,0.0352151735255235,MEI,Média,Parcerias,Centralizada,Nenhuma,Inicial,Fraca,Inovadora,Excelente,1,0,0
+157,Johnson-Dalton,4522880,0.28339216271194834,0.2070277800951077,Tecnologia,América Latina,42,1,0.7461796385522723,S.A.,Alta,Aquisições,Decentralizada,Nenhuma,Avançada,Fraca,Inovadora,Boa,0,0,0
+158,Cole-Maxwell,7305547,0.16491046718949853,0.18709029427240517,Tecnologia,Europa,46,0,0.8020382702828686,MEI,Baixa,Parcerias,Centralizada,Básica,Intermediária,Fraca,Conservadora,Regular,0,0,0
+159,"Reyes, Cooley and Mccormick",8423735,-0.1393063516964715,0.7617276474293254,Financeiro,América do Norte,30,1,0.16059369504330856,Multinacional,Alta,Orgânica,Decentralizada,Básica,Inicial,Fraca,Neutra,Boa,1,0,0
+160,"Rogers, Hood and Frost",6557294,0.4707195551027512,0.761469612829469,Manufatura,América Latina,41,0,0.5373404968431812,Limitada,Alta,Aquisições,Decentralizada,Ampla,Inicial,Alta,Conservadora,Excelente,0,0,0
+161,"Thompson, Nguyen and Cox",1484250,0.330874689761977,1.9891038462438497,Manufatura,América Latina,25,0,0.19195543899572576,S.A.,Alta,Aquisições,Decentralizada,Nenhuma,Inicial,Alta,Inovadora,Boa,1,0,0
+162,"Medina, Rodriguez and Shannon",161087,0.24726456973398322,2.4396031666746687,Saúde,América Latina,14,0,0.7192344190441468,Multinacional,Média,Parcerias,Decentralizada,Básica,Inicial,Fraca,Conservadora,Excelente,1,0,1
+163,Mcintosh-Barajas,6509907,0.33132509187719483,0.9908970253359959,Tecnologia,Ásia,35,0,0.27155045517748566,Limitada,Alta,Parcerias,Decentralizada,Ampla,Intermediária,Alta,Neutra,Ruim,1,0,0
+164,"Mitchell, Dillon and Stevenson",1596176,0.30687233049119694,1.1293285092664926,Saúde,Ásia,48,0,0.31621512256333006,Multinacional,Baixa,Parcerias,Centralizada,Nenhuma,Inicial,Fraca,Neutra,Ruim,1,0,0
+165,"Li, Day and Ross",139353,0.24606210585264077,2.1274946470864515,Financeiro,América Latina,34,1,0.8449708536401014,S.A.,Alta,Parcerias,Decentralizada,Nenhuma,Avançada,Alta,Inovadora,Boa,1,0,1
+166,Montgomery-Martinez,6584531,0.4864037601259917,0.7435336482292321,Manufatura,Ásia,10,0,0.47632235220690433,S.A.,Média,Aquisições,Decentralizada,Básica,Inicial,Média,Inovadora,Ruim,0,0,0
+167,"Baker, Hicks and James",3460011,0.4323546688452174,0.4753163305682751,Manufatura,Europa,35,1,0.6697544512182478,Multinacional,Baixa,Orgânica,Decentralizada,Ampla,Intermediária,Alta,Conservadora,Excelente,0,0,0
+168,Norris-Hill,7754909,0.25266544338201435,2.147415096168761,Saúde,Ásia,11,1,0.40237305072246765,Limitada,Baixa,Orgânica,Decentralizada,Básica,Inicial,Alta,Inovadora,Ruim,1,0,0
+169,"Baker, Woodward and Frazier",4359622,0.28522264801984726,0.2116014074561572,Financeiro,Ásia,11,0,0.2980068571937554,MEI,Baixa,Orgânica,Centralizada,Ampla,Intermediária,Alta,Conservadora,Regular,1,0,0
+170,"Zamora, Flores and Buck",5059617,-0.16388293533890302,1.5872786564785977,Manufatura,América Latina,21,1,0.6254780604246614,MEI,Baixa,Orgânica,Decentralizada,Nenhuma,Intermediária,Média,Neutra,Regular,0,0,0
+171,Wilson LLC,5825570,0.2689422251850274,1.4487828339203361,Financeiro,América do Norte,21,0,0.15485757407882128,Multinacional,Alta,Parcerias,Centralizada,Ampla,Avançada,Fraca,Neutra,Boa,1,0,0
+172,Woods-Montgomery,516880,-0.1690841936029299,0.9302090740040662,Financeiro,América do Norte,22,1,0.372999835566863,S.A.,Média,Aquisições,Decentralizada,Ampla,Inicial,Alta,Neutra,Boa,1,0,0
+173,Hunter-Patterson,7172695,0.2117846298789517,0.8564548506336616,Saúde,América do Norte,45,1,0.20903703738592228,Limitada,Baixa,Aquisições,Decentralizada,Ampla,Inicial,Alta,Neutra,Boa,1,0,0
+174,Ross-Thompson,7533296,0.49954744969608433,1.9524585428358912,Tecnologia,Europa,7,1,0.6957949669407455,Limitada,Baixa,Aquisições,Centralizada,Ampla,Inicial,Média,Neutra,Boa,1,0,0
+175,Diaz PLC,5065050,0.18906460700602573,0.3074190658301116,Saúde,Ásia,17,0,0.9442088383461076,S.A.,Média,Parcerias,Centralizada,Ampla,Avançada,Fraca,Conservadora,Excelente,0,0,0
+176,Fowler Inc,913168,0.13124708265693336,0.6682823423473249,Tecnologia,América do Norte,2,1,0.9955109680158664,MEI,Alta,Aquisições,Centralizada,Básica,Avançada,Alta,Neutra,Excelente,0,0,1
+177,"Taylor, Browning and White",325281,0.018998399553911246,1.8578769564114155,Financeiro,América Latina,12,0,0.45027681044159074,Limitada,Baixa,Parcerias,Decentralizada,Ampla,Intermediária,Média,Conservadora,Regular,1,1,1
+178,"Maldonado, Harris and Pearson",3882875,-0.1156341948494749,1.415969400943418,Tecnologia,América do Norte,42,1,0.2525303896364445,Multinacional,Alta,Aquisições,Centralizada,Ampla,Intermediária,Fraca,Neutra,Excelente,1,0,0
+179,Hancock Ltd,3095765,0.3117165700207971,0.4071717004806073,Financeiro,América do Norte,18,1,0.44282937038432413,MEI,Alta,Orgânica,Decentralizada,Nenhuma,Intermediária,Fraca,Conservadora,Ruim,0,0,0
+180,Wilson and Sons,7834102,-0.06518068055005873,2.217125474276944,Manufatura,Ásia,11,1,0.8472694099627238,Multinacional,Alta,Parcerias,Centralizada,Ampla,Avançada,Alta,Conservadora,Regular,1,0,0
+181,Mercer-Hoffman,5695108,-0.11930258512690095,1.0442748317526196,Manufatura,Ásia,16,1,0.20600567855203988,MEI,Alta,Aquisições,Centralizada,Nenhuma,Avançada,Alta,Conservadora,Boa,1,0,0
+182,Stephens-Lopez,5774719,0.09523386181135873,2.0868841007732146,Manufatura,Ásia,49,0,0.9520956516529238,S.A.,Baixa,Orgânica,Decentralizada,Básica,Avançada,Alta,Inovadora,Boa,1,1,0
+183,"Roth, Smith and Mills",8758144,0.35673928657136816,1.9905112372665008,Saúde,Europa,18,0,0.341865768798151,Multinacional,Baixa,Orgânica,Centralizada,Básica,Intermediária,Alta,Conservadora,Excelente,1,0,0
+184,Davis-Bennett,6709280,0.32154518368415425,1.5986210715321472,Saúde,Europa,35,1,0.9858036594503049,Multinacional,Alta,Orgânica,Centralizada,Ampla,Avançada,Média,Conservadora,Regular,0,0,0
+185,"Palmer, Wood and Jackson",5600306,-0.16158216974746756,1.286754715108223,Financeiro,América do Norte,26,1,0.8386088875339622,S.A.,Alta,Parcerias,Decentralizada,Básica,Intermediária,Média,Neutra,Excelente,0,0,0
+186,Mcneil Group,4472093,0.11860057952530924,2.4509220169162163,Manufatura,Ásia,16,0,0.8085705341473903,Multinacional,Média,Parcerias,Decentralizada,Ampla,Intermediária,Alta,Conservadora,Excelente,1,0,0
+187,White Group,1661729,0.16570420324981822,0.4479161737115609,Saúde,América do Norte,6,0,0.3179046737732836,MEI,Média,Aquisições,Decentralizada,Básica,Inicial,Fraca,Conservadora,Excelente,1,0,0
+188,Berry LLC,5131595,0.2511826554380755,1.8403737461226755,Manufatura,América Latina,44,0,0.008777211947929464,Limitada,Média,Orgânica,Centralizada,Ampla,Inicial,Alta,Inovadora,Regular,1,0,0
+189,Stone Inc,5578047,0.25511714531025964,0.5588576835154936,Saúde,América Latina,43,0,0.3821329088259878,Limitada,Baixa,Aquisições,Centralizada,Ampla,Inicial,Fraca,Neutra,Boa,1,0,0
+190,Bailey-Rivas,9170277,0.05528807462011408,0.9118314527976361,Tecnologia,Ásia,47,1,0.30180936966269367,S.A.,Média,Aquisições,Centralizada,Nenhuma,Intermediária,Fraca,Inovadora,Ruim,1,0,0
+191,"Clark, King and Huerta",1219043,0.19247403580245978,0.8408769840956686,Tecnologia,Ásia,47,1,0.03739699040879729,MEI,Baixa,Orgânica,Centralizada,Nenhuma,Inicial,Fraca,Inovadora,Boa,1,0,0
+192,Reed Ltd,7203230,0.13674331869086048,2.3728863705729353,Manufatura,América Latina,48,0,0.5053652565059297,Multinacional,Baixa,Aquisições,Centralizada,Nenhuma,Inicial,Média,Inovadora,Regular,1,0,0
+193,Davis and Sons,2658231,0.4194988495662967,2.4216548266918605,Financeiro,Ásia,42,0,0.4030313112827366,Multinacional,Baixa,Parcerias,Decentralizada,Nenhuma,Inicial,Fraca,Conservadora,Boa,1,0,0
+194,"Harris, Ho and Drake",6759908,0.17118559284443008,0.5392370661633452,Saúde,Europa,12,0,0.6345564677415247,Limitada,Baixa,Aquisições,Centralizada,Ampla,Avançada,Fraca,Inovadora,Boa,0,0,0
+195,Castillo-Burton,3180389,0.10872251322371311,0.15288438471401006,Saúde,Europa,13,0,0.6211863221940832,Multinacional,Média,Orgânica,Decentralizada,Básica,Intermediária,Média,Inovadora,Ruim,0,0,0
+196,"Jenkins, Sanchez and Duncan",1761909,0.08313981477729548,1.8280192951914713,Tecnologia,Ásia,4,0,0.12074663589668011,Limitada,Alta,Parcerias,Centralizada,Ampla,Inicial,Fraca,Neutra,Boa,1,1,1
+197,"Hammond, Patel and Montgomery",2756138,0.20069943160342593,1.1031758412891624,Tecnologia,América Latina,39,0,0.9769655461266226,S.A.,Alta,Parcerias,Decentralizada,Nenhuma,Avançada,Fraca,Neutra,Boa,0,0,0
+198,"Jones, Lopez and Mitchell",210078,0.3627838855806283,0.3132165882101545,Financeiro,América do Norte,2,1,0.18693142944144692,Multinacional,Alta,Aquisições,Centralizada,Nenhuma,Avançada,Alta,Neutra,Boa,1,0,1
+199,Mccoy Ltd,2015631,0.17688104326655124,1.741009853384902,Financeiro,Ásia,26,1,0.44527402476470457,MEI,Média,Aquisições,Centralizada,Básica,Avançada,Fraca,Neutra,Excelente,0,0,0
+200,"Skinner, White and Kelly",6414127,0.263158622556379,1.4082532678256792,Financeiro,Ásia,27,1,0.4881175434337349,Multinacional,Alta,Parcerias,Decentralizada,Nenhuma,Inicial,Fraca,Inovadora,Regular,0,0,0
+201,Pierce Group,9892712,0.3164990368345674,2.453240372802654,Manufatura,América do Norte,27,0,0.8130627972141201,Limitada,Média,Aquisições,Centralizada,Ampla,Avançada,Fraca,Neutra,Regular,1,0,0
+202,"Johnson, Campbell and Stevens",2108187,0.16411767691511225,0.6457827900673094,Tecnologia,Ásia,15,0,0.09922959609464677,S.A.,Média,Orgânica,Decentralizada,Ampla,Intermediária,Fraca,Conservadora,Ruim,1,0,0
+203,"Brown, Lucas and Dominguez",1759066,0.09877193965840501,1.0695469031837157,Manufatura,América do Norte,8,0,0.42864427920853176,Limitada,Média,Aquisições,Centralizada,Ampla,Avançada,Fraca,Inovadora,Excelente,0,1,0
+204,Tate PLC,2248815,0.41366576450371456,1.402109928149015,Tecnologia,América Latina,7,1,0.6285021702362039,Multinacional,Alta,Aquisições,Centralizada,Ampla,Avançada,Média,Neutra,Excelente,0,0,0
+205,Jordan-Morales,7455740,0.09225425881952447,2.000079972288044,Tecnologia,Europa,47,0,0.21515562162405555,Limitada,Alta,Parcerias,Decentralizada,Ampla,Avançada,Fraca,Inovadora,Boa,1,1,0
+206,Barron PLC,4606259,0.12335999540291129,1.4172127761281408,Saúde,América Latina,46,0,0.6274678987660728,Limitada,Alta,Aquisições,Centralizada,Básica,Avançada,Fraca,Neutra,Regular,0,0,0
+207,Smith PLC,7573915,0.4932389193392439,1.570960386068678,Tecnologia,Europa,40,1,0.9236648375496527,S.A.,Baixa,Aquisições,Decentralizada,Ampla,Intermediária,Média,Inovadora,Ruim,0,0,0
+208,"Lindsey, Guerrero and Howell",7758426,-0.1998337334968808,0.6427529238158578,Tecnologia,América do Norte,12,0,0.997518131172675,MEI,Média,Aquisições,Centralizada,Nenhuma,Inicial,Média,Neutra,Excelente,0,1,0
+209,Chandler LLC,6504003,-0.0701689632962943,2.1326049474125437,Manufatura,Europa,13,1,0.032451076790675715,Multinacional,Baixa,Orgânica,Centralizada,Nenhuma,Intermediária,Fraca,Conservadora,Boa,1,0,0
+210,"Cordova, Torres and Oneill",4235314,0.06877472294380799,1.1287133127291418,Tecnologia,América Latina,43,1,0.2355882282446775,S.A.,Média,Aquisições,Centralizada,Nenhuma,Intermediária,Fraca,Neutra,Ruim,1,0,0
+211,Hale and Sons,1010681,0.45281293659767696,0.43830310605224626,Manufatura,Europa,17,0,0.31030711579169745,MEI,Alta,Orgânica,Centralizada,Nenhuma,Inicial,Fraca,Inovadora,Excelente,1,0,0
+212,Wilson-Gates,1707618,-0.1509792059767703,1.6940509948130016,Financeiro,América do Norte,17,1,0.3991261004449661,Limitada,Média,Orgânica,Centralizada,Básica,Avançada,Alta,Inovadora,Ruim,1,0,0
+213,Thompson-Hayes,3996830,-0.19336019646005137,0.618617087644738,Tecnologia,Europa,36,0,0.2422571575847674,MEI,Média,Orgânica,Centralizada,Nenhuma,Inicial,Alta,Conservadora,Excelente,1,1,0
+214,"Simmons, Allen and Mills",4436787,-0.16312131481594,0.33415002457431936,Tecnologia,Ásia,21,1,0.20348799455531252,Limitada,Baixa,Orgânica,Centralizada,Básica,Inicial,Fraca,Inovadora,Ruim,1,0,0
+215,Wilson LLC,2855423,-0.13801961257046733,2.168768580170253,Manufatura,América Latina,8,0,0.9545538424175,Limitada,Média,Parcerias,Decentralizada,Nenhuma,Intermediária,Média,Conservadora,Excelente,1,1,0
+216,"Hamilton, Moses and Solomon",171295,-0.1736822587556174,1.2043894347722552,Financeiro,Ásia,5,1,0.9185216027705179,S.A.,Alta,Orgânica,Centralizada,Básica,Inicial,Fraca,Inovadora,Excelente,0,0,1
+217,Robinson Inc,9232582,0.1358469287995533,1.8982809104698635,Saúde,América do Norte,26,0,0.04699250100311747,Limitada,Média,Aquisições,Centralizada,Básica,Avançada,Média,Inovadora,Ruim,1,0,0
+218,Serrano Group,7713287,0.20653004505912936,0.7974101435352522,Financeiro,Europa,16,1,0.33881302160484816,S.A.,Média,Orgânica,Centralizada,Básica,Intermediária,Média,Conservadora,Excelente,1,0,0
+219,Moore-Collins,3545376,-0.009819120251697167,1.9887283238023992,Manufatura,Ásia,36,1,0.40514855367840663,MEI,Média,Aquisições,Decentralizada,Nenhuma,Avançada,Média,Inovadora,Excelente,1,0,0
+220,Romero-Wells,5351035,0.07880116878294487,0.36864622485167275,Financeiro,Ásia,28,1,0.23901453466594336,MEI,Baixa,Orgânica,Decentralizada,Básica,Intermediária,Fraca,Inovadora,Excelente,1,0,0
+221,Mcdowell Ltd,3712600,-0.13581046542199893,0.9543360971076466,Manufatura,Europa,29,0,0.6288728969881755,Limitada,Média,Parcerias,Centralizada,Ampla,Avançada,Fraca,Conservadora,Ruim,0,1,0
+222,Taylor LLC,925816,0.03545932467989542,2.4473483631364683,Manufatura,Europa,47,0,0.640380746644241,S.A.,Média,Orgânica,Centralizada,Ampla,Inicial,Média,Neutra,Ruim,1,1,0
+223,Price Ltd,8863313,0.16576343414416614,2.0055753192832144,Saúde,América Latina,12,1,0.8505042283285971,Limitada,Baixa,Orgânica,Centralizada,Nenhuma,Inicial,Alta,Conservadora,Excelente,1,0,0
+224,"Johnson, Johnson and Simmons",2126793,0.3125902650292515,1.2934142327552516,Tecnologia,Ásia,37,0,0.7408692683852178,S.A.,Baixa,Parcerias,Decentralizada,Ampla,Inicial,Alta,Inovadora,Excelente,0,0,0
+225,Fitzgerald LLC,654594,-0.19765754656991455,0.9154659317485242,Manufatura,Ásia,30,1,0.5425733269659556,S.A.,Baixa,Orgânica,Centralizada,Ampla,Avançada,Alta,Neutra,Ruim,0,0,0
+226,Hicks and Sons,8636326,0.12711753657635677,2.1931256800539436,Manufatura,América do Norte,23,0,0.6535867700444199,S.A.,Baixa,Aquisições,Decentralizada,Ampla,Intermediária,Média,Neutra,Boa,1,0,0
+227,Green PLC,3604473,0.007902013518417525,1.4076346218028375,Saúde,América Latina,16,1,0.2739887815430181,MEI,Alta,Orgânica,Centralizada,Nenhuma,Intermediária,Fraca,Neutra,Excelente,1,0,0
+228,Cook-Washington,7399695,0.3969752751843309,1.9202200428858667,Manufatura,América do Norte,14,0,0.5930561899673576,S.A.,Alta,Orgânica,Decentralizada,Nenhuma,Intermediária,Média,Conservadora,Boa,1,0,0
+229,Hoffman Ltd,2304664,0.3008873206639693,1.9098584327587937,Tecnologia,Ásia,10,1,0.48922725474991924,MEI,Média,Orgânica,Decentralizada,Ampla,Inicial,Alta,Neutra,Ruim,1,0,0
+230,Hill Ltd,4441747,0.21237597412962636,0.1430696285643804,Saúde,América do Norte,7,1,0.1333444673163704,S.A.,Alta,Parcerias,Centralizada,Nenhuma,Avançada,Fraca,Neutra,Excelente,1,0,0
+231,Martinez-Allen,786976,-0.005914048012258512,0.40300907870227226,Tecnologia,Ásia,45,1,0.24254427658297073,MEI,Média,Orgânica,Centralizada,Básica,Intermediária,Média,Neutra,Boa,1,0,0
+232,Williams Inc,2572189,0.43723737144027397,1.6831104793473812,Tecnologia,Ásia,37,1,0.29169345072158603,Multinacional,Alta,Orgânica,Centralizada,Ampla,Avançada,Média,Inovadora,Ruim,1,0,0
+233,"Johnson, Wheeler and Arroyo",8606404,-0.1684295259457738,0.48788754708609144,Saúde,América do Norte,29,0,0.924309567052558,MEI,Baixa,Aquisições,Centralizada,Nenhuma,Intermediária,Alta,Conservadora,Boa,0,1,0
+234,Castillo-Gonzales,1341082,-0.12337268092461941,0.7131840271734512,Manufatura,América do Norte,3,1,0.23038663938588944,MEI,Baixa,Orgânica,Centralizada,Nenhuma,Inicial,Média,Conservadora,Regular,1,0,1
+235,"Johnson, White and Holt",5284502,0.07414109837824921,2.371931090079057,Tecnologia,Europa,15,0,0.28924390281966816,Limitada,Alta,Orgânica,Centralizada,Ampla,Avançada,Fraca,Inovadora,Ruim,1,1,0
+236,Erickson Group,6661000,-0.11289370989220057,1.4444374200997885,Tecnologia,Europa,36,0,0.3693541300894323,S.A.,Alta,Orgânica,Centralizada,Nenhuma,Intermediária,Alta,Neutra,Regular,1,1,0
+237,Davidson and Sons,6771458,0.46949098829159747,1.9017508167984332,Tecnologia,Europa,47,1,0.663742738625387,Multinacional,Média,Orgânica,Decentralizada,Ampla,Intermediária,Alta,Inovadora,Ruim,1,0,0
+238,Munoz-Brown,4992306,0.3585925255003683,1.4391537730783357,Tecnologia,Ásia,46,0,0.11823839247214052,Limitada,Média,Aquisições,Centralizada,Nenhuma,Intermediária,Fraca,Inovadora,Ruim,1,0,0
+239,"Miller, Wilson and Blackwell",3774515,-0.01871214387873046,1.4260326754785404,Saúde,América do Norte,19,0,0.9539452124937761,S.A.,Média,Aquisições,Centralizada,Básica,Intermediária,Alta,Neutra,Excelente,0,1,0
+240,Knox-Knapp,1679159,0.21198796028127173,0.32596458430167496,Saúde,América Latina,13,0,0.8655712200947645,Multinacional,Baixa,Parcerias,Decentralizada,Ampla,Inicial,Média,Neutra,Regular,0,0,0
+241,"Lopez, Hall and White",9395925,0.4876313605560571,0.9247916622618473,Financeiro,Ásia,42,1,0.5772160730089502,Multinacional,Baixa,Orgânica,Centralizada,Básica,Intermediária,Média,Conservadora,Regular,0,0,0
+242,"Lucas, Butler and Macdonald",4615488,0.418939284692052,0.7778341568476281,Financeiro,América Latina,21,0,0.6740378674249567,Multinacional,Baixa,Parcerias,Centralizada,Ampla,Intermediária,Alta,Neutra,Regular,0,0,0
+243,"Walker, Rodriguez and Jones",6141495,0.2205589125095386,1.0377480774726717,Tecnologia,América do Norte,37,0,0.01666047124421599,S.A.,Baixa,Parcerias,Centralizada,Nenhuma,Inicial,Fraca,Inovadora,Ruim,1,0,0
+244,Salazar Ltd,9156842,0.4326067770226893,2.016026051738388,Manufatura,Ásia,27,1,0.3389447753484487,Multinacional,Média,Orgânica,Centralizada,Básica,Intermediária,Média,Inovadora,Regular,1,0,0
+245,"Cardenas, Cortez and Johnson",8867088,0.4924294368693512,0.9926384030004757,Tecnologia,América Latina,29,1,0.795660230661442,Multinacional,Baixa,Aquisições,Decentralizada,Nenhuma,Avançada,Fraca,Neutra,Regular,0,0,0
+246,Hanson-Robbins,6424167,0.32034697602553686,1.1840723661560384,Manufatura,América Latina,20,0,0.07748297379238589,Limitada,Baixa,Aquisições,Decentralizada,Ampla,Avançada,Média,Conservadora,Excelente,1,0,0
+247,Caldwell-Ryan,891971,-0.1545095133619742,1.0537153371647596,Tecnologia,Europa,25,1,0.2823138342107202,MEI,Baixa,Orgânica,Centralizada,Ampla,Intermediária,Média,Inovadora,Boa,1,0,0
+248,"George, Ellis and Wilson",601157,0.08110616549784119,0.3241791327407094,Financeiro,Europa,6,0,0.5852968283343113,S.A.,Baixa,Orgânica,Centralizada,Ampla,Inicial,Alta,Neutra,Boa,0,1,0
+249,"Wilkerson, Miller and Cruz",4478727,0.38647801469827175,1.1585731798018808,Financeiro,Europa,36,0,0.2564130276989418,MEI,Alta,Aquisições,Decentralizada,Ampla,Inicial,Alta,Conservadora,Regular,1,0,0
+250,"Clark, Day and Scott",4224499,-0.03860156293648672,0.569462255306836,Manufatura,Ásia,2,0,0.9339779741445192,Limitada,Média,Orgânica,Centralizada,Ampla,Inicial,Fraca,Conservadora,Regular,0,1,1
+251,Bennett Inc,6046594,0.38144976242543716,0.5481359098552996,Tecnologia,América do Norte,22,1,0.13105863080429037,MEI,Média,Orgânica,Decentralizada,Básica,Intermediária,Alta,Inovadora,Regular,1,0,0
+252,Schmitt-Perez,5206799,-0.11576286657550286,0.32568665064223923,Manufatura,América do Norte,32,0,0.7973943579077786,Multinacional,Baixa,Orgânica,Decentralizada,Ampla,Intermediária,Média,Inovadora,Regular,0,1,0
+253,"Molina, Patterson and Parker",4427576,-0.1671382499965309,0.9560103379402354,Financeiro,Europa,16,1,0.5079486919064082,Multinacional,Alta,Aquisições,Decentralizada,Nenhuma,Avançada,Média,Conservadora,Boa,0,0,0
+254,Jacobs Ltd,5062140,0.06886342804387467,1.9179565234946017,Tecnologia,Europa,18,1,0.750330775819956,S.A.,Média,Parcerias,Centralizada,Básica,Inicial,Fraca,Conservadora,Excelente,1,0,0
+255,"Fox, Hayes and Dunlap",2899487,-0.17428764380137046,0.7634600574001505,Tecnologia,Europa,5,0,0.31071532831144744,S.A.,Média,Parcerias,Centralizada,Nenhuma,Intermediária,Fraca,Conservadora,Ruim,1,1,0
+256,Wilkins-Perez,3004941,0.4700891840883279,0.8496378445252325,Manufatura,América Latina,36,1,0.5144896023120388,S.A.,Baixa,Orgânica,Centralizada,Ampla,Intermediária,Média,Neutra,Regular,0,0,0
+257,Gonzalez-Barnett,8083441,0.37834398705577604,1.6424191784138167,Saúde,Europa,30,1,0.8568353497231763,Limitada,Baixa,Aquisições,Decentralizada,Nenhuma,Intermediária,Alta,Inovadora,Regular,0,0,0
+258,Smith Group,5420385,0.3605387809909125,0.5700179502086052,Manufatura,América Latina,45,1,0.4668780991231044,S.A.,Média,Orgânica,Centralizada,Básica,Inicial,Alta,Conservadora,Boa,0,0,0
+259,Hall and Sons,2200021,0.24084454609730713,2.252699033016482,Financeiro,América do Norte,19,1,0.3597198619102696,Limitada,Média,Aquisições,Centralizada,Básica,Inicial,Fraca,Inovadora,Regular,1,0,0
+260,Wade LLC,9849436,-0.04857318387441256,1.3484572558037307,Financeiro,Ásia,23,1,0.5361553862527361,Multinacional,Alta,Orgânica,Decentralizada,Básica,Avançada,Fraca,Inovadora,Excelente,0,0,0
+261,Lucas-Espinoza,7028040,0.1627822566734745,1.1742470567685206,Financeiro,Ásia,34,0,0.7173627530363669,MEI,Média,Aquisições,Centralizada,Nenhuma,Inicial,Média,Inovadora,Excelente,0,0,0
+262,Landry Group,718467,0.21809185070123868,1.4387684606300832,Financeiro,Ásia,13,1,0.44356334549850274,Multinacional,Média,Aquisições,Centralizada,Básica,Intermediária,Média,Conservadora,Regular,0,0,0
+263,"Robinson, Gordon and Hensley",5433152,0.1675220506021877,0.4984823521988691,Financeiro,Ásia,43,0,0.938876975142273,Multinacional,Baixa,Parcerias,Centralizada,Nenhuma,Avançada,Fraca,Neutra,Boa,0,0,0
+264,Jones LLC,7428141,-0.017836642433930915,1.5723355327340232,Saúde,América Latina,29,0,0.29494582404234204,Multinacional,Média,Orgânica,Decentralizada,Ampla,Inicial,Média,Conservadora,Regular,1,1,0
+265,Diaz Inc,5172148,0.1606735470203081,0.9714417679216251,Tecnologia,América Latina,36,0,0.4754636061691204,S.A.,Baixa,Parcerias,Centralizada,Ampla,Inicial,Fraca,Inovadora,Regular,0,0,0
+266,Morris-Kelly,1807923,0.14383043860803857,2.253247218315085,Manufatura,Europa,22,0,0.7569276593414415,S.A.,Média,Parcerias,Decentralizada,Nenhuma,Inicial,Fraca,Conservadora,Boa,1,0,0
+267,Ward PLC,5234207,0.4974350430647069,0.5052500960264468,Manufatura,América Latina,47,0,0.6891210904957582,S.A.,Média,Aquisições,Decentralizada,Básica,Inicial,Alta,Conservadora,Excelente,0,0,0
+268,Erickson-Long,8616999,0.42820530363234266,1.3169226492770585,Financeiro,Europa,36,0,0.8636410524171562,MEI,Média,Orgânica,Decentralizada,Nenhuma,Intermediária,Fraca,Inovadora,Ruim,0,0,0
+269,Allen PLC,6830886,0.12436652375093392,1.535470310485643,Manufatura,Europa,9,1,0.9968091806811089,S.A.,Alta,Aquisições,Centralizada,Nenhuma,Inicial,Média,Inovadora,Regular,0,0,0
+270,Nelson Group,9505634,0.23605616805458304,0.18012064428731495,Financeiro,Ásia,39,1,0.42685832879508956,Limitada,Baixa,Aquisições,Centralizada,Nenhuma,Intermediária,Alta,Conservadora,Excelente,0,0,0
+271,"Hendrix, Lang and Walker",5953584,0.32351012286455993,0.9728634994147366,Saúde,América Latina,19,1,0.11115087978331184,Multinacional,Alta,Aquisições,Centralizada,Ampla,Intermediária,Alta,Conservadora,Regular,1,0,0
+272,Watson Ltd,8270528,-0.17559438783632259,1.8583245632819987,Saúde,América Latina,38,0,0.030415880807967977,MEI,Média,Orgânica,Decentralizada,Nenhuma,Intermediária,Média,Conservadora,Ruim,1,1,0
+273,Parsons-Werner,4401754,0.4264450088594879,2.068906017877536,Tecnologia,Europa,6,1,0.7268769061397716,MEI,Alta,Orgânica,Decentralizada,Ampla,Avançada,Média,Conservadora,Boa,1,0,0
+274,"Howard, Mills and Armstrong",2369042,0.40208877149254657,0.8515887875614776,Saúde,Europa,47,1,0.8740136713087157,MEI,Baixa,Aquisições,Centralizada,Nenhuma,Intermediária,Média,Neutra,Excelente,0,0,0
+275,Montoya-James,2083509,0.12020246844159509,2.016623853718603,Saúde,América do Norte,15,1,0.22071258594441867,MEI,Média,Orgânica,Decentralizada,Ampla,Inicial,Fraca,Conservadora,Ruim,1,0,0
+276,Lozano Inc,7840141,0.07381883625626583,2.422614105048133,Tecnologia,América do Norte,20,0,0.15844803718990597,MEI,Alta,Aquisições,Centralizada,Nenhuma,Avançada,Alta,Neutra,Regular,1,1,0
+277,Davis-Mcdonald,216381,-0.008928437600579564,2.1564974465802256,Manufatura,Europa,9,1,0.06220509152569098,Limitada,Alta,Orgânica,Centralizada,Nenhuma,Inicial,Fraca,Inovadora,Ruim,1,0,1
+278,Rodriguez Inc,1621701,0.13367377983125783,0.3823455715823805,Financeiro,América do Norte,32,0,0.8227029217172064,Multinacional,Baixa,Orgânica,Centralizada,Básica,Intermediária,Fraca,Neutra,Excelente,0,0,0
+279,"Harvey, Perez and Lynn",6205525,-0.16893633552673426,1.8753527970052974,Financeiro,América do Norte,4,1,0.31138193989258434,MEI,Alta,Parcerias,Centralizada,Básica,Inicial,Fraca,Inovadora,Boa,1,0,1
+280,Meyer Inc,9687994,0.3965354733429054,0.8672003978573073,Manufatura,Europa,18,0,0.4016968927597765,Multinacional,Baixa,Aquisições,Centralizada,Nenhuma,Avançada,Fraca,Neutra,Regular,0,0,0
+281,"Fisher, Wiggins and Townsend",3538618,-0.17520434210701846,2.4721983745889835,Tecnologia,Europa,5,0,0.5027501916096123,S.A.,Média,Parcerias,Centralizada,Nenhuma,Avançada,Alta,Inovadora,Boa,1,1,0
+282,Hampton-Oliver,8013697,0.03033595575890968,1.2648615595837291,Manufatura,América Latina,20,0,0.8394532342095508,MEI,Média,Parcerias,Centralizada,Nenhuma,Inicial,Alta,Conservadora,Boa,0,1,0
+283,"Perez, Lewis and King",2557184,0.45211264182329286,0.3938413560614585,Saúde,Europa,23,1,0.6508332215614849,MEI,Alta,Aquisições,Decentralizada,Nenhuma,Inicial,Fraca,Neutra,Ruim,0,0,0
+284,"Daniel, Smith and Williams",4203022,0.31464885816641686,1.8404453152657378,Tecnologia,Europa,11,1,0.6150646298578113,Multinacional,Média,Aquisições,Centralizada,Básica,Inicial,Média,Neutra,Ruim,1,0,0
+285,Brown Ltd,1518175,-0.0030263275957312834,0.8752268761269132,Tecnologia,Ásia,37,0,0.1756720999559107,MEI,Média,Orgânica,Decentralizada,Ampla,Avançada,Alta,Inovadora,Excelente,1,1,0
+286,Park-Morrow,3906688,-0.023145634227380463,2.492987576995988,Tecnologia,América Latina,22,1,0.5131898917098298,MEI,Alta,Aquisições,Decentralizada,Nenhuma,Intermediária,Fraca,Inovadora,Excelente,1,0,0
+287,Galvan-Reyes,7365795,-0.19644250212738185,2.4514778988508525,Financeiro,América Latina,4,0,0.7153810171786552,MEI,Média,Parcerias,Centralizada,Básica,Inicial,Média,Neutra,Boa,1,1,1
+288,Castillo-Bell,3872962,0.2870000049948251,1.6747216432493937,Manufatura,América Latina,29,0,0.9732608830304917,Limitada,Alta,Parcerias,Decentralizada,Nenhuma,Intermediária,Média,Inovadora,Excelente,0,0,0
+289,"Peterson, Forbes and Fletcher",4141776,-0.16585149282877884,0.41158347748412216,Tecnologia,Ásia,44,1,0.20140630921335223,Limitada,Baixa,Aquisições,Decentralizada,Nenhuma,Avançada,Fraca,Conservadora,Boa,1,0,0
+290,"Clark, Knight and Sanders",2827423,0.17282176358053342,1.7484663944200698,Tecnologia,Europa,34,1,0.009543353067226645,MEI,Baixa,Parcerias,Decentralizada,Ampla,Inicial,Alta,Neutra,Regular,1,0,0
+291,Navarro-Reed,5809840,0.4734853808144348,0.3232731675040653,Tecnologia,América Latina,13,1,0.07530143359846975,Limitada,Baixa,Orgânica,Centralizada,Nenhuma,Inicial,Média,Conservadora,Boa,1,0,0
+292,"Barrett, Briggs and Gomez",5230397,-0.1233717979618823,0.17047398184574156,Manufatura,América Latina,42,0,0.37585246518197923,S.A.,Alta,Parcerias,Centralizada,Nenhuma,Avançada,Alta,Neutra,Excelente,1,1,0
+293,Thomas-Walker,3551356,0.4261359516776472,2.0751002709315665,Financeiro,América do Norte,9,0,0.8205446477459871,MEI,Alta,Orgânica,Centralizada,Ampla,Inicial,Alta,Conservadora,Excelente,1,0,0
+294,"Buchanan, Mckenzie and Brown",9620173,0.49403273460153363,0.6034070744408352,Saúde,América Latina,42,1,0.0071420817682450455,S.A.,Média,Parcerias,Centralizada,Ampla,Intermediária,Média,Neutra,Boa,1,0,0
+295,Morris-Chapman,3544084,-0.15693808163253548,1.0096651029258337,Financeiro,Europa,31,0,0.4567305928858403,Multinacional,Média,Orgânica,Centralizada,Ampla,Avançada,Fraca,Inovadora,Ruim,0,1,0
+296,"Hernandez, Smith and Franklin",3027109,0.41803438839622287,2.4362977359428153,Tecnologia,Europa,7,1,0.32923061534139453,S.A.,Média,Orgânica,Decentralizada,Ampla,Avançada,Média,Neutra,Boa,1,0,0
+297,Foster and Sons,7079451,0.1612553143105316,0.9084172044666478,Financeiro,América do Norte,4,0,0.052481710099727574,Multinacional,Média,Aquisições,Decentralizada,Básica,Inicial,Média,Conservadora,Boa,1,0,1
+298,Ramirez-Blanchard,8619981,0.434559603611206,0.8115754750799566,Financeiro,América Latina,19,1,0.4502362866726173,MEI,Média,Orgânica,Centralizada,Básica,Avançada,Alta,Neutra,Ruim,0,0,0
+299,Pope LLC,7878484,0.19992325934370184,2.3036991990946603,Saúde,América Latina,42,1,0.25474870733671884,Multinacional,Alta,Aquisições,Decentralizada,Básica,Inicial,Fraca,Conservadora,Regular,1,0,0
+300,Sanchez-Jones,8603902,0.2634784070745952,0.3657962687654995,Manufatura,América Latina,30,0,0.35188483434700646,Multinacional,Alta,Parcerias,Decentralizada,Nenhuma,Inicial,Alta,Conservadora,Ruim,1,0,0
+301,Torres Group,6314624,0.18064523559817944,1.9229977842751163,Manufatura,Ásia,31,1,0.705615304784293,S.A.,Baixa,Parcerias,Decentralizada,Ampla,Avançada,Média,Conservadora,Excelente,1,0,0
+302,"Perry, Dixon and Smith",4942611,0.4051450162151439,2.4713573599666576,Financeiro,América Latina,35,1,0.5215509839109671,S.A.,Baixa,Parcerias,Decentralizada,Ampla,Inicial,Fraca,Inovadora,Ruim,1,0,0
+303,"Bell, Kim and Mckenzie",6457182,0.31373694326759116,2.263110425859157,Financeiro,Europa,21,0,0.12464742899281334,S.A.,Baixa,Orgânica,Centralizada,Básica,Intermediária,Fraca,Neutra,Excelente,1,0,0
+304,"Blanchard, Rodriguez and Davis",4435868,0.1648822185262904,1.6640030048954222,Manufatura,Europa,31,1,0.961414540423639,MEI,Baixa,Parcerias,Centralizada,Nenhuma,Intermediária,Fraca,Conservadora,Excelente,0,0,0
+305,Bryan-Murphy,9914996,0.4077125628360828,0.8537459079825568,Manufatura,Ásia,19,0,0.6359107657097384,MEI,Alta,Parcerias,Centralizada,Nenhuma,Inicial,Fraca,Inovadora,Boa,0,0,0
+306,"Jones, Thompson and Johnson",2315167,-0.02830012742126583,0.7103727548279601,Saúde,Ásia,31,1,0.7658684256625315,S.A.,Alta,Aquisições,Decentralizada,Nenhuma,Intermediária,Fraca,Conservadora,Boa,0,0,0
+307,Clark-Reyes,3986402,-0.08986153820823184,2.0662122516915065,Tecnologia,América Latina,32,0,0.07921315000837081,MEI,Alta,Aquisições,Decentralizada,Básica,Inicial,Média,Neutra,Regular,1,1,0
+308,"Baker, Higgins and Lee",6645535,-0.08771992626894955,2.2115725934840684,Financeiro,América do Norte,2,1,0.047058379460018895,MEI,Média,Parcerias,Centralizada,Nenhuma,Intermediária,Média,Inovadora,Excelente,1,0,1
+309,"Petersen, Lewis and Davis",6942385,0.03380621512166649,1.3610437901096628,Manufatura,Ásia,10,1,0.01944805036808117,Multinacional,Média,Parcerias,Centralizada,Nenhuma,Avançada,Média,Conservadora,Boa,1,0,0
+310,Friedman Group,9178552,-0.032916978089287764,0.6864158578875187,Financeiro,Ásia,2,1,0.18879402777344445,Multinacional,Baixa,Orgânica,Decentralizada,Nenhuma,Inicial,Alta,Conservadora,Excelente,1,0,1
+311,"Lopez, Vargas and Harris",788105,0.451063245356817,0.37106370018681656,Financeiro,América Latina,2,1,0.41440839771849514,S.A.,Média,Orgânica,Centralizada,Ampla,Inicial,Fraca,Conservadora,Regular,0,0,1
+312,"Roy, Benjamin and Knight",2089173,-0.1259161343199912,0.3092307227963948,Manufatura,América Latina,24,0,0.9358261334028228,MEI,Alta,Parcerias,Centralizada,Básica,Inicial,Fraca,Neutra,Excelente,0,1,0
+313,Sanchez Inc,3180761,0.2892935166277113,1.8257858736492534,Saúde,Ásia,17,0,0.4570596592657763,Multinacional,Baixa,Aquisições,Decentralizada,Ampla,Inicial,Média,Inovadora,Regular,1,0,0
+314,"Chen, Miller and Scott",1514466,-0.0675449221504959,1.10828494683454,Financeiro,América do Norte,32,0,0.2902551053725294,Limitada,Baixa,Parcerias,Decentralizada,Ampla,Inicial,Fraca,Inovadora,Regular,1,1,0
+315,Stephens-Guzman,545101,0.41714599293924504,2.272863698266889,Saúde,Ásia,16,0,0.5619352535196633,MEI,Média,Orgânica,Centralizada,Básica,Inicial,Alta,Inovadora,Regular,1,0,0
+316,Holloway Inc,8206609,0.4729207017294351,1.8752111217442329,Manufatura,América Latina,16,0,0.11193457813478924,Limitada,Baixa,Aquisições,Decentralizada,Ampla,Avançada,Fraca,Conservadora,Boa,1,0,0
+317,"Bush, Scott and Deleon",7513023,0.12582900613898845,0.559025002995008,Tecnologia,América Latina,46,0,0.6095058910049832,S.A.,Média,Aquisições,Centralizada,Nenhuma,Avançada,Fraca,Inovadora,Ruim,0,0,0
+318,Howe-Reed,7713269,0.41535003615969207,1.5730658051576776,Tecnologia,Ásia,39,0,0.5684319543305033,MEI,Média,Orgânica,Decentralizada,Nenhuma,Intermediária,Alta,Conservadora,Ruim,0,0,0
+319,Burns-Roberts,1205534,-0.19639838047169966,1.1452130905555824,Financeiro,América do Norte,31,1,0.7919930334057097,S.A.,Baixa,Parcerias,Decentralizada,Nenhuma,Inicial,Média,Neutra,Boa,0,0,0
+320,"Garcia, Pineda and Harris",9713273,0.37396284218567005,1.4853993538446713,Manufatura,Ásia,43,1,0.9866876116170241,S.A.,Média,Parcerias,Centralizada,Nenhuma,Intermediária,Média,Inovadora,Excelente,0,0,0
+321,Ellis-Garcia,4453127,-0.03996238693255356,1.871365896012441,Saúde,Ásia,24,1,0.2508734717161105,S.A.,Média,Parcerias,Decentralizada,Básica,Intermediária,Fraca,Conservadora,Boa,1,0,0
+322,"Jones, Thompson and Kennedy",7415360,0.43609091648855747,2.034870114409098,Financeiro,América Latina,1,1,0.5096564508037607,S.A.,Média,Orgânica,Centralizada,Ampla,Avançada,Alta,Inovadora,Excelente,1,0,1
+323,"Green, Stein and Perry",8173461,-0.19921592196392338,2.124969583376138,Manufatura,América do Norte,11,0,0.9088654063190036,S.A.,Média,Aquisições,Decentralizada,Ampla,Intermediária,Média,Inovadora,Regular,1,1,0
+324,Mcdonald Ltd,598863,0.18932721452782986,0.7095396989728593,Manufatura,Europa,21,0,0.7851898844228413,MEI,Baixa,Orgânica,Centralizada,Nenhuma,Avançada,Média,Neutra,Boa,0,0,0
+325,Adams Inc,8856262,0.3296450626494542,0.17467743980165845,Saúde,América do Norte,4,0,0.48740630310080757,Limitada,Alta,Parcerias,Decentralizada,Nenhuma,Intermediária,Média,Inovadora,Ruim,0,0,1
+326,Bass LLC,2776188,-0.01891816851146444,1.8743073643954555,Financeiro,Ásia,7,1,0.9453716496147778,MEI,Alta,Orgânica,Decentralizada,Ampla,Inicial,Fraca,Neutra,Excelente,1,0,0
+327,Anthony-Taylor,3395990,-0.06480699478889487,0.35522494301385904,Manufatura,Ásia,26,0,0.05723669351680938,MEI,Média,Aquisições,Centralizada,Básica,Intermediária,Alta,Inovadora,Boa,1,1,0
+328,Phillips Ltd,7882937,-0.14113124287241077,0.8558070126711224,Manufatura,Ásia,47,1,0.930998619712584,MEI,Média,Orgânica,Decentralizada,Ampla,Avançada,Fraca,Inovadora,Boa,0,0,0
+329,Miller-Reed,6626818,0.028503503552305052,0.10916112189843315,Manufatura,América do Norte,12,0,0.05050739238280655,Multinacional,Média,Parcerias,Centralizada,Nenhuma,Avançada,Média,Inovadora,Excelente,1,1,0
+330,Hines PLC,9981393,0.1918910186161806,1.736006757763888,Saúde,América Latina,31,0,0.5473047441146843,Multinacional,Alta,Aquisições,Decentralizada,Nenhuma,Avançada,Alta,Inovadora,Regular,0,0,0
+331,Martinez-Miller,9285687,-0.11890930025381966,0.501116827530931,Financeiro,Ásia,17,0,0.8904409480010858,MEI,Média,Orgânica,Decentralizada,Básica,Intermediária,Fraca,Inovadora,Regular,0,1,0
+332,"Smith, Booker and Weiss",5591590,0.0636867533907591,1.6726777832599795,Financeiro,Ásia,33,0,0.2627209435613028,Limitada,Baixa,Orgânica,Centralizada,Ampla,Intermediária,Média,Inovadora,Regular,1,1,0
+333,Rogers-Smith,6612440,-0.19364931674309255,2.480182281202813,Financeiro,América do Norte,11,1,0.4722484989451585,MEI,Baixa,Aquisições,Decentralizada,Básica,Avançada,Média,Neutra,Regular,1,0,0
+334,Gray Group,6199628,0.3730755943498892,0.2744100918640391,Financeiro,Europa,28,1,0.3243288791369666,S.A.,Baixa,Aquisições,Decentralizada,Básica,Inicial,Fraca,Neutra,Excelente,1,0,0
+335,Ellison Group,6655968,-0.11008589733476606,0.2849872286835057,Tecnologia,Europa,32,0,0.9521439170763514,Multinacional,Alta,Parcerias,Centralizada,Nenhuma,Inicial,Média,Conservadora,Ruim,0,1,0
+336,Wagner-Harris,2799015,-0.0016599362140929067,0.9169122224000198,Tecnologia,América Latina,1,1,0.8236455947530908,Multinacional,Média,Aquisições,Decentralizada,Ampla,Intermediária,Média,Inovadora,Boa,0,0,1
+337,"Snyder, Lewis and Stone",9774733,-0.1871005968832478,2.179327634203221,Financeiro,América Latina,47,0,0.7090015113263796,MEI,Média,Parcerias,Centralizada,Nenhuma,Intermediária,Alta,Neutra,Boa,1,1,0
+338,Jones LLC,8937590,0.10256854872475858,0.6172716850991964,Saúde,Ásia,28,0,0.5876269866151087,MEI,Média,Orgânica,Centralizada,Ampla,Avançada,Média,Inovadora,Regular,0,0,0
+339,Carrillo-Wilson,1272622,0.3880850519188531,0.9649067678328341,Tecnologia,América do Norte,42,0,0.8205917893241481,Limitada,Alta,Parcerias,Centralizada,Nenhuma,Intermediária,Fraca,Inovadora,Excelente,0,0,0
+340,Leblanc-Salazar,2603771,0.0745058480116376,0.264412975904751,Manufatura,Ásia,7,0,0.3922670415235471,Limitada,Alta,Orgânica,Decentralizada,Nenhuma,Intermediária,Alta,Neutra,Ruim,1,1,0
+341,Perry-Colon,3277825,-0.07435187360331665,1.9315726990213344,Tecnologia,América Latina,2,1,0.4475518551060619,S.A.,Alta,Aquisições,Decentralizada,Ampla,Avançada,Fraca,Inovadora,Ruim,1,0,1
+342,Carter PLC,1096161,0.3275891838353634,1.0799352226226826,Manufatura,América do Norte,42,0,0.7300017210808615,MEI,Alta,Orgânica,Centralizada,Ampla,Avançada,Média,Neutra,Boa,0,0,0
+343,Gregory-Cannon,4283839,0.35216488730952095,1.9221969593460229,Financeiro,América do Norte,24,0,0.35775476329371425,MEI,Baixa,Aquisições,Decentralizada,Nenhuma,Intermediária,Alta,Neutra,Regular,1,0,0
+344,Pollard-Gillespie,766326,-0.07837256728470327,2.268658826432308,Tecnologia,América Latina,4,1,0.06390094204837382,MEI,Alta,Orgânica,Centralizada,Ampla,Inicial,Alta,Conservadora,Boa,1,0,1
+345,"Rodriguez, Kidd and Mitchell",749150,0.3395978759786928,0.658631553043093,Saúde,Europa,44,0,0.07433460888607146,Multinacional,Alta,Orgânica,Decentralizada,Nenhuma,Intermediária,Alta,Conservadora,Boa,1,0,0
+346,Wright Group,3475957,0.4631085217794365,2.0377504728158833,Tecnologia,Europa,19,1,0.11536280130570387,S.A.,Alta,Orgânica,Centralizada,Ampla,Inicial,Alta,Conservadora,Ruim,1,0,0
+347,Durham Ltd,218834,-0.08353568914740939,0.24182533618780785,Tecnologia,América do Norte,26,0,0.8696813233436628,Limitada,Média,Orgânica,Centralizada,Nenhuma,Inicial,Fraca,Conservadora,Excelente,0,1,1
+348,Mcgrath Inc,3339576,0.3396890047724948,2.2572337316325934,Tecnologia,Ásia,11,0,0.4722264257562043,Multinacional,Média,Parcerias,Decentralizada,Nenhuma,Inicial,Média,Inovadora,Ruim,1,0,0
+349,"Chung, Hamilton and Campbell",5993309,0.2960004032218405,1.6618445141409937,Financeiro,Europa,40,0,0.7128823693447365,Multinacional,Média,Orgânica,Centralizada,Nenhuma,Avançada,Média,Inovadora,Boa,0,0,0
+350,Alexander-Davis,6048540,0.13150172190456194,2.1981441379320437,Saúde,Ásia,43,0,0.3929093356048933,Multinacional,Baixa,Parcerias,Centralizada,Básica,Avançada,Alta,Conservadora,Regular,1,0,0
+351,"Martin, Beck and Gibbs",4349913,-0.15945567760884122,0.10045215893579656,Tecnologia,Europa,11,0,0.2587109474156345,Multinacional,Baixa,Aquisições,Decentralizada,Ampla,Avançada,Média,Neutra,Regular,1,1,0
+352,Foster-Black,4522201,-0.1477139075695022,0.505794568854382,Saúde,Europa,45,0,0.34719216756221194,S.A.,Alta,Aquisições,Centralizada,Nenhuma,Intermediária,Fraca,Neutra,Excelente,1,1,0
+353,Hatfield Group,1179600,0.39669026143905334,1.0354225298235809,Financeiro,Ásia,3,1,0.7941823453171836,MEI,Média,Parcerias,Centralizada,Básica,Avançada,Média,Neutra,Excelente,0,0,1
+354,White-Cox,9514323,0.4931038609254529,1.0108069680993246,Manufatura,América Latina,12,0,0.6252161250314382,Limitada,Baixa,Aquisições,Decentralizada,Nenhuma,Avançada,Fraca,Neutra,Excelente,0,0,0
+355,Johnson LLC,9927141,0.27323658003072804,0.6441529190164256,Tecnologia,Europa,3,1,0.937639779957902,Limitada,Média,Aquisições,Centralizada,Básica,Intermediária,Fraca,Inovadora,Boa,0,0,1
+356,"Jackson, Curry and Ingram",3603157,0.112170814907225,1.0158686556812802,Saúde,Europa,42,1,0.679704778576834,Multinacional,Baixa,Orgânica,Centralizada,Nenhuma,Intermediária,Média,Neutra,Boa,0,0,0
+357,Murphy LLC,8372874,0.2533015503813353,0.4092369088006116,Saúde,Ásia,27,0,0.5701816317546939,Multinacional,Baixa,Orgânica,Centralizada,Nenhuma,Inicial,Fraca,Neutra,Excelente,0,0,0
+358,Howard Ltd,8949851,0.21607710145998169,1.0906267102384624,Financeiro,América Latina,49,1,0.6101960089858345,S.A.,Alta,Orgânica,Centralizada,Básica,Intermediária,Fraca,Conservadora,Regular,0,0,0
+359,Castaneda PLC,2085588,0.06852858228393523,2.025650389982234,Tecnologia,Europa,2,0,0.9423714394684146,Multinacional,Alta,Parcerias,Centralizada,Básica,Intermediária,Fraca,Neutra,Regular,1,1,1
+360,Reese-Hardy,8740059,-0.15406169879819095,1.2497681514480428,Manufatura,Europa,49,1,0.7882009298667061,Limitada,Baixa,Parcerias,Centralizada,Ampla,Avançada,Fraca,Inovadora,Regular,0,0,0
+361,"Woods, Chang and Gibson",4297355,0.37505906318520865,0.14320021346851597,Saúde,América Latina,16,0,0.024041237366437818,Limitada,Alta,Aquisições,Centralizada,Ampla,Inicial,Alta,Neutra,Boa,1,0,0
+362,Hunt Ltd,1852683,0.060283470467107185,1.1114656997901937,Tecnologia,Europa,2,1,0.5341396961356972,MEI,Baixa,Orgânica,Centralizada,Básica,Inicial,Média,Neutra,Ruim,0,0,1
+363,"Adams, Mitchell and Smith",7816868,0.37314995034996556,0.165220038618026,Manufatura,América Latina,30,1,0.6883384115465648,MEI,Baixa,Parcerias,Decentralizada,Ampla,Intermediária,Alta,Inovadora,Regular,0,0,0
+364,Garcia-Obrien,1104646,-0.02324387521813247,2.4189841856963157,Saúde,América Latina,20,0,0.748698478439155,Limitada,Média,Parcerias,Centralizada,Básica,Avançada,Fraca,Conservadora,Regular,1,1,0
+365,Sanchez-Villarreal,9460133,-0.19927936410805663,0.4058895026148855,Saúde,Ásia,38,1,0.21314211931393667,Limitada,Alta,Orgânica,Centralizada,Ampla,Avançada,Média,Inovadora,Regular,1,0,0
+366,"Russell, Thomas and Stout",3967500,-0.08874320170627045,1.7984519831934849,Manufatura,América do Norte,28,0,0.8671773544513522,S.A.,Alta,Parcerias,Decentralizada,Nenhuma,Avançada,Fraca,Conservadora,Excelente,0,1,0
+367,Howard-Cochran,549395,0.12797759173800902,2.4346631749410057,Manufatura,América Latina,25,0,0.9558431471751637,S.A.,Alta,Orgânica,Centralizada,Ampla,Avançada,Média,Neutra,Boa,1,0,0
+368,"Ferguson, Smith and Miller",5243901,0.46101254447048085,2.0824937239997725,Financeiro,Ásia,32,0,0.23671530584486977,Limitada,Média,Aquisições,Centralizada,Nenhuma,Intermediária,Alta,Conservadora,Excelente,1,0,0
+369,"Williams, Mcneil and Ortiz",6854350,-0.12846446621439672,1.7783569003028887,Tecnologia,América do Norte,10,0,0.8826154575172458,Multinacional,Média,Aquisições,Centralizada,Nenhuma,Avançada,Média,Conservadora,Excelente,0,1,0
+370,"Christian, Rivera and Ross",1360386,0.39794684212309617,2.1147061828018403,Tecnologia,Europa,42,0,0.09697876251609538,MEI,Média,Aquisições,Centralizada,Ampla,Inicial,Fraca,Conservadora,Ruim,1,0,0
+371,Cooley Inc,3154390,0.1689168673483034,2.4563168638255064,Financeiro,América do Norte,40,1,0.055706836115245184,Limitada,Alta,Orgânica,Centralizada,Básica,Inicial,Média,Neutra,Excelente,1,0,0
+372,Ward Inc,7119431,0.3781445360599276,1.591226793408471,Saúde,América Latina,33,1,0.12922380010274936,Multinacional,Alta,Parcerias,Centralizada,Nenhuma,Intermediária,Média,Conservadora,Ruim,1,0,0
+373,Mcdonald-Benson,3479569,0.008862101692994805,1.4420435363903834,Manufatura,América Latina,13,1,0.057741079467035994,Limitada,Alta,Aquisições,Decentralizada,Nenhuma,Avançada,Alta,Conservadora,Excelente,1,0,0
+374,Lee-Stanley,3000603,0.3879630152707303,1.6077714651118753,Manufatura,América Latina,41,0,0.8450122371557759,MEI,Média,Aquisições,Decentralizada,Ampla,Avançada,Fraca,Neutra,Regular,0,0,0
+375,Davis Inc,8711474,0.3409759460117631,1.3784221282277318,Manufatura,América Latina,42,1,0.05905014445827195,MEI,Média,Aquisições,Decentralizada,Básica,Avançada,Média,Inovadora,Boa,1,0,0
+376,Lee-Chandler,9623856,-0.03896242187799628,1.624213854183325,Saúde,América Latina,47,1,0.2716641913636555,S.A.,Baixa,Parcerias,Decentralizada,Básica,Avançada,Alta,Inovadora,Excelente,1,0,0
+377,"Herring, Hammond and Reid",1746711,-0.10806541151343538,1.1796212991341422,Manufatura,Ásia,37,1,0.10375634353585639,S.A.,Média,Parcerias,Decentralizada,Ampla,Intermediária,Média,Inovadora,Ruim,1,0,0
+378,Davis Group,5687774,0.40763802577260494,0.6242636389199371,Manufatura,América Latina,16,1,0.29542203631376496,S.A.,Baixa,Orgânica,Centralizada,Básica,Avançada,Fraca,Neutra,Boa,1,0,0
+379,Hudson-Wood,6419707,0.47426565740809223,0.3885933436280215,Financeiro,Ásia,45,1,0.09055946760092048,S.A.,Alta,Aquisições,Centralizada,Ampla,Intermediária,Média,Neutra,Ruim,1,0,0
+380,Thornton LLC,8067801,-0.17808838037673863,0.26401824527742496,Saúde,Europa,22,0,0.668003250743014,MEI,Média,Parcerias,Centralizada,Ampla,Avançada,Média,Inovadora,Regular,0,1,0
+381,Walker LLC,1523286,0.31188904688157987,0.7319578810076802,Tecnologia,América Latina,20,0,0.13332681634257515,Multinacional,Alta,Orgânica,Centralizada,Ampla,Avançada,Média,Conservadora,Excelente,1,0,0
+382,Ryan-Thomas,3795961,0.4366671576634728,0.2106965544057612,Financeiro,América Latina,43,1,0.8518459258388879,Multinacional,Alta,Aquisições,Centralizada,Nenhuma,Inicial,Média,Inovadora,Boa,0,0,0
+383,Williams Ltd,8317316,0.400152064464749,1.4612098718065254,Financeiro,América do Norte,27,0,0.817191050726641,Multinacional,Alta,Parcerias,Decentralizada,Nenhuma,Intermediária,Fraca,Neutra,Regular,0,0,0
+384,"Ball, Jones and Solis",3277945,0.4751643305891459,0.7811882728564487,Tecnologia,Europa,41,0,0.01366168547060942,Limitada,Alta,Parcerias,Decentralizada,Nenhuma,Inicial,Alta,Conservadora,Excelente,1,0,0
+385,Padilla-Cooper,7448340,0.33206585490666796,2.078883539408877,Financeiro,América Latina,16,1,0.8957263555151146,S.A.,Média,Orgânica,Centralizada,Ampla,Intermediária,Alta,Conservadora,Excelente,1,0,0
+386,Gay-Stuart,283062,0.10960913366663715,0.27817809517212744,Saúde,América Latina,34,1,0.02894431674336706,S.A.,Alta,Aquisições,Centralizada,Nenhuma,Avançada,Média,Neutra,Ruim,1,0,1
+387,Bell-Lamb,2941992,0.01836639334659129,0.6432435864195662,Manufatura,Europa,32,0,0.23964578495755662,MEI,Baixa,Aquisições,Centralizada,Nenhuma,Avançada,Fraca,Conservadora,Ruim,1,1,0
+388,Robinson-Mason,4394539,0.02451991830668919,1.8525907530163501,Saúde,Ásia,26,1,0.03238913777599506,MEI,Média,Parcerias,Decentralizada,Nenhuma,Intermediária,Fraca,Inovadora,Regular,1,0,0
+389,"Medina, Michael and Ryan",6195929,0.3070958708298818,1.5371399113203794,Tecnologia,América Latina,25,0,0.335843487039316,Limitada,Alta,Aquisições,Decentralizada,Ampla,Inicial,Fraca,Neutra,Ruim,1,0,0
+390,Walker Group,5044505,0.32208590842167495,0.2547790509980021,Tecnologia,América do Norte,2,0,0.5138665257132716,Limitada,Média,Orgânica,Centralizada,Ampla,Intermediária,Fraca,Neutra,Regular,0,0,1
+391,Williams LLC,903328,-0.05974859951590117,2.205374697189281,Financeiro,América Latina,12,1,0.7966448690151381,Multinacional,Baixa,Parcerias,Decentralizada,Ampla,Intermediária,Fraca,Neutra,Regular,1,0,0
+392,Herrera-Johnson,4162958,0.40768596944337165,2.2054282307828306,Saúde,América do Norte,40,0,0.33798155046983613,MEI,Alta,Parcerias,Centralizada,Nenhuma,Avançada,Fraca,Neutra,Regular,1,0,0
+393,"Hunt, Ramos and Beasley",1143233,0.3004468281415733,0.8929792093018573,Saúde,América do Norte,9,0,0.7054900246731167,S.A.,Baixa,Orgânica,Decentralizada,Básica,Inicial,Média,Conservadora,Ruim,0,0,0
+394,Chaney-Fowler,6568703,0.19392520044036782,0.9169740240389552,Tecnologia,América Latina,12,0,0.18750445711898034,Multinacional,Alta,Parcerias,Decentralizada,Nenhuma,Intermediária,Alta,Neutra,Boa,1,0,0
+395,"Roy, Simpson and Duncan",629525,0.13007272207175885,2.473668060040417,Saúde,América Latina,26,1,0.7505984567441264,S.A.,Baixa,Aquisições,Centralizada,Nenhuma,Inicial,Alta,Neutra,Regular,1,0,0
+396,Thompson Inc,276615,0.18026296405297065,1.6028228118235317,Tecnologia,América do Norte,9,1,0.23599660590923754,Multinacional,Alta,Aquisições,Decentralizada,Ampla,Inicial,Média,Conservadora,Boa,1,0,1
+397,Byrd-Sherman,4481932,-0.0885279832045149,1.3751596493633418,Saúde,Europa,10,1,0.14354475594376792,S.A.,Média,Parcerias,Decentralizada,Ampla,Intermediária,Alta,Neutra,Excelente,1,0,0
+398,Carson Ltd,6765088,-0.05740912550660808,2.1115652405246186,Saúde,Europa,32,1,0.1854088503740543,Limitada,Alta,Orgânica,Centralizada,Nenhuma,Inicial,Fraca,Conservadora,Ruim,1,0,0
+399,Salas LLC,7574447,-0.13618485671566585,0.7846968120575594,Saúde,América Latina,34,0,0.18206312888185539,Multinacional,Média,Orgânica,Decentralizada,Nenhuma,Avançada,Fraca,Conservadora,Ruim,1,1,0
+400,"Brock, Pacheco and Deleon",4701020,-0.09243937328722114,1.1300382241512565,Tecnologia,Ásia,48,1,0.5128628793769912,S.A.,Alta,Aquisições,Centralizada,Básica,Avançada,Alta,Neutra,Boa,0,0,0
+401,Sanders-Lewis,3799391,0.11758554422369784,0.742664021172002,Financeiro,Europa,20,1,0.8447975811881461,S.A.,Alta,Orgânica,Decentralizada,Básica,Avançada,Fraca,Inovadora,Excelente,0,0,0
+402,Mata-Salas,9029860,0.17124807560977923,1.9939860318129554,Saúde,América Latina,39,1,0.07960507699250563,MEI,Baixa,Parcerias,Centralizada,Ampla,Avançada,Fraca,Neutra,Excelente,1,0,0
+403,Elliott LLC,7106454,-0.18749667526517644,1.4760384295245232,Tecnologia,Europa,2,1,0.7069563184934227,Multinacional,Baixa,Parcerias,Centralizada,Básica,Inicial,Alta,Inovadora,Regular,0,0,1
+404,"Cox, Martinez and Bradshaw",3712610,0.3577584795048192,1.6811801683361691,Tecnologia,Ásia,1,0,0.6543464596528576,S.A.,Baixa,Aquisições,Decentralizada,Básica,Avançada,Média,Conservadora,Ruim,0,0,1
+405,"Wiggins, Henderson and Norton",7131883,0.005917581340434495,0.7055373996145757,Saúde,América Latina,36,0,0.8725199518293624,MEI,Alta,Aquisições,Decentralizada,Ampla,Intermediária,Alta,Inovadora,Excelente,0,1,0
+406,"Lawson, Matthews and Rodriguez",2264367,0.4382852244719377,0.6285407233055562,Saúde,Ásia,24,0,0.24414756050690722,S.A.,Alta,Aquisições,Centralizada,Básica,Avançada,Alta,Neutra,Excelente,1,0,0
+407,Smith-Herrera,244356,0.47725788452964435,1.2720991095590528,Financeiro,América Latina,27,1,0.4501098586850296,Multinacional,Alta,Orgânica,Decentralizada,Nenhuma,Intermediária,Alta,Neutra,Regular,0,0,1
+408,Mcdonald LLC,8844220,-0.07017878772634198,1.8701577978227844,Tecnologia,Ásia,2,1,0.9258273744435174,Limitada,Média,Parcerias,Decentralizada,Básica,Intermediária,Alta,Inovadora,Regular,1,0,1
+409,"Weaver, Simpson and Hudson",8498043,0.12346810353596242,1.3605754180483844,Tecnologia,Europa,31,0,0.6599934501353172,Multinacional,Média,Parcerias,Decentralizada,Ampla,Avançada,Média,Neutra,Boa,0,0,0
+410,"Bailey, Nelson and Campbell",1848014,-0.1991377153835019,0.17834962610960464,Manufatura,Europa,14,1,0.3887684128615969,Multinacional,Alta,Parcerias,Centralizada,Nenhuma,Avançada,Média,Inovadora,Ruim,1,0,0
+411,Moore-Harmon,7256720,0.21882908558569883,2.184523615168693,Tecnologia,Ásia,2,1,0.13141238285526846,S.A.,Baixa,Aquisições,Centralizada,Básica,Inicial,Fraca,Conservadora,Excelente,1,0,1
+412,"Garcia, Hansen and Baker",2388627,0.22511451378386982,0.2552485444363158,Financeiro,Ásia,29,0,0.26248500790059104,S.A.,Baixa,Parcerias,Centralizada,Nenhuma,Intermediária,Fraca,Inovadora,Boa,1,0,0
+413,Dean-Lane,6617963,-0.02672203107763741,2.393978760929805,Manufatura,Ásia,15,0,0.5812154774893833,Multinacional,Baixa,Orgânica,Decentralizada,Nenhuma,Avançada,Alta,Inovadora,Ruim,1,1,0
+414,Jenkins-Cortez,6697519,0.19088887080823852,0.16034069986545454,Manufatura,América Latina,12,1,0.7181679475605137,MEI,Alta,Orgânica,Decentralizada,Básica,Inicial,Fraca,Inovadora,Boa,0,0,0
+415,Perez-Tucker,864121,-0.042121900289385214,1.766681094713701,Manufatura,Europa,37,1,0.12442188685189348,MEI,Baixa,Parcerias,Centralizada,Básica,Avançada,Média,Inovadora,Ruim,1,0,0
+416,Richardson-Williams,7168121,-0.08742217164526697,0.29729695290827596,Saúde,América Latina,28,1,0.599597260044054,MEI,Alta,Aquisições,Centralizada,Ampla,Avançada,Fraca,Conservadora,Ruim,0,0,0
+417,"Richardson, Rice and Frederick",9658356,0.25606362676158523,2.285623790644335,Saúde,Europa,20,0,0.550351278838751,S.A.,Média,Parcerias,Decentralizada,Ampla,Avançada,Fraca,Conservadora,Excelente,1,0,0
+418,Garcia-Rivera,3602630,0.028147824766452396,1.2146397669413027,Tecnologia,América do Norte,39,0,0.513955446690708,S.A.,Baixa,Orgânica,Decentralizada,Nenhuma,Intermediária,Fraca,Conservadora,Ruim,0,1,0
+419,"Castaneda, Cline and Saunders",5798848,0.21318475721993568,0.4300570595608369,Manufatura,América Latina,24,0,0.690123117682008,Multinacional,Média,Orgânica,Decentralizada,Ampla,Avançada,Alta,Inovadora,Regular,0,0,0
+420,Dixon Ltd,1207677,0.10327272428015889,0.9179576794956318,Financeiro,Europa,21,0,0.8374495950834618,Limitada,Baixa,Orgânica,Decentralizada,Nenhuma,Inicial,Fraca,Conservadora,Excelente,0,0,0
+421,Rodriguez-Cooper,5838852,0.4890459851820327,0.4955792208322289,Saúde,Europa,10,1,0.3229896831768684,S.A.,Alta,Parcerias,Centralizada,Nenhuma,Avançada,Média,Neutra,Regular,1,0,0
+422,"Hickman, Hill and Jones",388790,-0.09529355013270398,0.509396587737016,Financeiro,América Latina,46,0,0.8890121901109594,Multinacional,Alta,Orgânica,Decentralizada,Ampla,Avançada,Média,Conservadora,Boa,0,1,1
+423,Ellis-Rios,5184921,0.12521901764506707,2.375459968411461,Financeiro,América Latina,14,0,0.1606336126185507,Multinacional,Alta,Aquisições,Decentralizada,Ampla,Inicial,Média,Inovadora,Boa,1,0,0
+424,Palmer Group,9897444,0.2763196384515276,1.1685906694834916,Saúde,Europa,37,1,0.17302386975116435,Limitada,Alta,Parcerias,Centralizada,Ampla,Inicial,Média,Neutra,Ruim,1,0,0
+425,Chavez Ltd,3793305,0.07688155871597804,1.993125433372863,Saúde,América Latina,18,1,0.2667720636239239,MEI,Baixa,Parcerias,Centralizada,Básica,Intermediária,Fraca,Inovadora,Ruim,1,0,0
+426,Hill Group,4566271,0.4822898963094828,1.6350533468264363,Saúde,Ásia,24,1,0.11953086954707781,Multinacional,Média,Orgânica,Decentralizada,Nenhuma,Intermediária,Alta,Neutra,Regular,1,0,0
+427,Ross Inc,4485536,0.3053213395488545,1.7234232696121414,Saúde,América Latina,14,0,0.23031922468287758,Multinacional,Alta,Orgânica,Centralizada,Nenhuma,Intermediária,Média,Inovadora,Regular,1,0,0
+428,Murray and Sons,1452695,0.2598887002951451,0.4160642523328924,Manufatura,América Latina,34,1,0.1064117629028446,Multinacional,Baixa,Aquisições,Decentralizada,Nenhuma,Intermediária,Média,Inovadora,Regular,1,0,0
+429,White-Flynn,1689228,0.3299414873278563,0.6620426723571656,Manufatura,América Latina,12,1,0.8217524169853904,MEI,Média,Parcerias,Decentralizada,Ampla,Inicial,Alta,Neutra,Boa,0,0,0
+430,Bartlett and Sons,1200567,0.46685404662710184,1.9882008043706485,Manufatura,Europa,22,0,0.1389689918866246,MEI,Alta,Orgânica,Centralizada,Ampla,Avançada,Alta,Conservadora,Regular,1,0,0
+431,Clark Ltd,7806358,0.43547305708924805,2.429838895539479,Manufatura,Ásia,6,0,0.7472975575598568,Limitada,Média,Aquisições,Centralizada,Ampla,Avançada,Média,Neutra,Excelente,1,0,0
+432,"Smith, Robertson and Cummings",149115,0.3069997156884883,0.7304215422367641,Tecnologia,América do Norte,36,1,0.04791386791333374,S.A.,Alta,Orgânica,Decentralizada,Ampla,Avançada,Média,Neutra,Excelente,1,0,1
+433,"Hunt, Strickland and Johnson",821747,0.3244131473708981,0.7517650354024956,Manufatura,América do Norte,45,0,0.9485203275139151,MEI,Média,Parcerias,Centralizada,Ampla,Intermediária,Alta,Neutra,Boa,0,0,0
+434,Mack-Mccoy,5492023,-0.0978545481753982,1.2349531187461715,Saúde,Ásia,36,1,0.7111600875277662,S.A.,Média,Orgânica,Decentralizada,Básica,Inicial,Média,Neutra,Regular,0,0,0
+435,Ortega LLC,6057515,-0.12804531685513404,2.4612167508530507,Financeiro,Ásia,22,1,0.006796548586111784,S.A.,Alta,Parcerias,Decentralizada,Ampla,Inicial,Média,Neutra,Regular,1,0,0
+436,Cruz Inc,6332753,0.19963315129091497,0.7455014699835305,Manufatura,Ásia,14,0,0.763856500200214,MEI,Baixa,Orgânica,Decentralizada,Nenhuma,Inicial,Fraca,Inovadora,Ruim,0,0,0
+437,Guerrero-Simpson,5346880,-0.187142654141622,1.0767325831222332,Tecnologia,Europa,16,1,0.5140819207661853,Multinacional,Média,Parcerias,Centralizada,Ampla,Avançada,Alta,Inovadora,Excelente,0,0,0
+438,"Bishop, Jones and Johnson",1504330,0.13764946708611406,2.239552037496416,Saúde,América do Norte,36,0,0.7793651703351198,Limitada,Alta,Aquisições,Decentralizada,Nenhuma,Intermediária,Fraca,Conservadora,Boa,1,0,0
+439,"Johnson, Olson and Clark",351492,-0.052755294056792,0.10701047829126882,Financeiro,Ásia,25,0,0.5224968088905885,S.A.,Média,Parcerias,Decentralizada,Ampla,Inicial,Fraca,Conservadora,Regular,0,1,1
+440,"Diaz, Cannon and Jones",4135851,0.04221159735138767,0.19543831597256692,Financeiro,Europa,32,0,0.6410248576353547,Multinacional,Média,Aquisições,Decentralizada,Ampla,Intermediária,Alta,Neutra,Ruim,0,1,0
+441,Sims-Brooks,591072,0.3430633150550692,1.5497720249709261,Manufatura,América do Norte,33,1,0.7863316553950405,MEI,Baixa,Parcerias,Centralizada,Nenhuma,Inicial,Fraca,Conservadora,Boa,0,0,0
+442,"Hartman, Peters and Hayes",1186880,0.4588662529626705,2.2777123953108327,Financeiro,América Latina,45,0,0.4051080545878567,S.A.,Média,Aquisições,Decentralizada,Nenhuma,Intermediária,Média,Conservadora,Boa,1,0,0
+443,Kim-Williams,2155723,-0.14930860949756097,0.6732559849646264,Manufatura,Europa,36,0,0.002708149820452088,S.A.,Média,Orgânica,Decentralizada,Nenhuma,Inicial,Fraca,Neutra,Excelente,1,1,0
+444,Jones-Pineda,2348988,0.17396954418351154,1.2271402592337015,Manufatura,América do Norte,20,1,0.8499464959451885,S.A.,Alta,Parcerias,Decentralizada,Nenhuma,Intermediária,Alta,Inovadora,Regular,0,0,0
+445,"Schultz, Duncan and Horton",9802701,0.41777344007371997,1.1811167239787639,Saúde,Europa,18,1,0.3808903626246626,Multinacional,Alta,Orgânica,Centralizada,Básica,Inicial,Média,Inovadora,Boa,1,0,0
+446,Decker-Young,3076242,-0.14224402589170512,1.2351312306292244,Saúde,América do Norte,38,1,0.49604272601658306,Multinacional,Baixa,Aquisições,Decentralizada,Nenhuma,Inicial,Média,Conservadora,Ruim,0,0,0
+447,"Williams, Lee and Thomas",4680081,0.37715983282778365,1.5940472697513883,Tecnologia,América do Norte,3,1,0.007766642153968717,Multinacional,Média,Parcerias,Decentralizada,Ampla,Intermediária,Média,Inovadora,Ruim,1,0,1
+448,"Mendez, Graham and Green",2748790,0.05046094564978993,1.227385031177641,Saúde,América Latina,23,0,0.492092010350098,S.A.,Média,Parcerias,Centralizada,Ampla,Intermediária,Média,Inovadora,Boa,0,1,0
+449,Jackson-Vazquez,3863024,0.02546629155353471,1.1739235391738987,Saúde,Europa,32,0,0.9864874015717295,S.A.,Média,Orgânica,Centralizada,Básica,Avançada,Fraca,Conservadora,Ruim,0,1,0
+450,Mitchell-Zimmerman,4933177,0.48422647042035,1.2382922090350252,Manufatura,Ásia,45,0,0.27826766081876964,Limitada,Baixa,Parcerias,Decentralizada,Nenhuma,Intermediária,Fraca,Neutra,Boa,1,0,0
+451,Lee-Riddle,8372841,-0.0593986370963941,1.5180818590504996,Saúde,América Latina,16,1,0.3954182702423781,Limitada,Média,Parcerias,Decentralizada,Ampla,Inicial,Média,Conservadora,Ruim,1,0,0
+452,Thompson-Randolph,3453597,0.28523575857587663,1.38881797204326,Manufatura,América Latina,5,1,0.6871899964686766,Multinacional,Alta,Orgânica,Decentralizada,Básica,Inicial,Alta,Conservadora,Boa,0,0,0
+453,"Frey, Smith and Zhang",8554561,0.37500850960690646,2.14992639436121,Manufatura,América do Norte,4,0,0.8147936675236587,Multinacional,Baixa,Parcerias,Centralizada,Ampla,Intermediária,Média,Conservadora,Boa,1,0,1
+454,Bennett-Shepard,2697480,-0.17117155330450984,0.2187924483847999,Saúde,Ásia,21,1,0.4173916240061003,MEI,Alta,Orgânica,Centralizada,Básica,Avançada,Fraca,Neutra,Boa,0,0,0
+455,Ruiz Ltd,4297571,0.2692698208480885,2.09996097153523,Tecnologia,Europa,40,1,0.30966887040129254,Multinacional,Alta,Orgânica,Decentralizada,Básica,Intermediária,Média,Neutra,Ruim,1,0,0
+456,"Robinson, Ritter and Holt",6474201,0.46608498204872884,2.1254190702681375,Tecnologia,Ásia,14,0,0.9378257999850671,Limitada,Baixa,Orgânica,Centralizada,Nenhuma,Inicial,Fraca,Neutra,Boa,1,0,0
+457,Harding LLC,6218900,-0.11304602329035847,0.783779251674306,Financeiro,Ásia,39,0,0.6771449666716692,Limitada,Alta,Orgânica,Decentralizada,Básica,Inicial,Média,Neutra,Excelente,0,1,0
+458,Turner Inc,3022097,0.42735491187952673,1.2108446920380416,Financeiro,Ásia,31,1,0.11902130449314108,Limitada,Média,Orgânica,Decentralizada,Ampla,Avançada,Alta,Conservadora,Boa,1,0,0
+459,"Parker, Smith and Estes",257164,0.21634364616385524,1.152492372489845,Saúde,Ásia,14,1,0.06892787813464862,S.A.,Baixa,Aquisições,Centralizada,Ampla,Intermediária,Média,Inovadora,Regular,1,0,1
+460,Price-Edwards,631831,0.2316232073037318,0.6244236024499127,Tecnologia,Ásia,6,1,0.48354985079036905,S.A.,Alta,Aquisições,Decentralizada,Nenhuma,Inicial,Alta,Conservadora,Regular,0,0,0
+461,Miller-Williams,3089475,0.2290609224059241,1.0523124330071594,Manufatura,América do Norte,12,0,0.22009006604727244,Multinacional,Média,Orgânica,Centralizada,Nenhuma,Inicial,Alta,Neutra,Excelente,1,0,0
+462,Holland-Jackson,3469720,0.009185120436119663,0.20653065321005065,Financeiro,América do Norte,16,0,0.2539847533762535,MEI,Média,Aquisições,Centralizada,Básica,Inicial,Média,Inovadora,Boa,1,1,0
+463,Reed-French,4811075,0.45464127070962174,0.7667729746761626,Manufatura,América Latina,17,0,0.8776921788278482,MEI,Alta,Aquisições,Decentralizada,Nenhuma,Intermediária,Alta,Conservadora,Regular,0,0,0
+464,Young-Black,7222313,0.4631453238417271,2.0600372210817235,Financeiro,América do Norte,45,0,0.08956602431631067,MEI,Média,Parcerias,Centralizada,Ampla,Intermediária,Alta,Inovadora,Boa,1,0,0
+465,Richardson Group,6954500,0.23771326214976343,0.7829495242309541,Saúde,América Latina,23,0,0.7153641152288897,S.A.,Baixa,Orgânica,Decentralizada,Ampla,Avançada,Fraca,Neutra,Regular,0,0,0
+466,Ritter-Coleman,2740328,0.34839590815913024,2.063696004995794,Tecnologia,América Latina,14,1,0.27114225338058806,Limitada,Alta,Aquisições,Centralizada,Nenhuma,Inicial,Fraca,Inovadora,Ruim,1,0,0
+467,"Morrison, Hansen and Allen",9179703,0.22858059011681056,1.375838715050634,Financeiro,Europa,7,1,0.7603282214041377,Limitada,Média,Parcerias,Decentralizada,Nenhuma,Inicial,Alta,Inovadora,Ruim,0,0,0
+468,"Sullivan, Robinson and Salazar",9322335,0.1390789133018284,2.211670425666784,Tecnologia,Ásia,46,1,0.7224113844635446,S.A.,Média,Parcerias,Decentralizada,Nenhuma,Avançada,Média,Neutra,Excelente,1,0,0
+469,"Mccarthy, Cole and Beck",7426434,0.2625740828094754,1.4794709302345963,Manufatura,América do Norte,32,0,0.007391901444293025,MEI,Alta,Orgânica,Decentralizada,Básica,Inicial,Alta,Inovadora,Excelente,1,0,0
+470,"Nixon, Palmer and Herrera",9651536,0.18710101681437086,0.17120373535537556,Saúde,Europa,15,0,0.5091354129215991,MEI,Alta,Orgânica,Centralizada,Básica,Avançada,Média,Conservadora,Boa,0,0,0
+471,Ross LLC,5163778,0.21823310384235103,1.721008498113014,Tecnologia,América do Norte,44,0,0.13931948237804637,Multinacional,Alta,Parcerias,Decentralizada,Ampla,Avançada,Fraca,Inovadora,Excelente,1,0,0
+472,Moody LLC,4070001,0.3486827873932033,0.20764856325656478,Saúde,América Latina,17,1,0.8662270305786768,Multinacional,Alta,Orgânica,Centralizada,Básica,Inicial,Média,Conservadora,Boa,0,0,0
+473,"Juarez, Kline and Wade",170640,0.13663268201428935,1.1814328455595215,Tecnologia,América do Norte,41,0,0.8715858828624066,MEI,Baixa,Orgânica,Centralizada,Básica,Intermediária,Alta,Inovadora,Ruim,0,0,1
+474,Moore Ltd,4222263,-0.17147212573526907,2.3306240667354734,Manufatura,Ásia,47,0,0.41834580749375805,S.A.,Alta,Parcerias,Centralizada,Básica,Intermediária,Alta,Inovadora,Ruim,1,1,0
+475,Hall PLC,4694877,-0.08520036330735195,0.49648945441084036,Manufatura,América Latina,44,1,0.44439561845108055,MEI,Baixa,Parcerias,Centralizada,Básica,Intermediária,Alta,Neutra,Regular,0,0,0
+476,"Garcia, Hunt and Dean",1455531,0.10702505154267683,1.0356936470597058,Saúde,América Latina,34,0,0.3032829394045271,Multinacional,Baixa,Orgânica,Centralizada,Ampla,Intermediária,Alta,Neutra,Boa,1,0,0
+477,Oliver LLC,775510,0.30737859191184075,1.851664741236348,Manufatura,Europa,5,1,0.716606298960031,MEI,Alta,Aquisições,Decentralizada,Nenhuma,Inicial,Alta,Conservadora,Ruim,1,0,0
+478,Gibson-Bass,3841196,0.21529505381712508,2.2174205346276343,Financeiro,Ásia,45,0,0.3586613630264591,S.A.,Baixa,Orgânica,Centralizada,Ampla,Avançada,Média,Neutra,Ruim,1,0,0
+479,Fisher and Sons,7090102,0.2552059301114177,1.7102632113820189,Tecnologia,América Latina,27,0,0.26779247452263377,Limitada,Alta,Aquisições,Decentralizada,Básica,Avançada,Alta,Neutra,Boa,1,0,0
+480,"English, Johns and Powers",2834296,0.13549525000340107,0.719615810058806,Manufatura,Ásia,23,1,0.43223105950450824,S.A.,Alta,Parcerias,Decentralizada,Nenhuma,Inicial,Fraca,Neutra,Regular,0,0,0
+481,Whitney PLC,6806024,0.23101941535956994,1.7190588469989188,Financeiro,América do Norte,40,1,0.09148751838745872,S.A.,Média,Aquisições,Centralizada,Nenhuma,Intermediária,Alta,Neutra,Regular,1,0,0
+482,Schwartz-Koch,998320,0.03031220647026351,0.812146338649816,Saúde,Ásia,14,1,0.7466032046442038,Multinacional,Alta,Parcerias,Decentralizada,Nenhuma,Avançada,Média,Neutra,Regular,0,0,0
+483,Holmes-Patrick,5881565,0.1291278148876655,1.8242301515649646,Financeiro,América Latina,15,1,0.012596401271786961,S.A.,Média,Orgânica,Decentralizada,Ampla,Inicial,Alta,Conservadora,Regular,1,0,0
+484,Johnson LLC,2107635,0.3209953459164689,2.3896795062040974,Saúde,Europa,43,1,0.6444850615205939,S.A.,Baixa,Orgânica,Centralizada,Nenhuma,Inicial,Alta,Conservadora,Ruim,1,0,0
+485,Lee PLC,9715215,0.41028294528118475,1.8313442826550919,Saúde,América Latina,33,1,0.18286452675487241,Multinacional,Média,Parcerias,Decentralizada,Ampla,Intermediária,Média,Neutra,Boa,1,0,0
+486,Wiggins-Haas,3364908,0.1035587337694722,2.1709132069897894,Tecnologia,Ásia,31,0,0.23240404621441313,Multinacional,Baixa,Parcerias,Centralizada,Ampla,Inicial,Alta,Neutra,Boa,1,0,0
+487,"Kennedy, Cisneros and Davis",4360538,-0.16943683960484718,0.1050492236221202,Tecnologia,Ásia,35,0,0.6356319986400399,Limitada,Alta,Parcerias,Centralizada,Básica,Avançada,Média,Conservadora,Ruim,0,1,0
+488,Jones-Petersen,6586460,-0.08682921909723816,1.8221730993558265,Financeiro,América Latina,17,1,0.9929434657829072,MEI,Baixa,Orgânica,Centralizada,Básica,Avançada,Alta,Inovadora,Ruim,1,0,0
+489,"Parker, Ortiz and Anthony",6297323,-0.18539720249592334,2.0910101364766005,Tecnologia,Ásia,28,0,0.7777174890725507,S.A.,Baixa,Orgânica,Decentralizada,Nenhuma,Inicial,Fraca,Conservadora,Ruim,1,1,0
+490,Ingram Ltd,3721581,0.257284113466131,0.19734097010723542,Tecnologia,América do Norte,19,1,0.22583963222339198,Multinacional,Alta,Aquisições,Decentralizada,Nenhuma,Avançada,Alta,Inovadora,Excelente,1,0,0
+491,Rice-Smith,4346238,0.03262023774857622,2.191834545491753,Tecnologia,América Latina,46,0,0.1760247550411338,Limitada,Baixa,Parcerias,Decentralizada,Básica,Inicial,Média,Neutra,Boa,1,1,0
+492,"Kelley, Vincent and Buckley",6063135,0.17973504500355722,0.71606614794411,Financeiro,Europa,23,1,0.8662328702676704,MEI,Alta,Aquisições,Decentralizada,Ampla,Avançada,Fraca,Neutra,Boa,0,0,0
+493,Rivera LLC,8914131,0.14529379274865967,1.6967010447473325,Manufatura,América Latina,32,0,0.4441839479215043,Multinacional,Média,Orgânica,Centralizada,Ampla,Intermediária,Média,Conservadora,Boa,0,0,0
+494,Brown-Hawkins,3699865,-0.14293145731330134,2.020851709656176,Tecnologia,América do Norte,40,0,0.13705280282815546,MEI,Alta,Aquisições,Centralizada,Básica,Avançada,Alta,Neutra,Regular,1,1,0
+495,"Lopez, Berger and Diaz",5482287,0.08228295278668224,1.690394831342453,Tecnologia,América do Norte,13,0,0.8622114233219381,MEI,Alta,Aquisições,Decentralizada,Ampla,Intermediária,Fraca,Inovadora,Ruim,0,1,0
+496,"Mathis, Salas and Barr",8090340,-0.04560721255437373,0.32148350097581735,Financeiro,América do Norte,20,0,0.8160923529142614,S.A.,Baixa,Orgânica,Centralizada,Básica,Intermediária,Média,Inovadora,Ruim,0,1,0
+497,Webb-Wilson,1139458,0.09287985206735687,1.531171645264884,Manufatura,América do Norte,35,0,0.9839063638971636,S.A.,Média,Orgânica,Decentralizada,Básica,Inicial,Fraca,Conservadora,Ruim,0,1,0
+498,"Reilly, Gallagher and Vasquez",3872811,-0.057495203760430144,1.4190007761331447,Tecnologia,América do Norte,5,1,0.9097436867126839,Multinacional,Alta,Parcerias,Centralizada,Nenhuma,Intermediária,Fraca,Inovadora,Excelente,0,0,0
+499,Wood-Estrada,2417336,0.3883166843938534,2.2607710433782513,Saúde,Europa,9,1,0.8517903386605417,MEI,Média,Aquisições,Centralizada,Nenhuma,Avançada,Média,Conservadora,Boa,1,0,0
+500,Smith-Silva,2863642,-0.07806466439522247,1.070175351146102,Financeiro,Ásia,29,1,0.05257439781100315,Multinacional,Média,Orgânica,Centralizada,Básica,Avançada,Fraca,Conservadora,Ruim,1,0,0
+501,Thompson and Sons,7789684,0.4725463860408838,0.8705946330089203,Tecnologia,América do Norte,6,0,0.10441536949811803,Multinacional,Baixa,Orgânica,Centralizada,Nenhuma,Intermediária,Média,Inovadora,Excelente,1,0,0
+502,Price and Sons,3888340,0.09113515630285852,1.899641834647519,Tecnologia,América do Norte,25,1,0.5689831943041228,MEI,Alta,Aquisições,Centralizada,Básica,Inicial,Fraca,Inovadora,Ruim,1,0,0
+503,Ramirez Inc,297775,0.39237170441333447,1.090420782600152,Saúde,América Latina,31,0,0.5314792462818209,Multinacional,Baixa,Orgânica,Decentralizada,Ampla,Intermediária,Fraca,Inovadora,Regular,0,0,1
+504,Shaw-Key,2486488,0.24013537274416152,1.6506308200121511,Saúde,Europa,22,0,0.4579632144895355,MEI,Alta,Parcerias,Decentralizada,Ampla,Avançada,Fraca,Inovadora,Boa,0,0,0
+505,Craig PLC,887494,0.3147452090660268,1.6514802162990567,Financeiro,Europa,2,0,0.3967893254145842,MEI,Média,Parcerias,Centralizada,Ampla,Avançada,Alta,Inovadora,Excelente,1,0,1
+506,Raymond LLC,5951244,0.3374067216467461,2.2312937544642826,Financeiro,Ásia,45,1,0.4312104848643289,MEI,Alta,Aquisições,Decentralizada,Ampla,Intermediária,Alta,Inovadora,Ruim,1,0,0
+507,Smith Inc,5432660,0.1533914173251124,1.5368617655658336,Saúde,Europa,5,0,0.5692979341347952,MEI,Alta,Parcerias,Centralizada,Básica,Intermediária,Média,Inovadora,Boa,0,0,0
+508,Howe Inc,9689801,0.18031036635430184,1.3051686639087685,Financeiro,América Latina,27,1,0.002076517600081207,Limitada,Média,Orgânica,Centralizada,Ampla,Intermediária,Fraca,Neutra,Excelente,1,0,0
+509,Harris and Sons,6937433,0.15979710746610745,0.4332911833516408,Saúde,América Latina,25,1,0.2607087741328522,MEI,Média,Orgânica,Centralizada,Ampla,Avançada,Média,Conservadora,Boa,1,0,0
+510,Pearson-Powell,5183769,0.2116408646630554,0.37777025602889286,Tecnologia,Ásia,8,0,0.5182797206887111,S.A.,Alta,Orgânica,Centralizada,Ampla,Avançada,Alta,Conservadora,Boa,0,0,0
+511,Santiago and Sons,633636,-0.1794238879704449,0.4703717566793905,Saúde,América Latina,1,0,0.7222160986736462,S.A.,Baixa,Orgânica,Decentralizada,Ampla,Avançada,Alta,Inovadora,Regular,0,1,1
+512,Davis Inc,4332406,0.07686061889431064,0.5124363551850268,Saúde,América do Norte,20,1,0.17415669239539633,S.A.,Alta,Aquisições,Centralizada,Básica,Inicial,Alta,Conservadora,Boa,1,0,0
+513,"Miller, Walls and Murphy",2376360,0.22433209949282004,1.6309050223927213,Manufatura,América do Norte,44,1,0.546881173787433,MEI,Média,Parcerias,Decentralizada,Ampla,Avançada,Alta,Inovadora,Excelente,0,0,0
+514,"Gordon, Wright and Turner",4508249,0.218406495679105,1.8783550006589884,Saúde,América Latina,23,1,0.7144596838857817,S.A.,Baixa,Parcerias,Centralizada,Nenhuma,Avançada,Média,Neutra,Boa,1,0,0
+515,"Contreras, Taylor and Nguyen",4526219,0.355069266223942,1.371979655023405,Saúde,Ásia,32,1,0.4446276579139047,Limitada,Média,Orgânica,Centralizada,Nenhuma,Inicial,Fraca,Conservadora,Excelente,0,0,0
+516,Turner Group,9014438,0.25850653718247596,2.0896425581091784,Manufatura,Europa,11,1,0.02708113367005105,Multinacional,Média,Aquisições,Decentralizada,Nenhuma,Inicial,Média,Conservadora,Boa,1,0,0
+517,Novak-Fowler,1432397,0.4944933214384706,2.4790317441607197,Financeiro,Ásia,39,1,0.4492681584656367,MEI,Baixa,Orgânica,Centralizada,Nenhuma,Inicial,Fraca,Neutra,Ruim,1,0,0
+518,Arroyo Inc,7617836,-0.001301829973948511,2.0680303098864545,Manufatura,Europa,47,0,0.2964448877441531,S.A.,Média,Orgânica,Centralizada,Nenhuma,Inicial,Alta,Neutra,Regular,1,1,0
+519,"Frye, Kidd and Murphy",9206824,0.051405720766362004,1.767717696822302,Tecnologia,América Latina,24,1,0.9296496077013283,Limitada,Média,Aquisições,Decentralizada,Nenhuma,Inicial,Fraca,Neutra,Ruim,0,0,0
+520,Reynolds PLC,6746705,0.06869300630745737,1.377982478649152,Manufatura,América Latina,11,1,0.12461338567832736,Multinacional,Média,Aquisições,Decentralizada,Básica,Inicial,Alta,Conservadora,Regular,1,0,0
+521,Nelson and Sons,5562810,0.12606896491417394,1.1772473720192997,Tecnologia,América do Norte,29,1,0.6524759555072321,Limitada,Média,Orgânica,Decentralizada,Nenhuma,Intermediária,Média,Conservadora,Excelente,0,0,0
+522,"Owens, Campbell and Owens",9005921,0.38519864464684656,0.3025417133069016,Financeiro,Europa,26,1,0.05271976633450115,S.A.,Média,Parcerias,Centralizada,Ampla,Intermediária,Fraca,Neutra,Regular,1,0,0
+523,Reynolds Inc,7003836,-0.03494553422855312,1.0584849961472582,Manufatura,Ásia,16,0,0.4461704378126965,Limitada,Média,Orgânica,Centralizada,Nenhuma,Intermediária,Média,Neutra,Boa,0,1,0
+524,Skinner and Sons,9826290,0.3432001449248006,2.284323128277122,Manufatura,América Latina,35,0,0.5539794872200806,Multinacional,Média,Parcerias,Decentralizada,Básica,Intermediária,Alta,Neutra,Boa,1,0,0
+525,"Savage, Oconnell and Sheppard",6343669,0.08371712816002036,2.039254311775727,Financeiro,Ásia,20,1,0.29795493131686546,S.A.,Média,Parcerias,Decentralizada,Nenhuma,Avançada,Média,Neutra,Ruim,1,0,0
+526,Bridges-Evans,1386643,0.22129876856340594,0.6185232760280492,Tecnologia,América do Norte,46,1,0.45507563552038444,Multinacional,Média,Aquisições,Centralizada,Ampla,Inicial,Alta,Neutra,Regular,0,0,0
+527,Goodwin-Butler,8415390,0.24277837325841423,1.219858683273318,Manufatura,Europa,3,1,0.16355379453018737,Limitada,Alta,Aquisições,Centralizada,Ampla,Avançada,Alta,Inovadora,Excelente,1,0,1
+528,"Lopez, Harrison and Ford",6300646,0.0609940460322541,2.060135686140507,Tecnologia,Europa,1,0,0.30412384946803617,MEI,Alta,Orgânica,Decentralizada,Básica,Inicial,Alta,Neutra,Excelente,1,1,1
+529,Martin Inc,7083896,0.15883064364406357,0.26172293148525405,Manufatura,América Latina,47,0,0.621106324910203,MEI,Média,Parcerias,Decentralizada,Básica,Inicial,Média,Inovadora,Boa,0,0,0
+530,"Hodges, Ryan and Young",8883148,0.08912182225338787,1.0297422056047822,Saúde,Europa,1,0,0.3018000558611551,MEI,Alta,Parcerias,Decentralizada,Básica,Avançada,Média,Conservadora,Excelente,1,1,1
+531,Day PLC,5509861,-0.15160704966936642,2.144418968497474,Manufatura,América Latina,17,0,0.8997430784088717,MEI,Baixa,Orgânica,Decentralizada,Básica,Intermediária,Fraca,Conservadora,Boa,1,1,0
+532,"Romero, Brown and White",5039003,0.10601577217177854,1.069354874008297,Financeiro,América do Norte,2,0,0.6284069576409897,Multinacional,Alta,Orgânica,Centralizada,Nenhuma,Avançada,Fraca,Inovadora,Boa,0,0,1
+533,Martinez Group,6411326,-0.1318246252125135,0.28627514735545806,Financeiro,Europa,29,0,0.4386490184359845,MEI,Média,Orgânica,Centralizada,Nenhuma,Avançada,Média,Neutra,Boa,0,1,0
+534,"Willis, Nelson and Ballard",5246386,0.08351455935622504,1.4020824844774034,Tecnologia,América Latina,20,1,0.03875693555418247,Multinacional,Média,Aquisições,Centralizada,Ampla,Inicial,Média,Conservadora,Ruim,1,0,0
+535,Brewer and Sons,8515398,0.21504287988224727,2.1681819878039086,Manufatura,Ásia,6,0,0.49954833520467123,S.A.,Alta,Orgânica,Centralizada,Básica,Inicial,Média,Neutra,Ruim,1,0,0
+536,Foster PLC,548345,0.2055904295404505,1.5166853030875833,Tecnologia,América Latina,8,0,0.7647762421250892,MEI,Média,Orgânica,Decentralizada,Básica,Inicial,Média,Neutra,Boa,0,0,0
+537,Barnes-Jackson,9237682,0.2638348953058242,0.6430698597141563,Tecnologia,Europa,29,1,0.26555759801241363,Multinacional,Baixa,Parcerias,Centralizada,Nenhuma,Intermediária,Alta,Inovadora,Boa,1,0,0
+538,Whitehead Ltd,7927494,-0.13331694443176162,1.0221750883297152,Saúde,América do Norte,48,0,0.8067735696487673,MEI,Baixa,Orgânica,Decentralizada,Básica,Avançada,Alta,Conservadora,Boa,0,1,0
+539,Ward Ltd,3785501,0.25648627187130646,1.1802960668366371,Saúde,Europa,33,1,0.2518067660508815,MEI,Média,Parcerias,Centralizada,Ampla,Avançada,Alta,Conservadora,Excelente,1,0,0
+540,Jackson-Foster,1979490,0.018503639687512927,1.4902392491692644,Financeiro,Europa,3,0,0.8237463879508005,MEI,Baixa,Parcerias,Centralizada,Ampla,Intermediária,Média,Inovadora,Boa,0,1,1
+541,Atkinson-Wilkins,5084445,0.07933216229597773,1.9224424618062712,Tecnologia,América Latina,35,1,0.0852683416116774,Multinacional,Baixa,Aquisições,Centralizada,Básica,Avançada,Alta,Neutra,Boa,1,0,0
+542,Gomez and Sons,7039705,0.400590377745894,0.33729668233752497,Financeiro,Ásia,5,1,0.8661837088690295,Limitada,Alta,Orgânica,Decentralizada,Ampla,Avançada,Alta,Neutra,Regular,0,0,0
+543,Lewis-Johnson,7102587,-0.19367871710931484,2.2351648792421592,Manufatura,Europa,27,1,0.4991864509333305,MEI,Baixa,Orgânica,Centralizada,Ampla,Inicial,Fraca,Conservadora,Regular,1,0,0
+544,Silva Inc,6842471,0.21188884333842378,0.1295432872385814,Tecnologia,Ásia,44,1,0.296537589620262,MEI,Alta,Parcerias,Decentralizada,Nenhuma,Intermediária,Fraca,Inovadora,Regular,1,0,0
+545,"Ramirez, Lewis and Baker",1554908,0.21909978607007527,0.9881256032182125,Tecnologia,América Latina,12,1,0.26511325041514877,S.A.,Média,Aquisições,Decentralizada,Ampla,Inicial,Alta,Inovadora,Regular,1,0,0
+546,Peterson LLC,3419144,0.07766184344049336,0.16580874393437836,Manufatura,Ásia,20,0,0.43201055893036266,Limitada,Alta,Aquisições,Centralizada,Básica,Intermediária,Alta,Neutra,Boa,0,1,0
+547,"Copeland, Rowe and Porter",8793670,-0.0340805000241647,1.043138140828699,Manufatura,América Latina,45,0,0.999049498103645,Multinacional,Média,Orgânica,Decentralizada,Básica,Inicial,Alta,Neutra,Regular,0,1,0
+548,Huff-Boyd,5906466,-0.03572817321691426,1.361950237295977,Financeiro,América do Norte,20,1,0.22032739343758256,S.A.,Média,Parcerias,Centralizada,Ampla,Avançada,Média,Inovadora,Excelente,1,0,0
+549,Acosta Ltd,5844588,0.41859676876252677,1.328035327795628,Financeiro,Ásia,9,1,0.10321664887899962,MEI,Média,Orgânica,Decentralizada,Básica,Intermediária,Fraca,Conservadora,Excelente,1,0,0
+550,"House, Farrell and Kerr",5404509,0.10941706164800023,0.4975080328678368,Manufatura,Ásia,39,1,0.5850351687186619,S.A.,Média,Orgânica,Centralizada,Nenhuma,Intermediária,Fraca,Neutra,Regular,0,0,0
+551,"Miranda, Reilly and Allen",7768216,0.031622554092420325,1.6497772242294695,Financeiro,América do Norte,4,0,0.4885424664402571,S.A.,Média,Orgânica,Decentralizada,Ampla,Inicial,Fraca,Inovadora,Ruim,0,1,1
+552,Peters Inc,5049499,0.1141443016819821,0.20746828121120373,Manufatura,Ásia,19,1,0.5241962710633074,MEI,Alta,Orgânica,Decentralizada,Ampla,Intermediária,Alta,Inovadora,Excelente,0,0,0
+553,"Henderson, Bailey and Parker",2487312,0.2685732810215529,1.928576368317797,Tecnologia,América do Norte,38,1,0.6669354175572171,Limitada,Média,Parcerias,Centralizada,Ampla,Avançada,Média,Inovadora,Excelente,1,0,0
+554,Mitchell Group,3793976,-0.09797040222867383,2.3719466415845107,Tecnologia,Europa,27,1,0.2671440698706493,Limitada,Baixa,Aquisições,Centralizada,Básica,Avançada,Fraca,Conservadora,Regular,1,0,0
+555,Lowery-Fox,6162903,0.11460368464961636,0.9154451851626829,Saúde,América Latina,45,1,0.9106649953838885,S.A.,Baixa,Orgânica,Centralizada,Básica,Avançada,Fraca,Neutra,Regular,0,0,0
+556,Trevino and Sons,4508224,0.2115190597772708,1.3413745161143966,Tecnologia,América do Norte,43,0,0.43567206612229037,MEI,Média,Orgânica,Centralizada,Ampla,Inicial,Média,Neutra,Boa,0,0,0
+557,Miller Group,4135493,0.4640083483960036,1.0093846673411544,Manufatura,Ásia,13,1,0.12908619514246178,Multinacional,Baixa,Orgânica,Decentralizada,Básica,Intermediária,Alta,Neutra,Excelente,1,0,0
+558,Parks and Sons,9914149,-0.02323055254720654,0.1161049367297439,Financeiro,América do Norte,13,1,0.7422987567339443,S.A.,Alta,Orgânica,Decentralizada,Básica,Inicial,Alta,Conservadora,Regular,0,0,0
+559,Burton-Walker,5803737,0.051475523541371866,1.0260988069482782,Saúde,Ásia,22,0,0.6431043526178503,Multinacional,Alta,Aquisições,Decentralizada,Ampla,Avançada,Fraca,Neutra,Regular,0,1,0
+560,"Friedman, Walsh and Deleon",1971403,0.06555101294569661,2.0001286222272316,Financeiro,Europa,28,1,0.3157434024840371,S.A.,Média,Aquisições,Decentralizada,Ampla,Intermediária,Fraca,Neutra,Boa,1,0,0
+561,Ford Ltd,5847372,0.22387671035141796,1.5303732212403562,Manufatura,América do Norte,47,1,0.6215187240340485,S.A.,Média,Aquisições,Centralizada,Básica,Avançada,Média,Neutra,Excelente,0,0,0
+562,Chandler-Singleton,4948287,0.049712437128001136,0.3430237950763814,Tecnologia,Europa,45,0,0.21986195636897687,MEI,Média,Aquisições,Decentralizada,Ampla,Intermediária,Fraca,Neutra,Regular,1,1,0
+563,Wallace-Wade,5758796,0.17345834770978688,2.133134775265084,Saúde,América Latina,22,0,0.44483935934052954,MEI,Baixa,Orgânica,Centralizada,Ampla,Intermediária,Média,Conservadora,Boa,1,0,0
+564,Williams PLC,921052,0.34725323089152055,1.3746048277245828,Manufatura,Ásia,43,0,0.8994125221673253,Multinacional,Baixa,Parcerias,Decentralizada,Ampla,Inicial,Fraca,Inovadora,Regular,0,0,0
+565,Roberts Ltd,2325300,0.29376991587854245,2.1201360681872226,Saúde,Ásia,19,1,0.13353423316074942,Multinacional,Alta,Aquisições,Centralizada,Ampla,Intermediária,Fraca,Inovadora,Ruim,1,0,0
+566,Anderson LLC,1955567,0.11245805255880986,1.4925316450840704,Saúde,Europa,8,1,0.386696449987462,Limitada,Baixa,Aquisições,Centralizada,Básica,Avançada,Fraca,Neutra,Ruim,1,0,0
+567,"Fitzgerald, Smith and Lee",1634837,0.4049513243719182,1.4432522676110557,Tecnologia,América Latina,8,0,0.8211424247203473,MEI,Alta,Orgânica,Centralizada,Ampla,Intermediária,Alta,Neutra,Regular,0,0,0
+568,"Stephens, Mullen and Simmons",3438442,0.190698174715704,0.35262204447282974,Manufatura,América do Norte,42,0,0.9694908994061782,S.A.,Baixa,Orgânica,Centralizada,Nenhuma,Avançada,Média,Neutra,Excelente,0,0,0
+569,"Ford, Gonzales and Munoz",5026203,0.17793408765154872,0.5016633595327071,Financeiro,América do Norte,26,0,0.4539261364217959,S.A.,Alta,Orgânica,Centralizada,Ampla,Inicial,Média,Conservadora,Ruim,0,0,0
+570,Saunders Ltd,523570,-0.1760685638425893,2.4328606155918187,Saúde,Ásia,48,1,0.5069996201433474,Limitada,Média,Orgânica,Decentralizada,Nenhuma,Avançada,Alta,Neutra,Boa,1,0,0
+571,Blake PLC,2473139,0.49068508625001306,0.6483681922114498,Saúde,Europa,26,1,0.5721719617837697,MEI,Baixa,Parcerias,Centralizada,Ampla,Intermediária,Alta,Conservadora,Regular,0,0,0
+572,Roy and Sons,5321816,-0.11392043402926132,2.445885083176883,Financeiro,Europa,23,0,0.9323481416337108,S.A.,Alta,Parcerias,Decentralizada,Nenhuma,Avançada,Alta,Neutra,Boa,1,1,0
+573,Chen-Austin,9346766,-0.0382083613006474,1.376590495658232,Manufatura,América do Norte,43,1,0.8582067909770298,Limitada,Baixa,Aquisições,Decentralizada,Nenhuma,Avançada,Média,Neutra,Ruim,0,0,0
+574,Franklin-Henderson,2214792,-0.16381221393093115,0.4258937129534491,Saúde,América Latina,13,0,0.17060112462164434,Limitada,Média,Parcerias,Centralizada,Ampla,Intermediária,Fraca,Inovadora,Excelente,1,1,0
+575,Scott and Sons,8541136,0.24800207678583955,0.3383252866088631,Saúde,América Latina,28,1,0.436757817847075,S.A.,Alta,Aquisições,Decentralizada,Ampla,Avançada,Alta,Neutra,Boa,0,0,0
+576,Lucas-Saunders,1973421,-0.042709176119124025,0.6012737696937759,Saúde,América do Norte,9,1,0.4640004281964263,S.A.,Baixa,Aquisições,Decentralizada,Ampla,Intermediária,Alta,Conservadora,Ruim,0,0,0
+577,"Conrad, Price and Park",6650670,-0.07399269376909358,2.3215295920608057,Manufatura,América do Norte,20,1,0.7890961116487567,Multinacional,Baixa,Parcerias,Decentralizada,Nenhuma,Inicial,Alta,Inovadora,Ruim,1,0,0
+578,Thompson and Sons,6181950,-0.13801109104373105,1.0939605383877442,Manufatura,Europa,19,1,0.6028928826054353,MEI,Média,Aquisições,Centralizada,Básica,Avançada,Fraca,Conservadora,Ruim,0,0,0
+579,Wilson and Sons,7025877,-0.12768373001318906,1.0490422431829944,Financeiro,América Latina,48,0,0.654220462029013,Multinacional,Média,Orgânica,Centralizada,Básica,Inicial,Fraca,Inovadora,Boa,0,1,0
+580,"Rodriguez, Pruitt and Bentley",9905685,0.20926949030981207,0.8516950265684177,Manufatura,América do Norte,39,1,0.9981999076656176,Limitada,Alta,Aquisições,Centralizada,Ampla,Avançada,Alta,Conservadora,Ruim,0,0,0
+581,Mccarthy-Brooks,6067106,0.28174550610661675,0.4529484413598121,Manufatura,América do Norte,12,1,0.07496004347001306,S.A.,Baixa,Orgânica,Centralizada,Básica,Avançada,Fraca,Inovadora,Regular,1,0,0
+582,Hernandez-Burke,5218922,0.07816529192508068,1.2708428732617754,Tecnologia,Ásia,15,0,0.223009823533733,Multinacional,Baixa,Parcerias,Decentralizada,Básica,Inicial,Alta,Conservadora,Ruim,1,1,0
+583,Benson Ltd,7277545,0.13592795711445121,0.41211467802673285,Financeiro,América do Norte,31,1,0.40789593737154684,Limitada,Média,Parcerias,Decentralizada,Ampla,Avançada,Fraca,Conservadora,Regular,0,0,0
+584,"White, Campbell and Roy",5222783,0.2801774151880888,2.105152567317586,Saúde,América do Norte,14,0,0.3477824030488872,MEI,Média,Aquisições,Decentralizada,Nenhuma,Avançada,Média,Neutra,Excelente,1,0,0
+585,Flynn and Sons,5628983,-0.18783414687016425,0.9889527670607355,Manufatura,América Latina,11,0,0.02164556134698359,S.A.,Alta,Orgânica,Decentralizada,Ampla,Inicial,Média,Inovadora,Regular,1,1,0
+586,Stephens-Weber,260775,0.02619145994919496,0.9995285626763112,Saúde,Europa,26,1,0.09177760647117583,Multinacional,Baixa,Aquisições,Decentralizada,Básica,Avançada,Fraca,Inovadora,Excelente,1,0,1
+587,Wright and Sons,7449369,0.48116842364924245,1.2376154283595742,Saúde,América Latina,42,1,0.6809532914035762,MEI,Baixa,Parcerias,Decentralizada,Nenhuma,Intermediária,Média,Neutra,Excelente,0,0,0
+588,"Leon, Evans and Sanders",2767867,0.2060785607868276,1.1659065115978038,Tecnologia,Europa,27,0,0.8793244633625606,Multinacional,Alta,Aquisições,Centralizada,Básica,Avançada,Média,Conservadora,Regular,0,0,0
+589,Anderson-Wells,6755623,-0.022042794071754745,2.487659135342372,Manufatura,Ásia,11,0,0.5142270112659776,Limitada,Alta,Aquisições,Decentralizada,Nenhuma,Avançada,Média,Conservadora,Excelente,1,1,0
+590,"Taylor, Martinez and Jones",7786841,0.16521103264534917,1.408914690923926,Financeiro,América do Norte,38,0,0.539191079513633,MEI,Média,Orgânica,Decentralizada,Básica,Avançada,Alta,Inovadora,Regular,0,0,0
+591,"Hoffman, Reyes and Clark",7078737,0.03985744168464071,0.3116840890956897,Manufatura,Ásia,34,1,0.2550934328323794,Multinacional,Média,Parcerias,Decentralizada,Ampla,Inicial,Fraca,Conservadora,Boa,1,0,0
+592,Pierce-Grimes,1444027,0.17257149217840934,1.5565056197846319,Saúde,Europa,43,0,0.7678763636337114,MEI,Alta,Aquisições,Centralizada,Básica,Intermediária,Fraca,Inovadora,Excelente,0,0,0
+593,Garrett-Powell,4266500,-0.11198094173534584,0.4638023028877119,Financeiro,América Latina,19,0,0.7517945873672564,Limitada,Alta,Orgânica,Decentralizada,Básica,Intermediária,Fraca,Inovadora,Regular,0,1,0
+594,Morgan-Mckinney,7567048,-0.10709974232650585,0.17425034735522074,Manufatura,América Latina,6,0,0.5883656892176566,MEI,Baixa,Aquisições,Decentralizada,Nenhuma,Avançada,Média,Conservadora,Excelente,0,1,0
+595,Wilson-Jones,9279875,-0.09952034657242502,2.4297811688253956,Saúde,Ásia,46,1,0.21266428651134284,Multinacional,Alta,Orgânica,Centralizada,Básica,Inicial,Alta,Conservadora,Ruim,1,0,0
+596,"Medina, Leonard and Wells",7984479,0.45787385434878913,1.9564933396829534,Saúde,Europa,38,0,0.09701821823708945,Limitada,Alta,Orgânica,Decentralizada,Ampla,Inicial,Fraca,Conservadora,Regular,1,0,0
+597,Spence Inc,597562,0.31302924283893924,2.4522615817930404,Tecnologia,Ásia,49,1,0.06423857585712589,S.A.,Baixa,Aquisições,Centralizada,Ampla,Intermediária,Média,Neutra,Ruim,1,0,0
+598,"Flores, Estrada and Rogers",4678238,-0.08633267373637539,1.2469082752533818,Tecnologia,Ásia,42,1,0.5926960666428778,Multinacional,Alta,Parcerias,Centralizada,Ampla,Inicial,Alta,Inovadora,Excelente,0,0,0
+599,"Powers, Miller and Robinson",4137776,-0.068155641364079,1.3774180747575426,Tecnologia,América do Norte,28,0,0.8250353191428,Multinacional,Média,Parcerias,Decentralizada,Nenhuma,Avançada,Alta,Conservadora,Excelente,0,1,0
+600,King-Hebert,4110912,0.3115806324096134,0.5040086942059125,Saúde,Ásia,1,1,0.8583304317809248,Limitada,Média,Orgânica,Decentralizada,Nenhuma,Avançada,Fraca,Neutra,Boa,0,0,1
+601,"King, Torres and Lopez",4611732,-0.09068530864547826,0.6925778240022054,Manufatura,América do Norte,35,0,0.4636220743434498,Limitada,Baixa,Parcerias,Centralizada,Básica,Inicial,Fraca,Conservadora,Regular,0,1,0
+602,"Garcia, White and Hughes",5662067,-0.03580709466561995,2.1125181157667874,Tecnologia,América do Norte,40,1,0.7842712993067169,S.A.,Alta,Orgânica,Decentralizada,Básica,Avançada,Média,Inovadora,Ruim,1,0,0
+603,Sullivan-Adams,5337196,0.47434278297427923,0.954845553082226,Manufatura,América Latina,8,1,0.9468801963410236,Multinacional,Média,Parcerias,Decentralizada,Básica,Intermediária,Fraca,Neutra,Boa,0,0,0
+604,Perez Ltd,4985211,-0.02128543269009773,2.0843559371114053,Tecnologia,América do Norte,47,0,0.275170112488068,Limitada,Média,Aquisições,Centralizada,Nenhuma,Avançada,Média,Inovadora,Excelente,1,1,0
+605,Knight Ltd,6226319,0.2631426452598027,1.8016329382888763,Financeiro,América do Norte,7,0,0.39796034638075717,S.A.,Média,Parcerias,Centralizada,Nenhuma,Inicial,Alta,Conservadora,Excelente,1,0,0
+606,Sanford-Haley,1700396,0.4850419011803712,0.5252102206524772,Financeiro,América Latina,11,0,0.9314789925966807,S.A.,Média,Orgânica,Decentralizada,Básica,Intermediária,Alta,Conservadora,Boa,0,0,0
+607,Page PLC,3411149,0.06200773699785483,1.3178712786873812,Tecnologia,Ásia,39,1,0.33823096731728486,Limitada,Alta,Orgânica,Centralizada,Nenhuma,Avançada,Alta,Conservadora,Ruim,1,0,0
+608,Campos LLC,8611010,-0.18773880639655643,1.7257295716449204,Saúde,Europa,4,1,0.9138762903217963,Multinacional,Alta,Parcerias,Decentralizada,Nenhuma,Intermediária,Alta,Neutra,Excelente,0,0,1
+609,Branch and Sons,9655196,-0.029096896704338036,0.6640893155291803,Tecnologia,Europa,25,0,0.9810448622544657,MEI,Alta,Aquisições,Decentralizada,Ampla,Inicial,Fraca,Neutra,Excelente,0,1,0
+610,"Brown, Phillips and Rivera",2596081,0.3816140339391938,2.0936524252481843,Tecnologia,Europa,12,0,0.6618107285744247,MEI,Alta,Orgânica,Decentralizada,Ampla,Avançada,Fraca,Neutra,Regular,1,0,0
+611,"Wong, Gomez and Diaz",675278,0.40522618516852565,1.4075863781084483,Saúde,Ásia,26,1,0.8168902895041683,S.A.,Média,Orgânica,Decentralizada,Básica,Avançada,Média,Neutra,Boa,0,0,0
+612,Jensen Inc,5287480,0.33796355516665383,0.49658092106224766,Financeiro,América do Norte,38,1,0.7495455642210852,MEI,Baixa,Orgânica,Centralizada,Básica,Intermediária,Média,Conservadora,Excelente,0,0,0
+613,Gonzalez Ltd,1278049,-0.1208231266463989,1.4991626227950459,Manufatura,Europa,46,1,0.6995342576155238,MEI,Baixa,Orgânica,Decentralizada,Ampla,Avançada,Média,Conservadora,Ruim,0,0,0
+614,Morales-Ferguson,3180201,0.35685726018748215,2.4993131299741935,Tecnologia,Ásia,12,0,0.30693107298123257,Limitada,Média,Orgânica,Centralizada,Nenhuma,Avançada,Média,Conservadora,Regular,1,0,0
+615,Hardy-Holmes,7236029,0.4430744578954529,0.4612515799921925,Saúde,América do Norte,43,1,0.057094337907943715,S.A.,Média,Aquisições,Decentralizada,Básica,Avançada,Média,Neutra,Boa,1,0,0
+616,Ray Ltd,3564442,0.22042667978236524,2.0602166322868674,Tecnologia,América Latina,37,0,0.3430517325196506,Multinacional,Baixa,Parcerias,Decentralizada,Básica,Avançada,Alta,Neutra,Ruim,1,0,0
+617,"Miller, Phelps and Smith",9763340,0.4586127494366453,0.5975416076501391,Saúde,Europa,46,1,0.6669359852039066,S.A.,Baixa,Aquisições,Centralizada,Básica,Inicial,Alta,Conservadora,Excelente,0,0,0
+618,Pearson PLC,3414692,0.37878721859831416,1.9777319907042095,Manufatura,América do Norte,24,1,0.10252919822780138,Limitada,Média,Aquisições,Decentralizada,Nenhuma,Avançada,Alta,Conservadora,Boa,1,0,0
+619,Molina-Miller,4819607,0.26688006189363506,1.8629870154913917,Manufatura,Europa,16,0,0.011917982978242092,MEI,Média,Orgânica,Centralizada,Ampla,Intermediária,Média,Neutra,Boa,1,0,0
+620,Fox-Morrow,6385088,0.20402966569822367,0.8211745254410376,Financeiro,Europa,13,0,0.13969237260293865,Multinacional,Alta,Aquisições,Centralizada,Básica,Inicial,Alta,Inovadora,Ruim,1,0,0
+621,"Henderson, Collins and Fry",1210389,0.044001567069379306,0.8819754821546796,Saúde,Europa,25,0,0.7157359264107953,S.A.,Alta,Orgânica,Decentralizada,Ampla,Intermediária,Alta,Conservadora,Boa,0,1,0
+622,Hernandez-Larsen,8516320,-0.08849878833003642,2.002051340711006,Saúde,América do Norte,4,1,0.972793701656444,MEI,Baixa,Aquisições,Decentralizada,Ampla,Intermediária,Alta,Conservadora,Ruim,1,0,1
+623,Manning-Chase,4012942,0.22346774588337853,1.2074692285295503,Financeiro,Ásia,11,1,0.9830646996148205,S.A.,Média,Orgânica,Decentralizada,Nenhuma,Intermediária,Alta,Conservadora,Excelente,0,0,0
+624,Steele-Dodson,8601424,0.02267808753268362,1.853963268908341,Financeiro,América do Norte,32,1,0.4939791491401879,Multinacional,Baixa,Orgânica,Decentralizada,Nenhuma,Inicial,Fraca,Neutra,Regular,1,0,0
+625,"Johnson, Stewart and Lee",7568810,0.40650706726935176,0.45516195367800344,Saúde,Europa,49,0,0.8693523009923474,S.A.,Alta,Aquisições,Centralizada,Nenhuma,Inicial,Média,Conservadora,Ruim,0,0,0
+626,Adams and Sons,1735156,0.49533585615103987,2.1461386765637283,Financeiro,América do Norte,7,1,0.7368264557515041,S.A.,Alta,Aquisições,Decentralizada,Nenhuma,Inicial,Média,Conservadora,Regular,1,0,0
+627,Hull-Hancock,8623838,0.3266994338309007,1.806123320037566,Manufatura,América Latina,46,0,0.5010402369846034,S.A.,Baixa,Parcerias,Decentralizada,Nenhuma,Avançada,Fraca,Conservadora,Boa,1,0,0
+628,"Reilly, Farrell and Bryant",5101045,-0.1366628132990645,2.276662741203601,Tecnologia,Ásia,11,0,0.5727605329550868,MEI,Alta,Parcerias,Decentralizada,Nenhuma,Intermediária,Alta,Conservadora,Ruim,1,1,0
+629,Norton Inc,4563418,0.0020799168714466503,0.4176937096839339,Manufatura,América do Norte,28,0,0.13722714661687108,Multinacional,Média,Parcerias,Decentralizada,Básica,Inicial,Alta,Conservadora,Excelente,1,1,0
+630,Zhang-Harris,9871802,-0.1236232577639752,1.5232348008654344,Financeiro,América Latina,41,1,0.9376614606165921,Multinacional,Baixa,Aquisições,Decentralizada,Ampla,Intermediária,Alta,Inovadora,Ruim,0,0,0
+631,Warner-Woods,4445760,0.255358153454201,1.5378894040967803,Saúde,Ásia,23,1,0.3519297707317768,MEI,Média,Aquisições,Centralizada,Nenhuma,Inicial,Média,Inovadora,Ruim,1,0,0
+632,West-Lee,7253768,0.3356336051890492,0.9483057773122778,Saúde,América Latina,45,0,0.4461492564571695,MEI,Média,Orgânica,Decentralizada,Básica,Inicial,Média,Conservadora,Ruim,0,0,0
+633,"Martin, Perez and Brown",3351298,0.4479723816164982,1.2003194189662187,Manufatura,Ásia,23,1,0.6716602309978987,MEI,Alta,Parcerias,Centralizada,Ampla,Inicial,Média,Conservadora,Regular,0,0,0
+634,Murphy PLC,4565150,0.10672064248839133,0.19115575189564832,Saúde,América do Norte,28,0,0.33390247152655395,Limitada,Média,Orgânica,Decentralizada,Nenhuma,Intermediária,Média,Conservadora,Regular,1,0,0
+635,"Higgins, Martin and Park",8489012,0.43096295471191093,1.8900640927048287,Financeiro,América Latina,43,0,0.25425916098893053,S.A.,Baixa,Orgânica,Decentralizada,Nenhuma,Avançada,Média,Conservadora,Boa,1,0,0
+636,"Hart, Robinson and Jones",7349903,0.41452381132892924,1.4183739505676176,Manufatura,Europa,47,1,0.6310493932702206,S.A.,Média,Orgânica,Decentralizada,Básica,Inicial,Fraca,Neutra,Boa,0,0,0
+637,Ross LLC,4997590,0.02203700173577899,0.23857852448601707,Saúde,América Latina,26,0,0.02498408228184945,Multinacional,Média,Orgânica,Centralizada,Ampla,Inicial,Média,Neutra,Boa,1,1,0
+638,Collins-Thomas,6289573,0.4082304378783997,1.7338141431051652,Tecnologia,Ásia,25,0,0.7207251120266789,S.A.,Média,Parcerias,Decentralizada,Nenhuma,Inicial,Alta,Neutra,Boa,0,0,0
+639,Nelson-Davis,1423483,0.06297057631720851,1.220276985354851,Tecnologia,América do Norte,29,1,0.5140233698765098,Limitada,Média,Orgânica,Centralizada,Ampla,Avançada,Média,Inovadora,Ruim,0,0,0
+640,Jones-Perkins,1822320,0.007808492192196524,0.18270702262,Financeiro,Ásia,19,0,0.6057537305209344,MEI,Média,Aquisições,Centralizada,Básica,Intermediária,Fraca,Conservadora,Regular,0,1,0
+641,Nguyen Group,2432517,0.2543522611560751,2.427058544435429,Saúde,América Latina,33,0,0.6318801592468851,Multinacional,Alta,Aquisições,Decentralizada,Nenhuma,Intermediária,Alta,Neutra,Regular,1,0,0
+642,Morales-Brewer,3296340,0.029866859519556716,2.377869143414657,Financeiro,América Latina,36,0,0.5270501564925637,Multinacional,Baixa,Aquisições,Centralizada,Ampla,Intermediária,Fraca,Conservadora,Regular,1,1,0
+643,Jordan Group,8651881,0.2411461238304009,1.3309657987532741,Manufatura,Europa,14,0,0.582533777440736,S.A.,Alta,Parcerias,Decentralizada,Básica,Intermediária,Alta,Conservadora,Regular,0,0,0
+644,Holmes Ltd,5487408,0.22688226384908614,0.3248138096941845,Tecnologia,América do Norte,14,0,0.6837882008898746,Multinacional,Baixa,Orgânica,Decentralizada,Básica,Inicial,Média,Inovadora,Boa,0,0,0
+645,"Fitzgerald, Gay and Chase",5792493,0.19440724914392113,1.9110909318366203,Manufatura,América do Norte,35,0,0.7531188471796741,MEI,Baixa,Parcerias,Centralizada,Nenhuma,Avançada,Fraca,Inovadora,Ruim,1,0,0
+646,Fisher LLC,8347752,0.06629379296295836,1.2806346402537496,Saúde,América Latina,30,0,0.7274523912861205,Multinacional,Baixa,Orgânica,Decentralizada,Ampla,Inicial,Alta,Neutra,Regular,0,1,0
+647,Fisher-Jones,1187341,0.1839498051560337,0.8258739478945117,Financeiro,América do Norte,28,1,0.8696164577322617,MEI,Baixa,Parcerias,Decentralizada,Nenhuma,Avançada,Média,Neutra,Excelente,0,0,0
+648,"Martin, Gray and Farrell",6295200,0.21753983248979508,1.2794036260685362,Financeiro,Europa,17,1,0.18944343316740275,Limitada,Baixa,Parcerias,Centralizada,Nenhuma,Intermediária,Alta,Inovadora,Ruim,1,0,0
+649,Sellers-Salas,4077266,0.18198082194683135,1.3538659489731146,Financeiro,Ásia,3,0,0.40114796949179754,Limitada,Média,Orgânica,Centralizada,Ampla,Avançada,Fraca,Inovadora,Excelente,0,0,1
+650,Faulkner-Bond,5658956,0.11109361692584105,1.4505080776536141,Manufatura,América do Norte,16,0,0.9477960660144571,MEI,Alta,Parcerias,Centralizada,Ampla,Inicial,Fraca,Conservadora,Ruim,0,0,0
+651,Cooley and Sons,3131756,-0.18973306006761534,1.1589369127727835,Tecnologia,América Latina,46,1,0.3965905743863297,S.A.,Alta,Orgânica,Centralizada,Ampla,Inicial,Fraca,Conservadora,Ruim,1,0,0
+652,Norman PLC,943523,0.21094319539080564,1.553812727533736,Manufatura,Ásia,30,1,0.12487007690592267,Multinacional,Média,Aquisições,Centralizada,Básica,Intermediária,Fraca,Neutra,Ruim,1,0,0
+653,Castro-Anderson,9034845,-0.08208893040009627,2.3049633054553054,Manufatura,Ásia,29,1,0.5254451263621795,S.A.,Baixa,Aquisições,Centralizada,Básica,Inicial,Média,Neutra,Excelente,1,0,0
+654,Hernandez-Harris,4140479,0.2498031782630327,0.9694434090366187,Saúde,Europa,45,1,0.10949097255446216,Multinacional,Alta,Aquisições,Decentralizada,Ampla,Inicial,Alta,Inovadora,Regular,1,0,0
+655,Lopez-Robertson,192193,0.33154102954600617,1.8417195117278777,Saúde,América Latina,15,1,0.2028532387278652,Limitada,Média,Parcerias,Centralizada,Básica,Avançada,Média,Neutra,Regular,1,0,1
+656,Mullins-Williams,1286887,0.150311716391519,2.246686136378157,Saúde,América do Norte,46,0,0.9983187565709567,Limitada,Média,Aquisições,Centralizada,Nenhuma,Inicial,Fraca,Conservadora,Excelente,1,0,0
+657,Pena PLC,8996761,0.1796545654858168,1.1943502618238486,Tecnologia,América Latina,25,1,0.541362638396132,Limitada,Alta,Orgânica,Decentralizada,Ampla,Intermediária,Alta,Inovadora,Regular,0,0,0
+658,Brown-Schroeder,3434817,0.46603499176619373,1.1642940073165697,Tecnologia,Ásia,38,1,0.284058389040429,Multinacional,Alta,Aquisições,Decentralizada,Nenhuma,Intermediária,Fraca,Conservadora,Boa,1,0,0
+659,Simpson LLC,2815514,0.3930171529608019,1.5450807648514708,Saúde,América Latina,42,1,0.9947749545739061,Limitada,Baixa,Aquisições,Centralizada,Ampla,Inicial,Média,Inovadora,Regular,0,0,0
+660,Meyers and Sons,2758571,0.4399655611660289,1.5193762226139713,Saúde,América do Norte,47,0,0.9665589185551432,Limitada,Baixa,Parcerias,Centralizada,Nenhuma,Intermediária,Média,Inovadora,Boa,0,0,0
+661,Parker Ltd,4934357,0.36963640182371044,2.0358144215830647,Tecnologia,América do Norte,38,0,0.44073904108426354,Limitada,Alta,Orgânica,Decentralizada,Ampla,Avançada,Média,Conservadora,Boa,1,0,0
+662,Miller Inc,7202173,-0.12375716070728801,1.2435601210679024,Financeiro,Europa,23,0,0.2604031087879084,Limitada,Baixa,Parcerias,Centralizada,Nenhuma,Avançada,Alta,Neutra,Boa,1,1,0
+663,Riley-Landry,4992472,-0.09570570082086371,2.4906950791346585,Tecnologia,América do Norte,25,0,0.83839963809219,S.A.,Média,Parcerias,Centralizada,Ampla,Inicial,Alta,Neutra,Excelente,1,1,0
+664,"Logan, Bright and Dunlap",581680,0.16863665808827166,0.24273176528147386,Tecnologia,América do Norte,42,0,0.7156207169717858,Limitada,Baixa,Orgânica,Decentralizada,Ampla,Inicial,Fraca,Neutra,Regular,0,0,0
+665,Richardson Inc,5265679,-0.02775123884140125,0.10760283659368418,Tecnologia,América Latina,7,0,0.6869414350035103,Limitada,Baixa,Parcerias,Centralizada,Básica,Avançada,Alta,Neutra,Regular,0,1,0
+666,"Watson, Faulkner and Roth",6280142,0.1336868325288114,1.636475947743097,Saúde,América Latina,22,1,0.8931137413224726,S.A.,Média,Orgânica,Decentralizada,Nenhuma,Intermediária,Alta,Conservadora,Excelente,0,0,0
+667,"Lin, Hendricks and Martinez",5387118,0.07605572667284512,0.8162437896685041,Financeiro,Ásia,17,0,0.6894171338713246,S.A.,Baixa,Aquisições,Centralizada,Básica,Inicial,Média,Inovadora,Excelente,0,1,0
+668,"Doyle, Gibson and Allison",4200673,0.1845899669013173,0.6769177328787611,Tecnologia,Europa,18,0,0.28379794304154915,Multinacional,Média,Orgânica,Decentralizada,Nenhuma,Inicial,Fraca,Conservadora,Regular,1,0,0
+669,Cruz PLC,1634026,0.32281300129507584,0.848557792010273,Saúde,América Latina,49,1,0.6938631618757323,MEI,Baixa,Orgânica,Decentralizada,Básica,Intermediária,Média,Neutra,Excelente,0,0,0
+670,Martinez and Sons,8804434,0.30084363496949207,0.7145141562518903,Manufatura,América do Norte,41,0,0.30581351128366396,Limitada,Alta,Orgânica,Decentralizada,Ampla,Inicial,Fraca,Neutra,Excelente,1,0,0
+671,Garcia-Nichols,3567366,0.164863892739734,0.17389611918507483,Manufatura,Ásia,10,1,0.759238979656995,Limitada,Baixa,Parcerias,Centralizada,Básica,Intermediária,Fraca,Conservadora,Boa,0,0,0
+672,"Clark, Costa and Henry",427359,0.3756753931719406,2.4316793017374128,Tecnologia,América Latina,10,1,0.619747854491566,Limitada,Alta,Orgânica,Decentralizada,Básica,Intermediária,Alta,Inovadora,Excelente,1,0,1
+673,"Fitzgerald, Leon and Martinez",417537,0.10160346407662331,0.6297891722866762,Manufatura,Europa,7,0,0.07741155198475058,Multinacional,Alta,Orgânica,Centralizada,Ampla,Intermediária,Média,Conservadora,Boa,1,0,1
+674,Johnston-Castaneda,7053757,0.4277000028880856,1.8616714302143351,Financeiro,Europa,48,1,0.512835362435142,Limitada,Alta,Orgânica,Decentralizada,Básica,Intermediária,Alta,Conservadora,Ruim,1,0,0
+675,Oconnor PLC,650222,-0.15010381096138528,1.9302313472660206,Manufatura,Ásia,38,1,0.34330096919574093,MEI,Alta,Aquisições,Decentralizada,Ampla,Intermediária,Alta,Conservadora,Boa,1,0,0
+676,Hayes-Zimmerman,5075026,0.46826202102331516,2.33021775521735,Manufatura,Ásia,27,1,0.32857063273229425,S.A.,Alta,Orgânica,Decentralizada,Nenhuma,Avançada,Alta,Inovadora,Boa,1,0,0
+677,"Noble, Davis and Carpenter",7895134,0.2582851570019437,0.17331869702411193,Financeiro,Ásia,33,1,0.6022563023772572,Multinacional,Média,Parcerias,Centralizada,Básica,Intermediária,Fraca,Conservadora,Excelente,0,0,0
+678,"Hansen, Burton and Black",2673619,0.06605215625604367,2.192916012272818,Tecnologia,Ásia,1,0,0.3223248244694249,S.A.,Média,Orgânica,Centralizada,Ampla,Avançada,Média,Conservadora,Regular,1,1,1
+679,Diaz Ltd,2553752,-0.06199211139898588,1.3653428340155205,Tecnologia,Ásia,44,1,0.7768937482048727,Limitada,Média,Orgânica,Decentralizada,Ampla,Intermediária,Média,Neutra,Ruim,0,0,0
+680,"Beard, Taylor and Mathis",9852741,0.1354282606105199,1.6181058639179868,Financeiro,América do Norte,34,0,0.07079143601117444,Limitada,Alta,Aquisições,Centralizada,Básica,Inicial,Alta,Conservadora,Ruim,1,0,0
+681,Henderson and Sons,7365760,-0.06380917377028934,1.6467286650904807,Financeiro,América do Norte,4,1,0.6603882523958254,Limitada,Baixa,Orgânica,Centralizada,Nenhuma,Avançada,Fraca,Neutra,Ruim,0,0,1
+682,Ryan-Martin,1453038,-0.08356787457980051,2.067514731963346,Financeiro,América Latina,17,1,0.8091948036567412,MEI,Média,Parcerias,Centralizada,Básica,Inicial,Média,Neutra,Regular,1,0,0
+683,"Galvan, Ross and Davis",8739483,0.2321462301890819,0.9001775731818652,Manufatura,Europa,4,1,0.6728316899204301,MEI,Baixa,Orgânica,Decentralizada,Ampla,Intermediária,Média,Neutra,Ruim,0,0,1
+684,Brandt Ltd,4757693,0.16615930720724925,1.859322855663984,Financeiro,América do Norte,43,0,0.49722919501999574,Multinacional,Baixa,Parcerias,Centralizada,Nenhuma,Intermediária,Alta,Inovadora,Ruim,1,0,0
+685,Johnson-Chapman,4364694,0.26906722422765916,1.368587463333273,Saúde,América do Norte,26,0,0.9503070137361812,S.A.,Alta,Aquisições,Decentralizada,Básica,Inicial,Fraca,Neutra,Regular,0,0,0
+686,Dyer-Curtis,807689,0.4507241141953924,2.0041456343328345,Manufatura,América do Norte,4,0,0.2999384897980636,Limitada,Alta,Orgânica,Decentralizada,Ampla,Intermediária,Alta,Conservadora,Ruim,1,0,1
+687,Johnson-Schneider,1396516,0.17258214933732807,2.47731047864832,Tecnologia,América Latina,1,1,0.019167887524977778,Limitada,Alta,Aquisições,Decentralizada,Básica,Inicial,Média,Conservadora,Excelente,1,0,1
+688,"Simmons, Pope and Munoz",3563351,0.20665243728395838,0.5815624417690269,Tecnologia,Ásia,7,1,0.43198937146344085,Limitada,Média,Orgânica,Centralizada,Nenhuma,Intermediária,Fraca,Neutra,Excelente,0,0,0
+689,Tate-Evans,9753648,-0.13726156259154054,2.4871567397439946,Tecnologia,América Latina,30,1,0.03301193590032725,Limitada,Alta,Parcerias,Decentralizada,Nenhuma,Intermediária,Alta,Neutra,Boa,1,0,0
+690,Hawkins Ltd,1954971,0.3023450501360406,0.3155491702786576,Manufatura,Europa,9,1,0.9539367525264087,MEI,Média,Aquisições,Centralizada,Nenhuma,Avançada,Média,Conservadora,Boa,0,0,0
+691,Phillips Group,9138807,0.07993364476290932,0.10556211497155328,Saúde,Europa,35,0,0.2099180457480515,S.A.,Média,Orgânica,Centralizada,Nenhuma,Inicial,Alta,Neutra,Boa,1,1,0
+692,Fernandez PLC,1949396,0.48370766706380514,0.20598864682679502,Financeiro,Europa,8,1,0.7889270239488795,S.A.,Média,Parcerias,Decentralizada,Nenhuma,Intermediária,Alta,Inovadora,Excelente,0,0,0
+693,Pittman-Williams,2791276,0.37622181091696216,0.9202777713682281,Financeiro,Europa,24,0,0.7745720831743649,Multinacional,Média,Aquisições,Decentralizada,Básica,Inicial,Alta,Neutra,Excelente,0,0,0
+694,Smith Group,9117469,0.16573672836128278,1.618975193628242,Tecnologia,América do Norte,19,1,0.21772889968293352,MEI,Alta,Orgânica,Decentralizada,Nenhuma,Avançada,Fraca,Inovadora,Excelente,1,0,0
+695,"Hughes, Oconnor and Christensen",2626954,-0.11374414207948379,0.2656708981308391,Tecnologia,América do Norte,36,0,0.6212265304801673,Limitada,Média,Aquisições,Centralizada,Nenhuma,Inicial,Média,Inovadora,Boa,0,1,0
+696,Acosta and Sons,6649546,0.40159105529641237,0.11359795487096146,Manufatura,América Latina,43,0,0.04807896848645021,S.A.,Alta,Orgânica,Centralizada,Ampla,Avançada,Média,Inovadora,Boa,1,0,0
+697,Duncan-Taylor,8107407,0.3598467667968151,2.3490184683011073,Saúde,Ásia,27,1,0.48357458570386747,S.A.,Alta,Parcerias,Decentralizada,Nenhuma,Inicial,Média,Neutra,Boa,1,0,0
+698,Jones PLC,7485034,-0.07079040932407693,2.0726239262558313,Financeiro,Europa,32,1,0.014647127272486737,MEI,Média,Parcerias,Decentralizada,Ampla,Inicial,Média,Inovadora,Boa,1,0,0
+699,Rice-Archer,7163410,0.006694802454217028,2.0420396107336742,Manufatura,América Latina,14,0,0.9211438801808418,Multinacional,Alta,Aquisições,Centralizada,Ampla,Avançada,Fraca,Inovadora,Boa,1,1,0
+700,"Castro, Hammond and Swanson",9150222,0.35538508070348607,2.222618261204745,Financeiro,América do Norte,18,1,0.9760860241995717,Multinacional,Baixa,Aquisições,Centralizada,Ampla,Intermediária,Alta,Neutra,Boa,1,0,0
+701,"Barnett, Hernandez and Willis",8101482,-0.07034008741681326,1.7800822546530506,Tecnologia,América do Norte,28,1,0.22228276663858526,Limitada,Alta,Orgânica,Decentralizada,Básica,Intermediária,Média,Inovadora,Excelente,1,0,0
+702,Short Group,9155605,0.44242674241996405,0.35056991139539545,Financeiro,Ásia,29,0,0.20810603459637278,Multinacional,Alta,Parcerias,Centralizada,Básica,Intermediária,Fraca,Neutra,Regular,1,0,0
+703,Levy-Turner,1172647,0.09716919763745328,1.0578404513769353,Saúde,Ásia,16,0,0.7537201765621296,S.A.,Média,Orgânica,Centralizada,Ampla,Inicial,Alta,Conservadora,Regular,0,1,0
+704,"Daniel, Johnson and Peterson",1731107,-0.13907272618863897,1.8355587675151108,Saúde,Ásia,35,0,0.25337939882933447,Multinacional,Média,Parcerias,Centralizada,Básica,Inicial,Fraca,Inovadora,Boa,1,1,0
+705,Johnson-Horton,9517063,0.3710240504529966,0.7728027058996502,Tecnologia,América Latina,47,0,0.895076559161845,Limitada,Alta,Aquisições,Centralizada,Nenhuma,Intermediária,Fraca,Neutra,Regular,0,0,0
+706,"Mcintyre, Fox and Burke",5206563,0.061456778126871295,1.74977527392697,Saúde,América do Norte,31,1,0.5739291361229822,S.A.,Média,Orgânica,Centralizada,Básica,Inicial,Média,Conservadora,Regular,0,0,0
+707,Collins-Cooper,8334679,0.16854943590764665,0.15879627584236564,Saúde,América do Norte,4,0,0.3507776230103121,Multinacional,Baixa,Orgânica,Centralizada,Nenhuma,Inicial,Média,Inovadora,Excelente,1,0,1
+708,Garcia-Steele,6563768,-0.1213869589121466,0.8347296181110236,Manufatura,Ásia,37,0,0.8326937463494201,Multinacional,Baixa,Parcerias,Decentralizada,Nenhuma,Intermediária,Alta,Inovadora,Boa,0,1,0
+709,Oconnor Ltd,9794402,-0.19819118960851234,1.4179128070652143,Financeiro,Europa,17,0,0.4934067004133952,MEI,Média,Parcerias,Centralizada,Básica,Avançada,Alta,Neutra,Boa,0,1,0
+710,"Taylor, Giles and Wilson",5706594,0.2465896440553083,1.6170155908149815,Tecnologia,Ásia,39,1,0.9116329137084755,Limitada,Alta,Parcerias,Decentralizada,Básica,Inicial,Média,Conservadora,Regular,0,0,0
+711,Walker and Sons,2050367,0.1606226192336121,1.4848975947085858,Tecnologia,América Latina,48,0,0.928014236729381,Multinacional,Baixa,Aquisições,Decentralizada,Ampla,Inicial,Fraca,Neutra,Boa,0,0,0
+712,Cross-Watts,2010705,0.215476998386203,1.7746150625762307,Tecnologia,Ásia,46,1,0.16542015212840933,MEI,Baixa,Orgânica,Centralizada,Básica,Inicial,Média,Inovadora,Boa,1,0,0
+713,Ballard-Romero,1701596,0.35562069526636136,0.11461299577561378,Tecnologia,Ásia,26,0,0.0023234061319302723,S.A.,Alta,Parcerias,Decentralizada,Básica,Inicial,Alta,Inovadora,Boa,1,0,0
+714,Frazier-Jacobs,3891481,0.25262413939600203,0.3422588799460516,Tecnologia,América Latina,48,0,0.9839309401424022,MEI,Média,Aquisições,Decentralizada,Básica,Avançada,Fraca,Inovadora,Boa,0,0,0
+715,"Rodriguez, Curtis and Martinez",5223122,-0.077658590020836,2.185466205469948,Saúde,Ásia,39,1,0.9061375361274794,MEI,Baixa,Parcerias,Decentralizada,Nenhuma,Intermediária,Fraca,Inovadora,Regular,1,0,0
+716,Harris Inc,7857202,0.05254076337741985,1.736196745816387,Manufatura,América do Norte,41,0,0.05544523570384141,Multinacional,Alta,Orgânica,Centralizada,Nenhuma,Inicial,Fraca,Conservadora,Ruim,1,1,0
+717,Mitchell Inc,6448564,0.4341237733514322,0.3710359424464271,Tecnologia,Europa,4,0,0.8330342639410699,Multinacional,Alta,Parcerias,Decentralizada,Nenhuma,Intermediária,Média,Conservadora,Regular,0,0,1
+718,White Inc,4250276,0.3389612901761752,2.12097864975659,Manufatura,Ásia,30,1,0.4578049325592066,Multinacional,Baixa,Orgânica,Centralizada,Ampla,Inicial,Média,Neutra,Excelente,1,0,0
+719,Carter-Clements,5823601,0.18964594055570205,0.6813549227789606,Manufatura,América Latina,30,0,0.2589616050249752,MEI,Média,Aquisições,Decentralizada,Ampla,Avançada,Alta,Neutra,Ruim,1,0,0
+720,Pena PLC,5454075,-0.02104850153350941,1.2478237220685362,Saúde,Europa,22,0,0.8787465236769298,S.A.,Baixa,Aquisições,Decentralizada,Ampla,Intermediária,Fraca,Neutra,Ruim,0,1,0
+721,"Adams, Meadows and York",5379548,0.011442351284356509,0.4484716309231847,Tecnologia,América Latina,11,0,0.19666723239030726,Limitada,Alta,Parcerias,Decentralizada,Nenhuma,Avançada,Fraca,Inovadora,Ruim,1,1,0
+722,Hill LLC,2482357,0.3123706473099441,1.8042641354120958,Saúde,Europa,2,0,0.9472999994200669,MEI,Baixa,Orgânica,Decentralizada,Básica,Inicial,Média,Neutra,Regular,1,0,1
+723,Patterson Inc,8004069,0.3958219825969395,1.7004506104342427,Tecnologia,Europa,44,1,0.20562148769934108,Multinacional,Média,Orgânica,Centralizada,Ampla,Avançada,Alta,Conservadora,Excelente,1,0,0
+724,Hunt-Brown,2345131,0.26999726867143004,0.6066699307987268,Saúde,Ásia,12,0,0.6136831877287435,Limitada,Alta,Orgânica,Decentralizada,Ampla,Avançada,Alta,Neutra,Regular,0,0,0
+725,Schmidt Inc,4346049,0.3666709830379092,2.172161840456804,Manufatura,América do Norte,30,1,0.22308633452897486,S.A.,Média,Parcerias,Decentralizada,Nenhuma,Inicial,Fraca,Neutra,Excelente,1,0,0
+726,"Evans, Clark and Gonzalez",8580473,0.33665929464028416,1.0631344581273092,Tecnologia,Ásia,36,0,0.5456686649686348,Limitada,Baixa,Orgânica,Centralizada,Ampla,Inicial,Média,Conservadora,Regular,0,0,0
+727,Taylor LLC,5555770,-0.0952072224301296,0.8020362185697804,Financeiro,América Latina,18,1,0.6839751299151413,Multinacional,Baixa,Orgânica,Centralizada,Básica,Intermediária,Fraca,Conservadora,Regular,0,0,0
+728,Parks Group,1172200,0.09676136903931136,0.46559101471488507,Manufatura,América Latina,26,0,0.19022793082013756,MEI,Média,Orgânica,Centralizada,Nenhuma,Inicial,Média,Inovadora,Regular,1,1,0
+729,Cohen PLC,3006158,-0.09291133942000615,0.7388032300372899,Financeiro,Europa,7,1,0.5208857827006792,MEI,Baixa,Orgânica,Decentralizada,Nenhuma,Intermediária,Alta,Conservadora,Ruim,0,0,0
+730,Thomas Inc,1322869,-0.03533509063861066,0.1528646109371608,Manufatura,Europa,1,0,0.469059744390119,Multinacional,Média,Parcerias,Centralizada,Básica,Avançada,Fraca,Conservadora,Regular,0,1,1
+731,Rosario Inc,3225354,0.4084817372557367,1.4998179818946773,Saúde,América do Norte,26,1,0.07103742140334124,MEI,Baixa,Parcerias,Centralizada,Básica,Avançada,Fraca,Neutra,Excelente,1,0,0
+732,"Ellis, Taylor and Moore",9918159,0.13102437594322747,2.121353791225475,Tecnologia,Ásia,23,1,0.8183078176753029,Multinacional,Média,Orgânica,Centralizada,Básica,Intermediária,Fraca,Conservadora,Excelente,1,0,0
+733,Taylor-Zimmerman,4882883,0.17475067128986257,1.4175530786599404,Manufatura,América Latina,26,0,0.3356824006428417,MEI,Média,Orgânica,Centralizada,Ampla,Inicial,Alta,Inovadora,Excelente,1,0,0
+734,Valencia and Sons,6601632,-0.07508782434055954,0.6262575086173017,Saúde,Europa,45,1,0.5745821975518796,MEI,Alta,Aquisições,Centralizada,Básica,Inicial,Fraca,Neutra,Ruim,0,0,0
+735,"Martin, Gray and Sanchez",9402640,0.01859025023415719,0.18080602771329451,Tecnologia,América do Norte,6,0,0.5147842349331344,MEI,Alta,Aquisições,Centralizada,Nenhuma,Avançada,Alta,Inovadora,Regular,0,1,0
+736,Scott-Gordon,4082588,-0.03882768210049107,0.6151073758211268,Tecnologia,América Latina,6,0,0.5132605045704423,S.A.,Média,Orgânica,Decentralizada,Básica,Intermediária,Média,Conservadora,Regular,0,1,0
+737,Alvarez-Luna,8183123,-0.05566968483710153,1.0986914273706214,Manufatura,Europa,44,0,0.10722239420848745,S.A.,Baixa,Orgânica,Centralizada,Nenhuma,Avançada,Alta,Inovadora,Boa,1,1,0
+738,"Williams, Jackson and Morris",6260686,0.24657255532117903,1.9230674288795115,Tecnologia,América Latina,8,0,0.42348200924933277,Multinacional,Baixa,Aquisições,Decentralizada,Nenhuma,Avançada,Média,Inovadora,Ruim,1,0,0
+739,"Wallace, Vega and Browning",9406167,-0.020181306647999653,0.5508228460906578,Manufatura,América do Norte,24,0,0.4523667592065702,S.A.,Baixa,Aquisições,Centralizada,Ampla,Inicial,Alta,Conservadora,Excelente,0,1,0
+740,Benson and Sons,735605,0.24241084021429288,1.8274994880512465,Tecnologia,América do Norte,22,1,0.7336428403644485,Multinacional,Média,Orgânica,Centralizada,Básica,Intermediária,Alta,Conservadora,Excelente,1,0,0
+741,Williams LLC,7579821,-0.15908177012401228,2.180640324044521,Financeiro,América Latina,19,0,0.8400188319206985,Limitada,Média,Parcerias,Centralizada,Ampla,Avançada,Fraca,Neutra,Regular,1,1,0
+742,Hall-Hill,4683897,-0.10075792453102872,1.189472435460057,Saúde,Ásia,37,0,0.544982278100018,Limitada,Média,Parcerias,Decentralizada,Básica,Inicial,Alta,Neutra,Excelente,0,1,0
+743,"Weeks, Miller and Daniels",9303739,-0.007821822199912254,2.071436779942224,Financeiro,América Latina,18,0,0.08678295406499048,S.A.,Média,Orgânica,Centralizada,Básica,Avançada,Fraca,Neutra,Regular,1,1,0
+744,Mejia-Gibson,7513718,0.21793284182698414,1.4311776352842294,Manufatura,Europa,31,0,0.23684947059654626,Limitada,Alta,Orgânica,Centralizada,Básica,Avançada,Média,Conservadora,Regular,1,0,0
+745,"Compton, Sandoval and Walker",167661,0.2730888715611631,1.629018008994172,Financeiro,Ásia,37,0,0.16493402685273106,Limitada,Média,Aquisições,Centralizada,Básica,Inicial,Média,Inovadora,Boa,1,0,1
+746,Miller-Smith,6959991,0.10990187674566894,1.3630683048116865,Manufatura,Europa,30,0,0.12461506318912474,MEI,Baixa,Aquisições,Centralizada,Básica,Inicial,Fraca,Inovadora,Ruim,1,0,0
+747,Wyatt Inc,7685153,0.11205364020406025,1.2116145202032202,Tecnologia,América Latina,42,1,0.36589929861780757,MEI,Alta,Parcerias,Decentralizada,Nenhuma,Intermediária,Média,Neutra,Regular,1,0,0
+748,Stevens Group,6014988,0.30716179597903265,0.6631682602620385,Tecnologia,Ásia,33,1,0.22939350215438203,Multinacional,Baixa,Orgânica,Decentralizada,Nenhuma,Avançada,Alta,Neutra,Regular,1,0,0
+749,Haynes-Martinez,6658221,-0.18892523576409231,0.8276657427065105,Manufatura,Europa,10,0,0.2183031118115123,Limitada,Média,Aquisições,Decentralizada,Básica,Intermediária,Fraca,Conservadora,Regular,1,1,0
+750,"Ball, White and Fletcher",1407506,0.038763017131954354,0.7959282854646617,Financeiro,América Latina,37,1,0.054693174576267656,Multinacional,Alta,Parcerias,Decentralizada,Nenhuma,Inicial,Fraca,Inovadora,Boa,1,0,0
+751,Davis and Sons,3001614,0.3730949399834629,1.4518934342891552,Tecnologia,América Latina,12,0,0.01767004479543388,Multinacional,Média,Parcerias,Decentralizada,Ampla,Inicial,Fraca,Neutra,Regular,1,0,0
+752,Vance LLC,3066422,0.22225358714936053,0.3878888632573358,Saúde,Ásia,30,0,0.1027682426497818,Limitada,Alta,Parcerias,Centralizada,Ampla,Avançada,Média,Conservadora,Ruim,1,0,0
+753,"Juarez, Jimenez and Parker",3808654,0.03605899292879424,2.3003000576856043,Tecnologia,América Latina,27,0,0.17219747942363306,S.A.,Baixa,Aquisições,Centralizada,Ampla,Intermediária,Média,Neutra,Ruim,1,1,0
+754,Diaz-Lucas,7415436,0.43386735463077164,1.8295723486794717,Saúde,América do Norte,39,0,0.43098372884820313,Limitada,Média,Aquisições,Centralizada,Básica,Intermediária,Alta,Conservadora,Excelente,1,0,0
+755,Smith-Cantrell,218033,0.34083590921456774,1.0634695141916646,Financeiro,Europa,9,0,0.5105202612988446,MEI,Média,Orgânica,Decentralizada,Básica,Avançada,Alta,Inovadora,Ruim,0,0,1
+756,Shannon and Sons,9118873,-0.01457318693428663,0.4806979468633071,Saúde,Europa,21,1,0.14059191817336558,Limitada,Alta,Orgânica,Centralizada,Nenhuma,Avançada,Fraca,Conservadora,Excelente,1,0,0
+757,Knight Group,5972354,0.2517028862680018,2.216781207331926,Saúde,América Latina,12,1,0.4247833415241863,S.A.,Alta,Parcerias,Decentralizada,Nenhuma,Intermediária,Alta,Neutra,Ruim,1,0,0
+758,Garcia Inc,1315502,0.21702550973226964,2.0770674162427962,Saúde,América Latina,29,1,0.3417488423259273,Multinacional,Média,Parcerias,Centralizada,Nenhuma,Inicial,Média,Neutra,Excelente,1,0,0
+759,"Conway, Conrad and Hicks",9910404,0.08083153982728786,1.8321317265212302,Saúde,América do Norte,33,1,0.18342364349795603,Multinacional,Alta,Aquisições,Decentralizada,Ampla,Inicial,Alta,Inovadora,Regular,1,0,0
+760,"Newman, Flores and Kim",2419049,0.05686925544336044,0.7517129137869817,Tecnologia,Ásia,43,0,0.006840748148363551,MEI,Média,Aquisições,Centralizada,Ampla,Avançada,Média,Inovadora,Boa,1,1,0
+761,Chavez Ltd,6392518,0.04049233234299274,1.0658719298408055,Saúde,América Latina,15,1,0.4670178665217417,MEI,Alta,Orgânica,Centralizada,Ampla,Intermediária,Alta,Neutra,Boa,0,0,0
+762,Mcknight-Yoder,7687768,0.23200904837695271,0.34659580588581607,Tecnologia,América Latina,2,0,0.6856517492651993,MEI,Baixa,Orgânica,Centralizada,Ampla,Intermediária,Média,Neutra,Boa,0,0,1
+763,Morrison-Miller,3820464,0.10968695553646862,0.5536948593460761,Saúde,América Latina,39,1,0.22627733414380702,Multinacional,Alta,Orgânica,Centralizada,Nenhuma,Intermediária,Média,Neutra,Regular,1,0,0
+764,Davis-Wise,2292614,0.38230417927599536,1.9792399295601588,Manufatura,América Latina,44,1,0.13180682989667936,MEI,Baixa,Aquisições,Decentralizada,Básica,Inicial,Alta,Inovadora,Boa,1,0,0
+765,Lara and Sons,870173,0.26872183129377325,1.8160929252416411,Financeiro,Europa,18,1,0.8870427444469619,Limitada,Alta,Parcerias,Centralizada,Básica,Inicial,Alta,Neutra,Ruim,1,0,0
+766,Jimenez Inc,5742264,-0.15104787600339611,1.5243658311422432,Saúde,América Latina,3,1,0.2750247724877978,Multinacional,Alta,Orgânica,Centralizada,Ampla,Intermediária,Média,Inovadora,Excelente,1,0,1
+767,Dixon Ltd,567010,0.24811775667971622,2.2497441422228146,Manufatura,Europa,7,0,0.22361261979266478,S.A.,Média,Orgânica,Centralizada,Básica,Intermediária,Fraca,Neutra,Regular,1,0,0
+768,Maxwell LLC,1755016,-0.010196794449870662,1.499839642751309,Saúde,América Latina,43,1,0.8570969396099158,Multinacional,Alta,Aquisições,Decentralizada,Básica,Avançada,Alta,Conservadora,Boa,0,0,0
+769,Valentine Inc,4321038,0.21496839415739585,1.2207231999126658,Saúde,Ásia,18,1,0.8171070991667613,Limitada,Alta,Orgânica,Centralizada,Básica,Avançada,Média,Conservadora,Ruim,0,0,0
+770,"Silva, Nguyen and Gutierrez",9412483,0.2760923517724159,0.9168897911338304,Saúde,América do Norte,44,0,0.4483464705246336,Limitada,Baixa,Parcerias,Centralizada,Ampla,Intermediária,Alta,Neutra,Ruim,0,0,0
+771,Ryan-Allen,8476430,-0.03841956759219157,2.357076413766814,Manufatura,Ásia,38,0,0.4892388614277745,MEI,Alta,Aquisições,Centralizada,Nenhuma,Intermediária,Alta,Conservadora,Regular,1,1,0
+772,"Hernandez, Oliver and Hoover",3980993,0.11980105141625802,0.2985171076584484,Financeiro,América Latina,37,1,0.21774870483402198,Multinacional,Média,Orgânica,Centralizada,Nenhuma,Inicial,Alta,Inovadora,Regular,1,0,0
+773,"Conway, Nixon and Barnes",2668103,-0.06677259602665256,2.33412969294594,Manufatura,América Latina,33,0,0.0783016704795575,Multinacional,Baixa,Orgânica,Centralizada,Básica,Intermediária,Alta,Conservadora,Boa,1,1,0
+774,"Rice, Kirby and Coleman",8569872,-0.1633627869494442,2.084115183834444,Financeiro,América Latina,44,0,0.5734318253556611,Multinacional,Média,Aquisições,Decentralizada,Nenhuma,Avançada,Alta,Conservadora,Excelente,1,1,0
+775,York Inc,8511883,0.06493349644010832,0.4118318188856831,Saúde,Ásia,31,0,0.09834492159021313,S.A.,Média,Aquisições,Decentralizada,Nenhuma,Inicial,Fraca,Inovadora,Boa,1,1,0
+776,Hamilton and Sons,6582532,0.05406099029219436,1.4559624584206086,Tecnologia,América Latina,11,1,0.4492745469566498,MEI,Média,Orgânica,Decentralizada,Ampla,Avançada,Fraca,Conservadora,Boa,0,0,0
+777,Ritter-Gonzalez,5296467,0.4968363434929799,2.1797151561978083,Saúde,Ásia,4,0,0.9404971985130107,Limitada,Média,Parcerias,Centralizada,Ampla,Avançada,Fraca,Conservadora,Regular,1,0,1
+778,"Barry, Atkins and Fry",6052793,0.11244664583834948,1.4723419926571688,Financeiro,Europa,18,1,0.9528343891705844,Limitada,Baixa,Aquisições,Decentralizada,Básica,Inicial,Média,Neutra,Boa,0,0,0
+779,Watts Group,9061343,0.03349868463054026,2.2772795717454932,Manufatura,América do Norte,4,1,0.2393322865473586,MEI,Alta,Parcerias,Centralizada,Básica,Avançada,Fraca,Inovadora,Boa,1,0,1
+780,"Williams, Davis and Blanchard",2100609,0.2063325047016722,2.363161160358502,Saúde,América do Norte,49,1,0.6241134200456544,Limitada,Média,Orgânica,Centralizada,Básica,Intermediária,Fraca,Inovadora,Excelente,1,0,0
+781,"Moore, Fletcher and Estes",9401434,-0.1378628241245621,1.113722853242334,Manufatura,Ásia,34,1,0.47407626410785764,Limitada,Baixa,Parcerias,Centralizada,Ampla,Avançada,Média,Neutra,Ruim,0,0,0
+782,"Greene, Sanchez and Johnson",2797143,0.4731660151683692,1.0055527873751766,Manufatura,Europa,29,0,0.875685127586106,MEI,Média,Orgânica,Centralizada,Nenhuma,Inicial,Fraca,Neutra,Ruim,0,0,0
+783,"Henry, Webb and Hoffman",9351130,0.24447203191372316,2.3471707695259765,Manufatura,Ásia,24,1,0.27143086427605323,Limitada,Alta,Orgânica,Decentralizada,Ampla,Inicial,Alta,Conservadora,Excelente,1,0,0
+784,"Henson, Rivera and Robinson",9292300,0.3283864739585934,1.7203361467592033,Saúde,Europa,22,0,0.003702406832416849,Multinacional,Baixa,Orgânica,Decentralizada,Ampla,Inicial,Fraca,Conservadora,Ruim,1,0,0
+785,Glover-Smith,9649765,-0.08066544327825774,0.3784544352356063,Manufatura,América Latina,2,1,0.1625612059314151,S.A.,Baixa,Orgânica,Decentralizada,Nenhuma,Avançada,Fraca,Conservadora,Boa,1,0,1
+786,Smith PLC,1414532,0.0866344971036427,0.20150019813443487,Manufatura,Europa,44,0,0.34952280116939805,MEI,Alta,Parcerias,Centralizada,Nenhuma,Intermediária,Fraca,Neutra,Excelente,1,1,0
+787,Diaz-Wilson,521240,0.09588237937733264,1.4551097223934315,Saúde,Europa,6,1,0.3157211297704886,S.A.,Baixa,Orgânica,Decentralizada,Básica,Inicial,Alta,Inovadora,Excelente,1,0,0
+788,Martin Group,1044789,0.3752645107307607,2.332410317052219,Manufatura,Europa,42,0,0.7913629191228859,Limitada,Alta,Orgânica,Decentralizada,Nenhuma,Intermediária,Alta,Conservadora,Regular,1,0,0
+789,Davis-Edwards,2313573,-0.1991343241684134,2.126196885773964,Saúde,América do Norte,25,1,0.6805606661388378,Limitada,Baixa,Parcerias,Centralizada,Nenhuma,Inicial,Alta,Neutra,Ruim,1,0,0
+790,Harding-Johnson,9014501,0.010597175847278525,1.7220345915144073,Financeiro,Europa,21,1,0.29955631961489726,Multinacional,Baixa,Aquisições,Decentralizada,Nenhuma,Intermediária,Alta,Inovadora,Regular,1,0,0
+791,Pierce LLC,2355363,0.48686546204101266,0.43387803733861,Financeiro,América Latina,16,0,0.4577438171662134,MEI,Alta,Parcerias,Centralizada,Nenhuma,Intermediária,Média,Neutra,Boa,0,0,0
+792,Kim Ltd,8475741,0.132420580454353,0.7101553209968694,Financeiro,América Latina,31,1,0.09555910395833522,Limitada,Alta,Parcerias,Decentralizada,Básica,Intermediária,Alta,Conservadora,Excelente,1,0,0
+793,Jones-Schneider,5156861,0.06776839617080575,2.2012269437262786,Manufatura,América Latina,14,1,0.8981464448201008,MEI,Baixa,Parcerias,Decentralizada,Básica,Inicial,Alta,Neutra,Boa,1,0,0
+794,"Smith, Page and Thomas",6536446,-0.11611969858764758,0.5387373679765611,Tecnologia,Europa,39,1,0.9354248244485341,MEI,Baixa,Orgânica,Decentralizada,Nenhuma,Avançada,Alta,Neutra,Ruim,0,0,0
+795,Torres Ltd,4248887,0.48191524003961084,0.768254579801043,Tecnologia,Ásia,28,0,0.9798035353809381,MEI,Alta,Orgânica,Centralizada,Nenhuma,Avançada,Alta,Neutra,Regular,0,0,0
+796,"Gregory, Morris and Hess",9695702,-0.1859815508519229,0.4110415628690607,Manufatura,Ásia,32,1,0.8685528307858377,MEI,Alta,Orgânica,Decentralizada,Básica,Avançada,Média,Neutra,Ruim,0,0,0
+797,Ryan Ltd,9157014,0.3160261575050701,1.7226597553945866,Tecnologia,América Latina,28,1,0.17396088769622553,MEI,Baixa,Aquisições,Decentralizada,Básica,Intermediária,Fraca,Inovadora,Boa,1,0,0
+798,"Long, Miller and Reed",3768866,0.33801986335195583,2.365557532871703,Saúde,América do Norte,49,0,0.046196483201628835,S.A.,Baixa,Orgânica,Decentralizada,Nenhuma,Inicial,Fraca,Conservadora,Regular,1,0,0
+799,Mcclain-Bailey,4712338,-0.02944029875529338,0.7455232758289263,Tecnologia,Ásia,9,0,0.579596727412674,Multinacional,Baixa,Aquisições,Decentralizada,Ampla,Intermediária,Alta,Inovadora,Ruim,0,1,0
+800,"Watson, Lyons and Morgan",1133255,0.27009091052912604,1.240975858840177,Manufatura,Europa,45,0,0.9126050268831104,MEI,Alta,Orgânica,Centralizada,Básica,Inicial,Alta,Neutra,Boa,0,0,0
+801,Cunningham-Turner,7182212,-0.13494959893442707,1.6224153753068902,Manufatura,Ásia,22,0,0.17735136165974286,S.A.,Baixa,Parcerias,Centralizada,Básica,Intermediária,Alta,Neutra,Ruim,1,1,0
+802,"Adkins, Guerrero and Dunn",8302787,-0.020066913497544116,2.4987189957175135,Saúde,América Latina,32,0,0.0070429146241418605,Limitada,Média,Orgânica,Decentralizada,Básica,Inicial,Fraca,Conservadora,Excelente,1,1,0
+803,"Rogers, Rivera and Brown",5089847,0.3515313918045854,0.3515393559941731,Financeiro,América do Norte,5,1,0.8054960460322443,MEI,Alta,Aquisições,Decentralizada,Nenhuma,Inicial,Fraca,Conservadora,Regular,0,0,0
+804,"Zhang, Costa and Cox",9029285,0.4052803344234781,1.2965699188137019,Manufatura,Ásia,23,1,0.076795684286734,Limitada,Baixa,Aquisições,Decentralizada,Nenhuma,Inicial,Alta,Inovadora,Regular,1,0,0
+805,"Jones, Hunter and Miller",7743603,0.2259404888618539,1.024288287766,Saúde,Ásia,5,1,0.4137060319100304,MEI,Alta,Orgânica,Centralizada,Básica,Intermediária,Fraca,Inovadora,Regular,0,0,0
+806,"Koch, Henderson and Blackwell",3194235,0.15478690227433778,2.1779683965336525,Tecnologia,América Latina,42,0,0.678887337188785,S.A.,Média,Parcerias,Decentralizada,Nenhuma,Avançada,Média,Conservadora,Excelente,1,0,0
+807,Perez-Mathis,9660067,-0.08848718556671381,1.2423225544279741,Tecnologia,América do Norte,32,1,0.23679758545618013,S.A.,Alta,Orgânica,Decentralizada,Nenhuma,Intermediária,Alta,Inovadora,Regular,1,0,0
+808,Reynolds-Savage,6086126,-0.1558236768445949,0.3663460590043554,Saúde,América do Norte,10,0,0.0839625634467267,S.A.,Baixa,Orgânica,Centralizada,Básica,Intermediária,Alta,Neutra,Excelente,1,1,0
+809,Arnold Inc,2959653,-0.11764568006850898,1.6226179486878007,Saúde,América Latina,39,0,0.7700212284558287,Multinacional,Média,Orgânica,Centralizada,Nenhuma,Inicial,Média,Neutra,Regular,0,1,0
+810,Morse-Morgan,487952,-0.04084988993273087,1.9498734838333114,Manufatura,Europa,15,1,0.6301750848870414,Limitada,Média,Parcerias,Centralizada,Ampla,Inicial,Média,Conservadora,Ruim,1,0,1
+811,Campos Inc,1130117,0.03917215132784456,0.10691500399747503,Tecnologia,Ásia,7,0,0.9884904844868048,Multinacional,Baixa,Aquisições,Decentralizada,Nenhuma,Avançada,Fraca,Inovadora,Ruim,0,1,0
+812,Alvarez-Lopez,2996818,0.06663666785769103,2.161496045009511,Saúde,Europa,29,0,0.3443080333199593,MEI,Baixa,Parcerias,Centralizada,Nenhuma,Avançada,Média,Neutra,Ruim,1,1,0
+813,Avery-Todd,2457821,0.042425238012302455,0.5464552000135975,Tecnologia,Ásia,47,1,0.0617623862901997,Limitada,Baixa,Aquisições,Centralizada,Básica,Inicial,Alta,Conservadora,Ruim,1,0,0
+814,Vargas Inc,9013742,-0.0326612674619141,1.4249664751681068,Saúde,Ásia,3,0,0.7343500353352957,S.A.,Alta,Aquisições,Decentralizada,Básica,Avançada,Fraca,Inovadora,Excelente,0,1,1
+815,Carney and Sons,5684263,0.15680697272618865,1.0979140016498803,Tecnologia,Europa,19,0,0.5217334188532456,Limitada,Alta,Aquisições,Centralizada,Ampla,Avançada,Média,Neutra,Boa,0,0,0
+816,Graham-Andrade,344761,0.3777002757630277,1.8271691598652728,Financeiro,América Latina,10,1,0.21320393138913507,S.A.,Alta,Parcerias,Decentralizada,Nenhuma,Inicial,Fraca,Inovadora,Boa,1,0,1
+817,Sullivan LLC,8486180,-0.004207523069964571,0.9907878754857804,Manufatura,América Latina,28,0,0.7817289890047594,Multinacional,Baixa,Orgânica,Decentralizada,Ampla,Intermediária,Fraca,Inovadora,Ruim,0,1,0
+818,Rogers Ltd,164323,0.45967091337156313,2.1874316240361056,Tecnologia,Ásia,29,0,0.20375548584994374,Multinacional,Baixa,Orgânica,Centralizada,Ampla,Avançada,Fraca,Inovadora,Boa,1,0,1
+819,Lewis Ltd,1337715,0.41133566320669346,1.8531912663010965,Financeiro,América Latina,15,1,0.2606616548329366,S.A.,Alta,Orgânica,Decentralizada,Básica,Inicial,Fraca,Conservadora,Boa,1,0,0
+820,Salazar and Sons,8140979,-0.08676505205352329,1.6545116105510116,Tecnologia,Ásia,35,1,0.09252855436671914,S.A.,Média,Orgânica,Centralizada,Nenhuma,Avançada,Média,Neutra,Regular,1,0,0
+821,Lewis Group,1054480,0.3503931697299661,2.0109774293508504,Tecnologia,América Latina,6,1,0.39943227903085443,MEI,Alta,Orgânica,Centralizada,Básica,Avançada,Alta,Conservadora,Excelente,1,0,0
+822,"Morris, Miller and Moore",6781134,0.2022111676224366,1.9096552838281176,Financeiro,Ásia,12,1,0.41892922393741894,Multinacional,Média,Parcerias,Centralizada,Ampla,Inicial,Alta,Neutra,Ruim,1,0,0
+823,"Garcia, Johnson and Simmons",954016,0.19660275351999296,0.186252819811728,Tecnologia,América Latina,47,0,0.5145617903482984,Multinacional,Baixa,Parcerias,Decentralizada,Ampla,Avançada,Média,Neutra,Boa,0,0,0
+824,"Payne, Gonzalez and Bryant",5447417,0.07372993414072207,1.0473624492275875,Tecnologia,América do Norte,38,0,0.7089642671237775,MEI,Baixa,Parcerias,Centralizada,Básica,Avançada,Alta,Conservadora,Boa,0,1,0
+825,"Butler, Weaver and Turner",9353517,0.15080709942740678,2.3339375135595755,Manufatura,Europa,13,1,0.9061009286804258,Multinacional,Alta,Parcerias,Decentralizada,Básica,Avançada,Fraca,Conservadora,Ruim,1,0,0
+826,Rivera Inc,5909701,0.0780251442004477,0.4017382455813429,Financeiro,América do Norte,29,0,0.13773409888780863,S.A.,Alta,Parcerias,Decentralizada,Básica,Intermediária,Fraca,Neutra,Regular,1,1,0
+827,Jacobson-Frank,9539101,0.17781283313195995,1.869031721036923,Financeiro,Europa,19,0,0.05434809834865706,Limitada,Baixa,Parcerias,Decentralizada,Básica,Intermediária,Fraca,Neutra,Ruim,1,0,0
+828,Wyatt Ltd,8771370,0.23956503694084505,2.4390203472047913,Saúde,Europa,3,1,0.018531233594333285,Limitada,Alta,Parcerias,Centralizada,Básica,Avançada,Média,Neutra,Regular,1,0,1
+829,Benjamin-Humphrey,2983427,0.2720126644863338,0.22527670970793193,Tecnologia,Ásia,8,1,0.14362137806881625,Multinacional,Baixa,Orgânica,Decentralizada,Ampla,Inicial,Fraca,Inovadora,Boa,1,0,0
+830,"Sherman, Boyd and Kennedy",1516012,0.1727368347915983,1.7372653135038651,Manufatura,Europa,8,0,0.6579494857816259,MEI,Baixa,Aquisições,Decentralizada,Básica,Avançada,Fraca,Neutra,Excelente,0,0,0
+831,"Gay, Oneill and Davis",5852810,0.3049954471301122,1.2235699391224728,Tecnologia,América do Norte,20,1,0.7274770779964966,S.A.,Média,Parcerias,Centralizada,Nenhuma,Avançada,Média,Conservadora,Regular,0,0,0
+832,Rice-Garcia,671650,-0.10110536550714595,1.4900206128993332,Tecnologia,América do Norte,47,1,0.7865057135281222,Limitada,Alta,Aquisições,Centralizada,Ampla,Intermediária,Fraca,Conservadora,Regular,0,0,0
+833,Ho-Lewis,4576576,-0.05161225636843305,0.3048192075623796,Saúde,América Latina,4,1,0.24370821190434266,S.A.,Baixa,Parcerias,Decentralizada,Ampla,Intermediária,Fraca,Conservadora,Ruim,1,0,1
+834,"Frey, Spencer and Weaver",8874533,0.37311450285198905,0.20321668448065475,Tecnologia,América do Norte,21,0,0.3058948132615199,Multinacional,Alta,Parcerias,Decentralizada,Nenhuma,Intermediária,Alta,Neutra,Boa,1,0,0
+835,Smith-Hammond,2963793,0.025769584492490602,1.7004799853222121,Manufatura,América Latina,3,1,0.48313464556549945,Multinacional,Média,Orgânica,Centralizada,Nenhuma,Avançada,Média,Neutra,Excelente,0,0,1
+836,"Moore, Mckay and Pratt",5009047,-0.18397432251671583,2.0759426315697227,Manufatura,Europa,45,0,0.0631830968602265,Limitada,Média,Aquisições,Decentralizada,Ampla,Avançada,Fraca,Inovadora,Ruim,1,1,0
+837,"Kelly, Taylor and Porter",6981289,-0.09234619523237825,1.9768368038391213,Saúde,América do Norte,8,0,0.6111415232112462,Multinacional,Alta,Orgânica,Decentralizada,Básica,Inicial,Fraca,Inovadora,Ruim,1,1,0
+838,"Edwards, Walker and Mitchell",7522212,-0.04346989585258215,1.4051337468789697,Tecnologia,Europa,23,0,0.9837350336757578,MEI,Alta,Orgânica,Decentralizada,Ampla,Avançada,Fraca,Conservadora,Excelente,0,1,0
+839,Bates Ltd,3857974,0.47012602152621097,0.3396803707268276,Manufatura,América do Norte,16,1,0.36080631137800256,Multinacional,Baixa,Aquisições,Decentralizada,Ampla,Avançada,Fraca,Inovadora,Boa,1,0,0
+840,Vaughan LLC,8891689,0.20112900025159447,1.751306665206433,Tecnologia,América do Norte,13,1,0.7528474750913839,Multinacional,Média,Orgânica,Centralizada,Nenhuma,Intermediária,Alta,Inovadora,Excelente,0,0,0
+841,Bartlett Ltd,7311179,0.45291151833337834,0.6805333205299503,Tecnologia,América Latina,3,1,0.500033915569608,Multinacional,Média,Parcerias,Decentralizada,Ampla,Intermediária,Alta,Conservadora,Ruim,0,0,1
+842,Jones-Winters,8867500,0.20261434534763742,2.2865648866417208,Tecnologia,Europa,48,1,0.12781184436038273,S.A.,Média,Parcerias,Centralizada,Básica,Intermediária,Alta,Neutra,Ruim,1,0,0
+843,Davis-Newman,4299591,0.1355481080964962,2.1118368629096915,Saúde,América do Norte,9,1,0.5822374488025863,S.A.,Alta,Parcerias,Decentralizada,Nenhuma,Intermediária,Alta,Inovadora,Regular,1,0,0
+844,Wolf-Oliver,5600545,0.01960938383586721,1.8025191210097382,Tecnologia,Ásia,14,0,0.29987426844406495,Limitada,Baixa,Parcerias,Centralizada,Ampla,Intermediária,Média,Neutra,Excelente,1,1,0
+845,"Long, Green and Smith",8391923,0.22445966110336288,2.377230293994713,Manufatura,Europa,13,0,0.034403208453458234,Limitada,Alta,Parcerias,Decentralizada,Ampla,Inicial,Fraca,Conservadora,Excelente,1,0,0
+846,Rangel LLC,3254240,-0.10256138276772914,0.17541237162705503,Tecnologia,Europa,7,0,0.6349297301177438,Limitada,Alta,Orgânica,Centralizada,Básica,Inicial,Alta,Conservadora,Excelente,0,1,0
+847,Brock-Banks,9145310,0.42878313910489413,1.8668810201458288,Manufatura,Europa,15,1,0.8589323493247276,Multinacional,Alta,Orgânica,Decentralizada,Ampla,Inicial,Fraca,Inovadora,Ruim,1,0,0
+848,Hamilton Group,7896324,0.3805326835988985,0.8925826704073728,Tecnologia,América Latina,7,0,0.34476976689987415,S.A.,Baixa,Parcerias,Centralizada,Ampla,Intermediária,Média,Conservadora,Boa,1,0,0
+849,"Vasquez, Lopez and Horton",8212074,0.022272013513715903,2.2745581256472764,Manufatura,Ásia,38,0,0.3902955472127705,MEI,Alta,Parcerias,Decentralizada,Ampla,Intermediária,Fraca,Conservadora,Ruim,1,1,0
+850,Parker Inc,2290222,0.46695826932090595,0.7400204719887462,Manufatura,Europa,34,1,0.8910216829672115,Multinacional,Média,Orgânica,Decentralizada,Ampla,Intermediária,Fraca,Conservadora,Regular,0,0,0
+851,Romero LLC,2819269,0.37764053719089763,1.839655598356041,Tecnologia,América do Norte,41,1,0.8136088133673559,Multinacional,Média,Aquisições,Centralizada,Básica,Inicial,Alta,Inovadora,Ruim,1,0,0
+852,Maynard-Fox,7335574,0.26641482008452777,2.206352847161875,Tecnologia,América do Norte,22,0,0.7149528235517771,Multinacional,Média,Orgânica,Centralizada,Ampla,Intermediária,Alta,Inovadora,Ruim,1,0,0
+853,Bradley PLC,5772354,-0.11476666221230766,0.19997636411843783,Manufatura,América Latina,24,0,0.24879706375314792,MEI,Baixa,Orgânica,Centralizada,Ampla,Inicial,Média,Inovadora,Ruim,1,1,0
+854,Fitzgerald-Medina,5305597,0.13476381613365057,1.0543541910208867,Financeiro,América do Norte,49,1,0.9102166549666445,Limitada,Alta,Orgânica,Centralizada,Ampla,Intermediária,Fraca,Conservadora,Regular,0,0,0
+855,Soto-Schmitt,5384958,0.15427528839272556,1.9295416768526528,Saúde,Europa,37,1,0.154415757539213,MEI,Baixa,Orgânica,Centralizada,Nenhuma,Avançada,Alta,Neutra,Excelente,1,0,0
+856,"Lamb, Washington and Phillips",886667,-0.03721404914423395,1.191805334818209,Financeiro,América do Norte,44,1,0.6267705194172218,Limitada,Alta,Orgânica,Decentralizada,Básica,Inicial,Alta,Conservadora,Boa,0,0,0
+857,"Gomez, Tran and Davis",9842257,-0.14402422394848866,0.7414063115046288,Financeiro,Europa,1,1,0.0288011805465187,MEI,Média,Aquisições,Centralizada,Nenhuma,Avançada,Alta,Inovadora,Boa,1,0,1
+858,Russo-White,1812503,0.34370654133018486,0.627532837175656,Tecnologia,América do Norte,10,0,0.6437198063249459,S.A.,Alta,Parcerias,Centralizada,Nenhuma,Inicial,Média,Neutra,Regular,0,0,0
+859,Black Group,3709736,-0.1145754635129235,0.415643840599307,Saúde,Ásia,43,0,0.27714435187335984,Multinacional,Alta,Parcerias,Decentralizada,Básica,Intermediária,Fraca,Neutra,Excelente,1,1,0
+860,"Mann, Taylor and Powell",8160833,0.21600352539324227,2.1571109436550775,Financeiro,América Latina,16,1,0.44967697718372,Multinacional,Alta,Aquisições,Centralizada,Nenhuma,Intermediária,Alta,Inovadora,Excelente,1,0,0
+861,"Villegas, Riddle and Garrett",6738155,0.4555144217185623,1.4808529678037343,Tecnologia,América Latina,46,0,0.3452645520570531,Multinacional,Baixa,Parcerias,Centralizada,Nenhuma,Avançada,Fraca,Neutra,Regular,1,0,0
+862,"Gonzalez, Roberts and Moore",1484418,0.4132736348186297,0.2833238679794944,Financeiro,Ásia,8,0,0.1727567562462099,Limitada,Alta,Parcerias,Centralizada,Nenhuma,Intermediária,Média,Neutra,Ruim,1,0,0
+863,Anderson LLC,486594,-0.005573163375517233,1.018192776569525,Financeiro,Ásia,49,1,0.6219807900938741,MEI,Alta,Parcerias,Decentralizada,Básica,Inicial,Fraca,Inovadora,Excelente,0,0,1
+864,Murphy-Smith,2969760,0.39601404628588566,0.9825607619322637,Tecnologia,América Latina,25,0,0.8819755551406074,S.A.,Alta,Aquisições,Centralizada,Ampla,Intermediária,Alta,Neutra,Boa,0,0,0
+865,"Martin, Alexander and Contreras",1192501,-0.19976724571565743,0.5361740577027112,Tecnologia,Ásia,12,0,0.9590842422824034,MEI,Baixa,Aquisições,Decentralizada,Básica,Intermediária,Fraca,Neutra,Regular,0,1,0
+866,Smith-Wilkinson,5338331,-0.18761853327071995,1.1452183011332575,Tecnologia,Europa,25,0,0.19234636315391507,Multinacional,Baixa,Parcerias,Decentralizada,Básica,Inicial,Fraca,Inovadora,Boa,1,1,0
+867,"Jones, Hamilton and Parks",8625631,0.22178721469000542,0.8970384769435275,Saúde,América do Norte,17,1,0.7173727740629734,S.A.,Baixa,Parcerias,Centralizada,Básica,Avançada,Média,Neutra,Ruim,0,0,0
+868,Stokes-Walker,1235964,0.05535875340117061,0.920328893181238,Financeiro,América Latina,26,1,0.6643393666056823,S.A.,Alta,Parcerias,Decentralizada,Nenhuma,Avançada,Média,Neutra,Regular,0,0,0
+869,"Stokes, Evans and Hickman",9972232,0.07052258881140297,1.8736637386911008,Tecnologia,Ásia,46,0,0.34337778957457255,Multinacional,Média,Orgânica,Centralizada,Ampla,Intermediária,Fraca,Neutra,Boa,1,1,0
+870,"Adams, Charles and Taylor",2255748,0.1951087634752177,0.6358321252124711,Manufatura,Europa,48,1,0.019099199353725838,MEI,Média,Orgânica,Centralizada,Básica,Inicial,Fraca,Neutra,Boa,1,0,0
+871,Schmidt Group,4025282,-0.06575228108569761,1.640463901252853,Financeiro,América Latina,14,1,0.6897912473128661,Multinacional,Média,Orgânica,Centralizada,Básica,Avançada,Fraca,Inovadora,Ruim,0,0,0
+872,Lopez-Clark,973172,-0.05177125453416518,1.4695590973142436,Manufatura,Ásia,41,1,0.9454948605595002,MEI,Alta,Aquisições,Centralizada,Ampla,Avançada,Média,Conservadora,Regular,0,0,0
+873,Gibbs LLC,9010852,0.13922111091320524,1.4634220296108815,Saúde,América Latina,36,0,0.6321201219156514,S.A.,Média,Parcerias,Centralizada,Ampla,Intermediária,Média,Conservadora,Excelente,0,0,0
+874,Gutierrez Group,5755378,0.32797748104070407,1.6912176307402622,Tecnologia,Ásia,23,0,0.4352927241876341,S.A.,Média,Aquisições,Decentralizada,Ampla,Inicial,Fraca,Neutra,Excelente,0,0,0
+875,Irwin LLC,4973594,0.23364842598531133,1.4161168868695695,Manufatura,América Latina,43,1,0.5251538941116284,Multinacional,Média,Aquisições,Decentralizada,Nenhuma,Avançada,Média,Inovadora,Boa,0,0,0
+876,Bolton-Russell,4163309,0.0081485337657872,2.210212275631323,Saúde,Europa,6,0,0.19962880765991753,S.A.,Alta,Aquisições,Decentralizada,Ampla,Intermediária,Alta,Inovadora,Ruim,1,1,0
+877,"Stone, Shepherd and Freeman",7041245,0.10123602425624481,1.7213922206806236,Tecnologia,Europa,47,0,0.7505441637537376,Limitada,Média,Parcerias,Decentralizada,Nenhuma,Intermediária,Média,Neutra,Boa,0,0,0
+878,Davis-Hernandez,9551244,-0.08053466901500113,1.4127118032913315,Manufatura,América do Norte,5,0,0.746419830009849,S.A.,Média,Orgânica,Centralizada,Básica,Intermediária,Média,Conservadora,Ruim,0,1,0
+879,"Koch, Daniel and Washington",7917304,-0.1477591299640428,2.091431488690348,Manufatura,América Latina,43,0,0.14551730038742494,Limitada,Alta,Parcerias,Centralizada,Nenhuma,Intermediária,Média,Neutra,Excelente,1,1,0
+880,"Lopez, Ortega and King",929735,0.3478872285209044,1.5547517558403514,Saúde,América do Norte,25,0,0.8779783824996591,S.A.,Baixa,Parcerias,Decentralizada,Ampla,Avançada,Alta,Inovadora,Boa,0,0,0
+881,Wilson-Cobb,7121862,-0.014228813568263811,0.7987461946844295,Tecnologia,América Latina,18,1,0.26918973947330527,Multinacional,Média,Aquisições,Centralizada,Nenhuma,Inicial,Alta,Inovadora,Boa,1,0,0
+882,Smith Ltd,8451245,-0.07556352850412627,0.597027803623771,Tecnologia,Ásia,13,0,0.9822560609366149,Multinacional,Baixa,Aquisições,Decentralizada,Ampla,Intermediária,Alta,Conservadora,Ruim,0,1,0
+883,"Hall, Sanders and Ryan",5382591,0.28413263889852347,0.4655866855904291,Manufatura,Ásia,43,0,0.3829030140372458,Limitada,Média,Aquisições,Decentralizada,Nenhuma,Intermediária,Fraca,Inovadora,Regular,1,0,0
+884,"Moody, Kelly and Johnson",7583058,0.23263617200103015,2.258692510110644,Manufatura,América do Norte,14,0,0.17788405873449964,Multinacional,Alta,Orgânica,Decentralizada,Básica,Avançada,Fraca,Inovadora,Ruim,1,0,0
+885,Francis LLC,2662469,0.24323273820942481,1.804325036315358,Manufatura,América Latina,28,1,0.3517201113456523,S.A.,Baixa,Orgânica,Decentralizada,Nenhuma,Intermediária,Alta,Inovadora,Regular,1,0,0
+886,Melton-Oconnor,3186176,-0.03977377660737049,2.34970825159437,Tecnologia,América do Norte,18,1,0.44018032869719315,S.A.,Baixa,Orgânica,Centralizada,Básica,Intermediária,Fraca,Conservadora,Excelente,1,0,0
+887,Davis Inc,6609590,-0.03714812300612332,1.5479003337158632,Saúde,Europa,28,1,0.06930777303829483,Multinacional,Baixa,Parcerias,Centralizada,Ampla,Inicial,Fraca,Inovadora,Boa,1,0,0
+888,Saunders-Brooks,5445854,-0.04543815915005262,1.23616211558779,Saúde,América do Norte,27,0,0.5782183812232895,S.A.,Baixa,Aquisições,Decentralizada,Básica,Intermediária,Fraca,Neutra,Boa,0,1,0
+889,"Barrett, Smith and Hull",7590200,-0.07837318303639386,0.2433195735301344,Tecnologia,América do Norte,32,1,0.5976324398689004,MEI,Média,Parcerias,Decentralizada,Ampla,Avançada,Alta,Conservadora,Ruim,0,0,0
+890,Williamson-Carter,4983680,0.25900657079315936,1.7119414757104714,Financeiro,Ásia,47,1,0.7389304553494722,MEI,Média,Orgânica,Decentralizada,Ampla,Inicial,Média,Neutra,Ruim,0,0,0
+891,Simpson-Anderson,3781262,0.39361111967458096,1.4973010234437547,Saúde,América do Norte,9,1,0.029169892290743293,S.A.,Baixa,Aquisições,Decentralizada,Básica,Avançada,Alta,Neutra,Excelente,1,0,0
+892,Jones-Hall,4733078,0.3070222287736628,2.4765013446102913,Manufatura,América Latina,40,1,0.5412382144338301,Multinacional,Média,Orgânica,Decentralizada,Básica,Inicial,Alta,Conservadora,Excelente,1,0,0
+893,"Neal, Hale and Lawson",2709089,0.3544655436323802,0.6739810666773832,Financeiro,Ásia,32,0,0.052907433270664384,Limitada,Baixa,Aquisições,Centralizada,Nenhuma,Inicial,Fraca,Neutra,Regular,1,0,0
+894,"White, Shaw and Smith",2608749,0.08335890035963983,1.373769652688406,Financeiro,América do Norte,20,1,0.7011442199666534,Multinacional,Baixa,Aquisições,Decentralizada,Nenhuma,Intermediária,Fraca,Conservadora,Excelente,0,0,0
+895,Dodson-Payne,1014228,0.25785305676039866,1.6622976042833744,Saúde,Europa,28,1,0.05572798570098447,Limitada,Alta,Parcerias,Decentralizada,Básica,Intermediária,Média,Neutra,Excelente,1,0,0
+896,"Bailey, Haynes and Campbell",1053959,0.04796536831134215,1.6470188193816246,Financeiro,América do Norte,33,0,0.9117278483416327,Multinacional,Baixa,Parcerias,Centralizada,Básica,Intermediária,Média,Conservadora,Excelente,0,1,0
+897,Cox and Sons,8005477,0.16785323537804797,1.4471045030761664,Financeiro,América do Norte,4,0,0.7020825668844966,S.A.,Média,Orgânica,Centralizada,Básica,Avançada,Média,Inovadora,Excelente,0,0,1
+898,Noble Ltd,3469538,0.13714439257440358,1.9646272247853411,Saúde,América do Norte,46,1,0.5073897650851571,MEI,Baixa,Parcerias,Centralizada,Básica,Intermediária,Média,Inovadora,Regular,1,0,0
+899,Meyer Group,445266,-0.07617899839930194,0.5919549028643594,Saúde,Ásia,34,0,0.44150392328117494,Multinacional,Alta,Parcerias,Centralizada,Ampla,Intermediária,Alta,Neutra,Excelente,0,1,1
+900,"Everett, Sharp and Hensley",4637358,0.07095513223494154,1.841505280658598,Financeiro,América Latina,48,1,0.13067263041326238,Limitada,Média,Parcerias,Centralizada,Básica,Inicial,Média,Inovadora,Regular,1,0,0
+901,Morris-Hammond,9596563,0.47467559283764565,1.587362971439414,Manufatura,Europa,3,0,0.2909993895646631,MEI,Alta,Aquisições,Centralizada,Básica,Intermediária,Alta,Conservadora,Ruim,1,0,1
+902,Mueller-Murphy,6967100,-0.025993819599540568,2.250580268306976,Tecnologia,América do Norte,26,0,0.8689591050208962,Limitada,Alta,Parcerias,Centralizada,Básica,Intermediária,Fraca,Neutra,Boa,1,1,0
+903,James-Cobb,5375034,-0.10633738460435792,2.133266653680596,Financeiro,América Latina,8,1,0.9044528115624939,S.A.,Baixa,Orgânica,Centralizada,Básica,Intermediária,Média,Inovadora,Ruim,1,0,0
+904,Phelps PLC,7653974,0.09300643513675466,0.8563528939181279,Financeiro,América Latina,6,0,0.0007477083705310639,MEI,Alta,Aquisições,Centralizada,Ampla,Intermediária,Fraca,Inovadora,Excelente,1,1,0
+905,"Thomas, Cooper and Bass",9903005,0.35323641510210363,0.7629695799403674,Manufatura,Ásia,16,1,0.5941363914775513,Limitada,Alta,Aquisições,Decentralizada,Nenhuma,Inicial,Fraca,Neutra,Boa,0,0,0
+906,"Cooper, Sampson and Cuevas",6197091,0.20750376084598054,2.4559679772458747,Financeiro,Europa,24,0,0.7193006090251136,Multinacional,Média,Parcerias,Centralizada,Nenhuma,Intermediária,Alta,Inovadora,Excelente,1,0,0
+907,Reilly LLC,3277993,0.2766823790667711,1.3654364341966156,Financeiro,Ásia,48,1,0.6187469824576063,S.A.,Alta,Aquisições,Decentralizada,Nenhuma,Inicial,Média,Inovadora,Excelente,0,0,0
+908,"Beltran, Williams and Cervantes",7805092,-0.06721360627772599,2.2754103133946484,Tecnologia,América Latina,39,0,0.08167976486635398,S.A.,Baixa,Orgânica,Decentralizada,Nenhuma,Avançada,Alta,Neutra,Ruim,1,1,0
+909,"Orozco, Clark and Walker",7683354,0.23326373510540502,0.49331445707315724,Tecnologia,América Latina,30,0,0.21772489879890222,S.A.,Baixa,Orgânica,Decentralizada,Nenhuma,Intermediária,Fraca,Inovadora,Excelente,1,0,0
+910,"Collins, Cherry and Patterson",3231209,0.026450276438031602,1.6427653955204182,Tecnologia,América Latina,45,0,0.25034026738138604,Multinacional,Baixa,Aquisições,Decentralizada,Ampla,Intermediária,Média,Inovadora,Ruim,1,1,0
+911,Gonzales Group,9712128,0.38401235616833723,2.043664449665407,Saúde,Ásia,13,0,0.8317246313050897,Multinacional,Alta,Parcerias,Decentralizada,Nenhuma,Intermediária,Fraca,Inovadora,Excelente,1,0,0
+912,Frederick LLC,5913365,0.24050916420751528,2.3737485990074725,Saúde,Europa,5,0,0.46319943630892046,MEI,Média,Parcerias,Decentralizada,Ampla,Inicial,Fraca,Inovadora,Regular,1,0,0
+913,"Phelps, Cook and Rice",4157893,-0.060800605557292886,0.9096163384408563,Tecnologia,América do Norte,25,1,0.4868282119412368,Multinacional,Baixa,Aquisições,Decentralizada,Ampla,Intermediária,Média,Neutra,Boa,0,0,0
+914,Barker LLC,5791276,-0.1547683241091397,1.839954807817726,Tecnologia,Ásia,20,0,0.9348930465545086,MEI,Alta,Orgânica,Decentralizada,Nenhuma,Intermediária,Média,Conservadora,Ruim,1,1,0
+915,Taylor-Chen,5497662,-0.1701567534990771,1.3931512216950857,Saúde,América Latina,18,1,0.6370858888547155,S.A.,Baixa,Aquisições,Centralizada,Nenhuma,Avançada,Média,Conservadora,Ruim,0,0,0
+916,Chambers PLC,9928366,0.05998599735509849,0.24550942255952365,Manufatura,Ásia,47,1,0.8986677015526638,MEI,Baixa,Parcerias,Decentralizada,Nenhuma,Inicial,Alta,Inovadora,Boa,0,0,0
+917,"Howard, Brown and Yang",1905468,-0.013904204341980586,1.755999369541464,Financeiro,América Latina,18,1,0.45650885534153296,Limitada,Média,Parcerias,Decentralizada,Básica,Inicial,Alta,Inovadora,Ruim,0,0,0
+918,Case-Davis,3527975,0.2522630864237556,1.7562317397708243,Financeiro,América do Norte,2,0,0.14943625851829423,S.A.,Baixa,Aquisições,Decentralizada,Ampla,Avançada,Fraca,Conservadora,Boa,1,0,1
+919,Jackson and Sons,6456228,0.14953368448503276,2.3334563316316888,Tecnologia,América do Norte,10,1,0.9299355940740857,S.A.,Média,Orgânica,Decentralizada,Nenhuma,Inicial,Média,Inovadora,Regular,1,0,0
+920,Vincent-Aguirre,8614716,-0.013786505396233517,1.2935498708055337,Manufatura,Europa,45,0,0.45870511566753824,MEI,Alta,Aquisições,Centralizada,Básica,Intermediária,Fraca,Conservadora,Excelente,0,1,0
+921,Griffin-Martinez,5625633,-0.09553355543487674,0.6526022097052352,Saúde,América Latina,47,1,0.18163142187882186,S.A.,Baixa,Orgânica,Decentralizada,Ampla,Intermediária,Fraca,Neutra,Regular,1,0,0
+922,Rivers-Mack,2180154,-0.1109601661187853,0.20695317627682996,Tecnologia,Europa,12,1,0.30239574030392224,Multinacional,Alta,Orgânica,Centralizada,Básica,Avançada,Fraca,Neutra,Excelente,1,0,0
+923,Townsend Ltd,2344702,0.40526227449829233,1.0975412480461737,Manufatura,Europa,47,1,0.050802589688942246,Limitada,Alta,Aquisições,Centralizada,Básica,Inicial,Fraca,Neutra,Boa,1,0,0
+924,Phelps Group,3477778,-0.029565422116592955,0.8246000801860044,Manufatura,América do Norte,13,1,0.46830059145638514,MEI,Alta,Aquisições,Decentralizada,Nenhuma,Inicial,Fraca,Neutra,Regular,0,0,0
+925,Ruiz-Hinton,5835193,0.2561974535376778,1.9266119344573014,Manufatura,Ásia,47,1,0.8531281719102366,MEI,Baixa,Orgânica,Decentralizada,Ampla,Inicial,Média,Neutra,Excelente,1,0,0
+926,Little Group,7826890,0.36748014959038633,0.9502426356185119,Saúde,Ásia,11,0,0.9335804560066894,S.A.,Média,Orgânica,Centralizada,Básica,Avançada,Alta,Neutra,Boa,0,0,0
+927,"Jones, Drake and Ball",5997498,0.22985691782931522,2.3777708711556254,Saúde,Europa,19,1,0.9326022075036438,Multinacional,Baixa,Orgânica,Decentralizada,Ampla,Intermediária,Média,Conservadora,Excelente,1,0,0
+928,York-Butler,8457956,0.401695662152862,2.409544487170682,Financeiro,América do Norte,35,1,0.12523002562874674,S.A.,Alta,Orgânica,Decentralizada,Nenhuma,Avançada,Média,Inovadora,Ruim,1,0,0
+929,Lambert-Mitchell,8304298,0.07467560506993214,1.5901806165224992,Financeiro,América Latina,39,0,0.382053882511057,S.A.,Média,Parcerias,Centralizada,Ampla,Intermediária,Média,Conservadora,Ruim,1,1,0
+930,Garcia-Mcdonald,8876957,0.4693555334542638,2.328784688835719,Manufatura,Ásia,26,0,0.02822875965070637,MEI,Alta,Aquisições,Centralizada,Básica,Avançada,Alta,Neutra,Boa,1,0,0
+931,Hopkins and Sons,9551337,-0.10679849707533216,1.9260504268347896,Manufatura,Europa,46,0,0.8551653449714728,S.A.,Média,Orgânica,Decentralizada,Básica,Intermediária,Alta,Inovadora,Excelente,1,1,0
+932,Boone-Rhodes,5943493,-0.12849532923972334,1.4124631383403028,Saúde,Ásia,14,1,0.3587557620212738,Limitada,Baixa,Aquisições,Decentralizada,Ampla,Inicial,Alta,Inovadora,Ruim,1,0,0
+933,"Cruz, Thomas and Kennedy",3486501,0.2610845023452104,0.5327390450146675,Financeiro,Ásia,45,1,0.6311170278922348,S.A.,Média,Orgânica,Decentralizada,Básica,Inicial,Média,Neutra,Regular,0,0,0
+934,"Hughes, Rojas and Pena",7495350,0.45998179898928315,1.200635064433216,Manufatura,América Latina,44,1,0.7148984380772886,S.A.,Baixa,Aquisições,Centralizada,Básica,Inicial,Alta,Neutra,Excelente,0,0,0
+935,Diaz-Vance,4688334,0.36621842314542963,1.4460987120702822,Financeiro,América do Norte,24,1,0.4298446697431554,MEI,Alta,Aquisições,Decentralizada,Básica,Avançada,Fraca,Neutra,Excelente,0,0,0
+936,Chavez Ltd,8564685,-0.14650819839336401,2.173507793764024,Financeiro,América Latina,41,1,0.306442336550243,S.A.,Média,Orgânica,Centralizada,Nenhuma,Avançada,Alta,Neutra,Ruim,1,0,0
+937,"Solis, Brady and Santiago",7268362,-0.004442600245698559,1.2552001036855958,Manufatura,América do Norte,1,1,0.9622129101159447,Multinacional,Alta,Orgânica,Centralizada,Nenhuma,Avançada,Média,Neutra,Ruim,0,0,1
+938,"Long, Richardson and Fox",4427819,0.4512232193864765,2.254419214427096,Saúde,Ásia,43,0,0.9644882250238542,MEI,Média,Aquisições,Decentralizada,Básica,Inicial,Média,Neutra,Boa,1,0,0
+939,"Cummings, Jacobson and Jones",7384953,-0.022859097039450837,1.7184375496563253,Manufatura,Europa,22,0,0.28943636803002193,S.A.,Baixa,Aquisições,Centralizada,Ampla,Intermediária,Fraca,Inovadora,Excelente,1,1,0
+940,Rivas and Sons,1355564,0.34681929665084343,0.4287977513288113,Manufatura,América Latina,23,1,0.4796250967444581,Limitada,Média,Aquisições,Decentralizada,Nenhuma,Inicial,Alta,Neutra,Regular,0,0,0
+941,Clayton Ltd,8614493,0.3775925371500926,2.487955286380223,Financeiro,América do Norte,19,1,0.9728441586600224,Limitada,Média,Parcerias,Decentralizada,Ampla,Inicial,Alta,Neutra,Ruim,1,0,0
+942,"Reyes, Carlson and Keller",9030264,0.14681647242268722,1.3653583858093903,Manufatura,Ásia,18,1,0.004868407655503226,MEI,Baixa,Orgânica,Centralizada,Básica,Intermediária,Fraca,Inovadora,Excelente,1,0,0
+943,Taylor-Johnson,9159296,0.07044423689382082,1.0404599113817892,Saúde,América do Norte,12,1,0.41267824837914924,MEI,Baixa,Parcerias,Decentralizada,Básica,Intermediária,Média,Conservadora,Ruim,0,0,0
+944,Hill-Johnson,4524507,0.11508710269383171,1.6818730347268636,Manufatura,América do Norte,28,1,0.10045754968096843,S.A.,Baixa,Parcerias,Centralizada,Ampla,Intermediária,Média,Neutra,Boa,1,0,0
+945,Stone-Stewart,2892427,-0.04112471394424511,0.3613439535544938,Saúde,América do Norte,28,0,0.5091579655626026,Multinacional,Média,Orgânica,Centralizada,Nenhuma,Intermediária,Alta,Inovadora,Excelente,0,1,0
+946,"Lewis, Price and Ruiz",3457679,0.4225736412901909,1.6276927522080504,Saúde,Ásia,33,0,0.02466995454048715,S.A.,Alta,Orgânica,Decentralizada,Ampla,Inicial,Alta,Inovadora,Excelente,1,0,0
+947,Edwards Ltd,5848035,0.1154337597108305,1.295766401198255,Financeiro,Europa,19,1,0.40689843139062787,Limitada,Média,Parcerias,Decentralizada,Ampla,Avançada,Alta,Conservadora,Boa,0,0,0
+948,"Munoz, Smith and Byrd",4490020,0.4177216083192698,1.0760177679965994,Tecnologia,Europa,28,0,0.22069907478533513,Multinacional,Média,Orgânica,Decentralizada,Básica,Inicial,Alta,Neutra,Regular,1,0,0
+949,"Perry, Young and Grimes",2781719,-0.12601456406560815,2.387248050829358,Tecnologia,Europa,49,1,0.5333083624587408,Multinacional,Alta,Aquisições,Decentralizada,Nenhuma,Intermediária,Alta,Neutra,Ruim,1,0,0
+950,Robertson-Hill,990695,0.4917926897000919,1.3540953201569277,Financeiro,América do Norte,37,1,0.9959936491006997,Multinacional,Baixa,Aquisições,Centralizada,Ampla,Avançada,Média,Neutra,Boa,0,0,0
+951,Rivera-Jackson,938761,0.11029116121053276,0.6258819507278522,Manufatura,Ásia,26,1,0.8005361051267477,S.A.,Média,Parcerias,Centralizada,Nenhuma,Avançada,Média,Inovadora,Excelente,0,0,0
+952,Perez-Lee,7467664,-0.16651842572412617,1.2015123505055167,Financeiro,América do Norte,35,0,0.8456420916244214,Limitada,Alta,Parcerias,Centralizada,Básica,Inicial,Média,Neutra,Boa,0,1,0
+953,Martinez PLC,8988923,-0.17338470623378158,2.3065297709744144,Saúde,Europa,34,0,0.6352649873590809,MEI,Baixa,Orgânica,Decentralizada,Nenhuma,Inicial,Média,Neutra,Excelente,1,1,0
+954,"Murphy, Green and Cook",5452825,0.322345080237287,0.5226291311934272,Tecnologia,Europa,35,1,0.04155984827225856,S.A.,Baixa,Orgânica,Centralizada,Básica,Inicial,Fraca,Neutra,Boa,1,0,0
+955,Davis-Hendrix,9788053,0.2613248739425765,0.6134968928517686,Financeiro,Ásia,40,0,0.20679767604414412,MEI,Média,Parcerias,Centralizada,Nenhuma,Avançada,Média,Neutra,Regular,1,0,0
+956,"Fleming, Lopez and Thompson",8987324,0.3614913906893112,0.131270962617001,Manufatura,América do Norte,16,0,0.925064556447055,Multinacional,Baixa,Parcerias,Decentralizada,Ampla,Avançada,Fraca,Conservadora,Excelente,0,0,0
+957,Rivera Ltd,3421127,-0.12624272623303584,0.13405611854984123,Financeiro,América Latina,38,1,0.36611311792875123,Multinacional,Baixa,Aquisições,Decentralizada,Básica,Avançada,Média,Conservadora,Boa,1,0,0
+958,Tucker and Sons,2659272,-0.17510039307511616,2.09053990470043,Tecnologia,América Latina,13,0,0.10363672648079558,S.A.,Alta,Aquisições,Decentralizada,Ampla,Intermediária,Alta,Conservadora,Regular,1,1,0
+959,"Martinez, Adams and Jones",2376106,0.1560055026133049,1.857094256423094,Financeiro,Europa,23,0,0.702405365866202,Limitada,Alta,Orgânica,Centralizada,Básica,Intermediária,Alta,Neutra,Regular,1,0,0
+960,Ingram-Colon,7060534,0.07131666203793864,0.9520985354846998,Financeiro,Ásia,22,1,0.2994577239342546,Multinacional,Baixa,Aquisições,Decentralizada,Nenhuma,Inicial,Alta,Neutra,Ruim,1,0,0
+961,Bates LLC,7474592,0.12336285566966901,1.7759467773461746,Tecnologia,América do Norte,16,1,0.2688569129041717,MEI,Alta,Orgânica,Centralizada,Nenhuma,Avançada,Fraca,Inovadora,Excelente,1,0,0
+962,Sanchez Inc,6675716,0.4941118862091917,1.0484942231439285,Saúde,América do Norte,28,0,0.9979774555582603,MEI,Baixa,Orgânica,Centralizada,Básica,Inicial,Média,Inovadora,Ruim,0,0,0
+963,Nash-Blake,2102324,0.47952497036946906,2.386952310394786,Saúde,Europa,48,1,0.8581389250266543,S.A.,Média,Orgânica,Centralizada,Básica,Avançada,Média,Inovadora,Regular,1,0,0
+964,Hunt Ltd,6362105,0.4596207727712349,2.4209264354224835,Tecnologia,Europa,35,0,0.40793781836784104,MEI,Alta,Aquisições,Centralizada,Básica,Inicial,Fraca,Neutra,Ruim,1,0,0
+965,Roberson LLC,6771318,0.34868987373737165,1.042705061942424,Financeiro,América do Norte,45,1,0.9802612078164991,Limitada,Baixa,Parcerias,Centralizada,Nenhuma,Intermediária,Fraca,Conservadora,Ruim,0,0,0
+966,Potts-Logan,594592,0.048388952179823246,2.150132575218083,Tecnologia,América do Norte,46,1,0.6501132234192136,Multinacional,Baixa,Parcerias,Decentralizada,Básica,Avançada,Fraca,Conservadora,Boa,1,0,0
+967,Lang Inc,3678226,0.08849165118394008,1.9554137000739187,Saúde,Europa,8,1,0.7420224518797602,MEI,Alta,Aquisições,Centralizada,Básica,Intermediária,Fraca,Conservadora,Ruim,1,0,0
+968,Jones-Lawson,6249031,0.1847312306032471,0.8439998492122943,Manufatura,América do Norte,44,1,0.03151304308221159,MEI,Alta,Parcerias,Decentralizada,Ampla,Avançada,Fraca,Neutra,Regular,1,0,0
+969,Warren and Sons,2527540,0.3813741194833879,0.6568955893626544,Financeiro,América Latina,22,0,0.1216052593480571,Multinacional,Média,Orgânica,Centralizada,Básica,Inicial,Alta,Conservadora,Ruim,1,0,0
+970,"Hendrix, Chavez and Reed",1815630,-0.15190101723721258,1.1997631609428012,Saúde,Europa,21,1,0.6330851264962384,S.A.,Baixa,Parcerias,Centralizada,Ampla,Avançada,Média,Inovadora,Excelente,0,0,0
+971,Dalton Group,418408,0.09700782011942165,1.975237217474575,Financeiro,América do Norte,26,1,0.8990239826494839,MEI,Média,Aquisições,Decentralizada,Ampla,Intermediária,Fraca,Inovadora,Boa,1,0,1
+972,Burns Inc,8956884,-0.14216763557851195,2.404402683348989,Tecnologia,Europa,40,1,0.6237437260875957,S.A.,Média,Parcerias,Centralizada,Ampla,Avançada,Alta,Conservadora,Regular,1,0,0
+973,"Martin, Maxwell and Jones",9000019,0.16026031060145807,1.932589765279774,Manufatura,Ásia,21,0,0.13402489431899178,S.A.,Média,Orgânica,Centralizada,Nenhuma,Inicial,Fraca,Inovadora,Ruim,1,0,0
+974,Byrd-Fuller,3217172,0.4292305768043647,2.1524967640440877,Tecnologia,Europa,25,0,0.11576004624632463,MEI,Alta,Orgânica,Decentralizada,Ampla,Avançada,Alta,Conservadora,Excelente,1,0,0
+975,Williams and Sons,9372985,0.3477394471947565,1.5473543348092396,Manufatura,Europa,41,1,0.8441858958240817,Limitada,Média,Aquisições,Decentralizada,Básica,Intermediária,Fraca,Conservadora,Regular,0,0,0
+976,Archer-Mendoza,6404680,-0.040510307719823044,2.104978794021102,Financeiro,Ásia,1,1,0.1393023387079143,S.A.,Alta,Aquisições,Centralizada,Nenhuma,Inicial,Média,Inovadora,Ruim,1,0,1
+977,Herrera and Sons,4335042,0.4831935947191547,1.9826100592082023,Financeiro,América Latina,6,1,0.5202319605040254,MEI,Alta,Aquisições,Centralizada,Nenhuma,Intermediária,Fraca,Inovadora,Boa,1,0,0
+978,"Fischer, Phillips and Ellis",1998739,0.2671452786324998,1.0047653006230721,Tecnologia,América do Norte,23,1,0.03711331996230227,S.A.,Média,Orgânica,Centralizada,Nenhuma,Avançada,Fraca,Inovadora,Ruim,1,0,0
+979,"Elliott, Graham and Miller",9717944,-0.19270061042181785,1.4247767250897305,Manufatura,Ásia,23,1,0.08066976739117737,Multinacional,Média,Parcerias,Decentralizada,Nenhuma,Intermediária,Média,Inovadora,Regular,1,0,0
+980,"Saunders, Guerrero and Porter",1117433,-0.021210560720346362,2.0314074927752674,Manufatura,Europa,43,1,0.6723482676428648,Limitada,Baixa,Parcerias,Centralizada,Nenhuma,Avançada,Média,Conservadora,Regular,1,0,0
+981,Dunn Inc,8204010,-0.017500690056058445,0.2105361620558953,Financeiro,América do Norte,43,0,0.6891814104275167,Limitada,Média,Aquisições,Decentralizada,Nenhuma,Inicial,Fraca,Inovadora,Regular,0,1,0
+982,Green PLC,4761029,-0.15152198559989807,2.039390277653992,Tecnologia,Ásia,23,1,0.3414694066084424,Multinacional,Baixa,Parcerias,Decentralizada,Nenhuma,Intermediária,Média,Inovadora,Excelente,1,0,0
+983,Torres-Morgan,3778086,0.47187856265315026,0.5269314977176562,Manufatura,América do Norte,32,1,0.21560976524304476,Multinacional,Média,Parcerias,Centralizada,Ampla,Intermediária,Média,Neutra,Ruim,1,0,0
+984,"Mendoza, Martinez and Davis",1681530,0.13477870620314658,1.3352406810914534,Financeiro,América do Norte,30,1,0.813710270757308,S.A.,Média,Aquisições,Decentralizada,Básica,Avançada,Alta,Inovadora,Ruim,0,0,0
+985,Price-Gomez,2187258,0.4270702181603173,2.03986105493425,Saúde,Ásia,13,1,0.21710322946989036,Multinacional,Média,Aquisições,Centralizada,Básica,Intermediária,Média,Inovadora,Ruim,1,0,0
+986,Mason Inc,4956447,0.02555085241123982,0.7091705875760677,Tecnologia,América do Norte,43,1,0.5420270696663797,Limitada,Média,Orgânica,Centralizada,Ampla,Intermediária,Média,Conservadora,Boa,0,0,0
+987,Clark and Sons,8469066,-0.11233650069702103,0.6899378543347672,Saúde,América Latina,18,1,0.9682088408629055,Multinacional,Baixa,Orgânica,Decentralizada,Ampla,Inicial,Fraca,Conservadora,Excelente,0,0,0
+988,"Lowe, Washington and Patterson",6957658,0.1320352769343497,1.0666345563094044,Tecnologia,Ásia,23,0,0.14785243786238378,MEI,Baixa,Orgânica,Decentralizada,Nenhuma,Avançada,Fraca,Neutra,Excelente,1,0,0
+989,Davis Group,1096530,-0.120230355699978,2.2471427141863227,Financeiro,América Latina,15,0,0.9408762674947089,MEI,Média,Orgânica,Decentralizada,Nenhuma,Avançada,Alta,Inovadora,Boa,1,1,0
+990,Cruz-Johnson,9259861,0.14021085208427791,0.10106267544929892,Manufatura,Europa,33,0,0.18289305306866865,S.A.,Média,Parcerias,Decentralizada,Ampla,Inicial,Fraca,Inovadora,Excelente,1,0,0
+991,Meza-Garcia,2701623,0.44420802685358535,2.2633194319406438,Manufatura,América do Norte,21,0,0.5674432080232296,Limitada,Baixa,Parcerias,Decentralizada,Nenhuma,Inicial,Média,Inovadora,Boa,1,0,0
+992,Jacobs LLC,9866854,0.16453769928394887,0.46913685913985864,Manufatura,Europa,39,0,0.3770077119587446,MEI,Alta,Orgânica,Decentralizada,Básica,Avançada,Média,Inovadora,Regular,1,0,0
+993,Smith LLC,6331219,0.2315498088265584,2.476207302561957,Tecnologia,Europa,23,0,0.9649286015018259,Multinacional,Alta,Orgânica,Centralizada,Básica,Inicial,Média,Inovadora,Regular,1,0,0
+994,Erickson Group,4208997,-0.09035309411833421,2.3916327832923234,Financeiro,América do Norte,27,1,0.2735420290019369,MEI,Alta,Aquisições,Centralizada,Nenhuma,Inicial,Fraca,Inovadora,Excelente,1,0,0
+995,"Wilson, Nicholson and Benson",3464695,-0.16938506188402136,1.28722045501908,Saúde,Ásia,45,1,0.39965800208575364,MEI,Baixa,Parcerias,Centralizada,Nenhuma,Inicial,Média,Neutra,Regular,1,0,0
+996,Kelley-Ali,1145482,-0.12243442647413509,1.3305285947503076,Financeiro,América do Norte,44,1,0.9828601178554205,S.A.,Baixa,Parcerias,Decentralizada,Nenhuma,Avançada,Média,Inovadora,Regular,0,0,0
+997,Sawyer-Phillips,5886265,0.21897210297905592,1.2557184166620503,Saúde,Europa,18,1,0.5364703911884732,Multinacional,Alta,Orgânica,Decentralizada,Básica,Inicial,Alta,Inovadora,Regular,0,0,0
+998,"Chang, Dudley and Lee",6008635,-0.13349181070538677,1.6250647495828543,Tecnologia,Europa,24,1,0.5026301156212535,Multinacional,Alta,Parcerias,Decentralizada,Nenhuma,Intermediária,Alta,Inovadora,Ruim,0,0,0
+999,Bradshaw Inc,7587345,0.06319502295891796,0.31773208536383446,Tecnologia,Ásia,47,1,0.2577784882039913,Multinacional,Média,Aquisições,Centralizada,Ampla,Intermediária,Alta,Neutra,Regular,1,0,0
+1000,Schneider-Nguyen,9783910,0.18506435832070917,0.17828307601975962,Saúde,América do Norte,40,0,0.7013635603104414,S.A.,Baixa,Aquisições,Centralizada,Nenhuma,Avançada,Fraca,Inovadora,Ruim,0,0,0

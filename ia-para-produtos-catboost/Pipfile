@@ -1,0 +1,23 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pandas = "*"
+scipy = "*"
+plotly = "*"
+scikit-learn = "*"
+shap = "*"
+ipykernel = "*"
+ipywidgets = "*"
+nbformat = "*"
+catboost = "*"
+faker = "*"
+colorama = "*"
+
+[dev-packages]
+tensorboard = "*"
+
+[requires]
+python_version = "3.12"
