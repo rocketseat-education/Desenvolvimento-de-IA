@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pandas = "*"
+scipy = "*"
+plotly = "*"
+scikit-learn = "*"
+shap = "*"
+ipykernel = "*"
+ipywidgets = "*"
+nbformat = "*"
+lightgbm = "*"
+colorama = "*"
+graphviz = "*"
+bayesian-optimization = "*"
+matplotlib = "*"
+
+[requires]
+python_version = "3.12"
