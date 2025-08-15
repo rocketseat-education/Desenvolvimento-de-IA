@@ -1,0 +1,501 @@
+ID_Prospect,Nome,Idade,Viagens,Restaurantes,Entretenimento,Cashback,Compras online,Farmácias,Programas de Milhagem,Postos de Combustível,Mercados,Cidade,Cargo,Estado Civil,Tempo na Empresa,Pessoas em Casa,Moradia,Possui Carro,Renda,Investimentos,Ativos,Dívidas
+de943fb0-5e23-4e7f-8130-1aa76b33f4dc,Francisco Fonseca,24,1,1,4,5,4,1,5,1,2,Brasília,Coach,Divorciado,14,6,Próprio,True,46006,736831,371505,88180
+5050d0e5-5d35-4cb1-a208-596a3ee4ac1d,Melissa Mendes,58,1,4,5,3,2,3,3,1,2,São Paulo,Especialista em agronegócios,Solteiro,4,2,Próprio,False,38086,374702,1828554,31206
+435005c0-50ea-4755-acef-b4362c08dccd,Lucca Costa,18,2,4,1,1,3,1,3,2,2,Campo Grande,Cobaia Médica,Divorciado,20,6,Próprio,False,42531,933858,1295274,178144
+4e9951b4-1790-484c-ab25-189aa9089241,Francisco da Luz,20,4,3,1,4,1,4,2,2,4,Manaus,Classificador contábil,Solteiro,11,6,Próprio,True,16112,698799,1574952,434757
+cb434840-2bf0-4516-8a79-8c9ada489c03,Sr. Vinícius Costela,22,1,1,4,3,5,2,3,1,2,Goiânia,Sapateiro,Solteiro,0,3,Próprio,True,3059,920950,449866,224609
+cbadf676-7690-4837-891d-9f9d7eb20d95,Emanuelly da Mota,20,5,5,3,1,1,5,3,5,1,Porto Alegre,Paginador,Divorciado,19,5,Alugado,False,23682,796881,1572953,127732
+2b07d568-893c-4199-8927-b47ce77afeef,Arthur Gabriel da Cruz,76,3,5,3,2,1,3,4,1,1,São Paulo,Digitador,Viúvo,15,5,Alugado,True,27069,598939,898573,494353
+ca81a1c4-9cc5-4519-a781-8bc6509a6e39,Benicio Barbosa,76,5,1,1,5,4,4,4,3,1,Florianópolis,Metalúrgico,Casado,15,5,Próprio,True,47966,932984,456768,347189
+c2fa002d-97ca-4abf-b473-098651f7dd58,Danilo Novaes,30,5,3,3,5,3,2,1,1,4,Fortaleza,Engenheiro florestal,Viúvo,12,2,Próprio,False,1527,228554,336970,331813
+f7a15aaf-9b2c-4094-abb7-d7882b9054e0,Rebeca Aragão,40,1,1,4,2,4,3,3,2,4,Belo Horizonte,Lixeiro/Coletor de lixo,Divorciado,3,4,Próprio,True,39149,64118,1316458,97921
+4cb2879f-2544-4eb6-a92a-cb8889aa28b5,Melina Campos,60,5,2,2,2,3,3,1,1,1,Goiânia,Jogador de handebol,Solteiro,18,1,Próprio,True,24341,256151,11783,334079
+a44b4af2-12c7-4bf1-806f-0cc559ac2120,João Pacheco,66,5,5,4,5,3,2,1,2,1,Rio de Janeiro,Jogador de handebol,Viúvo,12,4,Alugado,True,41387,972573,13621,147634
+f3f1fe9d-30c7-4af3-9715-b397bcafa77f,Alexia Ramos,75,3,4,3,5,5,5,4,3,5,Vitória,Bombeiro,Casado,2,2,Próprio,False,11976,414440,97362,121081
+23e2353f-433a-479d-8241-6ae68e482603,Melissa Jesus,79,2,4,2,1,2,4,3,3,5,Belo Horizonte,Arrumadeira,Solteiro,8,4,Próprio,True,46541,624781,264413,575
+7be7194f-8459-467c-84cc-0a9e784c4e25,Sra. Agatha Freitas,76,4,1,1,3,2,2,5,1,2,Porto Alegre,Capelão,Viúvo,5,1,Alugado,True,24106,950958,1909217,274953
+94e30757-4222-4f27-a697-0a5c53f4b12d,Sr. José Miguel Nunes,68,1,5,5,4,1,3,5,1,4,Rio de Janeiro,Profissional de tecnologia de laticínios,Solteiro,16,4,Alugado,False,22778,576966,1154694,42757
+628534b0-d865-471b-a8a9-957597f15717,Davi Miguel Câmara,64,5,3,5,4,4,2,1,4,5,Recife,Jogador de tênis de mesa,Solteiro,1,3,Alugado,False,36060,802777,1695119,366668
+ca1fabec-8d60-408f-934b-d61fe957e897,Anna Liz Campos,56,2,1,5,4,5,2,5,5,4,Campo Grande,Bioquímico,Casado,16,3,Próprio,False,4500,689288,201273,269438
+1fced73e-86de-4559-a1bf-1cea46c7e0d7,Bernardo Pires,26,2,4,2,1,1,2,5,2,5,Curitiba,Cartazeiro,Casado,20,2,Alugado,True,4877,264201,185976,145450
+4bb21a8e-6324-4892-ba5b-31b164b4775d,Luigi Montenegro,35,4,3,2,2,5,1,1,4,3,Manaus,Técnico em rede,Casado,0,6,Alugado,True,9361,37870,1329686,108977
+73c3f9dd-9d4d-4757-a323-5ba3ff14ca84,Caio Casa Grande,80,1,3,2,2,2,2,4,4,3,Vitória,Projetista mecânico,Casado,3,2,Próprio,True,3715,942157,1629164,398094
+e3d4f0f4-995c-4a58-bdb9-397c9e51c4b4,Ana Luiza da Luz,26,5,1,4,3,1,4,3,4,2,São Paulo,Filósofo,Solteiro,11,6,Alugado,False,30944,481924,746290,208605
+bc440a24-1245-48dc-9bd3-4888885dc9d0,Gabrielly Andrade,75,5,1,5,5,2,2,1,1,2,Manaus,Caldeireiro,Solteiro,13,6,Alugado,False,20564,396487,1814433,318829
+2884e5f3-e179-4df8-87f5-5170501c06a8,Ana Liz Caldeira,20,2,5,5,2,1,1,3,2,5,Vitória,Acupunturista,Divorciado,2,5,Próprio,False,11630,158162,1190110,42551
+12c38a81-74f9-4cf3-bfee-57cdd3d96f7f,Benicio Pimenta,69,2,1,4,4,1,5,1,3,4,Recife,Coronel,Divorciado,13,4,Próprio,True,26111,245228,1468900,206570
+f0516268-6b12-4f0f-80e5-c717ca77406e,Cecília Pastor,77,2,1,5,5,4,3,3,1,3,Manaus,Cerimonialista,Divorciado,8,3,Alugado,False,29277,410534,411769,359062
+3cbca660-5bb8-46b6-9323-d49e1677b9fa,Sra. Isadora Lima,37,5,2,2,5,4,3,1,3,5,Salvador,Pediatra,Casado,14,2,Alugado,True,26253,141232,909828,462455
+24857495-f3f1-4f3e-a828-f3f811b97241,Nathan Cavalcante,71,1,1,3,2,3,2,4,2,3,Belém,Ascensorista,Divorciado,8,6,Alugado,True,45510,539688,1782894,269084
+cbdbb6db-9403-4423-bf89-815af7916aa7,Dr. Valentim Andrade,58,1,5,4,5,5,1,5,4,2,Belém,Levantador de peso,Casado,9,6,Alugado,False,18279,231319,421555,293446
+56228fa3-70bd-4e06-8512-69ba0670c722,Sophia Barros,39,2,2,3,4,2,3,1,3,5,Porto Alegre,Nutrologista,Casado,7,3,Alugado,True,46188,252586,162630,41253
+3eb5cfe7-b57f-45d9-8cfb-221711987268,Lívia Cardoso,63,3,5,4,4,1,3,3,3,4,Florianópolis,Jogador de tênis de mesa,Viúvo,18,6,Próprio,False,22680,834735,951124,210436
+8e8d10cf-0ee3-4cf8-a4e0-2445640d1568,Noah Rodrigues,55,3,3,2,3,2,4,3,5,4,Vitória,Tecnólogo em Ciências das plantas medicinais,Divorciado,12,4,Próprio,True,29239,218755,1899903,146987
+9398215b-94c3-4eca-b143-0cf83461c583,Caroline Sá,26,1,2,3,3,3,1,5,1,5,Brasília,Oftalmologista,Divorciado,16,1,Próprio,True,27155,624893,299044,169395
+679a264b-7df5-4f48-9b05-350582de64bd,Renan da Rosa,68,3,5,4,4,3,4,2,1,2,São Paulo,Papiloscopista,Viúvo,8,2,Alugado,False,48015,617088,248855,139300
+a755b817-aeb0-4d17-89ab-e9f2cea39c3f,Mateus Teixeira,29,4,1,3,1,3,5,5,2,2,Florianópolis,Deputado,Casado,13,1,Próprio,False,21247,223861,1506582,424460
+4ef2d395-3baf-4845-8568-9dc7b452e810,Srta. Julia da Costa,21,4,5,4,2,4,2,1,1,1,Recife,Profissional de áudio,Solteiro,15,5,Próprio,True,10311,977190,252176,41628
+0e0f54e3-ebd1-48ac-bd84-604f14f70ba5,Kaique Cardoso,41,5,4,1,5,3,3,2,2,3,Vitória,Técnico em rede,Divorciado,5,4,Próprio,False,18501,885146,1426642,341042
+cd85e2e6-a8f4-4ec4-8dd8-9933cfad5aba,Kevin Barbosa,74,4,1,1,4,2,2,1,5,4,Florianópolis,Técnico tributarista,Divorciado,4,2,Próprio,False,30685,138471,1210695,225430
+168db2ff-f981-4c1a-982d-dc55e84a2e8c,Vicente Sampaio,43,3,4,2,2,4,1,1,3,1,Belém,Assessor parlamentar,Solteiro,20,6,Próprio,True,29791,977722,1126191,32968
+34f7e0ee-6fdd-40ee-85bc-093f19b8666c,Otávio Sá,19,3,3,5,1,1,1,2,4,2,Goiânia,Grafologista,Casado,2,3,Alugado,False,31350,694752,1775620,495642
+d052754f-a6d1-4965-aa57-c9591c9ee6fa,Srta. Ana Carolina Albuquerque,30,1,4,1,5,3,2,5,1,2,Florianópolis,Engenheiro naval,Viúvo,16,6,Alugado,False,11779,952561,73572,104049
+9e13844f-1277-464f-b3cd-4d9806b317cf,João Miguel Ramos,25,2,4,5,3,3,2,5,4,2,Campo Grande,Bioquímico,Solteiro,19,6,Alugado,False,17130,360678,268059,377034
+db0029f0-3e72-4197-8b97-433c045739a7,Melina Nascimento,41,5,3,2,2,2,2,2,4,2,Goiânia,Pescador,Casado,16,5,Alugado,True,19830,381252,1788585,248345
+3e6867b0-f9de-4d59-91cb-050125d9e63d,Arthur Miguel Sampaio,62,2,3,2,2,2,4,4,1,5,Brasília,Cobrador de ônibus,Solteiro,15,4,Alugado,True,37125,481416,95549,268147
+f15ec1f9-07ac-4865-ac55-33a5493a53c4,Maria Alice Rodrigues,29,4,5,4,1,5,2,2,4,1,Rio de Janeiro,Percursionista,Solteiro,15,1,Alugado,False,7538,371427,1352256,443192
+cecdbbc6-e83f-45d2-ad30-63e68dc79154,Antony Fonseca,78,5,2,5,5,2,1,4,4,3,Recife,Imunologista,Divorciado,12,4,Alugado,False,30007,790365,550828,68694
+86420269-188d-45cc-9a2b-c9c910094bad,Sr. Rhavi Cavalcanti,27,2,2,2,2,2,5,1,1,5,Curitiba,Gerente de vendas,Divorciado,4,3,Alugado,True,12707,769919,741844,212350
+962dc73f-1052-4086-850b-3f9f33473cf5,Sabrina Borges,21,4,2,5,3,2,3,1,4,2,Vitória,Ufólogo,Viúvo,7,1,Alugado,True,18796,416095,1433768,415751
+fc0430c3-0fac-4b37-b496-6f3eaf4494b3,Ágatha Gonçalves,49,3,1,2,1,4,3,2,5,3,Florianópolis,Esgrimista,Solteiro,20,5,Próprio,True,1888,931637,1384102,37610
+2d9feae5-4494-4622-8132-6df6fbb2d1e6,Matheus Novais,32,4,2,4,1,5,3,4,2,5,Vitória,Designer de interiores,Viúvo,11,4,Alugado,False,48873,290297,1658331,249636
+6f36587c-21d4-4fb1-9cc8-a7a0bd07f264,Igor Viana,20,3,3,3,5,1,2,1,3,1,Salvador,Feirante,Divorciado,2,1,Próprio,False,29066,284813,35456,298621
+220e881f-0f42-4158-b7b0-cb0c8fea49bc,Cauê Pereira,77,1,5,4,5,2,5,3,4,5,Fortaleza,Funileiro,Divorciado,5,1,Próprio,True,9984,19042,531881,88461
+6725b48d-70c2-4764-b242-6e4c4efb67a2,Davi Luiz da Conceição,45,2,1,1,5,4,1,2,1,2,Curitiba,Jogador de boliche,Solteiro,6,5,Alugado,False,41652,423135,970472,278910
+733e5320-34d4-4d20-807d-c37131dd38a6,Alícia da Cunha,54,4,4,1,5,5,4,2,1,2,Salvador,Engenheiro de ergonomia,Viúvo,15,2,Alugado,True,9641,459118,1367415,204159
+0c24b425-f32e-4a16-9a73-dc171be1d81c,Isaque Cardoso,61,1,4,3,5,5,5,5,4,5,Salvador,Motofrete,Divorciado,7,6,Alugado,False,14304,120888,1263781,48074
+d58b34ee-d2d0-41cc-a5e3-78a0166392c2,Emanuel Sales,58,4,3,3,2,1,5,5,3,2,Porto Alegre,Controller,Solteiro,4,1,Alugado,True,39410,72617,738140,441536
+7261dec9-c217-43a2-b960-9d3e6755f174,Stephany Pimenta,19,3,4,4,3,3,5,4,3,4,São Paulo,Auxiliar de reprografia,Solteiro,0,2,Próprio,False,26928,321042,648411,285608
+fa7bcd07-fc5d-4778-83a7-be2d079b4a8d,Sr. João Pedro Lima,60,4,4,4,3,5,4,5,4,3,Campo Grande,Mestre cervejeiro,Solteiro,13,2,Próprio,False,28959,724174,70830,134706
+4030be53-0c4d-411b-a153-7add332f53c0,Enzo Barros,72,3,1,1,4,2,3,3,2,4,Porto Alegre,Ortodontista,Solteiro,18,6,Próprio,False,38030,447348,1292807,97764
+43622f54-8192-49b2-9c82-271719064401,Sr. Renan Farias,79,4,4,1,1,5,3,2,5,4,Porto Alegre,Crítico,Divorciado,6,1,Próprio,False,48121,8343,375906,192941
+cc338436-f2da-470f-b963-ea24d40f544f,Melina Siqueira,40,1,2,5,2,4,4,2,4,3,Porto Alegre,Geógrafo,Solteiro,10,5,Próprio,False,41089,412584,731236,483709
+39dc2de6-813f-40d3-af8a-fe42a205d390,Sr. Arthur Gabriel Ribeiro,36,4,4,2,3,3,3,3,2,3,Goiânia,Engenheiro de minas,Divorciado,2,3,Alugado,False,38315,973081,1265590,308851
+233d3d7e-2905-40f4-9b53-8e69e6e30822,Gabrielly Campos,33,5,2,3,3,5,4,3,2,5,Campo Grande,Eletricista,Divorciado,13,3,Alugado,True,10575,235435,100126,311071
+691afb30-bd46-4ff2-af86-9a2eab6061a7,Benício da Rocha,39,5,4,2,5,4,2,5,5,5,Manaus,Bancário,Divorciado,3,2,Alugado,True,1522,937653,1594357,299372
+7506e0cc-1bd8-4724-b557-f46bb2aeedea,Gael Henrique da Rocha,46,2,1,2,1,4,1,4,3,3,Campo Grande,Profissional de linguística,Divorciado,6,3,Próprio,False,23064,495575,1678461,307025
+6bdc9402-01fe-4b11-8e65-46a9aaca4e6e,Sofia Gonçalves,26,2,1,2,1,1,3,3,5,4,Vitória,Taifeiro,Divorciado,12,1,Alugado,True,38130,57260,1725873,14358
+83431a05-0968-4bde-8a44-7e4bbb6aafdd,Allana Novais,27,3,1,2,1,2,4,3,4,3,Recife,Capoeirista,Viúvo,6,3,Próprio,False,1151,582355,1971156,225571
+f740883f-96fc-450a-9a24-418f4dcdb6af,Helena Cavalcante,80,1,5,5,2,1,3,3,5,3,Porto Alegre,Assistente de câmera,Divorciado,10,4,Próprio,True,6547,75999,467292,489972
+af2d9d8f-3cee-4a1f-9ec1-304bbe30f06c,Luiz Otávio Dias,52,5,3,1,2,3,2,2,4,2,Campo Grande,Engenheiro agrícola,Casado,1,2,Alugado,False,30983,306975,384012,139000
+34a682c2-42df-42ea-bdb4-6eb642ba0881,Stella Lima,44,2,1,1,3,2,4,5,4,5,Goiânia,Jogador de golfe,Viúvo,17,1,Alugado,False,47580,742230,1881536,73855
+6387ea11-1a00-424a-a003-87894adbf4c0,Dra. Eduarda Pacheco,54,3,4,5,1,2,1,4,4,3,Rio de Janeiro,Especialista em agronegócios,Viúvo,8,2,Alugado,False,14620,882347,668020,30642
+54ac7404-7a25-4525-9bfc-bf2c9a970955,Liz Aparecida,27,2,5,3,1,2,2,5,5,3,Salvador,Controller,Viúvo,10,2,Próprio,False,48830,914505,1581025,483541
+0ab905d5-aa83-425d-bc01-cedf306b545c,Sr. Theodoro Nogueira,66,2,2,2,2,5,2,5,2,1,Belo Horizonte,Operador de telemarketing,Solteiro,4,3,Próprio,True,15124,214340,1840910,5222
+029e1c73-bae6-4e24-9efc-a9f13e1f10fd,Luiz Gustavo Monteiro,32,1,2,2,3,4,4,4,1,1,Belém,Endodontista,Viúvo,14,3,Alugado,False,28975,148891,1627192,250813
+63b405e5-3256-4627-88ee-f55724856f7b,Sra. Maria Helena Pereira,57,5,3,3,2,1,2,3,3,2,São Paulo,Imunologista,Solteiro,5,2,Próprio,False,12182,246402,60908,113657
+1d25ac22-1f2d-45fe-a1f3-b6444c4721e9,Ravi Lucca Dias,35,2,1,2,5,3,4,1,5,1,Rio de Janeiro,Contra regra,Viúvo,5,2,Alugado,False,4415,923879,782866,30665
+59189eb1-43e2-41b2-81ba-517a08ffcc10,Gael Brito,46,4,3,5,4,1,4,4,3,3,Salvador,Profissional de linguística,Solteiro,19,5,Alugado,False,4279,405083,754472,335449
+c0fe5c78-d050-44c0-9e5a-823e72177e11,Nina Aragão,52,2,5,4,2,4,2,3,5,1,Belo Horizonte,Urbanista,Casado,10,5,Alugado,False,26249,413351,1590164,279852
+8acc1ae1-aaa5-4078-b620-d54edc3c4cee,Ian Fogaça,36,3,5,2,2,4,2,2,4,5,Florianópolis,Cirurgião bucal,Solteiro,5,1,Alugado,True,6632,49436,250034,278352
+26a91855-9dc3-40af-a25b-def3f0c8f4cf,Pietro da Costa,47,5,1,2,3,5,4,5,1,1,Fortaleza,Radioterapêutico,Solteiro,15,3,Alugado,True,40207,158388,739291,54299
+f95c5681-35d0-4401-9f46-dcd05aeec1a6,Ana Lívia Farias,55,5,5,3,3,2,5,3,1,4,Rio de Janeiro,Assessor parlamentar,Casado,5,2,Próprio,False,17680,261906,462027,292320
+483e971b-ea82-40d0-a1d1-753fb11a2271,Maria Liz Vasconcelos,47,2,2,1,3,3,2,2,1,4,Belo Horizonte,Secretária,Viúvo,10,6,Próprio,False,13606,952916,409571,387992
+aa465b9b-b6f2-4467-a1b9-aa76fdfcf8b7,Isaac Vargas,65,1,5,2,2,3,3,3,4,1,Curitiba,Montador,Viúvo,16,5,Próprio,True,18757,487194,43640,421757
+b5c311ad-8a42-4ce7-9f02-5b385ff8838f,Yasmin da Rosa,28,1,3,5,4,5,3,1,5,3,Porto Alegre,Luthier,Viúvo,15,3,Alugado,False,28992,665490,1379784,109682
+ef602617-3d7d-463b-9969-4600096f896d,Matteo Araújo,28,5,3,4,2,3,2,4,4,4,Brasília,Pizzaiolo,Casado,5,3,Alugado,True,28417,84466,1857703,209383
+64008755-dd49-444f-997a-c4907f87e4b0,Luana Viana,40,5,1,2,5,2,1,3,5,2,Belo Horizonte,Sapateiro,Divorciado,3,1,Próprio,False,15310,44083,318001,310070
+c8b8602b-b258-47db-b6b4-b8418c874f5b,Noah Monteiro,38,3,5,4,2,4,2,4,2,4,Belo Horizonte,Cientista social,Divorciado,5,1,Próprio,False,5980,351508,1390926,135900
+6ba48dcc-d188-4abe-892a-937bafaaf74f,Lavínia das Neves,57,5,1,5,3,1,2,2,1,2,Belém,Administrador de redes,Solteiro,1,3,Alugado,True,5209,858702,1347139,43887
+b7d0d0c1-abd2-4f6b-93ec-545ab106e340,Ana Sophia Sales,29,2,1,2,1,3,3,5,1,3,Recife,Gari,Casado,13,5,Próprio,False,27310,312427,1874076,4422
+e3a03fa6-dacf-4c8a-a399-eaf274380dec,Henry Gabriel Siqueira,24,5,1,5,3,3,5,5,1,4,Curitiba,Ortoptista,Divorciado,4,6,Alugado,True,26445,186291,1195412,486575
+a665bfbd-7e94-4356-ae89-5f5100bf6017,Evelyn da Rocha,50,4,4,5,4,2,3,5,3,4,Belém,Engenheiro elétrico,Viúvo,9,4,Próprio,True,40045,456491,1518800,67791
+bd132ec9-87e0-4edc-9c3c-de745d98e736,Leonardo Azevedo,31,3,2,1,5,2,4,2,2,1,Porto Alegre,Jangadeiro,Casado,0,3,Alugado,True,19633,171017,1282899,132611
+149d89bb-55e2-4784-a2a3-715bbb3786a8,Dr. Bryan Viana,52,2,1,3,4,5,5,1,1,4,Vitória,Agrimensor,Viúvo,4,4,Próprio,True,43709,168698,1077280,366115
+84075128-f7ba-46be-b015-48d82af9679f,Antônio Marques,30,1,5,1,1,2,4,4,4,1,Goiânia,Engenheiro elétrico,Casado,0,1,Alugado,False,13891,784330,338257,282717
+09e5ad3d-27ae-4274-acc4-f3014332f260,Ryan Viana,39,2,5,4,2,1,1,3,1,3,Florianópolis,Treinador,Casado,8,2,Alugado,True,24283,580020,1445173,84850
+e4c551bf-711a-46e2-911f-9951ef8b3d81,Emanuella Novaes,77,4,5,2,5,5,1,1,4,4,Recife,Office-boy,Viúvo,5,4,Próprio,True,15885,185923,1769653,291404
+fd1ee331-170b-4850-a138-7d3a68db06cb,Sr. Léo da Rocha,74,2,5,5,4,2,2,4,4,1,Recife,Maquinista,Divorciado,20,1,Próprio,True,27060,476971,219686,129935
+bafc2a09-d394-4dc0-b21c-6c694231498e,Dra. Laura Rocha,45,5,3,1,1,1,2,2,5,2,Porto Alegre,Soldador,Casado,19,2,Alugado,True,23893,941318,391821,241742
+30f7e00e-6151-41c9-ac44-f520fc547ebf,Vinícius Sá,65,5,1,5,4,3,1,4,4,4,Salvador,Neurocirurgião,Solteiro,20,1,Próprio,False,39142,175162,13157,332820
+a5befedc-0749-453c-99fe-715df2b6b1af,João da Rocha,75,5,5,1,3,2,1,5,2,4,Manaus,Geólogo,Viúvo,13,1,Próprio,True,24091,622246,878705,303853
+16874f5c-4c8d-48a3-9556-dc3dd35bedb0,Dr. Luiz Miguel Azevedo,72,5,2,5,3,3,4,2,1,2,Goiânia,Empregado doméstico,Viúvo,12,3,Próprio,False,12194,641346,1824265,185546
+6fea50ea-52a9-4799-b463-c0094e2247ec,Mathias Pimenta,54,1,2,3,4,2,3,5,5,5,Manaus,Aeroviário,Casado,10,3,Alugado,False,44985,456293,1317587,333689
+6957af03-a80e-49c9-b1c7-de88c2f3ffaf,Dr. André Nogueira,18,4,3,2,5,5,1,4,3,4,Belo Horizonte,Tecnólogo em recursos pesqueiros,Viúvo,13,5,Próprio,True,29696,601981,1297583,207805
+7c4be389-ae2c-4a51-8903-5574afd9fab9,Alexia Andrade,49,1,5,1,5,5,4,3,4,3,Recife,Aviador,Divorciado,19,5,Próprio,False,19074,78924,1999861,266893
+6d212325-5f24-4761-8c06-8e3df3de2a59,Ana Cecília Aragão,30,5,5,3,1,4,4,2,3,4,Recife,Cartógrafo,Divorciado,6,4,Alugado,False,20199,814120,1225323,279814
+1de56b9a-471c-4ebe-ab40-c217b393a69e,Catarina Leão,19,3,3,3,1,5,2,5,4,1,Brasília,Agricultor,Casado,3,1,Alugado,False,10144,480961,81966,207989
+43bda5cb-3d5e-44ef-ba02-eb5b7cf31d8a,Lorena da Rocha,43,3,5,5,1,1,5,2,3,5,Vitória,Engenheiro de horticultura,Divorciado,11,5,Alugado,True,1035,583303,1839747,282918
+9d271bd3-2bd4-46ef-ad33-1a1a7479c3de,Henry Silveira,54,5,2,1,3,4,3,5,5,2,Manaus,Empresário,Viúvo,8,6,Alugado,False,28262,907535,496107,7638
+57ab7e38-6a20-4f65-babe-e447094fbbbf,Bella Oliveira,27,4,3,1,1,1,2,1,3,4,Florianópolis,Revisor,Viúvo,3,5,Próprio,True,2132,955420,1992956,187399
+9a8d79db-44ee-4e75-aaf3-8775bb850f9d,Maria Eduarda Siqueira,42,3,1,5,3,5,2,4,5,3,Salvador,Jogador de hóquei,Viúvo,18,1,Próprio,True,43836,124062,1113209,247518
+13235e50-e450-45d1-a3b8-17d784d61083,Antônio da Luz,28,4,1,1,1,2,4,3,1,1,Porto Alegre,Windsurfer,Divorciado,9,3,Próprio,True,40416,624223,1967427,22683
+0dfc41d0-8cdf-46ba-8d8e-feff68ed8d4d,Luigi Fernandes,43,4,3,3,4,5,4,3,2,3,São Paulo,Parteira tradicional,Viúvo,4,2,Alugado,False,23557,640975,1252747,228688
+d2202e7e-14f4-499e-9604-adc8d0ce6b0b,Valentina Cunha,73,4,2,3,4,2,2,2,1,5,São Paulo,Agrônomo,Divorciado,7,2,Próprio,False,2926,271182,1046277,161115
+7b6b8c5d-4e48-4cd2-9191-9ca65d0a5457,Olívia Moraes,48,4,3,5,3,3,3,5,2,5,Salvador,Cobaia Médica,Divorciado,5,1,Alugado,True,21482,6403,1025714,435387
+5273f929-6694-4a71-8495-7953246f427e,Otto da Luz,23,2,3,3,3,2,1,2,5,1,São Paulo,Gastroenterologista,Casado,12,2,Alugado,True,5455,974437,1503933,408489
+76e2cd3b-2988-4a99-9470-f3d8a9db70aa,Dra. Liz Cirino,48,2,2,4,4,2,4,3,5,5,Goiânia,Atendente,Casado,19,3,Próprio,False,37316,340497,358548,94867
+9665a6d1-4ec7-4c5b-b76b-535564c98101,Felipe Vargas,55,3,2,3,2,3,1,4,1,5,Brasília,Cameraman,Viúvo,11,5,Alugado,False,5362,57398,704618,480372
+6fa2a813-04b1-4471-886a-cdae1574c9f7,Henry Gabriel Farias,21,5,1,3,3,5,1,3,4,4,Curitiba,Engenheiro de projetos,Divorciado,15,2,Próprio,True,24371,809896,296004,156008
+a1f79900-adfd-475c-910c-e34175bb17f9,Hellena Sampaio,46,5,3,1,4,1,3,5,3,5,Fortaleza,Agricultor,Casado,8,3,Alugado,True,22847,242606,1024103,267672
+5cf6e66c-1b1b-4c17-9788-4fb2fde33c04,Vinícius Caldeira,52,1,2,2,1,5,2,4,1,1,Goiânia,Soldador,Casado,7,6,Alugado,False,3453,537898,994960,265304
+b29898dd-628f-4a28-84be-99bb2360b06d,Srta. Nina Santos,52,2,5,1,3,2,4,5,4,2,São Paulo,Massagista,Divorciado,17,4,Alugado,False,45844,65635,657375,95178
+3a8ce184-fc6c-4ddc-b9f7-d6aa060e896c,Dante Rocha,25,4,3,4,3,2,3,2,4,5,São Paulo,Turismólogo,Solteiro,16,5,Alugado,False,28843,718860,1003206,98561
+37359a54-e42f-4d4b-a92b-7c43fd918b31,Helena Pinto,36,3,4,4,1,4,4,4,2,5,Florianópolis,Economista doméstico,Viúvo,18,1,Próprio,True,14756,853155,830584,71592
+2f3b3203-938b-43bc-a9e8-d464815149fd,Marina da Rosa,55,5,5,3,4,4,3,3,1,5,Manaus,Ortopedista,Solteiro,1,1,Alugado,False,32437,238944,1210978,8892
+70602085-bd07-454b-9d56-90cac112f503,Miguel Borges,52,2,3,2,1,1,5,5,4,5,Curitiba,Baixista,Divorciado,5,6,Próprio,False,19149,771880,1966883,269798
+5c5adef9-f239-46a5-8514-a75884f19ef7,Olivia da Cruz,67,5,3,5,5,4,5,3,4,2,Recife,Teólogo,Divorciado,15,3,Próprio,True,34968,777935,233123,441758
+5cc5ea2e-d795-4699-a7c6-f592cf484b12,Lunna Cassiano,55,1,2,2,1,4,5,4,5,5,Belém,Limpador de vidros,Solteiro,4,3,Alugado,False,6370,484570,30175,485611
+d65d7b98-dac9-4703-91b3-ac836753fc30,Larissa Novaes,39,5,5,3,3,3,1,3,2,4,Fortaleza,Perito judicial,Casado,16,4,Alugado,True,12942,761391,456419,334598
+0fa47b04-7012-4f6c-9d5e-37fb72b47f5b,Dom da Costa,19,2,5,5,3,4,5,1,1,5,Porto Alegre,Personal trainer,Viúvo,17,1,Próprio,False,38777,11908,1861239,430475
+5923d6cc-614a-4da4-bc57-91424337edb2,João Miguel Pacheco,19,5,5,2,1,4,4,5,1,3,Brasília,Violonista,Casado,17,4,Próprio,True,15484,863096,1655321,195910
+43dcf59d-b1a9-4ffd-ab3a-a4a082107d30,Pedro Lucas Camargo,23,3,5,5,1,4,1,3,2,2,Belém,Engenheiro mecânico,Viúvo,0,6,Alugado,True,38727,252844,1651013,306442
+c2a5c4b6-45a5-4e7d-a556-2e7894aad2bf,Srta. Maria Luiza da Costa,23,1,2,5,2,5,4,3,2,3,Brasília,Montador de negativos,Solteiro,7,6,Próprio,True,38615,61940,1447211,278459
+5a13f7df-4613-4195-98cb-40374a831728,Rodrigo Vasconcelos,38,5,1,5,1,1,3,3,1,2,Curitiba,Economista,Casado,14,2,Próprio,True,23495,977971,1462050,416848
+6ec76870-625f-4d19-a4f7-e2035b785a79,Maria Barbosa,68,5,4,2,4,4,2,4,1,2,Goiânia,Urologista,Divorciado,16,6,Próprio,True,14696,370388,507499,418633
+c06feee9-94bc-4d94-893f-1082b51a604d,Dr. Ryan Montenegro,57,1,1,3,5,3,4,1,3,3,Fortaleza,Sacoleira,Casado,2,6,Próprio,False,25613,251038,1226379,255508
+190bc5fd-4419-4325-8f1a-8c4979053d0a,Dr. Mathias Cavalcante,54,2,3,3,1,1,4,3,2,4,Belém,Chaveiro,Solteiro,4,5,Alugado,False,32860,190537,958263,14770
+6b1518b9-5bb0-4000-bd7c-6259e47a0054,Maria Sophia Castro,72,2,5,5,4,4,4,1,3,2,Curitiba,Fonoaudiólogo,Casado,16,1,Próprio,False,17805,72024,1713373,369515
+2b1d9a12-4e0d-4229-8ac5-910beeedab05,Luiz Henrique Campos,61,4,1,1,1,5,4,3,2,3,Recife,Sushiman,Divorciado,13,3,Alugado,False,9155,39293,396171,350894
+3b883a8a-09ef-41d5-b4fc-00c28eed42e2,Arthur Gabriel Cunha,53,5,1,2,4,2,1,3,2,4,Salvador,Arrumadeira,Casado,13,2,Alugado,False,42534,271752,1418581,141866
+812d42d0-dc59-4896-8131-84c17058644d,Marcos Vinicius Silveira,47,1,5,5,2,5,3,2,1,5,Salvador,Angiologista,Solteiro,13,4,Próprio,False,46558,792903,1804732,481004
+3937088e-fe8a-4dc2-8bd3-c84efc7ab859,Srta. Lívia Cavalcante,60,5,1,5,2,2,5,5,3,5,Recife,Matemático,Viúvo,8,3,Próprio,True,47328,248648,1743064,435910
+c35bdd53-fe20-4488-a6f0-3d2fa953b1a8,Isabella Cunha,67,3,5,4,2,4,1,4,3,2,São Paulo,Infectologista,Viúvo,17,5,Alugado,True,26149,879905,1745041,430315
+0512321c-6c01-4741-90e9-7d494763bc72,Isaac da Cunha,35,1,2,3,2,5,5,5,1,5,Fortaleza,Contábil,Casado,17,4,Próprio,False,34552,233250,1535740,122702
+bb802be7-3b2c-40e2-9aeb-92d00f40ccce,Allana das Neves,31,4,3,4,4,1,3,1,2,1,Manaus,Dialoguista,Solteiro,19,1,Próprio,True,34597,866023,1335708,457885
+aa43e7ab-f72e-4c73-99a5-0858afb8acf2,José Pedro Duarte,44,1,2,5,2,4,2,3,3,2,São Paulo,Profissional de cinema,Divorciado,2,6,Alugado,True,6570,640903,73086,379669
+af511891-feca-4d2d-b08d-818822102725,Raul Teixeira,59,3,4,4,2,1,3,3,1,1,São Paulo,Editor de mesa de corte,Viúvo,18,6,Próprio,True,38029,225539,334623,141936
+76712980-91cd-4825-a127-96c2331bc5de,Aurora Pimenta,41,2,5,1,1,5,4,5,3,1,Belém,Educador integrado à saúde pública,Casado,4,3,Próprio,True,39494,765659,1542200,292563
+b3cb02dd-032b-40a9-b337-6731c2be9de5,Guilherme Mendonça,48,2,4,3,5,4,2,2,2,3,Rio de Janeiro,Odontologista legal,Viúvo,9,2,Alugado,False,1916,277888,1745631,466655
+d45e83f6-41aa-475d-91c1-f6196406b2c5,João Gabriel Lima,62,2,2,4,1,1,5,5,1,1,Porto Alegre,Estivador,Divorciado,12,5,Próprio,True,46058,400013,451123,26350
+b4afc02e-b3a5-49b1-8b63-581f866c38bd,Isabela da Paz,48,1,2,5,4,4,2,1,2,1,São Paulo,Fundidor de placa de gesso,Divorciado,7,4,Próprio,True,5592,598989,755794,103071
+765f8f1d-c64c-47ec-98c5-c450423b54b3,Luiz Otávio Martins,44,5,5,1,1,3,4,4,5,3,São Paulo,Empresário,Solteiro,3,4,Alugado,True,22858,836702,1180876,6461
+bcec60c6-214f-4302-911e-084e66d8db09,Enrico Abreu,19,4,2,5,4,1,2,1,4,2,Belo Horizonte,Guardador de veículos,Solteiro,3,2,Próprio,True,49709,534056,991143,463784
+3878a9a4-5b36-4ad3-914b-07cc0b5fab79,Maria Eduarda Cirino,22,4,4,2,2,1,1,3,3,3,Goiânia,Urologista,Viúvo,3,4,Alugado,True,36858,846980,143450,248492
+578b7b6c-51b2-47ec-8817-5bda4ce97d75,Sr. João Vitor Fogaça,71,1,4,3,3,2,4,1,2,2,Florianópolis,Dermatologista,Divorciado,9,2,Alugado,False,10451,97352,1358840,208305
+39b53339-21c2-4960-bd5d-7db672b8110d,Isabella Freitas,18,2,3,2,2,5,3,1,2,1,Manaus,Restaurador,Divorciado,9,6,Próprio,False,12815,394083,1293993,11850
+52e9c9ba-42c2-439c-9ea8-9044ee4486bb,Heitor Sousa,31,2,4,3,3,1,2,2,4,4,Rio de Janeiro,Governador,Viúvo,19,3,Alugado,True,18717,994069,723405,433670
+7a58f225-9bee-4ce7-af08-c0a50c15a0c3,Sra. Carolina Novais,62,3,5,5,3,1,4,1,2,1,Rio de Janeiro,Hostess,Solteiro,10,5,Alugado,True,29171,566747,1847260,212128
+0a24dfb7-bb88-470a-b42f-b5de06e2b02e,Helena Silveira,66,3,5,5,4,3,4,5,4,5,Belém,Tecnólogo em silvicultura,Viúvo,4,2,Próprio,False,4852,951954,20282,262248
+e7913054-4c72-4018-9efb-ccd6931b5d9b,Sr. Noah Cavalcanti,51,3,3,4,3,1,5,2,4,5,Rio de Janeiro,Pesquisador,Solteiro,18,1,Próprio,False,41613,887484,1189617,68487
+6fb80c73-d31b-4dbe-909e-b37f16bf60f3,Diego Sampaio,23,4,3,1,1,4,5,5,2,4,Manaus,Frentista,Casado,6,3,Alugado,False,36411,282083,1069257,229138
+e7344597-758b-4d42-9d56-46bd7e9e05e3,Dra. Isabel Cardoso,35,4,1,5,2,1,2,5,5,4,Brasília,Vereador,Divorciado,13,2,Alugado,True,12021,69120,349175,104491
+a8a768e2-a862-44b9-9770-80abcf44098f,Antonella Teixeira,65,4,2,1,3,3,1,2,2,1,São Paulo,Agrônomo,Solteiro,0,5,Próprio,True,20116,779906,1498031,211448
+2d3e710f-4b79-43c9-a683-454b9ccdcabf,Melina Costa,47,2,5,1,5,1,1,5,5,5,Florianópolis,Jornaleiro,Solteiro,3,3,Alugado,False,1173,24266,1215603,448724
+c1c2ec08-085c-421a-8a7c-0c7dd45a7701,Sra. Olivia Gonçalves,72,1,4,5,2,2,2,4,2,4,Goiânia,Dedetizador,Viúvo,19,1,Próprio,True,36505,833782,1537328,176600
+1a90d373-9194-465c-8c82-7f313a6732a8,Dra. Alice Cunha,37,5,1,5,4,4,3,4,2,1,São Paulo,Engenheiro agrimensor,Solteiro,19,5,Próprio,True,17321,455671,249017,466783
+e1c5d266-0efc-4909-8eb0-8585898e2dbb,Ana Lívia da Costa,24,2,4,1,1,5,1,3,1,5,Recife,Manobrista,Divorciado,8,3,Alugado,False,10835,19053,396597,333406
+64214b9b-e2d8-4622-9e95-b8d247ee99ca,Asafe Abreu,34,1,1,3,2,3,2,3,4,4,São Paulo,Guardador de veículos,Viúvo,10,4,Próprio,False,39142,933831,1476507,143307
+2f6fd71d-30cd-402e-ad22-8eee6379c625,Dra. Melina Camargo,73,4,4,4,2,1,1,1,5,2,Curitiba,Síndico,Solteiro,4,6,Alugado,True,10029,684319,466599,269137
+93221d82-900c-4134-b941-ca50c0d4127a,Evelyn Barbosa,46,5,3,1,2,4,2,1,5,3,Recife,Zootecnista,Solteiro,15,3,Próprio,True,31642,238447,1656055,478540
+3d3bf6c8-3caf-4f19-81db-be695833c393,Dante Sousa,40,2,4,3,2,2,3,4,1,1,Curitiba,Técnico de gesso,Solteiro,5,5,Alugado,True,37153,735281,696287,56194
+69b760bc-e821-4eb2-aa07-a12ac23b9c6c,Clara Albuquerque,53,1,4,1,2,3,3,5,1,3,Belém,Professor,Viúvo,3,1,Alugado,False,40427,181291,459408,29035
+e625f19e-9cb5-4225-8760-269ad6e7ee4a,Srta. Isabel Nascimento,34,4,4,1,1,1,2,5,2,5,Belo Horizonte,Afiador de ferramentas,Viúvo,2,1,Alugado,True,14140,947996,266657,297689
+62120f58-8746-4285-8275-225c080bd81d,Matheus Fogaça,65,4,1,3,1,2,1,3,5,3,São Paulo,Gerente de riscos em seguros,Viúvo,13,4,Próprio,True,48874,957817,1581083,135554
+b97e1fa0-db2c-406b-8c45-cf0d9191c06e,Carlos Eduardo Sales,37,4,1,3,2,2,4,4,2,3,Salvador,Instrutor,Solteiro,3,5,Alugado,False,16505,7176,767454,261735
+88e6a16b-fd59-4394-a190-1e8d1bd1ed9b,Dr. João Guilherme Ribeiro,64,2,3,4,2,3,2,3,5,4,Rio de Janeiro,Engenheiro de materiais,Viúvo,13,5,Alugado,True,21830,793627,212980,392929
+24dc47de-d0ab-4ce2-829e-a026665a8a11,Murilo Andrade,61,2,4,2,4,4,1,5,4,4,Goiânia,Atendente,Viúvo,11,6,Próprio,True,9521,289471,160617,485804
+7f058265-cd70-4331-9c2c-7bec23365c36,Srta. Julia Rocha,57,4,4,5,4,5,3,5,3,4,Fortaleza,Arrumadeira,Solteiro,5,5,Alugado,True,24698,15775,76544,216416
+ee381101-604c-4d6c-8a67-c534fc1a4d5e,Asafe Cassiano,80,1,5,3,5,5,4,3,2,2,Porto Alegre,Técnico tributarista,Divorciado,8,2,Próprio,True,21135,761327,879285,460694
+3b943b1b-acc1-412e-88f2-7aae35e186b1,Srta. Jade Borges,65,4,5,2,1,2,1,3,4,3,Manaus,Profissional de logística,Divorciado,5,3,Próprio,True,2126,419083,1383962,362260
+a2edbc28-49ba-4c54-a6ab-00755ea91dbb,Sophie Pereira,35,3,1,1,1,5,4,2,5,5,Rio de Janeiro,Meteorologista,Casado,14,2,Alugado,False,16302,321622,472587,176875
+0c00f4ff-c77c-4567-bff3-dbf44f9cdf47,Yasmin Dias,61,5,3,5,5,2,1,5,5,3,Manaus,Artista/Técnico em espetáculos de diversões,Viúvo,17,1,Próprio,False,18017,908246,1623471,9587
+85e59a01-89c9-4c35-97da-3f60ab5a878b,Dra. Kamilly Leão,40,1,1,1,2,1,2,3,3,2,Belém,Dogueiro,Divorciado,2,6,Alugado,True,2920,124218,1485272,210474
+6879f70d-2165-4b0f-877d-b02ed85cd4b0,Isabel Fernandes,21,3,5,5,4,1,2,4,2,1,Goiânia,Técnico em edificações,Viúvo,1,1,Alugado,True,5094,732815,422879,55068
+4d8cc7fe-fd1b-4995-bad2-8aa5ec8c970e,Luiz Otávio Costela,56,4,5,5,5,5,1,1,1,3,São Paulo,Cancerologista ou Oncologista,Solteiro,6,3,Próprio,True,16774,112132,1573309,361684
+ca5a810b-1c57-4010-8bc8-d88b889b3b5f,Sr. Rhavi Câmara,49,1,5,4,5,4,1,1,4,2,Florianópolis,Empacotador,Divorciado,19,1,Próprio,True,39131,679492,597468,443233
+e3f3187e-7cd3-4256-8c06-705e2766f98a,Maria Liz Machado,80,4,5,3,3,1,1,1,2,4,Brasília,Ufólogo,Casado,10,5,Alugado,True,2483,495502,1934882,87277
+1e2d2deb-d3d2-4997-a404-db757ed6e35b,Sr. Theo Novais,53,5,4,5,1,4,2,4,5,1,Goiânia,Avalista,Casado,14,1,Próprio,True,28967,28825,1158728,361894
+32a7f8eb-1b23-4a1d-99b0-8ab4498f2f96,Lucca da Costa,50,1,5,4,2,2,2,5,5,4,Curitiba,Alergologista,Viúvo,15,1,Alugado,False,23206,878183,475392,21138
+56e325b7-a39a-4738-9f60-1e4fe09aa310,Sr. Fernando das Neves,46,4,5,1,1,2,3,5,1,5,Brasília,Engenheiro de manufatura,Divorciado,14,5,Alugado,True,12122,682970,538744,350816
+4ad6ca2c-6b06-4045-ada9-177e0ed1a34a,Ana Vitória Rocha,73,3,2,2,2,4,2,2,1,4,Manaus,Manicure,Solteiro,12,5,Próprio,False,30877,272191,835527,349375
+bb3b472a-3c91-47eb-8b2c-95571368f58d,Sr. Felipe Silveira,48,1,4,4,3,1,4,5,1,2,Manaus,Faturista,Divorciado,4,1,Próprio,True,49221,121047,1758943,213160
+68bb613d-58ff-42d3-8172-a5f46daae1d0,Dra. Aurora Lopes,75,3,2,4,1,1,4,1,2,2,Brasília,Inspetor,Solteiro,20,5,Próprio,True,19485,889753,444347,368478
+3c9bd62e-39db-4e74-80b4-40580a641bde,Alice da Cunha,65,1,5,5,2,5,2,3,5,3,Recife,Profissional de educação física,Solteiro,7,1,Alugado,False,8021,774467,891470,314932
+f10b3562-6702-42b0-9ec8-6b88dcd41fa7,Sra. Emilly Barbosa,69,1,1,3,2,1,2,1,3,1,Salvador,Infectologista,Viúvo,11,6,Próprio,False,27494,747545,1665532,128486
+e72e6f87-2fc1-465a-b2fd-b3f756a5202a,Valentina Freitas,32,5,3,2,3,5,1,1,1,3,São Paulo,Ombudsman,Solteiro,8,4,Próprio,False,11188,514414,1060245,430053
+dc9f2971-9ad4-4ed2-8a5f-1f42596b83a0,Isaac Monteiro,69,5,4,1,3,4,2,5,3,3,Goiânia,Gourmet,Solteiro,4,5,Alugado,False,33288,345522,1692779,51632
+3f896d2f-68aa-4a87-b905-0fc15576c318,Mariane Gonçalves,26,2,5,3,5,4,5,1,3,3,Curitiba,Pedagogo,Casado,12,6,Alugado,False,11536,238113,1540047,200987
+86f58e83-3de2-4a0f-9fe6-47bda326cc12,Luiz Felipe Rezende,19,2,3,3,4,3,3,4,4,4,Belo Horizonte,Psicólogo,Solteiro,11,1,Próprio,True,2790,483071,426926,32058
+ae55fdc1-fef9-43b4-87bc-3e3304fb8f2a,Caleb Correia,70,5,4,1,3,4,3,4,5,2,Fortaleza,Tecnólogo em rochas ornamentais,Solteiro,6,1,Próprio,False,21112,239359,1111650,8360
+bfee24fc-3b43-4515-a3b5-3c70b18356ce,Bella Cardoso,67,2,4,3,1,3,5,3,4,2,Salvador,Jóquei,Solteiro,5,5,Alugado,False,18010,808009,1576514,206793
+697e2605-15bd-474f-953a-53e7a5d5fc30,Miguel Nunes,61,5,4,2,4,2,5,5,3,1,Fortaleza,Embalsamador,Viúvo,13,3,Alugado,True,30184,684408,1871431,197786
+4fd0087d-9a83-4820-af90-c0f06c6b3145,Nicole Farias,61,2,2,4,1,2,3,2,5,4,Fortaleza,Tecnólogo em produção moveleira,Viúvo,4,3,Alugado,True,35669,452185,1514218,264214
+6d1919d2-1169-4bf6-9366-6d42a16f5611,Diego Pires,71,4,5,1,4,1,3,5,5,4,Manaus,Assessor de imprensa,Casado,5,1,Próprio,False,16421,272323,12638,181850
+13b5e154-e425-4d00-aaa5-3c44ddb6510c,Marcelo Pacheco,68,1,5,5,2,4,2,5,4,1,Campo Grande,Otorrinolaringologista,Divorciado,19,4,Próprio,False,1578,329536,402342,357465
+c60f1da4-599f-4b28-9858-de4f63ffce02,Marina Borges,59,3,4,4,1,4,5,5,4,4,Goiânia,Porteiro,Divorciado,11,3,Alugado,False,6044,615195,1477367,452279
+8b89dd05-21e4-473f-acda-539e6501f600,Maria Flor Teixeira,19,2,5,3,2,2,4,2,4,2,Fortaleza,Subprefeito,Casado,5,1,Alugado,True,43170,154376,1011132,54152
+c95ec936-7552-4a4d-bb55-b82398b8f659,Elisa Borges,24,1,4,3,4,4,5,1,4,1,Salvador,Remador,Casado,1,3,Alugado,False,8472,302986,562466,438907
+974a028c-e135-44b3-938c-1f4ee9188db6,Sr. Theodoro Mendes,53,4,5,5,2,1,3,2,1,4,Manaus,Jogador de vôlei,Solteiro,6,5,Alugado,True,2939,942133,377870,391578
+02277faa-820d-45fd-b3b9-1e2de2a7a18d,Clarice Nogueira,44,5,5,1,1,3,2,4,3,4,Vitória,Programador,Solteiro,1,4,Alugado,True,30529,487119,1852913,465074
+f9c78da0-7a34-4b65-bba8-545cdbae2fa3,Arthur Miguel Pimenta,66,1,2,1,4,2,4,1,3,1,São Paulo,Fisioterapeuta,Divorciado,18,2,Alugado,True,28083,875698,962253,96227
+6d647533-f10b-4060-82a7-56b393c4751c,André Mendonça,34,3,4,5,2,1,4,2,5,3,Florianópolis,Angiologista,Viúvo,13,2,Alugado,True,37885,34090,1554897,208508
+27c2a99e-fe40-404b-a2dd-2034e7d728f8,Dra. Manuella Guerra,66,3,3,1,2,3,5,5,5,3,Rio de Janeiro,Agrônomo,Casado,19,2,Alugado,False,46922,165678,1589873,258608
+552e6d09-d5e3-4cc7-9981-c1e05736705b,Henrique Brito,29,5,1,2,5,1,4,2,3,1,Curitiba,Bioquímico,Viúvo,1,2,Próprio,False,30659,414326,1354512,173606
+ed259b23-1fb1-4e9d-9b93-8a1c739af2cd,Rhavi Siqueira,70,2,4,2,5,3,3,2,5,4,Curitiba,Xilógrafo,Divorciado,0,4,Alugado,False,20749,855705,5849,219517
+d7188299-0ab3-4a43-ad49-264e12047a66,Yasmin da Cruz,65,4,3,4,1,2,1,5,1,1,Manaus,Impressor,Casado,19,1,Alugado,True,6095,948036,778889,407177
+50f509d6-b82b-4e74-b5a0-9782cb1224b5,Eduardo Fonseca,70,3,2,5,1,3,3,5,5,1,Manaus,Laboratorista,Casado,5,2,Próprio,True,17204,216310,363464,3439
+2ecf15ec-0c31-4a8e-aeb7-c1b63ad9f778,Luiza da Rosa,79,2,2,3,1,1,2,3,3,3,Vitória,Nefrologista,Solteiro,3,5,Alugado,False,19591,344520,1669783,376393
+fe3b6f37-b624-46fb-9748-f837ec766998,Fernando Vieira,61,1,2,4,5,5,5,5,3,2,Manaus,Tapeceiro,Casado,7,2,Alugado,False,17140,413258,1927568,85569
+8d51f8f0-e432-48da-bd88-10503d7ae274,Enzo Barbosa,55,4,2,1,5,1,3,5,5,2,Rio de Janeiro,Deputado,Casado,8,3,Alugado,True,38996,60326,931829,408984
+46bec9c2-a960-4ac5-9430-b4f57f850808,Sabrina Marques,39,5,4,3,5,5,5,2,1,1,Belo Horizonte,Bancário,Casado,15,4,Alugado,True,32530,482120,647999,308280
+5c490a8d-9adb-4cb9-afd2-92722ae9b8bb,João Guilherme Brito,41,3,2,1,1,4,2,5,3,1,Manaus,Faxineiro,Casado,14,3,Alugado,True,12849,414736,936039,39852
+3ae4b68a-b4af-4d34-a434-c93da2a4ad9e,Helena Garcia,62,2,1,4,3,2,4,2,4,3,Fortaleza,Guardador de veículos,Divorciado,4,6,Próprio,False,26106,107883,1881772,474850
+1f3fef99-d84d-4935-8786-80fbae3b5e09,Yago Novaes,27,1,5,4,1,4,2,1,1,5,Manaus,Designer gráfico,Casado,17,3,Próprio,True,18726,64051,400664,87144
+4b0f974c-68ff-4622-b58c-08288ba824f0,Sr. Ravi Lucca Almeida,63,1,1,3,2,3,3,1,3,1,Curitiba,Profissional de efeitos especiais,Casado,4,1,Alugado,False,16582,698551,1764367,25883
+1464c5f5-41be-4a5c-8446-d8dff31eee6d,Maria Duarte,51,4,4,5,4,2,3,4,5,2,Brasília,Penhorista,Divorciado,4,2,Alugado,True,47412,858404,533457,329401
+f70598a5-fe3e-42b0-8621-5355205d8067,Vitor Correia,69,3,5,1,5,2,1,3,5,4,Fortaleza,Ascensorista,Solteiro,13,4,Próprio,True,14695,923404,491736,397176
+2bccf05d-63ae-4efd-a659-07c852ddfe10,Dr. Mateus da Rosa,28,5,5,5,4,3,1,3,5,1,Belo Horizonte,Gastrônomo,Divorciado,14,6,Próprio,False,19018,60114,1852666,272506
+7cdd0b79-c764-4267-bc3a-f12657380f53,Valentim da Rocha,39,5,3,5,5,2,5,2,3,4,Goiânia,Panificador/Padeiro,Viúvo,4,4,Alugado,True,49474,532587,558105,208613
+ee9035b2-c598-411a-882e-934f54908307,Kaique Novais,48,2,5,2,3,3,2,3,3,1,Florianópolis,Enfermeiro,Viúvo,5,5,Alugado,True,13030,911816,734764,4520
+e6150f01-2843-4d84-8612-5e8bc76cab25,Sr. Ravi Lucca Vargas,66,1,5,2,3,4,2,3,4,2,Recife,Tapeceiro,Viúvo,6,5,Próprio,True,43344,13329,190085,446211
+29b82d44-4058-4559-b6c6-3ab1c2816667,Isabella Lopes,78,2,2,2,3,1,3,5,5,2,Manaus,Atendente,Solteiro,0,5,Próprio,False,12156,871865,1454635,232460
+f01adc9b-c4e6-40c9-be23-187f29351322,Allana Castro,20,2,4,4,1,3,3,1,5,3,Salvador,Investigador particular,Casado,5,1,Próprio,False,43402,41249,39348,376007
+d201bac6-cbb4-4479-b6ee-c1de390e623a,Raquel Vieira,32,5,1,1,1,5,2,2,3,2,Recife,Profissional de tecnologia de laticínios,Casado,4,2,Próprio,False,7137,91062,1991534,310318
+90cba9e0-f3b5-4956-966f-76d0639d2ad6,Sra. Bianca Macedo,32,4,1,1,4,1,5,2,4,4,Belém,Pizzaiolo,Solteiro,10,4,Próprio,False,8267,968327,1436732,392357
+d9583045-af60-41d4-b947-2fd3216dc97a,Dr. Luiz Felipe Cardoso,44,1,4,4,2,4,3,2,5,3,São Paulo,Tecnólogo em geoprocessamento,Solteiro,18,3,Alugado,False,12368,209594,569118,222119
+6f5784a3-c3ac-4c54-b917-162f0c752dfa,Dra. Sabrina Peixoto,23,4,4,2,2,1,2,2,4,1,São Paulo,Datilógrafo,Divorciado,9,6,Alugado,False,20639,143882,1968578,104883
+c47ce03e-8d77-4e46-8afb-3319a6d64781,João Azevedo,63,1,4,3,3,3,1,2,4,2,Fortaleza,Taxista,Viúvo,12,5,Próprio,False,28539,937736,1926415,394291
+98e7e7a9-1c1d-4a64-8a9b-d02067926bd4,Srta. Alícia Fogaça,20,4,2,3,5,3,2,5,1,3,Campo Grande,Mecânico,Viúvo,2,4,Próprio,False,7559,536448,1154438,231410
+c2a94d69-fe32-4bec-a328-8ee8eda2f482,João Gabriel Souza,19,1,4,5,5,5,2,2,3,2,São Paulo,Agente de combate à endemias,Casado,9,5,Alugado,False,21162,279559,1617943,140152
+73a9ea4f-358a-4033-97b7-5996c8f14b72,Sra. Melissa da Rocha,22,4,2,2,3,3,4,3,2,5,Vitória,Engenheiro têxtil,Viúvo,18,3,Próprio,True,11846,376371,1833218,153837
+80c3cbb0-b0bf-401a-9c2b-3272d23462c6,Dra. Ísis da Cunha,67,5,3,2,4,2,4,5,5,1,Curitiba,Radiooperador de vôo,Viúvo,5,2,Próprio,False,5143,684549,25350,1684
+b8c3fb19-ebfc-4f6b-a54d-7fc7305026ed,Maria Eduarda da Costa,56,3,2,5,3,3,4,3,2,1,Salvador,Manobrista,Divorciado,7,3,Alugado,True,39112,818950,462158,250062
+12a8350f-57fb-47d7-9c5b-860c1c79261e,Rhavi Souza,52,1,3,4,1,3,4,4,1,3,Porto Alegre,Panificador/Padeiro,Viúvo,16,5,Próprio,False,14911,479237,107435,207712
+6cce500a-3e01-4489-afa8-f7c2c2821fe2,Sr. Diogo Castro,64,4,1,5,4,3,4,3,4,4,Belo Horizonte,Implantodontista,Viúvo,7,4,Alugado,False,44196,311358,1850250,363859
+44dd7afd-2a73-439b-b854-c16ebe66c2e4,Arthur Vargas,23,5,3,5,5,5,1,1,2,4,Fortaleza,Obstetra,Casado,18,1,Alugado,False,22923,43001,1462772,238248
+bf8bab1a-f06b-4b8e-9780-b5ebb6902891,Dra. Isis Nascimento,59,5,4,1,3,2,3,4,4,1,Brasília,Enfermeiro,Solteiro,7,6,Alugado,False,18498,959286,890882,310451
+e5fd0339-dd4d-40b9-89d1-0735f655fef0,Giovanna Montenegro,50,2,2,1,4,4,4,2,1,4,Fortaleza,Atendente,Solteiro,17,2,Alugado,True,28566,430243,1861961,449640
+0b345d4a-7b82-4317-9e79-908119f0f9b6,Pedro Miguel Araújo,48,5,3,1,5,1,5,4,5,5,Salvador,Entalhador,Divorciado,6,5,Próprio,True,26376,493594,1575862,107608
+c67d55eb-2830-4218-bac9-3400df745266,Julia Pacheco,54,4,2,3,2,5,5,5,4,4,São Paulo,Assessor parlamentar,Divorciado,20,3,Alugado,False,38421,144756,291501,434338
+700f86ba-6857-476a-ad6d-6e74b17c5d3f,Luigi Andrade,25,4,1,3,5,4,1,5,4,4,São Paulo,Profissional de relacionamento com investidores RI,Viúvo,12,2,Alugado,True,5569,421757,1600139,85385
+715a894f-87c2-4a0d-a36d-0fa2cbdba2a7,Kaique Costela,54,1,4,2,5,5,2,5,5,1,Belém,Consultor de radiestesia,Casado,15,1,Alugado,False,47034,338541,1852979,403420
+40ccec01-9edd-41d6-943a-b1aa2e9378d1,Sr. Anthony Novais,31,2,4,1,4,1,5,4,3,5,Curitiba,Webdesigner,Casado,12,5,Próprio,True,2979,216265,1505678,364619
+6ca22db6-371e-4733-9ef4-0313e4667542,Rael Fonseca,55,5,2,1,2,3,3,5,1,1,Curitiba,Somelier,Divorciado,18,5,Próprio,False,2755,398858,1255804,94179
+3aae57a5-8b31-4b56-8ead-065101f8861c,Nicole Nogueira,22,5,3,5,4,2,1,3,3,5,Recife,Corretor da bolsa de valores,Casado,8,2,Próprio,True,4558,731250,307648,410417
+d1401f48-47db-4502-9137-b79bcf9727af,Isabella Garcia,73,1,4,5,1,4,4,5,1,4,Belém,Estampador de tecidos,Viúvo,20,3,Alugado,True,23527,925922,1353082,276668
+591ae5f6-2c6e-456b-b7c2-900d7b1d3df8,Eduardo Ramos,55,1,1,4,3,5,2,5,1,3,São Paulo,Escriturário,Casado,14,1,Alugado,False,4565,982427,1256355,81828
+164f3c54-5fd3-4423-af45-ae44083dc854,Igor Mendonça,44,3,1,4,1,2,1,5,5,1,Recife,Astrofísico,Solteiro,14,2,Próprio,True,35648,173648,1259629,495907
+4d3ab875-f6a9-4dd5-b5c9-7382c8708f30,Maria Isis Albuquerque,44,5,2,3,3,5,3,1,1,4,Belo Horizonte,Consultor de moda,Divorciado,18,2,Próprio,False,6820,78917,878598,283030
+2dd59bfc-f623-4903-a372-4e7568dabaf9,Pietra Barros,18,4,5,1,5,4,1,2,4,4,Salvador,Fotógrafo,Casado,0,5,Alugado,True,2097,251771,1310511,62939
+aeb9f484-e6cd-4648-9658-671756ff571c,Eloah Freitas,47,1,2,4,2,3,3,3,2,3,Florianópolis,Produtor editorial,Viúvo,20,6,Alugado,False,22889,547273,1427042,430608
+99c7d53c-7481-497e-8509-3b9f91b017c0,Emanuelly da Cunha,74,4,1,1,2,1,3,2,3,2,Belém,Esteticista,Divorciado,6,4,Alugado,True,11237,233653,961605,190962
+899748b3-0cd8-434e-b4fc-840e3d465145,Dra. Maria Isis Sousa,33,1,2,5,3,5,4,4,1,2,Manaus,Senador,Viúvo,20,4,Alugado,True,20244,254052,787339,166852
+b63183db-4929-429e-992f-ff4e4eff753b,Luna Cirino,26,3,1,3,3,2,4,3,5,1,Goiânia,Neurocirurgião,Viúvo,11,3,Alugado,True,27221,867244,1471543,142594
+c3d0f64c-b31d-44f8-b20c-53f6feb6334c,Alana Caldeira,71,5,5,2,1,3,5,4,4,2,Recife,Balconista,Divorciado,8,6,Próprio,False,10979,207183,266701,121016
+1e3b7704-bd46-44db-be9d-3795910f61d0,Maitê Caldeira,45,1,4,4,4,5,5,5,4,3,Manaus,Profissional de manutenção industrial,Solteiro,4,3,Próprio,False,44684,949044,365281,70720
+ab764d02-fce4-439d-86d7-546867a95d6c,Kamilly Teixeira,65,1,3,2,5,5,4,2,2,4,Manaus,Engenheiro de materiais,Casado,0,4,Próprio,False,5762,475744,1989416,488330
+fb4d092e-ec8c-4d4e-866c-af33cafa3d83,Sophia Alves,54,5,4,2,2,3,4,5,5,5,Belém,Prefeito,Casado,18,6,Alugado,True,22011,788000,1159402,385248
+a14a4896-b3bf-46cd-98e0-c3e5c32d46d2,Rodrigo Sousa,48,4,5,5,4,4,4,5,2,3,Campo Grande,Broker/Corretor da bolsa de valores,Viúvo,0,3,Alugado,True,17699,550703,362108,25614
+7a846aa9-0948-4b01-957d-15b911175077,João Pedro Vargas,51,3,5,2,1,3,2,5,5,2,Florianópolis,Técnico em desporto,Solteiro,4,2,Próprio,True,2922,4633,1880736,34864
+9f8fdab8-d4ce-42ec-8c4a-1dd2056d26cd,Ana Liz Lopes,36,3,1,4,4,2,5,1,3,2,Vitória,Tecnólogo em irrigação e drenagem,Solteiro,9,6,Alugado,True,20694,123950,34986,107020
+6f8bbf9d-dde2-4188-8fcb-67905fff44f4,Maysa Sá,51,5,4,3,2,5,4,2,1,5,Manaus,Somelier,Viúvo,20,3,Próprio,False,11470,778339,1648160,349767
+d22e95aa-4a85-411f-866e-9d33929d5231,Isaac Marques,78,2,3,1,3,5,2,1,5,2,Porto Alegre,Tesoureiro,Divorciado,7,1,Próprio,False,29056,638196,1976375,419639
+771828e0-1ce3-4713-9ed5-6c184f06fb9c,Erick da Rocha,24,5,3,5,5,4,2,5,5,1,Belém,Astronauta,Divorciado,12,5,Alugado,True,6582,496876,1381775,191100
+e355c5f3-74fb-4c03-835a-8337ae8b6d20,Lucas Carvalho,33,1,4,5,4,4,1,5,4,5,Brasília,Taifeiro,Viúvo,4,6,Próprio,True,21291,259951,1668080,492503
+ca077f06-014a-4afd-8eb5-f48690ac467e,Ester Aparecida,37,4,3,1,2,3,2,1,2,4,Belém,Designer de produto ou desenhista industrial,Divorciado,12,1,Alugado,True,33519,514003,1039910,102996
+e2f7f275-32d9-46d2-bfa6-4b1740ba13b5,Manuela Sousa,59,2,1,4,3,1,2,4,1,5,Florianópolis,Chefe de cozinha,Casado,1,2,Próprio,True,39717,207907,1081367,253901
+c99ccb23-626b-4364-abb2-58d3ce964fa1,Heloisa da Mota,30,2,4,1,2,3,2,3,3,3,Vitória,Marceneiro,Viúvo,9,5,Alugado,False,33334,452200,53839,232747
+e3285431-b689-4883-908a-cf6c2b9a965c,Stephany Monteiro,65,5,4,2,2,3,1,1,4,4,Brasília,Engenheiro de supply chain ou logística,Solteiro,19,1,Próprio,True,46092,584437,1789567,409599
+114bb73e-daad-4298-8fa2-5b985df0b680,Luiz Henrique Viana,80,3,1,4,2,2,5,5,3,1,Curitiba,Gari,Divorciado,12,2,Próprio,True,40650,853481,153877,292733
+b216f97c-5df4-49ef-8279-244a8030a1c0,Mirella Martins,68,3,5,1,3,3,5,1,1,3,Campo Grande,Repórter,Viúvo,8,3,Próprio,False,17310,631533,1397553,61327
+b93106e1-1555-48cf-805f-d452fdbb712b,Danilo Pereira,76,4,1,4,4,1,1,3,1,5,Porto Alegre,Repórter,Solteiro,9,3,Próprio,True,36361,289712,38535,399056
+badf3697-c606-499e-8fad-126204b966a5,Dr. Diogo Sousa,33,5,5,2,2,1,5,1,2,5,Salvador,Parteira tradicional,Viúvo,5,6,Alugado,True,34668,389804,1919604,430318
+f28c4513-bbfa-446b-aae2-43356cc0f5e3,Lucas Gabriel da Rocha,52,5,4,3,1,4,5,5,1,2,Salvador,Pastilheiro,Divorciado,5,5,Próprio,True,26043,296206,1451332,229286
+d8119630-9379-492f-ab09-b453909979b9,Heloísa Lopes,63,5,2,2,2,3,4,2,2,1,Campo Grande,Jogador de bocha,Casado,19,4,Próprio,False,2354,527577,1903968,265933
+91cb4ac9-0e54-4b4b-81b0-e62fb17dcf73,Daniel Viana,75,1,4,4,1,5,5,5,4,1,Manaus,Editor,Casado,1,6,Alugado,True,36445,879855,1516001,431134
+15a05abe-f848-47e7-9340-3440a0b64322,Clara Viana,62,3,2,1,1,2,2,4,4,1,Rio de Janeiro,Pescador,Divorciado,17,3,Próprio,True,23472,170927,1678439,209369
+175a3701-13f8-4680-afe3-ec04808184bf,Sra. Ana Júlia Gonçalves,33,2,1,1,5,4,1,3,4,2,Belo Horizonte,Gastrônomo,Solteiro,10,2,Próprio,True,32198,500597,1996432,142940
+f91d0c3e-19b3-4d22-b682-b6a07fe5b551,Vitor Hugo Câmara,41,3,3,4,1,5,2,2,1,4,Florianópolis,Agricultor,Solteiro,9,4,Alugado,False,48788,255727,1209173,142763
+1d98222e-e10b-468e-9849-5a37081a71c5,Cecilia Moraes,44,4,4,4,2,4,2,2,3,5,Salvador,Intérprete,Solteiro,11,2,Alugado,True,26189,77251,1551605,280295
+5d7d23ad-912e-40f5-a568-1d0a39db6eee,Marcela Gomes,37,1,2,3,4,5,4,1,2,4,Recife,Embalador,Viúvo,1,3,Alugado,False,16499,43547,830947,207518
+c9bd7a9d-1c88-4756-8c32-89c8de04116b,Ana Cecília Leão,33,4,1,3,1,2,5,1,4,3,Vitória,Patinador,Solteiro,19,5,Alugado,True,15179,615138,91858,310569
+ad2dee62-7b5a-4195-bcc3-7d33b5b9a612,Brenda Pires,25,2,1,2,1,2,3,2,1,5,Curitiba,Terapeuta Holístico,Divorciado,5,6,Alugado,False,25315,596035,980399,364964
+f6c3b788-bf97-45cc-866a-de789703ca94,Bruno Barros,56,3,2,1,5,2,4,1,1,5,Goiânia,Karateca,Viúvo,1,2,Próprio,False,33309,979836,619238,346861
+5e26a38c-fd49-4bb7-bfd9-ae12ad7f10b8,Dra. Clara Barros,38,3,3,5,2,1,3,3,5,5,Curitiba,Torreiro/Torrista,Divorciado,10,2,Alugado,True,37532,17081,1322509,294156
+f9cb84c5-3ae7-436f-a5c1-867c92ae7e1e,Davi Luiz Garcia,25,5,5,4,3,3,5,2,3,3,Florianópolis,Fotógrafo,Divorciado,12,4,Alugado,True,40132,832781,1438287,194508
+0102b7fc-a59e-4c44-a983-0700231eb6df,Matteo Gonçalves,27,1,4,5,4,1,3,4,4,1,Porto Alegre,Digitador,Viúvo,3,4,Alugado,False,36504,443607,63928,234694
+9c194d60-1175-4fed-b2d1-d77b767c4f0d,Ayla Rios,18,3,4,2,4,4,1,2,2,3,Florianópolis,Forneiro,Solteiro,11,5,Próprio,True,5653,392648,417433,356985
+380569c9-eb6c-49db-8e57-b228a5d41b65,Srta. Stella da Costa,18,1,4,2,1,4,4,1,3,4,São Paulo,Bancário,Divorciado,16,4,Alugado,False,9450,187949,536158,158451
+7e5e5f4a-7064-4ebc-85cd-b8a266f4bbdf,Luiz Felipe Garcia,22,2,2,5,3,3,4,5,3,1,Goiânia,Pneumologista,Viúvo,8,6,Próprio,True,7361,713041,1702154,167706
+a6bd5b55-0310-4a2b-81ad-4b062af1fe9e,Bernardo Aragão,62,4,5,1,3,4,1,5,1,5,Belém,Seringueiro,Viúvo,13,6,Próprio,False,39059,225242,901115,173066
+e2296e8a-4bfe-4908-bee7-08e8ff5e4fe3,Ana Rodrigues,42,1,5,2,2,3,5,4,3,5,Fortaleza,Cadista,Viúvo,17,1,Próprio,False,4222,809497,389515,127342
+fe0fe4ba-11c7-4a5b-8b52-d22d0b4e9151,Eduarda Lima,65,4,4,1,5,3,2,1,1,5,Belo Horizonte,Vendedor,Casado,0,5,Próprio,False,33038,253645,455111,99433
+e438e839-d085-47ae-a4ca-057c84b85770,Allana Vasconcelos,72,2,5,4,2,2,2,5,4,3,Curitiba,Arranjador musical,Solteiro,5,5,Alugado,False,16733,800154,343651,427544
+6d593102-26b6-4350-8244-5daae0ea8bc7,Alice Ferreira,43,4,4,5,5,2,3,2,4,4,Campo Grande,Produtor de audio visual,Casado,19,6,Alugado,True,48246,560901,1819208,177286
+8135134d-21d8-4489-9777-13b40e0023aa,Luiz Otávio Leão,59,2,1,2,2,2,1,5,1,3,Goiânia,Chapeiro,Solteiro,2,4,Alugado,True,12481,541343,584896,153792
+a1899837-e06a-4fd1-a23f-1622be71b25d,Ana Clara da Rocha,26,2,3,4,1,5,5,5,2,5,São Paulo,Cabeleireiro,Viúvo,10,3,Alugado,False,18611,723563,717428,66499
+1270e156-d7d8-44c4-bec2-4e1dfb0f55a2,Isabella Correia,75,4,1,4,3,4,5,5,5,1,Porto Alegre,Consultor,Casado,3,1,Alugado,False,19634,257797,447624,353073
+f3a6828a-42c3-451a-8c92-5dfb3b494dca,Emanuelly Silva,27,2,4,2,2,4,4,4,4,2,Porto Alegre,Babysitter,Solteiro,13,6,Alugado,False,27332,973686,626498,382789
+40742174-2e3a-43f6-a833-2fb332e5d287,Dr. Luiz Fernando da Luz,48,1,4,1,2,5,3,1,2,4,Florianópolis,Patologista,Solteiro,10,5,Próprio,True,41888,527877,1669645,159507
+ba3e5c18-d069-42f3-875b-7b72f3bfe7c6,Isabella Cardoso,26,3,1,1,4,3,1,2,4,3,São Paulo,Atuário,Viúvo,15,3,Alugado,False,30716,440661,288819,194642
+9b571b4a-07c2-4ee3-ade7-98daafb1a6c0,Josué Leão,54,1,4,2,1,1,2,4,2,5,Belém,Contador,Divorciado,20,4,Próprio,False,48771,74421,592916,300771
+dabd2e45-6e90-4db6-bb13-a16fbba96a50,Lunna Silva,46,3,3,5,4,5,2,1,5,2,Manaus,Embaixador,Viúvo,18,5,Próprio,True,17887,627826,1916576,370181
+a2259264-ab0b-43e3-ac15-1646de3133aa,Yago Monteiro,50,4,1,5,5,3,3,1,3,5,Goiânia,Guarda roupeiro,Casado,4,4,Próprio,False,15187,133755,276379,390752
+f258e679-7f9c-4c02-b202-05cee1329741,Vitória Sousa,32,5,3,4,1,2,1,2,5,5,Goiânia,Produtor de multimídia,Solteiro,3,3,Próprio,False,15940,263693,34149,2141
+dab49105-88bb-462f-87f5-4004a4712b46,Pedro Lucas Pimenta,62,1,2,4,4,2,2,2,5,5,Goiânia,Físico nuclear,Divorciado,15,3,Alugado,True,23348,417009,1499741,241746
+b8d2945b-5ddb-4a43-9ce6-61a57e548401,Maria Duarte,65,5,4,1,5,5,5,2,2,2,Fortaleza,Figurante,Viúvo,1,3,Próprio,True,26423,547520,103758,201546
+2e57874e-518b-49dd-a5bc-6a3faafbcc09,Noah Almeida,62,1,2,3,5,3,4,3,4,5,Manaus,Sonoplasta,Divorciado,12,1,Próprio,False,46003,465381,1307641,141211
+c5c55bd3-cc98-4a77-8f8d-f7396ae5a35b,Gabriela Garcia,54,4,2,5,2,1,5,4,2,2,Salvador,Cobrador de ônibus,Solteiro,1,5,Alugado,True,28340,87738,805707,210122
+77d5752e-052f-4b1c-ab1b-0513d7e20ff1,Emanuelly Andrade,26,1,1,4,3,3,3,4,5,4,Curitiba,Otorrinolaringologista,Divorciado,15,6,Próprio,False,22481,788117,1591002,187943
+195e0ce1-c3b8-4a2f-ad26-0c85e48d9aee,Samuel Porto,74,4,3,1,2,3,4,4,3,1,São Paulo,Cabeleireiro,Solteiro,12,5,Próprio,False,35145,825120,1697214,217540
+898f93f2-4c28-4642-8f2a-20a39e03c6a6,Isabella Oliveira,69,5,2,3,1,3,1,4,4,3,Curitiba,Profissional de logística,Divorciado,3,2,Alugado,False,20827,272642,144097,403617
+ff858a25-841f-4892-bb44-f9d01eaf9b2a,Melissa Gonçalves,50,5,5,4,3,1,2,2,2,5,Salvador,Encanador,Viúvo,0,5,Alugado,False,31798,909391,87863,382829
+476d03ea-a2e9-4938-a31e-0f9998ddff7b,Alexia Castro,22,4,1,2,4,2,1,5,3,3,Belo Horizonte,Caça-talentos/Olheiro,Casado,16,6,Próprio,True,12361,47418,1672087,363691
+12d3c229-6519-48dd-9d48-10cf5e9b2bdc,Arthur Miguel Santos,39,1,5,5,5,2,1,5,3,1,Porto Alegre,Pianista,Divorciado,18,1,Próprio,True,40806,498734,1250692,254170
+11807c08-2a98-4f2e-add9-5185e1f9b26b,João Felipe Mendonça,73,5,4,2,3,3,2,5,3,1,Porto Alegre,Moleiro,Divorciado,12,5,Próprio,True,20583,333209,1917579,22144
+739b206f-2cd0-4ddf-a3dc-60ad7bf9d907,Camila Teixeira,47,2,3,4,4,3,5,1,5,3,Fortaleza,Engenheiro de iluminação,Casado,18,3,Alugado,False,39304,868626,1316879,399123
+f723fa4f-9c78-4858-b023-3a11999544ac,Maria Alice Santos,53,1,2,4,1,2,5,3,3,2,Belém,Carpinteiro,Solteiro,7,1,Próprio,True,22766,545872,587971,320090
+2569ac40-2a0d-4ec9-94d8-42f253352e02,Luiz Miguel da Paz,71,1,4,2,3,2,1,2,1,5,Goiânia,Gravurista,Viúvo,14,4,Próprio,False,31164,380186,1278554,191522
+c1dfc4e7-2533-4fe0-ae77-106af4d8987d,Gael Henrique Souza,79,1,3,1,5,4,3,5,2,2,São Paulo,Engenheiro de som,Casado,19,3,Próprio,False,7948,598266,881400,83452
+761b5833-659b-4f92-91e2-19e5b4f30fda,Yasmin Silva,33,2,2,4,1,3,5,4,5,3,Belo Horizonte,Engenheiro de produção agroindustrial,Viúvo,13,4,Próprio,True,7465,890562,929987,100909
+c63638e9-848f-4730-b9e7-9f4fb828b897,Dra. Hellena Souza,62,1,4,4,2,5,2,1,3,1,Florianópolis,Alfaiate,Solteiro,14,5,Alugado,False,10612,929409,800031,431661
+a9439878-6408-450e-b77e-af7ed5106e46,Luara Pastor,41,3,5,3,4,5,5,5,1,4,Campo Grande,Desenhista,Casado,7,2,Próprio,True,15422,685520,993540,62414
+fb2f7d86-2179-4f2a-9b1a-9524664b4de8,Isabel Viana,46,5,5,5,1,2,2,2,4,5,São Paulo,Cambista,Solteiro,13,3,Próprio,False,4645,703698,1863470,289506
+c3574640-f8d0-4654-a705-fdf67b31b14b,Bella Vargas,35,4,4,5,3,3,1,4,4,4,Brasília,Barbeiro,Divorciado,6,5,Alugado,True,30650,785327,440676,242624
+c42f7918-295b-41df-ba00-2f1579ac892e,Caroline Rodrigues,50,1,3,5,1,3,4,5,1,5,Manaus,Ombudsman,Divorciado,11,5,Próprio,True,27541,866935,1153282,110151
+ae67c288-2379-4c36-a396-7d2d74ec1f86,Benjamin Cassiano,50,3,5,5,4,4,2,5,1,2,São Paulo,Selecionador de pessoal,Viúvo,12,1,Alugado,True,39907,418537,1428703,57029
+1c2c013e-a37a-4a3a-99ab-b4d31925265e,Murilo Nunes,29,1,5,1,3,1,5,5,1,2,Campo Grande,Seguidor de compras,Viúvo,20,1,Alugado,True,43523,867717,1024362,3692
+53a19af2-30b9-49fb-86c9-fff8b5f89b15,Maria Helena Novais,76,4,4,5,1,1,1,4,5,2,Porto Alegre,Garimpeiro,Viúvo,4,5,Alugado,False,37259,636166,1873733,121093
+47494aa0-ca1d-4fb6-8bc6-156b16335e02,Ana Luiza Cavalcanti,32,3,5,4,3,5,4,1,2,3,São Paulo,Montador de negativos,Viúvo,15,3,Próprio,False,34984,820972,1530094,453525
+47df26ea-cee0-4f44-ac3f-cc95b868d86d,Emilly Andrade,32,2,3,3,4,1,4,4,2,1,Florianópolis,Gastroenterologista,Casado,6,1,Próprio,False,23299,662831,89565,357221
+9aedf54f-494a-4158-9ce2-a0b018babb93,Brayan Câmara,72,3,4,1,3,2,1,5,4,5,Manaus,Mototaxista,Casado,16,3,Próprio,False,3930,326295,771006,266915
+b2413347-3ddb-40b4-9a6d-c72a1ee56f86,Oliver Casa Grande,52,2,1,1,3,1,3,4,1,1,Florianópolis,Amolador de ferramentas,Casado,7,6,Próprio,True,14005,420055,1123557,232767
+5a1cf951-270b-4fe8-afd0-04b611bb10d3,Caio Novais,25,3,4,5,5,1,1,5,4,4,Manaus,Jogador de hóquei,Viúvo,17,1,Alugado,True,42865,317249,1686732,407884
+9f661a39-c475-4ead-97b7-f8a72c4fef0b,Breno Barbosa,58,3,3,4,5,3,3,4,4,5,Florianópolis,Engenheiro têxtil,Divorciado,0,2,Próprio,False,20540,853963,45401,34809
+c4e7df0b-e7d0-4b3c-affd-b00172e77d10,Helena Carvalho,45,2,2,5,3,4,2,4,5,2,Vitória,Fotógrafo,Solteiro,11,5,Próprio,False,30688,740733,1923081,83973
+6c08fc76-1ee5-4364-9e7d-af42184684c1,Sr. Ravy Moraes,56,2,4,2,1,5,4,5,2,1,Belo Horizonte,Auxiliar de serviços gerais,Solteiro,10,5,Próprio,False,43109,171628,1723115,118892
+e43736d6-1a49-479a-8dac-dd17e3e9859f,Guilherme Ribeiro,32,2,3,1,4,3,1,5,3,3,Recife,Sexólogo,Casado,18,4,Próprio,True,31576,954604,434747,157229
+18ab3fd8-e85b-4efb-8df8-ed9a4ce56304,Sra. Larissa da Rocha,36,4,4,3,4,2,1,3,5,3,Recife,Oftalmologista,Divorciado,20,1,Próprio,False,49544,977158,1936402,487109
+a0237a82-a875-482b-8bd0-c7fcdf787593,Julia da Luz,57,1,4,1,4,1,3,1,2,2,Rio de Janeiro,Afiador de ferramentas,Solteiro,12,5,Alugado,False,7480,238998,1652001,400140
+8799a245-e9d7-45b2-972a-6869420e80d0,Sr. Pedro Miguel Cavalcanti,37,3,4,4,1,5,3,5,2,4,Florianópolis,Atleta de canoagem,Viúvo,9,1,Alugado,True,36128,424744,605270,348356
+3679db7d-91e8-47c3-9e15-9f25ef0a376b,Olívia Fonseca,58,2,2,1,2,4,3,1,5,5,Salvador,Profissional de comércio exterior,Casado,3,5,Alugado,False,25714,474396,964018,64547
+7c3ff2a6-02bf-4064-bbb9-4ac01ffba334,Samuel Alves,56,4,4,4,4,1,1,2,3,4,Campo Grande,Engenheiro florestal,Casado,8,2,Alugado,True,9388,140131,1426166,366450
+3d9a886e-97ac-4cd9-b7f4-487d73aaab80,Kevin Mendonça,80,2,3,5,5,5,1,1,2,4,Salvador,Catador de carangueijos,Casado,13,4,Próprio,True,7146,497395,1812451,237156
+33c3eaf0-8787-4c47-834c-7ab5a32a90ef,Henrique Castro,57,1,3,2,3,3,4,1,3,3,São Paulo,Designer de jóia,Casado,6,2,Próprio,True,31010,318814,1785654,207331
+d9550d6a-983e-4028-bd06-69af16787afe,Davi Lucas Correia,76,3,4,3,2,4,1,1,5,4,Porto Alegre,Tecnólogo em produção moveleira,Viúvo,4,4,Alugado,True,38198,612951,1640591,393445
+347b521f-a320-4a2f-9880-0ff5b12dfb17,Dr. Brayan Albuquerque,40,4,5,3,3,5,2,2,4,4,Salvador,Webmaster,Divorciado,2,3,Alugado,True,15177,972338,1800017,415662
+eaa6f30b-ed77-4aa9-9279-04d73cfb57ea,Dra. Eloah da Luz,76,5,3,1,2,3,3,1,2,3,Florianópolis,Geriatra,Divorciado,8,5,Próprio,False,10219,189339,1118715,477419
+a87c7646-d39b-43af-8cde-835e9217a704,Benjamin Vargas,52,2,5,1,3,4,2,2,1,3,Campo Grande,Meteorologista,Divorciado,8,4,Alugado,False,45999,505625,613229,304223
+dc96799d-e770-465b-b401-5a1a351bfe62,Mateus Teixeira,71,2,2,3,1,1,3,5,4,5,Recife,Intérprete de Bíblias,Viúvo,18,3,Alugado,True,9782,917345,1443267,4234
+d33bec0b-246a-4521-bc0d-144662832e4f,Maria Fernandes,36,1,5,3,3,2,4,4,4,4,Rio de Janeiro,Crítico,Casado,1,6,Próprio,True,4917,104758,1516422,365276
+c5ef4600-8ee5-40d3-a568-6a373d9dbe0b,Srta. Rebeca Nogueira,52,4,2,1,3,2,5,1,3,1,Rio de Janeiro,Cortador de cana-de-açucar,Divorciado,7,4,Próprio,False,12195,661973,217862,495603
+54ee26bf-4508-4db5-a901-7fd51742420e,Esther Brito,69,1,4,5,1,5,4,1,1,5,Belém,Tecnólogo em produção moveleira,Viúvo,20,5,Próprio,False,20738,135134,693462,398975
+3a2bca5c-384c-42cd-a5d5-0d14cb140e77,Igor Silva,47,1,4,5,1,2,4,5,2,2,Campo Grande,Agente de defesa sanitária,Solteiro,11,3,Alugado,True,1801,423880,69710,27679
+592049ca-90e4-4e56-bcfd-c55798909c11,Breno Albuquerque,29,2,1,2,5,4,3,3,1,3,Campo Grande,Limpador de vidros,Casado,5,3,Alugado,True,19957,826551,321708,14317
+3db1c7b2-2671-42f4-a3f8-d24467adb5bc,Sr. Antônio Moreira,43,4,4,1,1,3,1,3,3,5,Manaus,Atuário,Casado,0,1,Próprio,False,17374,215803,1780072,388071
+c612028e-d0be-49b9-b978-1c2644e09735,Isaac Costa,51,2,2,2,2,3,1,1,3,2,Vitória,Médico cirurgião,Casado,5,6,Alugado,True,25408,396131,293261,343416
+c939168a-5c4b-4ad6-b69e-aebd9f31c71e,Isabel Montenegro,19,1,5,1,1,1,2,3,5,3,Porto Alegre,Ortesista,Casado,18,1,Alugado,True,43057,182776,762560,95176
+d59fbc91-5796-4ab8-8bf7-df924e3a9c9b,Enzo da Cunha,51,4,1,2,2,2,5,3,3,4,Belém,Bioquímico,Divorciado,10,2,Alugado,False,13168,524914,838289,156448
+557d5c63-28f3-4c07-976b-3f4cab3f31a9,Sr. Leandro Borges,67,3,5,4,4,1,2,3,5,5,Salvador,Intérprete e tradutor de língua de sinais,Viúvo,6,3,Alugado,True,48820,849598,1223359,498469
+0c0386c1-2f17-4423-917f-bb5178584fc8,Nathan Pires,40,2,4,4,4,2,3,5,5,3,Belo Horizonte,Cientista,Viúvo,7,3,Próprio,True,22928,721795,372377,201142
+ccb2b506-c0bd-4048-9114-24354e84b289,Maria Luiza Jesus,80,4,3,3,5,1,3,4,4,2,Brasília,Figurinista,Casado,20,5,Alugado,False,28295,314726,220675,139775
+a2902c4e-f54f-4d91-9b57-4b41e12f5556,Stella da Conceição,48,3,2,2,4,5,3,2,3,4,Florianópolis,Educador integrado à saúde pública,Divorciado,12,4,Próprio,True,23155,218500,1176907,304380
+c81deb2f-fff2-42de-8093-04c2be351b73,Pedro Henrique Araújo,62,4,2,5,5,3,2,2,3,2,Campo Grande,Endodontista,Viúvo,15,5,Alugado,False,7767,355210,995771,42884
+6bf953eb-4aa8-467b-8c58-2801078812cd,Caio Mendonça,28,4,4,2,5,2,3,3,2,3,Salvador,Cenotécnico,Divorciado,16,6,Próprio,True,44827,605815,54807,216509
+e5f95822-e386-4dea-9836-cceffc8f2420,Maria Sophia Campos,68,1,4,5,2,3,5,4,5,2,Manaus,Eletricista,Solteiro,13,1,Próprio,True,45158,992309,1048771,43674
+9a443929-e76c-44eb-be97-82cb140e97a1,Valentim Martins,24,4,5,2,4,1,1,2,1,4,Florianópolis,Arrumadeira,Casado,15,2,Próprio,True,31902,724705,348224,406331
+c290eca6-1372-454b-9776-58fd256635ae,Raquel Freitas,71,1,1,3,5,5,4,4,5,1,Recife,Cabeleireiro,Casado,12,6,Próprio,True,8721,138217,256871,149671
+acc74aa1-a346-4d16-8856-675f8f3fff23,Manuella Campos,43,2,5,3,4,4,2,3,3,2,Goiânia,Corregedor de justiça,Casado,12,6,Próprio,False,27572,215078,1923426,427790
+6644104f-e3b7-458a-8919-334a19905c9c,José Miguel Campos,30,5,1,4,2,5,5,3,1,2,Salvador,Cortador de cana-de-açucar,Divorciado,16,6,Alugado,True,12896,673218,867406,368320
+5b761ad6-366e-46f5-bc87-1715ac08c2a3,José Miguel Castro,76,4,3,5,4,1,5,4,4,1,Salvador,Homeopata,Casado,6,3,Alugado,True,3153,109973,817112,56327
+7b7311e6-1413-4210-84ff-434e02d4984c,Dr. Nathan Sampaio,28,3,5,1,1,4,2,5,5,3,Goiânia,Engenheiro civil,Solteiro,2,2,Alugado,True,18837,285104,451819,249685
+da288937-f187-43a2-9300-d62af3067c4b,Camila Sampaio,76,4,4,2,3,5,1,3,1,5,Recife,Artista de circo,Divorciado,2,6,Alugado,True,29453,517602,1259330,113513
+1a6e42c0-4cb3-49a9-a87c-4edd84ec69c2,Sr. Gael Henrique Câmara,20,1,3,5,1,1,4,1,3,5,Belém,Prensista,Solteiro,0,1,Próprio,True,3533,157833,1110728,294556
+7aef7699-71bc-4081-a39f-d782262f9616,Noah Ferreira,71,4,4,1,4,5,1,1,5,5,São Paulo,Cirurgião dentista,Casado,9,2,Alugado,True,17896,526326,1877619,389398
+330ddd03-ba9e-43a2-9e7c-715d28a89cbc,Théo Correia,77,3,3,5,3,2,1,2,3,2,Rio de Janeiro,Coronel,Viúvo,1,6,Próprio,True,32828,878007,1969669,486614
+df47a9a7-b01c-4a53-8ad1-6aa2b0b3ee00,Bella da Conceição,55,1,2,5,4,1,1,3,4,1,Vitória,Gestor de tecnologia da informação,Solteiro,15,1,Alugado,True,47230,102509,1222569,357483
+04dfc826-4ef8-450e-b89f-45ba8ee39b40,Júlia Cardoso,37,1,2,3,4,1,2,5,5,1,Curitiba,Ministro,Solteiro,3,2,Próprio,False,21782,143358,1905553,254058
+48088c1f-87c3-4355-b852-3e9d71057a06,Dra. Ana Lívia Barros,77,1,5,2,4,4,5,3,4,4,Curitiba,Coreógrafo,Viúvo,6,5,Alugado,True,37314,826925,167124,19665
+30f414fb-02f9-48b2-9d3e-5d57a45db636,Dr. Yago Moreira,76,4,3,5,1,4,1,5,3,2,Porto Alegre,Lixeiro/Coletor de lixo,Casado,3,3,Próprio,True,5989,744474,498007,43201
+de359128-ed95-41ce-84be-a71d07b1288a,Kamilly Nunes,76,3,2,3,1,4,5,4,2,4,Rio de Janeiro,Barbeiro,Viúvo,17,3,Próprio,False,11958,338873,368050,397232
+837635d2-6bbf-49f0-aa6d-803306353c20,Maria Isis Oliveira,59,4,3,1,1,2,3,3,4,1,Campo Grande,Escoteiro,Viúvo,18,5,Próprio,False,28913,409392,1267747,148020
+11194503-c74d-4393-b422-5cb25d5c318c,Alexandre Moura,50,5,5,2,1,1,3,1,5,3,Salvador,Conferente de carga e descarga,Viúvo,11,6,Próprio,True,24961,381746,1632206,264695
+219fa15a-305c-45f1-aa45-3af029599eb7,Sara Oliveira,36,2,2,4,1,4,2,4,4,2,Florianópolis,Estivador,Divorciado,12,3,Alugado,False,26085,916418,16766,249776
+737f3aeb-f18d-4821-a227-0332ae155d79,Srta. Natália Sá,19,1,1,3,3,1,2,1,4,5,Belém,Urologista,Viúvo,5,3,Alugado,False,7724,919547,10796,1798
+d113983a-0535-4401-8d70-56fd2ae16cb3,Sr. Caleb Albuquerque,79,4,4,5,5,1,3,1,4,2,Recife,Gerente de banco,Casado,0,4,Próprio,True,13594,525863,1510190,58364
+9872c56f-ea57-4ea5-9520-3d1b984afae3,Dr. Luiz Fernando da Cunha,25,3,2,2,2,2,5,2,2,2,Recife,Kite-surfer,Casado,9,1,Próprio,False,22413,908410,326200,275780
+515653d9-0110-4228-b905-f4619236c2e5,Sr. Asafe da Rosa,30,3,5,5,5,3,1,1,3,1,São Paulo,Diagramador,Divorciado,14,5,Alugado,True,25446,933134,1639459,53361
+50273004-8156-480f-9a67-315b69688b2a,Davi Miguel Martins,63,1,2,3,1,3,2,3,4,2,Belo Horizonte,Juiz de direito,Casado,0,4,Próprio,True,42913,734222,1962951,348601
+cdd02609-44ad-410d-b724-78060cabc43d,Laura Barros,41,4,5,1,5,4,5,2,1,2,Campo Grande,Fundidor de placa de gesso,Solteiro,2,1,Próprio,True,41767,301673,1908478,454411
+6e3c8c78-9e16-4025-b0a4-2429f2338e94,Mathias Aragão,63,3,2,3,1,5,3,2,5,1,Campo Grande,Biblioteconomista,Divorciado,9,4,Próprio,False,19863,768358,1853433,329676
+68c7b856-f731-4e03-81f7-5259b1267f41,Srta. Isabel Camargo,26,5,1,2,1,5,5,5,2,1,Salvador,Jogador de boliche,Casado,11,4,Alugado,True,31451,585431,1227217,405331
+86668c7d-fafd-456e-98c9-718a9abe8599,Kaique Câmara,25,2,1,2,5,4,3,2,4,5,Manaus,Jogador de bocha,Solteiro,10,3,Próprio,False,33308,822343,780311,310565
+bbd15168-8095-4b42-9b5f-d662f815a4fe,Rafaela Sousa,54,3,1,5,3,2,5,1,4,5,Salvador,Prático,Solteiro,9,3,Alugado,False,1968,395588,139833,381622
+664b0a73-fd9d-4a54-bc9d-499fff351cd2,Vitor Hugo Fernandes,21,4,3,4,4,2,2,4,3,3,Fortaleza,Empresário,Solteiro,2,4,Próprio,True,30108,434503,195524,485723
+95828428-98c2-4d00-8e3c-9df4084ab6c9,Letícia Cunha,32,4,5,1,3,5,5,1,2,3,Porto Alegre,Técnico em hardware,Solteiro,16,3,Alugado,False,48375,417824,1291772,321797
+fc1fd8fd-d693-4774-96cc-643cdd1f5179,Gael Henrique da Cunha,28,5,4,3,3,3,4,4,2,3,Florianópolis,Xilógrafo,Solteiro,17,3,Alugado,True,49755,147679,1889437,131351
+db69bda4-722e-480c-b234-f5010fb07b62,Juan Rezende,29,2,3,5,1,1,3,1,4,2,Curitiba,Feirante,Solteiro,10,3,Alugado,False,40344,113259,687086,280272
+415276dd-53c6-429b-85bc-d8dc571668b7,Beatriz Fernandes,39,3,4,3,5,1,4,2,4,5,Florianópolis,Profissional de reciclagem,Viúvo,0,2,Próprio,True,25177,474143,128836,125389
+92f8e433-db6f-406a-8930-9d126e42fe3b,Brayan Gomes,66,2,2,2,5,3,5,3,3,2,Campo Grande,Ferramenteiro,Casado,2,3,Alugado,False,15834,48329,586225,10619
+ce83a9d6-9649-43ce-8357-3ce2b61e876f,Davi Campos,76,2,5,4,4,2,5,5,1,4,Belo Horizonte,Retificador,Solteiro,15,3,Alugado,True,9586,27727,633414,45619
+4057e75a-fdb8-4a93-a17f-e7892c5ff715,Bianca da Cruz,44,4,5,2,1,3,2,5,2,4,Salvador,Agricultor,Casado,15,1,Próprio,True,9270,859210,744386,394015
+3aedcf9d-b4c0-4c85-8401-8ba8148daf5a,Camila Aparecida,20,2,1,2,5,2,5,1,3,5,Florianópolis,Funileiro,Divorciado,0,2,Alugado,True,28393,99845,1408079,306728
+f229a5ca-ad2d-42a6-9908-21354da892e3,Arthur Miguel Mendes,21,1,5,2,2,2,3,5,2,4,Manaus,Petroleiro,Viúvo,2,5,Alugado,True,4809,677513,45463,96367
+679a693c-e5ce-466f-8a18-2ea628de721a,Ian Souza,63,5,3,4,1,4,2,2,3,4,Goiânia,Operador de vídeo,Divorciado,15,1,Próprio,False,40302,324119,5153,381206
+8cb9d183-0ff4-4bfa-a3df-9acbadaf25b2,Sra. Ana Sophia Silva,46,5,5,2,2,1,3,3,2,2,Goiânia,Engenheiro de minas,Casado,2,4,Próprio,False,36027,805704,158269,149350
+b67ef6ec-d569-4531-a9de-7ee88f4e5613,Aylla Camargo,39,4,3,4,3,2,4,1,1,5,Curitiba,Montador de negativos,Divorciado,6,6,Alugado,True,44914,473285,1046380,224347
+d7fd3308-a843-40bf-8b25-4a90ff711ed5,Sr. Davi Luiz Azevedo,80,4,4,3,1,3,2,4,4,1,Belo Horizonte,Designer gráfico,Solteiro,18,2,Alugado,False,32246,574032,115226,213269
+a8eeff40-7a28-427f-b26c-34e43a681834,Ian da Mata,60,1,5,1,2,2,2,1,1,4,Fortaleza,Profissional de cinema,Viúvo,0,4,Próprio,False,14401,351587,516055,71032
+458a7351-a9c9-4ddf-9d9c-e5c74507a568,João Miguel Cavalcanti,27,2,4,1,5,3,5,2,1,2,Salvador,Engenheiro de energia,Divorciado,20,5,Próprio,False,15461,955897,1044340,43929
+ed9bb870-aacc-4084-b1bd-62dedaedc6fd,Srta. Rebeca Mendonça,23,3,2,5,3,2,1,1,1,2,Fortaleza,Profissional de cinema,Divorciado,7,5,Alugado,True,47074,731163,153405,108621
+7a61f5cf-ffa0-43fa-9ba1-29ba14f409b6,Sara Macedo,27,3,4,3,5,5,4,4,5,2,Belo Horizonte,Orçamentista,Viúvo,17,6,Próprio,True,33170,691127,1161285,105751
+3639d81b-b14b-44ec-9205-1dadb02b0111,Nicolas Cardoso,69,4,4,3,5,1,3,2,5,2,São Paulo,Windsurfer,Solteiro,3,3,Alugado,False,24140,171617,1468697,224379
+1ccd42b1-e8c3-4130-82d9-4a91eb4ace3a,Vitor Gabriel Fernandes,43,3,2,4,4,2,3,1,2,4,Belo Horizonte,Árbitro e mediador,Divorciado,10,3,Alugado,True,33047,996338,1749911,191591
+9c9cc126-f648-44bc-9706-4ac90f016888,Theo Abreu,61,4,3,4,5,4,4,3,5,4,Recife,Cadeirinha,Divorciado,18,4,Alugado,True,19263,853693,1682271,302910
+22a63128-b681-451c-8ad3-3a7d340fa829,Sra. Catarina Cardoso,36,3,1,1,3,4,2,3,1,4,Manaus,Guitarrista,Casado,18,4,Próprio,False,35985,973927,700035,450231
+b5a51bb8-690d-466f-b6dd-d9b95965cc57,Caio Novais,25,2,1,4,2,4,4,4,2,5,Porto Alegre,Engenheiro mecânico,Divorciado,0,5,Próprio,True,17869,718080,1839906,141185
+e1b00623-b68d-4d90-8fc8-8a3a5dce5cd5,João Vitor Teixeira,73,2,1,2,5,1,3,4,3,1,Belo Horizonte,Moleiro,Casado,6,3,Próprio,False,37051,898661,1446140,490166
+0bffd71e-49c7-49cf-b143-87ce7a38ab03,Laura Casa Grande,72,1,3,3,4,5,4,2,3,1,Vitória,Ilustrador,Divorciado,20,1,Próprio,True,14343,241359,1362582,320321
+8d2a8934-952f-4b7b-9d0b-44d1836c3ed4,Júlia Fonseca,51,2,1,3,4,5,2,2,2,4,Belém,Tecnólogo em navegação fluvial,Casado,1,5,Próprio,False,5196,752634,1934683,206940
+5e3ab9ce-cc89-4dd2-b13d-f21096add66a,Diogo Andrade,49,4,4,1,4,2,4,2,2,5,Salvador,Empregado doméstico,Casado,0,1,Alugado,True,10931,28381,1723242,497627
+9e4ff4e0-e295-4a31-9ae1-5b5d5f427570,Lucas da Cunha,71,1,5,3,5,3,2,4,3,5,Porto Alegre,Impressor,Casado,6,4,Próprio,False,2503,992997,1656715,267129
+5890bf94-5510-4cee-a9d5-1463a865b6c1,Sr. Ravi Lucca Souza,28,5,5,4,4,1,2,4,1,3,Belém,Engenheiro agrícola,Divorciado,19,3,Próprio,True,2574,589605,776935,480891
+be859c5f-a5c2-4ce7-a88f-6b8daa84a5bf,Apollo Barbosa,44,3,5,1,1,2,2,3,5,3,Florianópolis,Gandula,Solteiro,18,2,Próprio,True,43800,933231,1834210,479
+1a566b1c-4b61-43a9-800d-64cf1a1f5105,Jade Sá,22,1,3,3,4,1,4,3,5,1,Recife,Dançarino,Solteiro,6,5,Alugado,False,17730,669051,142895,32113
+a7c5fb63-5e9d-43c2-b9f9-5a491a173e02,Maria Julia Leão,36,1,3,2,1,3,4,4,5,3,Rio de Janeiro,Arrumadeira,Casado,10,2,Alugado,False,34754,677093,455588,250248
+df330f16-c659-43de-8d78-680fb88ba5fa,Davi Lucca Vieira,37,4,3,3,5,1,2,1,5,1,Rio de Janeiro,Karateca,Viúvo,16,3,Próprio,False,30319,115332,1021435,440818
+cec174d1-a2b4-4818-a4cb-5630e3cea33f,Henry Gabriel Mendonça,70,4,5,3,1,1,5,1,2,4,Florianópolis,Bailarina,Solteiro,12,5,Alugado,False,46988,107825,914214,48973
+a53afb27-7935-4010-b66b-e5b0a0e6f55d,Luiz Henrique Sampaio,24,3,5,4,4,5,4,1,1,5,Manaus,Tapeceiro,Viúvo,12,4,Próprio,True,44515,208882,335190,216962
+dc00e13f-74bb-41fb-9fdf-db2b1f7e7677,Henry Pastor,22,4,1,3,1,3,5,2,3,2,Curitiba,Prático,Divorciado,20,5,Alugado,False,28655,343040,922184,369931
+4ef3bdd4-3fb4-4184-933b-a154ec650867,Sr. Murilo Duarte,27,5,3,2,3,2,2,5,5,5,Belo Horizonte,Rebarbador de metal,Divorciado,5,4,Próprio,True,7177,490864,1898806,407254
+11ce9b9d-ebcb-4ae9-8a9a-ee5167c56277,Henrique Martins,62,4,3,5,1,1,3,5,3,4,Salvador,Bartender,Viúvo,19,2,Alugado,True,1423,158990,1654009,270238
+d640baaf-bd94-4b0a-a962-6795f4bd77d3,Cecilia Pires,39,2,2,4,2,4,4,4,5,5,Florianópolis,Corregedor de justiça,Casado,8,3,Alugado,False,49408,744615,128408,86301
+b7a2be85-f847-4f9d-9633-0167d8754779,Raquel Pacheco,38,2,5,3,3,4,1,2,1,5,Fortaleza,Profissional de informática,Casado,0,5,Próprio,True,48320,883289,16720,334972
+72eb7786-6e86-49b0-a04a-4d0f58784575,Cecília Pinto,47,2,5,2,4,4,4,4,1,1,Campo Grande,Engenheiro de supply chain ou logística,Divorciado,4,3,Alugado,False,43760,528434,1932613,204438
+09a0c576-7f61-4b9a-8ab8-fbb277f534e4,Josué Sá,30,1,5,1,1,4,1,2,1,1,Vitória,Chaveiro,Casado,8,2,Alugado,False,45245,304367,1025213,113564
+117e5629-4fc5-4c21-9e0f-cd721a219546,Sra. Maria Eduarda Araújo,74,1,3,4,4,4,1,5,4,1,Belém,Alergologista,Viúvo,3,4,Próprio,False,23928,809375,836262,211097
+c553d8be-88fd-47c0-a335-f21b78307822,Clara Freitas,67,4,4,3,1,5,5,4,5,2,Porto Alegre,Atendente,Divorciado,8,1,Alugado,False,10983,169320,1963288,432076
+da39fc6c-190f-4ed3-a300-f1fbe6a755a6,Anthony Andrade,71,3,2,4,3,2,4,5,2,2,Belo Horizonte,Orientador educacional,Solteiro,18,1,Próprio,True,41879,737589,27861,240467
+8ed0c9bb-e007-4d1f-8d2b-dc709153604d,Dr. Arthur Gabriel Castro,19,3,3,4,2,4,1,1,3,4,Florianópolis,Pedagogo,Solteiro,2,3,Alugado,True,3874,72606,832496,371635
+fc9afc2d-d8b7-4a9c-9684-6c44f77463cd,Nathan Cirino,71,2,4,1,1,5,1,2,4,3,Recife,Papiloscopista,Casado,8,4,Próprio,False,37458,963131,1790738,106591
+2085a815-ad88-4e12-9e18-6ae2893dee4b,Pedro Lucas Costela,32,3,3,5,5,2,3,4,1,5,Belo Horizonte,Coveiro/Sepultador,Solteiro,9,5,Próprio,False,38364,95724,1715894,132198
+04f95796-5bac-4402-b8b3-d2b6d11b5f76,Erick Almeida,42,2,5,4,4,3,2,2,1,2,Rio de Janeiro,Árbitro e mediador,Viúvo,4,6,Próprio,False,24911,153357,1633010,271815
+be42d5fb-06bc-4254-a514-e8efc25fb556,Dr. Davi Miguel Borges,27,3,4,5,3,3,5,2,4,2,Curitiba,Engenheiro de horticultura,Solteiro,1,1,Alugado,True,36789,410122,1392657,26020
+8f484d31-4f1c-4c79-bb57-f2e11600a479,Daniela Cunha,23,3,4,1,3,1,5,1,5,3,Curitiba,Cartunista,Casado,4,4,Alugado,False,43709,212775,1530151,29894
+a783cf9e-b99b-45af-97ac-9f369653c7e1,Dra. Ana Luiza Teixeira,74,2,2,3,4,2,4,5,2,1,Rio de Janeiro,Datilógrafo,Solteiro,1,6,Alugado,True,35493,860624,1248201,308619
+cbb1c713-f555-48fc-922c-71aa9c0c8bde,Dante Montenegro,33,1,5,4,5,1,1,3,5,1,Belo Horizonte,Engenheiro acústico,Casado,10,6,Próprio,True,22961,570168,1847131,494574
+c6562c71-1377-411b-8d25-ce5910840dc2,Dr. Arthur Mendonça,56,2,5,1,5,2,1,3,2,4,Salvador,Radialista,Viúvo,2,2,Próprio,False,12166,559718,1921389,336958
+31487ba9-acfd-4746-afb3-8a026ae201e2,Ana Liz Sampaio,19,5,1,2,2,4,5,1,3,5,Curitiba,Garçom,Viúvo,8,4,Alugado,False,48042,230988,154455,434219
+4e5e632f-b887-4be0-9d0c-8701d02ee84d,Marcela Martins,73,1,1,3,5,2,2,1,5,4,Fortaleza,Ginasta rítmica,Casado,19,4,Próprio,True,7203,584790,1225847,65426
+2a767774-ac5c-4bd4-a085-521ce43ec2ce,Melina Fogaça,65,3,2,4,5,2,4,4,3,1,Florianópolis,Almoxarife,Solteiro,12,4,Próprio,False,46225,908878,206136,266908
+6399406b-8092-4d81-8536-a8b21b9699e1,Emanuel Fogaça,49,4,4,2,5,5,2,4,2,4,Recife,Neurocirurgião,Divorciado,0,1,Próprio,True,31139,969218,842044,90123
+bd8deca0-8371-4e46-98ae-a43633833210,Joaquim Moreira,55,2,2,4,4,4,4,5,5,1,Manaus,Bioquímico,Casado,14,6,Próprio,True,26898,856710,681290,88608
+14f60acb-f2bb-43de-8946-1f71f0ae3c3b,Larissa Siqueira,29,5,5,5,5,1,4,3,5,5,Porto Alegre,Taxidermista/Embalsamador,Divorciado,18,5,Alugado,True,22198,357982,1305449,249886
+2a14321a-dc04-42c3-973d-b296b3dadaf3,Ana Clara da Cunha,48,4,2,4,3,5,4,4,3,1,Recife,Otorrinolaringologista,Casado,17,3,Alugado,False,2921,969175,151917,481535
+e7ba4581-dba6-4043-8af6-2c68a6d717b4,Liam Costela,63,3,1,4,1,4,3,4,5,5,Porto Alegre,Juiz de futebol,Solteiro,4,5,Próprio,False,23997,840362,194642,280170
+4fffd4ca-a2d4-4879-b9f3-ecf41c005a8f,Léo da Mata,52,4,1,1,3,5,4,1,1,3,Florianópolis,Taxidermista/Embalsamador,Solteiro,0,6,Alugado,False,18679,623237,1476407,334808
+6cdf13eb-f681-48fb-825f-e3fd8cebddc4,Otávio Rodrigues,29,5,4,5,4,3,4,1,2,1,Florianópolis,Estofador,Casado,18,2,Alugado,True,7663,766599,1839597,78604
+6511cf6c-ff50-4adb-a811-c88661490ae7,Cauã Guerra,39,1,1,5,4,1,4,3,2,5,Florianópolis,Afiador de ferramentas,Solteiro,12,6,Próprio,True,12872,169922,476183,446159
+694bef4f-481b-4455-8716-018284c32934,Dra. Cecília Cavalcanti,30,4,5,2,1,5,1,4,2,1,São Paulo,Coloproctologista,Viúvo,20,2,Alugado,True,18149,823652,362306,474322
+a129d128-2408-453c-8c15-a18d89f6c9be,Luiz Fernando Sampaio,42,4,2,3,5,4,3,2,4,3,São Paulo,Podólogo,Divorciado,15,6,Alugado,False,20993,410022,1983983,347783
+883f1310-b385-45ba-975d-23a0513dab79,Caio Vasconcelos,79,5,3,4,4,3,1,4,5,4,Florianópolis,Engenheiro naval,Casado,11,6,Próprio,False,25423,229501,533485,173175
+b508fb73-51bc-4ec3-9adf-a57984d8b268,Rael Fogaça,64,1,3,4,4,5,5,4,3,5,Porto Alegre,Ferreiro,Divorciado,16,2,Próprio,True,44342,985429,1943701,185164
+e8f3fa43-23ca-4a14-b372-850052acb5ad,Yan Moraes,59,5,4,2,4,4,2,4,4,3,Recife,Nutricionista,Divorciado,7,2,Alugado,False,31982,382644,1100008,246939
+a23e3517-11a2-46cb-87ac-37aef93cb7fe,Leandro Garcia,18,5,5,3,2,2,4,5,5,2,Belém,Protético dentário,Divorciado,9,2,Próprio,False,36099,33212,746651,12467
+8b1ff582-1372-4797-844b-5eacb7905e6d,Sra. Letícia Pastor,66,3,3,1,3,1,5,2,5,3,Salvador,Assistente de produção,Viúvo,5,6,Alugado,True,31007,206646,587966,90290
+e1b13d1e-8d77-4954-bd33-1b89a8280972,Isaque Sá,76,5,2,5,1,4,4,2,4,2,Vitória,Açougueiro,Divorciado,8,6,Próprio,True,16839,589538,1940654,14982
+c95b1af6-a109-4fa5-9801-e942787f9cea,Cauã Azevedo,22,4,2,3,5,3,1,3,1,2,Goiânia,Tecnólogo em rochas ornamentais,Solteiro,9,3,Alugado,True,37852,98789,653581,109952
+d5351dfb-059c-448f-b844-d2b69f3de176,Sarah Abreu,39,2,1,2,4,5,3,2,2,4,Manaus,Digitador,Divorciado,6,1,Alugado,True,10321,250610,1377452,184860
+da61ba8e-58af-43c7-92f7-0afef70c048d,Sr. Benjamim Nascimento,54,1,3,2,4,3,2,4,3,2,Recife,Corredor de atletismo,Viúvo,12,2,Próprio,True,46344,53595,1098011,190566
+3f547971-eac2-4712-82cd-eba6a560fa67,Ana Clara Nogueira,49,2,5,2,5,3,3,3,3,1,Curitiba,Artista/Técnico em espetáculos de diversões,Viúvo,1,5,Alugado,True,22245,98321,164400,249894
+9d97a3c4-ccdb-456e-adec-b5f609421590,Liam Cardoso,60,3,3,3,3,2,4,1,4,2,Fortaleza,Economista,Casado,17,1,Próprio,False,14093,259470,927490,131166
+edfe34cf-0594-419b-a41a-01d81c770edb,Valentina Caldeira,42,1,2,1,3,4,3,4,2,4,Curitiba,Pneumologista,Solteiro,5,4,Alugado,False,35453,124285,1071988,410798
+c7673f11-4d04-48c9-9de6-2ed00db8debc,Theo Fernandes,59,4,4,2,1,5,5,1,4,5,Porto Alegre,Jogador de tênis de mesa,Solteiro,19,4,Alugado,True,16392,967780,1297018,313373
+7ab56d4d-3ebc-41f0-8a13-3a648b3e0a70,Yan Viana,39,1,4,4,1,3,3,1,3,5,Vitória,Crítico,Casado,4,6,Próprio,False,15913,709570,1685751,52406
+94524a16-c4ff-4da3-aa74-88ca46cc51f4,Enzo Ramos,78,2,2,3,2,5,5,5,1,3,Recife,Bioquímico,Divorciado,2,6,Próprio,True,4747,152305,774472,318665
+0db8cadc-79db-4497-a7df-d519eb4912fc,Aylla Sales,70,2,4,3,3,1,2,5,2,2,Rio de Janeiro,Assistente administrativo,Casado,8,2,Próprio,False,25319,463012,793974,244610
+a8536744-a823-4a3b-aa10-e40d5d3487e4,Alana Silveira,29,5,5,1,1,3,3,5,1,3,Belém,Geriatra,Divorciado,6,1,Alugado,False,17300,457051,1851643,322456
+2709376d-664b-46fb-a86a-8f5ec7ef4a47,Eduarda Mendes,41,2,1,1,2,5,4,4,1,1,Brasília,Serralheiro,Solteiro,13,2,Alugado,False,40646,132652,817526,473563
+8978ad25-66c1-4a12-b069-e28bdb1df902,Raquel Moura,68,3,1,4,2,2,5,1,4,2,Belém,Gerente de inovações ou novos negócios,Solteiro,1,6,Próprio,True,41537,163179,328688,51354
+4389429d-ee43-4c27-a551-fa22a8e55e8f,Ana Laura Borges,55,5,2,4,5,1,3,4,2,4,Salvador,Artesão,Viúvo,3,1,Próprio,True,38019,538805,1431190,236569
+3a6575d6-bdee-46d8-b0a2-23e19f85d7f3,Elisa Silveira,49,1,4,3,3,5,5,1,3,2,São Paulo,Engenheiro de processos,Divorciado,8,3,Alugado,True,12637,6163,274584,406907
+efc6cef1-74fe-4a65-867b-9a8840730c64,Dr. Brayan Leão,59,4,5,2,5,4,5,5,1,2,Goiânia,Pintor,Divorciado,20,3,Alugado,True,39957,331568,1054865,209592
+f76d8230-2f72-4161-a5ea-e97fb130c88a,Samuel Ferreira,46,4,1,2,1,3,1,5,2,3,Salvador,Petroleiro,Viúvo,11,3,Alugado,True,16734,827124,889117,284008
+d99bc9ae-46b7-43df-83ec-5ab52e507689,Lucca Ferreira,50,1,1,1,2,5,2,4,2,1,São Paulo,Numerólogo,Divorciado,3,2,Alugado,False,25595,63026,210868,285994
+5280d1a3-7f61-4870-bb02-9d36a5f9e43d,Sr. João Miguel Moraes,37,2,2,1,1,2,5,5,2,3,Florianópolis,Empregado doméstico,Casado,5,1,Alugado,True,45047,405521,1096751,63731
+9f6c824b-f107-4cab-a12f-84dd3b2bd1cb,Mateus Siqueira,64,4,2,4,1,2,5,5,1,4,Porto Alegre,Capitão,Viúvo,19,1,Próprio,False,43468,509704,898442,252781
+ffd7325a-fbcb-4f8d-9a3a-e6417b339ceb,Elisa Santos,29,1,1,1,3,2,1,3,1,1,Fortaleza,Perito criminal,Solteiro,14,1,Próprio,True,18628,587861,765846,456844
+051fa9d2-f447-484c-a0b2-c062b224b0cf,Sr. Vinícius Leão,68,1,5,5,3,1,2,2,4,1,Recife,Jogador de golfe,Divorciado,2,1,Alugado,False,43112,318696,758764,136074
+041df498-64ef-4a8c-9587-daf6f942c0c5,Ayla Farias,77,3,4,5,4,2,5,4,3,3,Salvador,Meeiro,Solteiro,19,2,Próprio,False,33670,82048,495614,230262
+9dbc78a3-4dfb-4dab-a28e-6df251a55237,Catarina Almeida,46,1,5,5,4,2,4,2,5,3,Salvador,Separador,Solteiro,4,6,Próprio,False,29876,570323,458770,492807

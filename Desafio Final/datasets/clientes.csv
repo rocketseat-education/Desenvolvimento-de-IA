@@ -1,0 +1,1001 @@
+ID_Cliente,Nome,Idade,Viagens,Restaurantes,Entretenimento,Cashback,Compras online,Farmácias,Programas de Milhagem,Postos de Combustível,Mercados,Cidade,Cargo,Estado Civil,Tempo na Empresa,Pessoas em Casa,Moradia,Possui Carro,Renda,Investimentos,Ativos,Dívidas,Probabilidade Inadimplencia,Score,Principal Cartão
+bc3749c2-932f-462b-a71e-d1a352510f67,Nicole Lopes,32,5,4,2,4,5,3,1,2,4,Brasília,Engenheiro agrônomo,Divorciado,4,2,Próprio,True,34118,631262,55649,294254,0,232,Rocketseat Mastercard Travel Elite
+981dffc4-087e-4a99-bbac-062944f9b5a7,Kevin Teixeira,42,1,4,5,1,4,1,5,3,5,Campo Grande,Psicólogo,Divorciado,18,2,Alugado,True,7338,376417,1777324,180331,87.0,27,Rocketseat Mastercard Life Basic
+242f4e94-7f2a-4557-a27a-9227cca55e83,Augusto Sá,67,4,3,4,3,2,3,3,2,3,Goiânia,Intérprete de Bíblias,Solteiro,19,6,Alugado,True,19965,83667,1793731,122049,78.45,57,Rocketseat Mastercard Travel Basic
+e6f16b89-d9bf-4448-9d08-65957cdc1fb3,Ágatha Moura,47,2,3,1,2,1,3,4,3,1,Porto Alegre,Engenheiro de projetos,Divorciado,6,6,Próprio,False,25867,283060,1940685,335544,85.21,32,Rocketseat Visa Travel Basic
+79b7f5b0-e754-4cd9-9150-ed5913fef23a,João Rios,27,3,5,4,5,4,3,2,2,5,Fortaleza,Cantor,Solteiro,1,1,Alugado,True,18359,146413,517215,390588,89.12,0,Rocketseat Visa Life Basic
+c403b04d-6f51-4374-b367-1adce70cdafb,Juliana Sales,56,5,3,5,1,1,5,3,3,1,Curitiba,Tecelão,Viúvo,5,4,Alugado,False,5163,403457,800313,312417,82.44,0,Rocketseat Mastercard Travel Basic
+fd42f59f-18f3-428a-8e04-83263518946a,Sra. Brenda Almeida,50,5,5,2,2,3,2,5,5,1,Manaus,Babysitter,Divorciado,15,1,Alugado,False,7973,912804,1311349,156471,78.36,74,Rocketseat Visa Travel Basic
+e1a94ba9-8c52-4bc0-a7c5-6ea6ab430f6e,Lavínia Rios,33,1,4,1,5,2,2,4,5,2,Curitiba,Astronauta,Viúvo,6,5,Alugado,False,4796,252572,1841319,297458,93.47,4,Rocketseat Visa Life Basic
+bb3e64ba-c46b-4ce7-a915-a5ac5d25fb3e,Rhavi Rezende,60,1,2,2,1,3,1,5,5,2,Manaus,Ferramenteiro,Casado,0,1,Alugado,True,43590,391559,918762,471656,76.12,43,Rocketseat Mastercard Travel Basic
+11278877-2221-4c1c-842a-d8fe968f295e,Otto Correia,75,3,4,2,5,2,5,5,4,2,Florianópolis,Garimpeiro,Viúvo,13,2,Alugado,True,3058,901393,692958,37149,59.74,135,Rocketseat Visa Life Select
+079ecdbc-3952-4672-a9da-793eeddf071e,Luiz Henrique da Rosa,40,1,1,4,3,1,2,2,2,5,Fortaleza,Contábil,Casado,13,2,Próprio,False,28759,431071,979421,452899,83.46,16,Rocketseat Mastercard Shopping Basic
+c5410ecf-e631-4445-9ff3-048fe0d184a0,Maria Alice Souza,73,1,1,5,1,1,2,2,4,4,Fortaleza,Assessor de imprensa,Casado,12,1,Alugado,False,5940,464656,1694545,451594,81.14,0,Rocketseat Mastercard Life Basic
+8338b19c-b5d0-4530-bfd1-994a324daaa2,Lucas Gabriel Pacheco,42,4,5,4,2,2,3,2,1,5,Goiânia,Lanterneiro,Solteiro,10,1,Alugado,False,18380,971524,1644315,411633,80.35,54,Rocketseat Mastercard Life Basic
+1ff4ec82-dad9-4e58-91c8-85a3421c3a67,Otto Vasconcelos,21,1,2,4,1,5,2,5,5,1,Manaus,Intérprete e tradutor de língua de sinais,Solteiro,13,6,Próprio,False,34281,84002,1785394,97425,78.77,85,Rocketseat Mastercard Shopping Basic
+d1ec4453-a04a-4db8-a923-14e4693c9a80,Laura Câmara,60,3,4,3,1,1,4,5,5,1,Rio de Janeiro,Meeiro,Casado,16,3,Alugado,False,47936,329445,500560,139258,61.74,161,Rocketseat Mastercard Travel Select
+0b0d5683-5c9f-453c-b773-d4014569c405,Alexia Fonseca,74,5,3,5,5,1,5,3,1,2,Curitiba,Lavador,Solteiro,3,6,Alugado,False,17009,387477,597661,82704,63.73,89,Rocketseat Visa Travel Basic
+fd551ee1-0d40-418c-a242-0c7c80d49af7,Dra. Bella Pires,56,3,5,4,3,1,1,4,3,1,São Paulo,Cancerologista ou Oncologista,Divorciado,4,6,Próprio,True,14803,752470,719072,106743,66.43,111,Rocketseat Visa Life Select
+1e0a0bfe-3cf2-4ffe-a737-569ec4ff2b19,Carolina da Conceição,53,2,5,1,3,5,5,2,4,2,São Paulo,Ambientalista,Divorciado,11,1,Próprio,True,47246,448462,1176306,5069,27.4,455,Rocketseat Mastercard Life Platinum
+c2ef7da9-d344-4327-ba3a-f69d800e8ef3,Léo da Costa,60,4,5,2,2,2,2,4,1,2,Goiânia,Almoxarife,Divorciado,13,6,Alugado,False,7736,370858,1636022,293540,84.48,16,Rocketseat Mastercard Life Basic
+ed50b835-ff0e-4a61-b91d-1e99bf46a7ac,Heitor Gomes,68,4,2,2,4,3,3,2,2,1,Belém,Jogador de basquete,Casado,12,3,Próprio,True,46958,113346,802248,457266,75.49,30,Rocketseat Visa Travel Basic
+f0b7dc25-7e63-45e9-8a61-5ee68989e08c,Thales da Costa,40,5,3,1,1,3,2,5,3,1,Rio de Janeiro,Barman,Viúvo,11,6,Próprio,False,43040,534150,838186,356263,78.88,64,Rocketseat Mastercard Travel Basic
+90b27b6b-c6e9-43d7-b52e-4cf423f6251f,Maria Vitória Costa,42,1,5,5,2,3,4,1,3,5,Brasília,Escoteiro,Solteiro,9,5,Próprio,False,38787,199312,534191,23271,49.95,203,Rocketseat Visa Life Elite
+1b85fd13-91da-40cd-8178-6dc4188b890a,Luísa Pereira,43,4,2,5,5,3,4,5,1,3,Curitiba,Gerente de riscos em seguros,Casado,13,5,Próprio,False,46692,310016,1162687,66735,61.51,204,Rocketseat Visa Life Elite
+1d61573d-ee53-4194-bcf6-8f1f322697cc,Maria Júlia Azevedo,46,2,1,3,5,5,3,1,2,3,Porto Alegre,Parteira tradicional,Casado,4,1,Alugado,True,45277,224082,1072009,248085,80.07,67,Rocketseat Visa Life Basic
+00b39468-1b9f-4862-8eef-5449413be817,Rafaela Casa Grande,57,2,4,4,4,2,2,1,1,4,Porto Alegre,Produtor de multimídia,Casado,16,4,Alugado,True,5772,477538,869145,464590,79.92,0,Rocketseat Mastercard Life Basic
+4a3ea749-6dd0-472a-8d18-6534583f813c,Emanuelly Gomes,47,5,5,3,4,5,5,4,5,4,Campo Grande,Restaurador,Casado,15,4,Próprio,True,9738,840346,974427,350002,76.35,35,Rocketseat Visa Travel Basic
+5988ceb9-8b4d-4f6b-a2cf-07ccf3ed131e,João Vitor Viana,67,1,3,2,3,3,3,5,1,2,Belo Horizonte,Office-boy,Casado,12,6,Alugado,True,35163,508136,1314386,125433,65.69,160,Rocketseat Mastercard Travel Select
+a8568d3e-ebcb-41fe-84bc-976e30aa176e,Aurora Santos,44,2,4,4,5,1,5,4,4,1,Brasília,Estampador de tecidos,Divorciado,12,4,Alugado,False,27712,346954,1137938,244278,80.39,48,Rocketseat Mastercard Life Basic
+bd97cf4b-d5d3-4691-8498-4efd539a9b52,Mariah Mendonça,35,4,2,4,2,5,5,1,4,5,Manaus,Biomédico,Solteiro,2,6,Próprio,True,29562,509232,60869,203873,0,232,Rocketseat Visa Shopping Elite
+fa28aa7d-1181-4af6-9e01-0fb9705a3888,José Miguel da Luz,29,3,3,4,3,4,3,1,4,1,Goiânia,Geógrafo,Solteiro,11,2,Alugado,True,4295,272793,795038,171627,87.2,7,Rocketseat Mastercard Life Basic
+106e11b1-0a92-43f5-94b2-1e33fe819014,Mariah Fogaça,78,2,2,4,1,5,2,4,3,3,Belo Horizonte,Coronel,Solteiro,5,3,Alugado,True,17205,209044,1759990,10684,44.81,203,Rocketseat Visa Shopping Elite
+5347cec2-1749-4ae2-875b-d20222b6bc85,Augusto Fogaça,54,2,1,5,2,1,3,5,1,5,Florianópolis,Químico,Solteiro,11,5,Próprio,False,45390,952134,787075,207961,62.31,211,Rocketseat Mastercard Life Elite
+4aae47fd-5f89-4ee4-bf4e-ceb3134e6ef0,Thiago Araújo,50,4,1,4,3,4,2,4,2,5,Belém,Servente-de-obras,Divorciado,19,5,Próprio,False,43437,357806,26533,445422,0,101,Rocketseat Visa Shopping Select
+12b96c95-ec19-41aa-9766-c747ec81b3f4,Sr. Matteo Sá,70,1,3,4,2,4,5,5,4,3,São Paulo,Gestor ambiental,Viúvo,10,2,Próprio,True,48908,621254,562866,168980,56.73,216,Rocketseat Visa Shopping Elite
+b26fb5fd-2eaf-4672-ba03-bd6daff65fbe,Henry Gabriel Leão,69,3,5,1,5,2,1,2,4,4,Recife,Tecnólogo em geoprocessamento,Casado,15,6,Próprio,False,17931,356871,586486,461541,74.36,0,Rocketseat Mastercard Life Basic
+6560f155-6165-4252-8eff-4be570a36d3f,Rael Nunes,23,5,3,4,5,5,3,4,5,3,Brasília,Instalador de linha telefônica,Viúvo,8,3,Próprio,True,20283,232360,848090,362695,88.18,3,Rocketseat Mastercard Travel Basic
+b183a890-d074-40ca-ba36-55a3b914129d,Srta. Olivia Pinto,64,2,2,2,4,3,5,5,5,3,Rio de Janeiro,Viveirista,Casado,9,2,Próprio,True,13621,330876,250724,389483,64.86,0,Rocketseat Visa Shopping Basic
+fd0da1c4-5fa4-429b-9ead-9536b97c1eae,Dr. Samuel Castro,18,1,5,3,2,4,1,1,5,3,Fortaleza,Toxicologista,Viúvo,14,3,Alugado,True,47400,560081,265463,143818,49.21,233,Rocketseat Visa Life Elite
+38908a97-515e-427f-8f84-e76fe9e0d2bd,Alice Barbosa,78,1,5,1,2,2,5,3,1,2,Rio de Janeiro,Pescador,Viúvo,19,5,Alugado,False,32308,119629,1724101,34258,52.34,209,Rocketseat Visa Life Elite
+72336249-5750-4b2c-81d6-1f75274ef27c,Diogo Gomes,76,3,5,5,1,5,1,2,2,3,Belém,Coloproctologista,Solteiro,5,2,Alugado,True,30014,311797,1803900,308556,78.04,59,Rocketseat Mastercard Life Basic
+306c4e29-5266-4e92-af15-3d0ea5e11993,Daniel Sampaio,18,1,2,3,3,4,1,2,3,5,Belém,Médico cirurgião,Casado,13,1,Alugado,True,27772,472387,1445716,311328,88.03,31,Rocketseat Visa Shopping Basic
+b7d13625-5629-4ee9-a750-6e34cb455e5e,Ester Macedo,70,5,5,3,4,1,4,3,4,3,Recife,Estofador,Viúvo,14,1,Alugado,False,10321,74878,125070,86991,71.12,14,Rocketseat Visa Travel Basic
+4830d1f3-bb87-48af-8daf-9ded118645e6,Cecília Jesus,56,5,5,1,3,5,1,2,4,5,Belém,Vistoriador de sinistros,Viúvo,8,2,Próprio,False,17408,27121,191526,120022,81.09,13,Rocketseat Mastercard Travel Basic
+8c105020-069c-4516-932f-2b6418d9f8a4,Manuela Farias,48,2,3,4,4,3,4,5,1,4,Rio de Janeiro,Letrista,Divorciado,8,3,Alugado,False,23803,428184,698998,168326,74.73,64,Rocketseat Mastercard Travel Basic
+1db65cd7-9464-450e-b27b-48d9bdfd207b,Elisa Cassiano,60,3,5,4,4,1,2,3,5,2,Campo Grande,Odontologista estético,Divorciado,14,6,Próprio,True,36559,484417,866642,28418,43.79,282,Rocketseat Mastercard Life Elite
+ae7bee77-3904-498f-b8d4-d63545b21001,Brayan Correia,80,3,5,1,5,4,1,2,1,4,Rio de Janeiro,Ciclista,Casado,15,6,Próprio,False,42289,638448,1676282,125460,62.71,223,Rocketseat Visa Life Elite
+6aeeaf8e-dc72-4e62-b8a9-b7e08fbc582b,Arthur Alves,71,4,2,5,5,2,1,3,4,3,Campo Grande,Seguidor de compras,Divorciado,0,3,Próprio,False,32621,495158,511140,239487,63.28,99,Rocketseat Mastercard Life Basic
+5d582719-79c1-4e0e-8a42-c732757d1553,Beatriz Ribeiro,46,5,4,4,3,2,2,5,4,2,Vitória,Balconista,Viúvo,1,3,Próprio,False,36296,507868,723777,174294,70.39,111,Rocketseat Visa Travel Select
+b69794b1-930e-48e4-9467-73b30bff3dab,Theodoro Silveira,60,5,3,1,4,1,5,4,1,2,Salvador,Tecnólogo em desenvolvimento social,Casado,2,4,Próprio,False,43730,159493,1038779,19408,41.77,283,Rocketseat Visa Travel Elite
+7cc0bec4-0580-4b5f-92aa-97120c0a7e36,Erick Carvalho,59,5,4,3,4,5,1,5,1,2,Belém,Instalador de painéis,Divorciado,7,6,Alugado,False,6263,893140,689051,446872,68.35,9,Rocketseat Mastercard Travel Basic
+aa527587-fe5a-4779-b44c-6af2ee217c1c,Gabriel Nogueira,66,3,1,1,3,1,3,3,3,4,Belo Horizonte,Delegado,Casado,16,4,Alugado,True,42533,738083,1829931,52694,52.87,331,Rocketseat Mastercard Shopping Elite
+bb6090a1-706d-4ac8-ae55-2625849180b2,Alexia Duarte,23,4,5,2,2,4,3,4,3,1,Campo Grande,Violonista,Viúvo,9,6,Alugado,True,40943,913141,802253,324906,73.88,110,Rocketseat Visa Life Select
+5e245ced-f46e-47c9-b03a-a7ba8cbfbe08,Sr. Gabriel Pereira,78,3,4,3,2,4,4,1,2,4,Manaus,Mestre cervejeiro,Divorciado,18,3,Próprio,True,23646,616113,627371,334987,66.62,56,Rocketseat Visa Life Basic
+6779031d-2720-4b08-9b27-6be5e5719d4a,Dante Sá,35,1,5,4,3,2,5,3,2,2,Manaus,Vistoriador de sinistros,Divorciado,4,6,Alugado,True,1530,593419,1814177,359556,89.98,8,Rocketseat Visa Life Basic
+189e5fe9-900c-4ad0-afbc-64f3b09c0666,Ana Júlia Abreu,68,1,3,3,4,2,2,2,5,3,Recife,Aeronauta,Divorciado,5,3,Próprio,False,29889,34985,1215454,191292,78.12,48,Rocketseat Visa Shopping Basic
+4c3045e5-ac51-475a-a50e-ee2c552fdeac,Maria Eduarda da Rosa,69,2,4,5,3,1,4,1,3,5,Rio de Janeiro,Jogador de basquete,Viúvo,11,6,Próprio,False,8547,491081,157914,73797,33.65,114,Rocketseat Visa Life Select
+b6b988fc-e9e0-47f1-8c79-7861b78efc08,Matheus Marques,24,5,3,5,2,1,4,3,4,1,Belo Horizonte,Capelão,Solteiro,1,3,Próprio,True,45226,245180,988758,13120,46.87,278,Rocketseat Mastercard Travel Elite
+9ceefcac-eb75-43b3-8b3a-5a6591826aa8,Stephany Azevedo,33,5,4,5,2,4,1,4,5,4,Curitiba,Telegrafista,Solteiro,11,2,Próprio,False,36228,142254,815049,237839,83.06,38,Rocketseat Mastercard Travel Basic
+d8b62e13-5614-459d-acf7-c49e902a651c,Dr. Oliver Teixeira,72,3,1,4,3,2,1,4,1,2,Belém,Faxineiro,Solteiro,1,3,Alugado,True,24768,104180,1437975,192589,76.8,51,Rocketseat Mastercard Life Basic
+5f54b18d-a4dc-490e-bdf2-88f85f59447d,Otto da Luz,22,2,3,2,5,1,3,2,2,5,Curitiba,Museólogo,Casado,3,6,Alugado,True,37320,217220,1229734,113220,81.04,75,Rocketseat Mastercard Life Basic
+bf0a84e8-16f1-4145-879f-c74fc6f12539,Dra. Brenda Rodrigues,40,1,2,4,5,1,1,4,4,3,Recife,Assessor parlamentar,Solteiro,14,5,Alugado,True,16593,617457,678997,8273,37.19,238,Rocketseat Visa Life Elite
+e826772c-bda4-42d8-bd65-898def71e593,Marcela Cirino,47,4,1,4,4,1,1,3,5,2,Rio de Janeiro,Meteorologista,Casado,8,5,Próprio,False,43161,32663,127560,251124,79.85,34,Rocketseat Visa Shopping Basic
+81d02192-2261-4aa9-960d-03dd008f8034,Sra. Maria Camargo,47,1,5,2,4,4,2,4,3,4,Salvador,Juiz de futebol,Viúvo,3,3,Próprio,False,34131,634836,902193,51998,57.88,216,Rocketseat Visa Life Elite
+5d23690d-7d91-44f7-984a-10a26f3aa2cd,Sra. Isabela Casa Grande,41,1,1,4,1,3,2,5,1,5,Recife,Massoterapeuta,Divorciado,3,4,Próprio,False,11003,720184,1935639,248652,81.96,54,Rocketseat Mastercard Travel Basic
+99036673-4394-4789-9bd7-21ce6380af6e,Diogo Jesus,79,5,2,2,4,2,1,3,5,3,Rio de Janeiro,Profissional de tecnologia de laticínios,Divorciado,18,2,Próprio,True,19850,629575,655252,184363,60.52,105,Rocketseat Visa Travel Select
+000fd987-ee0f-40b1-8066-57223f183674,Mirella Lima,19,3,3,1,2,2,5,4,1,2,Goiânia,Político,Solteiro,2,6,Alugado,False,12823,286544,1473666,399722,92.01,1,Rocketseat Visa Shopping Basic
+21ef485b-f772-4fc6-8cb6-a1a57ff37d9f,Ana Lívia Cavalcante,47,5,5,1,1,2,2,5,1,1,Curitiba,Jogador de badminton,Viúvo,13,4,Próprio,False,23340,165055,776057,163387,81.17,34,Rocketseat Visa Travel Basic
+b13ea478-677a-4169-9578-e2e0d2b57166,Levi Correia,31,5,4,5,3,1,2,4,5,1,São Paulo,Militar do Exército,Casado,9,2,Alugado,False,34577,119346,723879,225398,82.35,36,Rocketseat Visa Travel Basic
+37536498-a3af-4162-9b11-54e74350fff0,Hadassa da Cruz,38,2,4,5,2,5,5,3,1,4,Vitória,Portuário,Solteiro,13,1,Próprio,True,8863,8105,1043092,391650,91.21,0,Rocketseat Visa Life Basic
+81e1bc35-75a0-4072-89a1-df819b42a010,Helena Rios,54,3,1,4,1,3,2,5,4,3,Rio de Janeiro,Triatleta,Viúvo,3,2,Próprio,False,29133,601253,848136,371981,74.71,51,Rocketseat Mastercard Travel Basic
+f4f0ad96-1d3d-4593-851c-e366f5e36060,Sr. Carlos Eduardo Lopes,43,2,1,5,1,5,5,2,3,3,Goiânia,Pintor,Casado,7,1,Alugado,False,21334,782033,712010,116167,65.13,134,Rocketseat Mastercard Life Select
+de8aa888-4011-4662-8ba6-1477bd8e8505,Bento da Costa,29,2,4,4,5,5,4,5,5,3,Vitória,Corretor da bolsa de valores,Divorciado,4,4,Alugado,False,40478,160295,1594287,398014,88.98,23,Rocketseat Visa Life Basic
+a6462141-69dd-4cd6-ac7c-c29cedb226ac,Pedro Lucas Cirino,58,5,1,3,4,4,1,1,3,3,Rio de Janeiro,Profissional de cinema,Solteiro,19,5,Próprio,False,20845,835012,576032,310074,60.26,90,Rocketseat Mastercard Travel Basic
+ebd079d5-a0f6-4e86-8424-136f2adef6cf,Calebe Borges,46,5,2,1,4,1,3,1,5,2,São Paulo,Servente-de-obras,Casado,14,4,Alugado,False,38464,683501,394766,168572,54.41,190,Rocketseat Visa Travel Select
+0c68225d-45e2-481b-af57-88c4bcab1ffc,Ana Carolina Azevedo,76,5,1,3,1,3,1,5,4,3,Curitiba,Engenheiro sanitarista,Casado,10,1,Alugado,False,19539,406235,857251,406042,72.83,11,Rocketseat Visa Travel Basic
+0c0f3c87-a15a-478b-8f8b-3c09cf535f65,Dra. Lara Martins,79,1,3,5,4,3,2,5,1,4,Recife,Amolador de ferramentas,Divorciado,0,3,Próprio,True,43995,732409,1388598,205498,62.4,205,Rocketseat Mastercard Life Elite
+2f831c34-add6-401b-9538-1c1e4f3584b5,Sr. Miguel Carvalho,39,3,1,5,5,5,1,3,5,2,Manaus,Engenheiro de projetos,Viúvo,4,2,Alugado,True,32868,201332,475095,72123,65.88,107,Rocketseat Visa Life Select
+df35ea91-35f1-404b-ac7a-7830278704e8,Dr. Theodoro Peixoto,20,4,5,3,4,2,5,2,3,4,Campo Grande,Preparador de máquinas,Casado,11,6,Próprio,False,27926,381995,1418435,377270,88.01,21,Rocketseat Visa Life Basic
+98b0654f-3825-43bb-898e-3da77a589aa6,Ana Garcia,67,2,5,2,3,1,4,3,5,1,Goiânia,Taxidermista/Embalsamador,Solteiro,9,1,Alugado,False,26026,527335,1106163,219498,74.57,77,Rocketseat Visa Life Basic
+41846095-42eb-4368-8581-0cdb7b8d0538,Hadassa Pinto,75,2,4,3,1,4,1,4,5,3,Porto Alegre,Artista plástico,Viúvo,2,3,Alugado,True,34643,154506,1742831,229361,72.51,86,Rocketseat Visa Shopping Basic
+3018ba5a-0771-45a1-a605-c18407921b58,João Felipe Moura,77,2,2,1,3,4,2,4,4,5,São Paulo,Clap loader,Solteiro,0,3,Alugado,True,7493,879940,1498843,340766,72.33,56,Rocketseat Visa Shopping Basic
+f362ef30-3146-4289-8620-6a3309933ecb,Vinícius da Luz,25,4,5,4,1,1,4,5,5,1,Belém,Faturista,Casado,4,3,Próprio,True,19881,249183,631559,63883,73.83,64,Rocketseat Visa Life Basic
+6f52be14-96bd-4ad1-a398-8183ccfe0bd7,Srta. Camila Rezende,33,5,3,1,5,5,5,5,5,1,Salvador,Engenheiro de ergonomia,Viúvo,1,6,Próprio,False,38399,436802,392825,348321,72.45,55,Rocketseat Visa Travel Basic
+cb077c6a-8471-458c-8fd7-0b0ef29ac508,Asafe Alves,65,1,5,3,2,1,3,5,3,2,Vitória,Engenheiro mecatrônico,Viúvo,15,6,Alugado,True,2064,374440,1653646,35420,78.77,56,Rocketseat Mastercard Life Basic
+f9004cc3-777f-4084-b262-5c1046139432,Dra. Maria Fernanda Novaes,63,2,1,3,3,5,4,5,4,3,São Paulo,Tecnólogo em negócios imobiliários,Casado,9,3,Alugado,False,30994,38780,615393,105691,69.92,71,Rocketseat Visa Shopping Basic
+a39774da-6c70-49e1-b86d-28e8e6222481,Guilherme Costela,25,4,3,2,4,4,3,5,3,1,Goiânia,Cineasta,Viúvo,2,4,Alugado,False,25118,458176,1865388,209726,87.36,45,Rocketseat Visa Travel Basic
+4dd182ba-dd86-4470-9147-22832a327ade,Ágatha da Luz,24,5,4,2,4,3,4,1,3,5,Salvador,Pizzaiolo,Divorciado,20,1,Alugado,False,6247,343848,1386048,155000,89.49,18,Rocketseat Visa Travel Basic
+f8eed05a-bb52-4317-a4d5-f3b907c2739f,Dr. Caio Moreira,50,5,4,1,2,1,2,3,3,4,Manaus,Gerente de banco,Solteiro,19,2,Próprio,False,45525,167758,1998144,16326,42.79,344,Rocketseat Visa Travel Elite
+a7808955-a3b1-4d1f-8537-abf0fb1a9cdc,André Vieira,46,3,3,2,1,1,2,4,5,4,Campo Grande,Surfista,Solteiro,8,3,Próprio,True,6038,601800,288767,277589,57.8,15,Rocketseat Visa Shopping Basic
+bc8381e6-7d9f-474e-af14-892ca66f093a,José Martins,62,4,2,4,1,3,3,1,5,5,Curitiba,Perfusionista,Divorciado,5,6,Alugado,False,33191,209902,257189,71160,57.44,127,Rocketseat Mastercard Shopping Select
+1a5f7da3-21e9-42c4-be97-bcc144f1cb96,Maria Helena Pimenta,25,1,3,5,5,3,4,5,2,5,Campo Grande,Projetista mecânico,Solteiro,2,3,Próprio,False,14171,830541,291245,124117,48.78,150,Rocketseat Visa Life Select
+fbe5b541-fbf9-484f-b9aa-38af4adbae2b,Isadora Freitas,67,3,1,4,4,5,3,2,5,5,Belo Horizonte,Representante comercial,Casado,13,5,Alugado,True,27832,863333,1205653,38666,48.02,297,Rocketseat Mastercard Shopping Elite
+cc831874-c730-4fee-8871-7756dee6fb53,Srta. Maria Helena Alves,37,3,5,3,1,3,2,5,3,2,Belém,Escoteiro,Divorciado,19,5,Alugado,True,11790,169834,676668,490071,89.12,0,Rocketseat Mastercard Life Basic
+5347a375-e368-40b8-8a69-59eda1a93d31,Maysa Costa,28,5,1,1,1,1,5,3,2,5,Salvador,Juiz de direito,Solteiro,15,6,Próprio,False,44170,654813,1511276,472908,84.4,50,Rocketseat Visa Travel Basic
+dcdb944e-c083-46e3-8e21-c09806c3fc33,Luiz Fernando Duarte,33,1,2,4,4,4,4,2,3,5,Belo Horizonte,Guincheiro,Divorciado,10,6,Próprio,False,45891,425818,623764,237787,72.17,102,Rocketseat Mastercard Shopping Select
+b251aeab-f9ac-4b2a-9c53-75faa021422b,Emanuella Borges,66,4,1,3,4,2,2,1,1,3,Salvador,Copeiro,Viúvo,7,2,Próprio,False,25283,539995,1177867,55670,59.48,177,Rocketseat Mastercard Travel Select
+65931b7f-c119-4d6d-bc56-a4d2615bd269,Ana Carolina Melo,66,3,4,1,1,4,5,4,2,2,Manaus,Engenheiro metalúrgico,Divorciado,1,1,Próprio,False,11442,522469,1079456,244745,76.05,38,Rocketseat Visa Shopping Basic
+a2020516-4dbe-4c7a-8d2a-5603645f2afd,Luiz Gustavo Mendes,36,3,3,4,3,1,4,1,5,5,Porto Alegre,Caixa,Divorciado,17,3,Alugado,False,36172,8574,1776649,56359,69.63,129,Rocketseat Visa Shopping Select
+eaca75ef-d863-47be-94ba-3d9e57037687,Dra. Clara Sá,66,1,2,1,4,3,3,5,3,2,Porto Alegre,Aeromoça,Viúvo,16,1,Alugado,True,37035,293308,1730803,326758,78.25,64,Rocketseat Mastercard Travel Basic
+8bd3c095-0ac2-41a0-acf7-77fc7cc86f3a,Gael Henrique da Cunha,63,5,5,2,3,5,3,2,4,5,Goiânia,Ciclista,Divorciado,18,3,Próprio,False,22826,843019,993513,272279,69.17,98,Rocketseat Visa Travel Basic
+da06ed26-2817-478a-90be-6e182be09577,Júlia Aparecida,70,4,5,3,1,5,4,3,5,5,Porto Alegre,Técnico em taquigrafia,Solteiro,18,4,Alugado,False,2090,386251,694659,353268,74.35,0,Rocketseat Mastercard Life Basic
+05ae00c6-88c0-44bf-a5b8-2c9a5908612e,Sra. Ana Liz Silva,70,1,2,1,4,3,4,2,4,2,Salvador,Perito judicial,Viúvo,1,6,Alugado,True,45612,253961,66208,300191,21.79,162,Rocketseat Visa Life Select
+b4bbb08d-7176-4d97-b8f5-afe0dd4ff460,Dr. Vitor Abreu,60,4,5,3,5,3,3,5,4,2,Porto Alegre,Gravurista,Divorciado,17,3,Alugado,False,32350,551002,790258,164496,69.46,113,Rocketseat Visa Life Select
+8dc68d91-ab26-4fb2-88e1-6d40af72ebca,Manuella Pereira,63,3,5,3,3,1,5,5,4,4,Vitória,Ministro,Divorciado,4,3,Alugado,False,14584,723769,1478467,256378,75.26,68,Rocketseat Mastercard Life Basic
+eedc59f2-1543-4829-996f-12cec3ee9084,Manuella da Costa,40,2,5,3,5,3,2,1,5,5,Porto Alegre,Tenista,Casado,1,6,Alugado,True,29991,687836,537801,391820,68.94,58,Rocketseat Mastercard Life Basic
+1964fd92-6cc5-400d-b820-699ac86c91dd,Juliana da Cruz,24,2,1,5,2,4,4,4,2,3,Brasília,Consultor de radiestesia,Divorciado,20,1,Alugado,True,28086,346337,1504408,247675,84.94,42,Rocketseat Mastercard Life Basic
+6e331b3d-b382-406e-be7c-e95187501469,Dante Duarte,76,1,4,4,2,3,1,1,3,5,Manaus,Comandante,Solteiro,10,3,Próprio,False,12473,438184,1850201,439146,76.67,15,Rocketseat Mastercard Shopping Basic
+e4e73298-28da-47d9-b108-df3fbc0789fc,Rhavi Rios,72,3,2,4,3,2,1,3,3,5,Belém,Engenheiro agrimensor,Casado,5,5,Próprio,False,34044,490755,572180,101088,58.06,166,Rocketseat Visa Shopping Select
+9836eb91-ae7d-40ab-a1df-6c426e0e75e9,Alexandre Moura,23,4,3,2,1,3,4,2,4,3,Brasília,Datilógrafo,Divorciado,18,6,Alugado,False,27269,701765,200037,96878,33.36,247,Rocketseat Visa Travel Elite
+e0e407fd-01d3-41e2-ba6f-305594cbea4d,Hadassa Jesus,62,2,4,5,3,1,3,3,5,2,Porto Alegre,Ourives,Casado,15,2,Próprio,False,16486,65142,1400448,61983,73.52,64,Rocketseat Visa Life Basic
+111182b5-39a6-4c50-8e85-5b6c8ab47adb,Evelyn da Conceição,62,2,2,5,1,5,4,5,3,1,Campo Grande,Modelo,Solteiro,1,5,Alugado,True,36994,957136,987398,397069,67.53,118,Rocketseat Mastercard Life Select
+78141bf4-42f8-484c-b835-e32127da2986,Noah Costela,38,5,4,1,5,4,1,4,2,5,Salvador,Assessor parlamentar,Viúvo,18,1,Próprio,False,35101,463303,243772,356670,57.64,67,Rocketseat Mastercard Travel Basic
+2592e10b-0ccb-443a-a5d3-4250bf277f24,Ágatha Pastor,43,1,1,4,3,1,5,1,1,4,São Paulo,Químico,Divorciado,13,2,Alugado,False,17676,856113,6323,391016,0,86,Rocketseat Visa Shopping Basic
+98aef669-bfa1-4470-affc-951c92a808c4,Natália Alves,75,4,1,5,2,3,1,2,5,4,Recife,Técnico tributarista,Casado,7,1,Alugado,False,26066,470325,1823725,480832,78.83,31,Rocketseat Visa Life Basic
+15cc973a-5619-4119-a065-ae1ae038765c,Isabela Nunes,61,2,2,4,3,2,3,2,1,1,Florianópolis,Marceneiro,Viúvo,19,1,Alugado,True,48126,570892,889460,278886,68.19,134,Rocketseat Mastercard Life Select
+1ad0ab19-bb39-45e7-afe1-5586b0d40f4c,Nicole Vasconcelos,24,1,2,1,4,4,2,5,2,1,Belo Horizonte,Pianista,Divorciado,7,6,Próprio,False,39924,35207,936254,313411,90.02,17,Rocketseat Mastercard Travel Basic
+f4cbbe28-c11c-4ca4-93e8-92a6cabaf41a,Apollo Andrade,37,3,1,5,5,2,4,5,4,1,Brasília,Ferramenteiro,Viúvo,16,3,Próprio,False,10388,692282,1093142,115890,78.38,66,Rocketseat Mastercard Life Basic
+8552d6c2-2e01-4b0b-a168-c396b3572dec,Dr. Lorenzo Moura,37,2,3,2,4,1,5,4,4,5,Recife,Dedetizador,Casado,12,2,Próprio,True,25671,192811,1582125,282029,86.28,27,Rocketseat Visa Shopping Basic
+ab731ebb-dbe6-46f3-ac67-08097818846b,Lívia da Mata,59,5,2,1,3,4,5,5,1,1,Porto Alegre,Engenheiro de segurança do trabalho,Casado,15,2,Próprio,False,6181,967024,943271,444141,70.9,23,Rocketseat Mastercard Travel Basic
+7d547fc0-fefb-44e5-b3ee-c8df94db54c8,Dra. Yasmin Azevedo,31,4,2,5,2,4,2,5,3,3,Salvador,Ambulante,Viúvo,17,6,Próprio,False,13453,777493,246029,391579,47.85,27,Rocketseat Visa Life Basic
+95df7d7f-c686-4949-8c65-cab53c6644bb,Alícia Rios,41,4,3,2,3,3,4,1,5,2,Goiânia,Separador,Casado,0,3,Próprio,False,34607,925695,1042866,244320,69.48,141,Rocketseat Mastercard Shopping Select
+a507b818-683a-432f-a102-8ae6e735f938,Apollo da Conceição,30,4,5,3,3,4,4,4,2,3,Belo Horizonte,Dançarino,Casado,17,4,Alugado,True,22618,241192,796581,298733,87.9,11,Rocketseat Mastercard Life Basic
+10840c0d-b855-44ba-9eab-cce4fa0444e7,Enzo Gabriel Jesus,71,1,4,2,2,1,2,1,2,5,Fortaleza,Terapeuta ocupacional,Divorciado,1,5,Próprio,False,5871,991101,1715461,350337,72.84,64,Rocketseat Mastercard Shopping Basic
+a568fcc0-4705-403d-8768-b89ed6fad4e2,Alexandre Novaes,18,3,5,3,1,5,4,2,1,1,Recife,Metalúrgico,Casado,7,2,Próprio,False,35879,578440,862639,6213,34.38,356,Rocketseat Visa Life Elite
+7a26954e-6545-4545-b9c0-df2866f4d5df,Clara Nunes,68,2,2,3,1,1,1,4,4,4,Recife,Pintor,Viúvo,1,6,Alugado,True,27011,82857,782345,212875,76.95,34,Rocketseat Mastercard Travel Basic
+c5bc0ef4-a309-404f-b4be-9c001c38b04e,Srta. Yasmin da Mata,49,1,5,1,2,2,5,4,3,1,Campo Grande,Tapeceiro,Solteiro,8,5,Alugado,True,29436,676234,1644956,173681,75.72,113,Rocketseat Visa Life Select
+3b1daffb-dbec-4c7b-91d5-0f05c02a054d,Ravy Nogueira,19,4,1,3,2,5,2,5,4,5,Brasília,Fotógrafo,Viúvo,4,6,Alugado,False,14576,615551,302391,394397,66.68,5,Rocketseat Mastercard Shopping Basic
+8deb2268-2bb5-448d-99a2-eee0ebc7319c,Sra. Maria Luiza Gonçalves,24,5,5,4,3,1,3,4,4,2,Brasília,Neurologista,Viúvo,13,2,Próprio,True,29645,243420,1758828,39855,68.03,145,Rocketseat Visa Travel Select
+7d330efb-bf65-484a-b246-1e1f1cb99525,Henry Ribeiro,69,4,2,4,3,3,1,1,1,3,Fortaleza,Personal trainer,Divorciado,8,1,Alugado,True,17151,747748,154154,43011,0,343,Rocketseat Mastercard Travel Elite
+5aebdf30-ea14-4934-9b72-171f83693032,Manuela Sales,45,1,1,3,5,1,5,5,3,4,São Paulo,Lenhador,Divorciado,13,4,Alugado,True,30415,584041,1163374,268666,77.16,73,Rocketseat Mastercard Life Basic
+14d44508-f2e5-49cf-851b-7d305f7a8c29,Dr. Caleb Caldeira,61,4,2,1,2,4,3,4,3,4,Florianópolis,Pneumologista,Solteiro,11,3,Alugado,False,25951,177735,291168,140990,67.77,57,Rocketseat Mastercard Travel Basic
+f89008c3-dd34-4b22-9fe2-daf276fe7bd5,Bernardo Oliveira,47,3,5,4,3,4,3,4,5,2,Curitiba,Cirurgião dentista,Divorciado,19,6,Alugado,False,8010,142071,638914,3548,48.08,87,Rocketseat Visa Life Basic
+3a7b7cd1-89f6-4542-ad4e-28860d0fc910,Josué Farias,29,4,5,2,3,4,3,4,3,1,Campo Grande,Consultor de moda,Casado,18,5,Alugado,True,27099,334640,611211,385285,84.07,11,Rocketseat Visa Life Basic
+2c63ee6c-3442-449a-a2b1-48ddb08fdc2b,Benjamin Cavalcante,78,1,4,4,2,3,2,3,2,4,Florianópolis,Serralheiro,Viúvo,2,4,Próprio,False,47423,219832,919506,418216,72.26,56,Rocketseat Visa Life Basic
+1ecb67a1-af27-4c1e-a151-e85eaf11f14a,Bárbara Rezende,52,5,5,1,1,2,3,2,5,1,Manaus,Cientista,Viúvo,10,4,Alugado,True,3409,829130,753987,367858,74.43,15,Rocketseat Mastercard Travel Basic
+8b575c37-9881-4726-b78c-4414e4ebb088,Matheus Carvalho,34,5,2,4,3,4,4,5,5,2,Brasília,Motorista,Solteiro,15,1,Próprio,False,15549,535482,1566264,271999,85.92,32,Rocketseat Mastercard Travel Basic
+3afd11de-7280-431d-bb93-e2d2fe66b73d,Ísis Vasconcelos,25,2,5,4,3,4,1,4,4,3,Rio de Janeiro,Filósofo,Divorciado,1,6,Alugado,True,48851,148557,730498,163520,78.61,81,Rocketseat Visa Life Basic
+4eb8f066-0264-419b-b065-a21ff9dbc5c9,Sra. Vitória Santos,59,2,5,2,5,2,3,5,4,4,Porto Alegre,Ator,Viúvo,20,2,Alugado,False,8167,710032,1677826,86168,78.36,82,Rocketseat Visa Life Basic
+4cee662c-432b-4d92-a701-237a58c832c6,Nicole da Conceição,19,4,4,1,2,2,3,1,5,1,Florianópolis,Comandante,Casado,11,3,Alugado,False,49325,643937,1851989,103454,72.91,187,Rocketseat Mastercard Shopping Select
+bf958468-d22a-49d5-976c-07d03875c2d2,Yan Andrade,34,3,5,4,5,4,5,1,3,3,Vitória,Juiz de futebol,Viúvo,19,2,Próprio,True,44955,904539,1026522,276674,74.73,129,Rocketseat Mastercard Life Select
+2b99482e-c500-4ed5-99eb-1d4c9e778fb5,Miguel Gonçalves,38,2,5,4,4,5,2,5,4,4,Belo Horizonte,Topógrafo,Viúvo,20,5,Alugado,True,8724,250161,640428,61314,78.08,35,Rocketseat Visa Life Basic
+8388e151-6d4f-4ef9-a23f-57b2e0387921,Sra. Nina da Mata,36,1,3,1,4,2,2,4,5,5,Belém,Gestor de qualidade,Viúvo,13,6,Próprio,False,10194,196187,659722,441442,87.44,0,Rocketseat Visa Shopping Basic
+90aad744-e657-4950-914c-1f1f4329851a,Sra. Ana Júlia Fogaça,49,2,3,1,3,2,5,3,2,4,Manaus,Orçamentista,Viúvo,17,5,Alugado,True,11961,86686,1185725,16179,65.13,79,Rocketseat Visa Shopping Basic
+18fa3f1d-bf99-4506-ba50-7e2e3bc7a18c,Isabela Sampaio,67,1,4,5,2,4,1,2,3,1,Fortaleza,Engenheiro de aquicultura,Divorciado,11,1,Próprio,True,36593,863274,769364,284186,63.69,146,Rocketseat Mastercard Life Select
+f06eb631-65e5-4be4-812b-0d74aacf723f,Emanuel Pinto,31,5,4,2,5,2,2,2,1,5,Brasília,Patologista,Divorciado,19,5,Alugado,False,49340,616482,1445217,183831,77.46,130,Rocketseat Visa Travel Select
+3d80bd9b-d65b-4550-9778-b5086783059f,Clara Nunes,36,1,2,4,1,3,2,2,2,2,Goiânia,DJ,Divorciado,7,6,Próprio,False,38534,280329,1997321,449847,86.73,31,Rocketseat Mastercard Life Basic
+f9a7c4a0-4a6d-4000-9380-e1ce0af34b3d,Bella Viana,54,1,1,4,5,3,3,4,4,3,Manaus,Engenheiro mecânico,Solteiro,2,6,Próprio,False,42445,281770,1316618,217173,75.36,94,Rocketseat Mastercard Life Basic
+4244c3cc-1b0a-40d8-b4b2-8a56b3a0006c,Henry Gabriel Abreu,68,4,3,3,3,3,5,5,2,5,Vitória,Engenheiro petroquímico,Viúvo,10,6,Alugado,True,36024,417035,456822,225256,65.16,97,Rocketseat Mastercard Shopping Basic
+5353fcea-86c1-492f-a683-8788b16024ae,Vinicius Viana,58,4,4,1,4,2,2,3,2,3,Rio de Janeiro,Recreador,Divorciado,8,1,Próprio,True,31119,17072,260544,487290,85.2,0,Rocketseat Mastercard Travel Basic
+a8a60ac4-9bd8-44ab-a038-d803ff3c59bd,Dr. Noah Barbosa,43,4,1,1,1,2,4,1,2,5,Porto Alegre,Inspetor,Viúvo,0,1,Próprio,True,41999,320349,1522507,366708,83.7,47,Rocketseat Visa Shopping Basic
+f805f0f9-9e2f-4894-b943-789605584c29,Marina Câmara,62,1,1,3,3,3,2,4,2,2,Rio de Janeiro,Cineasta,Solteiro,19,6,Alugado,False,9662,500905,148537,120034,31.36,100,Rocketseat Visa Travel Basic
+451e9a8f-a975-4fe3-b1f1-8f3804d15eb9,Liz Viana,64,5,4,2,1,1,2,1,5,4,Brasília,Mototaxista,Viúvo,10,2,Alugado,False,14962,658589,1569233,79363,72.79,112,Rocketseat Mastercard Travel Select
+1270a9d9-110f-4b18-89ab-ad7c990c45b1,José Peixoto,33,1,3,2,5,5,5,2,4,3,Belém,Pediatra,Solteiro,7,4,Próprio,True,37267,630193,1258307,378105,81.89,56,Rocketseat Mastercard Life Basic
+23f18f23-2f17-4c47-b6b3-e0457cd0a113,Juliana Cirino,49,1,3,3,2,4,5,4,3,5,Belém,Técnico em desporto,Casado,15,1,Alugado,True,42817,622780,148922,276974,21.43,254,Rocketseat Mastercard Shopping Elite
+fe880e18-8b93-4967-8274-4c3c61907381,Marcelo Cavalcanti,34,4,5,3,5,4,4,4,1,5,Recife,Bombeiro,Casado,8,1,Próprio,True,15138,41761,1934789,31703,76.53,71,Rocketseat Mastercard Life Basic
+b1b92a72-8c72-412c-862c-3d80d750e07b,Ana Júlia Andrade,80,1,3,4,2,1,2,1,4,1,Fortaleza,Cobrador de ônibus,Solteiro,9,6,Alugado,True,11182,562445,685245,204855,67.51,53,Rocketseat Mastercard Life Basic
+25fb9d12-731e-4182-b977-dd8ce343767e,Beatriz Gomes,63,3,5,5,3,2,3,2,3,1,Florianópolis,Sushiman,Solteiro,10,4,Próprio,True,9992,735575,23803,85895,0,234,Rocketseat Visa Life Elite
+94e8721e-d177-4829-8f7c-583b27bfe34c,Vitória Gomes,63,3,1,4,5,2,3,2,3,1,Campo Grande,Armador,Solteiro,7,6,Alugado,True,38791,658015,161627,260124,17.67,260,Rocketseat Mastercard Life Elite
+e21c3605-5a96-4509-b6df-b3a51aaf7c58,Dr. João Ribeiro,33,2,1,5,4,2,3,2,4,3,Curitiba,Tecnólogo em irrigação e drenagem,Solteiro,18,3,Alugado,True,4013,494681,763314,200791,85.45,14,Rocketseat Mastercard Life Basic
+050ae5f9-2283-4165-bd5e-3da9f02ae74d,Gabriela Aparecida,32,3,3,3,1,5,4,1,3,2,Curitiba,Continuista,Divorciado,19,2,Próprio,False,34801,48159,840800,36137,66.09,118,Rocketseat Visa Shopping Select
+1124f459-e63d-4f5a-9174-1b8d28b4720b,Dra. Ana Beatriz Borges,67,2,2,1,4,1,2,5,3,1,Brasília,Vereador,Solteiro,12,6,Próprio,True,13807,768043,1888366,286554,78.19,66,Rocketseat Mastercard Travel Basic
+eeea6953-9470-4fd1-9ffe-5dc0301f2390,Lívia Novais,51,2,3,1,1,2,5,4,3,4,Goiânia,Operador de bombas,Solteiro,18,1,Alugado,False,16608,440208,1031859,31402,64.96,120,Rocketseat Mastercard Shopping Select
+b8bc4389-0e6d-4af1-805b-9ab92c5721ac,Lara Ramos,55,2,3,3,3,4,3,3,4,3,Porto Alegre,Tecelão,Solteiro,6,2,Alugado,True,38212,65308,912225,347311,84.05,22,Rocketseat Mastercard Shopping Basic
+b5b9faf2-a07f-44e7-9137-ad49212a5f46,Brayan Machado,28,3,2,4,3,4,3,1,1,2,Florianópolis,Promotor de eventos,Divorciado,19,1,Alugado,False,30462,488694,658575,213129,74.97,72,Rocketseat Mastercard Life Basic
+78691032-813c-4d03-9fc4-33a22e3eb72f,Maria Fernanda Caldeira,23,3,3,2,1,4,4,5,5,2,Rio de Janeiro,Agente funerário,Viúvo,3,2,Alugado,True,47606,260276,746046,207746,80.4,72,Rocketseat Mastercard Travel Basic
+6da705ad-d37e-4d38-894b-c34c7be1f563,Matheus Cassiano,71,1,5,5,3,1,1,1,2,4,Florianópolis,Ginasta rítmica,Casado,2,3,Alugado,True,15567,137064,415515,431842,77.22,0,Rocketseat Visa Life Basic
+a105446e-3b76-438e-b5c3-1279d28f4649,Maria Júlia Abreu,21,4,4,1,4,4,2,3,2,2,Curitiba,Encarregado de manutenção predial,Divorciado,14,2,Alugado,True,12009,969022,1203522,227098,83.77,53,Rocketseat Visa Travel Basic
+0d916e46-227a-449c-97a8-76bf652e9137,Eduarda Costela,49,3,4,2,4,2,5,2,5,1,Salvador,Comandante,Divorciado,15,5,Próprio,False,28000,925660,1154877,251150,70.01,125,Rocketseat Visa Shopping Select
+a3c288a8-29b6-4e8d-9afb-da5e5cd88aa0,Ana Julia Moreira,42,1,3,1,4,5,3,5,2,2,Rio de Janeiro,Figurinista,Casado,7,3,Alugado,True,18723,188550,54658,167183,34.7,51,Rocketseat Visa Shopping Basic
+c96fb9da-e2d7-4db1-91e9-3be9470c82d3,Camila Pinto,40,3,5,1,3,5,5,2,5,2,Vitória,Gestor de recursos humanos,Viúvo,17,3,Alugado,False,12384,184654,496083,310650,83.71,0,Rocketseat Mastercard Life Basic
+3045e0bc-a3bd-4ce8-9458-95f67e3cd421,Apollo Sales,23,4,1,3,5,2,2,3,2,3,São Paulo,Bartender,Solteiro,4,5,Alugado,True,4681,243923,1261778,114718,89.1,16,Rocketseat Visa Life Basic
+f23f9b8c-1798-49cc-b47a-c4dbfdf7a09f,Igor da Paz,79,5,1,3,3,3,2,2,4,4,Belém,Angiologista,Divorciado,5,6,Próprio,True,5753,391738,1477523,493839,78.89,0,Rocketseat Mastercard Travel Basic
+cdd04bb4-e9d5-48ae-98ed-df4248c456a4,Apollo da Luz,42,1,5,4,5,1,2,5,3,5,Porto Alegre,Lutador de jiu-jitsu,Solteiro,15,2,Próprio,True,21107,769649,1443885,154411,74.93,105,Rocketseat Mastercard Life Select
+112a52dd-ecce-4f40-bcaf-eb6100b7d9db,Natália Almeida,40,3,4,1,3,2,2,1,3,3,Florianópolis,Cenotécnico,Solteiro,0,1,Próprio,False,21939,176042,1334180,464162,90.13,0,Rocketseat Visa Life Basic
+98713920-251b-47b2-ae4a-faf26ebf39f2,Srta. Sabrina da Cunha,80,3,5,4,1,4,5,2,2,4,Rio de Janeiro,Eletricista de automóveis,Solteiro,9,1,Próprio,False,11901,927519,868261,258516,65.74,87,Rocketseat Mastercard Life Basic
+5eb124b6-d3ef-405b-83af-e95468470a67,Leonardo Correia,22,1,5,1,3,5,5,4,1,4,Belém,Psicopedagogo,Casado,19,4,Alugado,True,23400,178368,1862126,196848,87.49,34,Rocketseat Mastercard Life Basic
+98e61bba-d492-434f-8d7c-e80ea39ecc11,Davi Lucas Siqueira,39,5,3,3,3,2,1,1,4,5,Recife,Levantador de peso,Viúvo,4,1,Próprio,True,14470,199212,858322,365531,87.25,0,Rocketseat Visa Travel Basic
+043ab680-49e8-4fe2-9cda-a66f3e1a09a2,Sra. Elisa Cavalcante,23,2,1,1,2,2,3,1,4,1,Curitiba,Biomédico,Viúvo,15,4,Próprio,True,20303,863918,1388357,327727,84.42,46,Rocketseat Visa Shopping Basic
+06789643-03fe-4965-82a8-c1b41361e43f,Raul Moraes,29,1,3,4,4,3,2,3,5,1,Belo Horizonte,Escultor,Solteiro,2,6,Próprio,False,25315,928506,799948,193672,69.34,125,Rocketseat Mastercard Shopping Select
+18a42122-31eb-4081-a5ad-bd8506a2061f,Maria Vitória Nascimento,53,5,4,5,2,4,3,1,4,1,Recife,Ortoptista,Casado,3,4,Alugado,True,4996,881639,811820,429080,72.38,12,Rocketseat Mastercard Travel Basic
+b75a3541-f00a-494f-9da3-172d3722ec60,Maria Fernanda Freitas,69,4,2,2,5,3,3,1,1,4,Recife,Violonista,Viúvo,17,3,Próprio,False,13630,132315,89497,221970,57.49,0,Rocketseat Mastercard Life Basic
+557e0328-dc91-4446-9e74-4a6d3277376e,Giovanna Moreira,68,1,4,2,2,5,5,5,1,1,Manaus,Defensor Público,Solteiro,9,5,Próprio,False,46902,653323,1232236,273972,70.19,142,Rocketseat Visa Shopping Select
+ca9511b1-b625-4647-80b1-3d0977cc2ba8,Benjamim Porto,42,2,3,4,2,5,5,4,1,4,Campo Grande,Barman,Divorciado,7,1,Próprio,False,43912,509172,1199619,319271,78.24,80,Rocketseat Visa Shopping Basic
+09a54dcb-1235-400d-891e-a2682e5447f0,Carlos Eduardo Ribeiro,19,4,1,2,2,3,4,3,3,4,Manaus,Piloto automobilístico,Solteiro,6,4,Alugado,False,23142,857091,1664409,158888,81.45,89,Rocketseat Visa Travel Basic
+00388d80-8627-4471-8ce9-d1f59ea12e94,João Pedro Moreira,66,2,1,3,5,4,2,5,5,1,Belo Horizonte,Biólogo,Casado,6,1,Alugado,True,34849,909313,784146,430449,61.89,109,Rocketseat Visa Life Select
+fc1e00aa-4552-4fff-ac99-bb97faeb8b8c,Olivia da Paz,21,4,5,4,1,1,2,3,4,5,Fortaleza,Profissional de relações internacionais,Casado,15,5,Próprio,False,24617,738862,417563,143643,61.27,134,Rocketseat Mastercard Life Select
+c2117b1d-46e3-49b2-8cd9-7e5ded3be66e,Srta. Ana Clara Farias,71,1,4,1,2,5,2,2,2,2,Curitiba,Cartazeiro,Viúvo,16,1,Alugado,False,17951,785342,1742461,361156,73.1,71,Rocketseat Mastercard Shopping Basic
+75410439-c379-4bee-806e-61b2091e43cc,Bella Borges,59,5,3,3,4,4,3,4,3,2,Fortaleza,Procurador de justiça,Divorciado,16,5,Próprio,True,12350,630343,1679535,4437,36.6,287,Rocketseat Mastercard Travel Elite
+4b211de2-3d97-428d-94a3-dc9c1aa58c9f,Sr. Marcos Vinicius da Mota,50,5,5,3,3,1,4,1,3,3,Belém,Musicoterapeuta,Divorciado,8,3,Próprio,True,44408,884247,1760304,196204,71.7,181,Rocketseat Mastercard Travel Select
+ce40bc7e-82ec-4663-89d8-4b72a225eb78,Kamilly Vieira,51,5,4,3,2,1,4,3,3,4,Salvador,Treinador,Viúvo,1,5,Alugado,False,16748,943390,119065,422277,0,91,Rocketseat Mastercard Travel Basic
+7e120c5b-8075-4bbe-bbfe-3d5035be2037,Antônio Sales,61,3,5,3,2,5,2,3,1,4,Belo Horizonte,Surfista,Divorciado,17,2,Próprio,True,36037,669320,1646048,249422,75.61,111,Rocketseat Mastercard Life Select
+8cd9caa8-08b7-4ca9-a437-34782a1ff4d6,João Guilherme Ramos,40,3,3,3,5,3,4,1,4,1,Vitória,Designer de interiores,Solteiro,15,2,Alugado,False,15636,780360,1827525,161001,80.39,81,Rocketseat Visa Life Basic
+e9cd041b-8e06-48c3-abca-c5c2b4534bf6,Raul Ramos,44,2,3,4,5,4,2,3,2,1,Fortaleza,Editor,Divorciado,20,2,Próprio,True,4543,913151,1791470,79051,78.78,90,Rocketseat Mastercard Life Basic
+fc99d0e2-b773-4267-a1e1-55e34f002d8f,Sara Vieira,46,2,4,1,2,5,4,4,4,4,Fortaleza,Engenheiro de materiais,Viúvo,0,1,Alugado,False,18925,219553,1596338,405558,84.6,8,Rocketseat Mastercard Shopping Basic
+2c717cde-e22e-48d7-a7c4-a1c553634643,Vinicius Nunes,75,1,2,2,3,3,2,1,4,5,Manaus,Aeromoça,Divorciado,5,1,Alugado,False,22116,793612,1747407,278414,70.97,107,Rocketseat Visa Shopping Select
+d035c873-7d5e-4261-99f4-65a854e78ff6,Otávio Andrade,47,2,3,4,3,2,2,4,1,2,Porto Alegre,Odontologista preventivo e social,Casado,6,6,Alugado,True,48699,545561,1250678,274788,74.36,118,Rocketseat Mastercard Life Select
+36aea1af-d680-47e4-9c1a-67889b059c6d,Heloisa Martins,41,3,5,5,1,5,1,1,1,1,Goiânia,Tecnólogo em processos químicos,Solteiro,13,4,Próprio,True,47603,682141,1661211,19589,42.96,420,Rocketseat Visa Life Platinum
+b55a1212-08f2-42e4-9b89-ddd8281b3067,Maria Liz da Cunha,48,1,3,4,1,5,3,5,5,2,Salvador,Jogador de badminton,Solteiro,16,6,Alugado,False,46997,160565,430954,364480,78.99,37,Rocketseat Mastercard Shopping Basic
+0d05e3f9-e0d1-4b01-8939-f34e155f7fe8,Anthony Gabriel Melo,68,3,5,2,3,4,3,2,1,5,Fortaleza,Prensista,Casado,15,3,Alugado,True,7964,521917,416592,319292,63.75,2,Rocketseat Mastercard Life Basic
+f796dc24-b33c-4828-9230-146141a0b608,Olívia Novais,60,4,2,1,5,1,1,3,2,4,Curitiba,Veterinário,Divorciado,14,1,Alugado,True,6832,950932,231590,437902,25.36,10,Rocketseat Mastercard Life Basic
+756562ce-36ed-4b26-b232-d0fe2badf6bd,Otávio da Mata,72,1,1,1,1,2,2,3,3,4,Manaus,Datilógrafo,Divorciado,2,3,Próprio,True,20042,377712,1681068,354820,76.99,36,Rocketseat Mastercard Shopping Basic
+f3c78678-0fc9-4155-b4d8-b52e6336bedb,Isabella Nogueira,43,4,4,2,1,2,1,2,1,4,Campo Grande,Transcritor,Viúvo,18,6,Próprio,True,27230,478715,570075,438151,75.07,17,Rocketseat Visa Travel Basic
+f6b54a2f-0892-4f92-bf18-b9932739cc16,Lara Fonseca,67,2,4,4,1,4,4,1,1,3,Belém,Karateca,Divorciado,0,6,Alugado,False,24501,641055,60432,452238,0,33,Rocketseat Mastercard Life Basic
+5ccc56be-e3e7-43d9-9226-455dd32011e1,Isabel Alves,45,4,2,5,5,1,1,2,5,4,Vitória,Retificador,Viúvo,5,1,Próprio,False,44366,761949,521303,252669,59.59,175,Rocketseat Mastercard Life Select
+d7573aa9-2e12-45fd-9ff1-c8ac5b94b69a,Hellena Moura,39,4,4,2,1,4,4,5,4,1,Vitória,Engenheiro de petróleo,Viúvo,14,3,Alugado,False,19229,52796,1063107,116762,83.77,30,Rocketseat Mastercard Travel Basic
+144c3aea-7384-4018-a8c0-b56bd7d957f1,Pedro Henrique Silva,24,1,5,5,3,5,5,2,4,3,Brasília,Bedel,Solteiro,7,4,Próprio,False,27439,432368,75145,292097,5.29,117,Rocketseat Visa Life Select
+21a23062-1d18-4660-9a4e-0ee74e8858e4,Arthur Gabriel Azevedo,63,1,3,3,3,5,5,3,1,1,Campo Grande,Guarda roupeiro,Casado,15,2,Próprio,True,30657,119562,204340,398102,74.48,0,Rocketseat Visa Shopping Basic
+a0917e24-89f3-4590-864e-eb6c28633064,Thiago Castro,57,2,4,2,3,1,4,1,5,1,Florianópolis,Operador de bombas,Viúvo,14,6,Alugado,False,13839,196653,253222,487701,76.71,0,Rocketseat Mastercard Shopping Basic
+5046cba8-c479-4881-a5ff-7b334278c5a3,Dra. Ana Vitória Nascimento,51,5,4,5,2,5,2,2,1,4,Belém,Baixista,Divorciado,16,4,Próprio,True,49248,50931,1160199,490370,83.28,22,Rocketseat Visa Travel Basic
+7fdd4921-cfeb-4398-b813-59d87b38bc3f,Helena Borges,43,4,5,5,3,5,3,5,2,2,Porto Alegre,Geriatra,Divorciado,11,6,Alugado,True,23469,308463,949686,421945,81.88,7,Rocketseat Visa Life Basic
+0e7d6ba9-0375-4e98-b99b-355a00b3cd74,Clara Moura,63,5,4,5,3,4,1,5,1,1,Salvador,Jogador de handebol,Casado,1,6,Alugado,True,8563,797730,738696,294796,68.76,46,Rocketseat Visa Travel Basic
+9ac8bfeb-1f7e-47db-98e5-0761a750fd13,João Aragão,66,1,3,2,5,1,3,4,1,5,Vitória,Paparazzo,Casado,20,5,Próprio,True,11547,300538,1433173,131366,76.24,52,Rocketseat Visa Life Basic
+2e0e71af-77a7-4ee9-9f7c-cb10062d8d06,Daniela Duarte,62,3,5,1,1,3,2,5,4,2,Campo Grande,Cinegrafista,Divorciado,18,5,Alugado,True,44548,49261,1942979,200059,75.13,101,Rocketseat Visa Life Select
+8fd96f9a-5da1-436b-aee1-148776869049,Isaque Marques,46,5,1,4,1,4,3,5,3,2,Belo Horizonte,Orçamentista,Divorciado,0,3,Próprio,True,12627,715819,156172,98029,17.71,208,Rocketseat Mastercard Travel Elite
+503b57c4-319d-4b91-9e6f-2b0341344e49,Ana Beatriz Moreira,27,5,3,4,5,5,3,1,3,5,Porto Alegre,Aeroviário,Casado,16,1,Alugado,False,22143,625874,106651,405621,6.78,48,Rocketseat Visa Travel Basic
+5ccbacbc-68ce-448a-a354-781ce95ecb66,Sra. Alana da Mota,23,3,3,3,2,5,5,4,5,1,Rio de Janeiro,Instalador de linha telefônica,Divorciado,14,2,Alugado,True,23898,231942,1852617,111858,85.13,53,Rocketseat Visa Shopping Basic
+8dba81de-9bfe-4ceb-8fbd-adb57496532f,Thomas Nogueira,42,1,5,3,5,5,4,4,1,3,Campo Grande,Polidor de produção,Casado,10,5,Alugado,True,8430,404620,538109,283239,80.11,3,Rocketseat Mastercard Life Basic
+869add61-534d-4b60-98b0-cb3c9c0f2c76,Cauê das Neves,80,2,4,1,2,5,4,1,2,1,Fortaleza,Engenheiro de segurança do trabalho,Divorciado,1,1,Alugado,True,36256,559106,15373,328693,0,196,Rocketseat Mastercard Shopping Select
+2944a4bf-ba29-4b7c-8119-f82503dac1ef,Dra. Vitória Montenegro,68,3,4,4,4,4,4,3,1,4,Belém,Dogueiro,Solteiro,17,1,Alugado,True,17509,585193,147727,301445,24.39,67,Rocketseat Mastercard Life Basic
+b2d8e233-daf1-4a39-855c-2ac15f92230b,Luana Siqueira,40,5,1,3,4,4,4,1,4,2,Recife,Jóquei,Casado,4,6,Próprio,False,33953,111291,607831,412557,86.12,5,Rocketseat Mastercard Travel Basic
+577f2691-5435-4e2a-b8ec-6a78854f8e87,Bryan Pinto,37,3,1,5,5,2,1,1,1,5,Manaus,Necromaquiador,Viúvo,17,5,Alugado,False,45386,930063,1917151,416817,81.92,90,Rocketseat Mastercard Life Basic
+8f9d2e53-0d35-410b-b36e-15962b1f2a1a,Maria Cecília Porto,65,5,2,2,2,2,5,3,2,1,Belo Horizonte,Médico cirurgião,Solteiro,17,4,Alugado,False,49590,947437,1522400,180277,62.53,258,Rocketseat Mastercard Travel Elite
+0317c50d-bd56-40c3-aa79-4c94f6ea92c3,Maria Luiza da Cunha,34,3,3,2,2,1,3,5,1,2,Brasília,Personal trainer,Viúvo,14,3,Próprio,True,7435,207007,1521670,304399,90.46,3,Rocketseat Visa Travel Basic
+d6f9efe3-c6a2-4f04-bf63-97450535a322,Sra. Aylla da Rosa,69,2,4,3,3,2,3,4,4,4,Brasília,Diretor de produção,Divorciado,15,5,Alugado,True,21731,449112,353662,2533,11.53,302,Rocketseat Mastercard Life Elite
+c60bccc8-7ab3-40db-b8c6-f5ebd788c0a9,Enrico Fonseca,71,2,3,1,1,1,5,1,5,5,Salvador,Promotor de vendas,Casado,1,5,Próprio,False,19390,900426,1733178,73401,66.38,182,Rocketseat Mastercard Shopping Select
+971c63d0-36f0-4725-b87b-008447ec5e20,Eloá da Mata,41,3,2,4,5,5,1,4,3,5,São Paulo,Esgrimista,Casado,19,6,Alugado,True,26722,234153,1869480,404826,87.1,19,Rocketseat Visa Life Basic
+51137b65-f448-4a35-8495-255f42865d64,Sr. José Pedro Costa,28,2,4,3,1,2,4,2,1,3,Brasília,Sexólogo,Casado,1,6,Alugado,False,12740,593868,1989592,296648,89.35,26,Rocketseat Visa Life Basic
+1f44b254-5630-427e-9fde-33a316677320,Vitor Gabriel Sá,48,3,1,5,3,3,5,5,5,2,Salvador,Profissional de marketing,Viúvo,11,5,Alugado,False,30795,924374,97386,20921,0,517,Rocketseat Visa Life Platinum
+a2db9269-561a-4e64-868d-cd167dd44ab1,Lavínia Leão,80,3,4,4,5,1,5,2,4,2,Porto Alegre,Grafologista,Solteiro,16,6,Próprio,True,15607,541455,851112,185020,69.88,68,Rocketseat Mastercard Life Basic
+94eafb3e-9213-4d82-9c04-cb8941e73472,Luiz Fernando Vasconcelos,29,2,4,3,1,4,4,4,2,5,Belo Horizonte,Maquinista,Viúvo,0,2,Alugado,True,11312,379818,1262528,376073,90.57,3,Rocketseat Mastercard Shopping Basic
+a27ad3c3-602e-470d-9928-c01749d255ac,Ana Julia da Mata,26,1,2,3,2,5,4,5,5,1,Campo Grande,Instrumentista musical,Divorciado,2,2,Próprio,False,42257,537544,82189,467034,0,134,Rocketseat Visa Shopping Select
+3b21a3d3-7330-4dbb-a417-d613714d9753,Hadassa Pereira,28,5,2,5,5,3,2,3,4,5,Manaus,Trilheiro ou músico de cinema,Solteiro,7,4,Próprio,True,15376,870699,861440,315012,75.76,53,Rocketseat Mastercard Travel Basic
+ee7c7bca-6d6d-417d-89fe-e0e5b794973d,Clarice Rocha,19,4,2,5,1,2,4,5,5,1,Campo Grande,Intérprete de Bíblias,Solteiro,2,4,Alugado,True,14261,548102,1802694,476755,91.47,7,Rocketseat Visa Life Basic
+a9f54ebe-ab8c-4a99-81e9-4f6dbbaed60b,Gael Henrique Ferreira,51,4,2,4,4,3,5,5,1,4,Belo Horizonte,Massagista,Divorciado,15,2,Alugado,False,28569,388368,1834639,22774,54.18,234,Rocketseat Visa Shopping Elite
+84d831fb-5a2a-4f95-a79a-aed56388fcc1,Fernando Sousa,34,5,5,1,5,1,4,2,3,4,Brasília,Transcritor,Solteiro,4,4,Próprio,False,13387,5735,1487192,389884,93.4,0,Rocketseat Visa Travel Basic
+a4d63679-3b1f-4b9f-8a9b-24f5a2ca0889,Cauê Leão,54,2,4,5,5,4,2,3,5,5,Fortaleza,Policial civil,Divorciado,9,5,Próprio,False,24962,641603,577892,356833,67.91,53,Rocketseat Mastercard Life Basic
+45b08576-d29e-42f6-98ee-f7d4091b5680,Dr. Levi Mendes,72,2,1,2,5,4,3,5,5,1,Belo Horizonte,Diretor de fotografia,Viúvo,20,1,Alugado,True,44206,124870,1568280,120466,66.93,149,Rocketseat Visa Life Select
+531e139d-af02-4e86-bc11-a63e66fb03b6,Francisco Pimenta,77,3,1,5,1,4,4,5,5,3,Goiânia,Engenheiro cartográfico,Solteiro,5,6,Próprio,False,40337,456526,184844,33596,12.28,396,Rocketseat Mastercard Life Elite
+80824efd-1d36-42e5-84fa-9cfff099f325,Maysa Sá,30,1,5,5,5,2,5,2,1,3,Porto Alegre,Massoterapeuta,Solteiro,5,1,Próprio,False,44049,975970,1685921,271661,76.88,138,Rocketseat Visa Life Select
+fc043a0d-bcb1-4ec3-8ebf-e8438ebf1ce6,Juan Moreira,60,1,1,5,3,5,5,3,3,3,Porto Alegre,Contatólogo,Casado,14,4,Alugado,False,26896,425146,1229099,105020,70.17,114,Rocketseat Mastercard Life Select
+aeae9b89-db43-487f-a198-c59fc23e6b86,Sra. Maria Alice Montenegro,44,3,1,5,3,5,5,3,4,4,Manaus,Telegrafista,Viúvo,7,3,Próprio,False,34176,111636,1171533,37951,61.66,151,Rocketseat Mastercard Life Select
+9c0460dd-36bc-4f95-9272-5e0ed42760d0,João Pereira,48,2,2,3,4,3,5,5,1,3,Porto Alegre,Artista de circo,Divorciado,2,4,Próprio,True,8619,270343,141671,200630,60.07,1,Rocketseat Mastercard Shopping Basic
+027d91a1-c28d-4842-b330-f2eedec65f28,Sr. Yuri Pacheco,48,2,2,4,2,2,2,3,2,2,Porto Alegre,Recreador,Casado,19,3,Alugado,True,21569,370711,458366,468879,76.1,0,Rocketseat Mastercard Life Basic
+865ec1a3-05c0-4b36-a22b-d42e980f87eb,Brenda Rocha,76,5,1,4,3,5,3,4,5,3,Fortaleza,Armador,Casado,16,3,Próprio,True,6143,708640,1391301,258298,75.04,48,Rocketseat Mastercard Travel Basic
+16a438af-742a-4d74-9871-f108360a4625,Sr. Enzo Gabriel Araújo,21,1,5,3,4,2,4,1,5,4,Brasília,Odontologista estético,Solteiro,0,6,Alugado,False,35454,838095,887464,250777,77.85,94,Rocketseat Mastercard Life Basic
+f4a26e9b-2749-451a-9037-00d159428b17,Bento Teixeira,38,3,2,3,4,5,3,3,2,4,Salvador,Engenheiro naval,Casado,13,6,Próprio,False,24697,642544,1807413,136157,76.89,107,Rocketseat Visa Shopping Select
+44dc8b18-b6af-4fd8-ac5a-fc3e46a3a474,Alana Souza,35,2,1,3,2,5,4,4,2,2,Florianópolis,Figurante,Casado,15,1,Alugado,False,30538,188627,1198333,68754,75.33,90,Rocketseat Visa Shopping Basic
+1bd31acb-1c23-4c50-b0f9-2d265c5ee54e,Olivia Abreu,26,4,3,3,5,5,1,4,1,2,São Paulo,Otorrinolaringologista,Casado,8,4,Alugado,False,42330,542121,1119842,377781,81.77,57,Rocketseat Visa Life Basic
+706189b2-3bd4-41d2-a78b-d2376dd01314,João Guilherme das Neves,34,3,3,1,4,1,3,5,2,5,Manaus,Obstetra,Casado,9,3,Próprio,False,24656,377808,1175139,292286,86.67,26,Rocketseat Visa Travel Basic
+9d0989fc-1232-47f6-97f3-eacf796ff9fc,Pietro Azevedo,74,2,2,3,4,5,5,4,1,1,Belo Horizonte,Arrumadeira,Divorciado,7,3,Próprio,False,6138,399581,1286946,150220,76.81,41,Rocketseat Visa Shopping Basic
+c65457fe-2b41-43f9-98f3-5612a90d2400,Igor da Mata,56,3,5,5,4,4,2,2,1,2,Goiânia,Garçom,Casado,8,6,Alugado,True,43247,414664,568848,465406,72.19,43,Rocketseat Mastercard Life Basic
+57808ada-f55b-4ecf-bd9b-28b811fb5423,Gabriela Aragão,43,5,1,1,4,5,1,1,3,5,Belo Horizonte,Oftalmologista,Solteiro,20,4,Próprio,True,7750,100195,133782,491149,81.48,0,Rocketseat Mastercard Travel Basic
+4f51ccce-c95a-4c9e-9ae7-6fb608e13a48,Lorenzo Cunha,65,2,1,1,3,3,4,4,5,3,Recife,Estoquista,Viúvo,4,6,Alugado,False,19623,464687,1313825,66276,65.39,130,Rocketseat Visa Shopping Select
+741400da-a32f-451a-8afd-9b6ae1f3a7d4,Sabrina Cavalcante,51,4,5,2,1,4,3,3,4,3,Belo Horizonte,Estatístico,Divorciado,0,1,Alugado,False,42929,670593,1119426,162351,70.26,157,Rocketseat Visa Life Select
+316c1990-7f81-405f-b1c3-1ddca0e1dbbf,Daniel da Cunha,48,4,3,1,4,3,5,2,1,5,Brasília,Gerente de riscos em seguros,Casado,13,5,Próprio,False,36068,8721,1442358,483439,86.2,7,Rocketseat Mastercard Shopping Basic
+ddd428e6-c394-411a-b799-536807c22fc0,Gabriel Silveira,28,2,3,1,4,2,5,5,3,3,Belém,Corregedor de justiça,Divorciado,13,2,Alugado,True,47854,772924,1354740,204327,77.2,134,Rocketseat Mastercard Shopping Select
+5ec34c24-29be-4a23-82f2-9030bce3fa33,Sr. Vicente Caldeira,36,5,4,2,3,1,2,1,5,1,Belo Horizonte,Militar da Aeronáutica,Solteiro,9,3,Alugado,False,8232,667830,954923,323868,81.29,19,Rocketseat Mastercard Travel Basic
+9c574481-3d5b-48c4-958f-8d7528229b28,João Felipe Sales,32,4,3,4,3,4,1,3,1,2,São Paulo,Médico legista,Divorciado,12,1,Próprio,True,6911,158003,30880,258777,14.78,0,Rocketseat Mastercard Travel Basic
+2c2cc977-35c6-4376-bec8-69382b3e8eee,Matteo Souza,75,2,4,4,2,1,2,4,1,5,Belém,Artista de circo,Casado,15,4,Próprio,False,17389,856949,800225,434242,62.94,48,Rocketseat Mastercard Shopping Basic
+2216131e-c220-4c57-8fba-8648526b7fd8,Srta. Manuella Costela,58,1,3,4,3,2,3,1,2,1,Porto Alegre,Profissional de educação física,Viúvo,10,1,Alugado,False,48725,44235,1561800,491478,82.41,29,Rocketseat Mastercard Life Basic
+2e1e71fe-d7b2-4408-8290-83200d8b519c,Renan Barbosa,43,4,5,2,3,1,2,2,4,1,Belém,Surfista,Divorciado,20,1,Alugado,False,16931,9363,88066,304651,88.41,0,Rocketseat Mastercard Life Basic
+0734cb14-7b3a-428c-874c-fc8efb9dce1c,Mariane Dias,62,3,5,3,4,2,1,4,3,2,Curitiba,Tecnólogo em desenvolvimento social,Solteiro,15,6,Próprio,False,36150,829912,225216,65969,10.42,455,Rocketseat Visa Life Platinum
+e7a80b2d-2aa3-43c4-ab1e-eb7476688dfe,Valentim Duarte,30,4,3,5,5,2,1,5,2,4,Curitiba,Empacotador,Divorciado,17,3,Próprio,True,38139,195692,1140054,182276,81.16,63,Rocketseat Visa Life Basic
+55b1b605-e73f-4bca-ba6d-aa262dcc9e67,Dr. Davi Fernandes,64,5,2,3,1,5,4,2,5,4,Florianópolis,Levantador de peso,Casado,19,3,Próprio,False,13159,925821,39258,324919,0,127,Rocketseat Visa Travel Select
+b2bfb65e-4b9a-4aae-a975-0945148a9a18,Emanuelly Cavalcante,25,2,2,1,2,1,4,2,1,1,Manaus,Militar do Exército,Viúvo,15,5,Próprio,True,7308,548615,1381794,34959,77.64,75,Rocketseat Visa Shopping Basic
+391118c6-028f-49cd-b948-8dfc07f4a30a,Marcos Vinicius Abreu,32,2,4,1,4,1,3,5,4,3,Florianópolis,Músico,Solteiro,19,3,Alugado,True,40711,752715,148633,6860,0,561,Rocketseat Visa Travel Platinum
+686bd247-967e-43a4-9c08-02aa78c1fd99,Cauã Rodrigues,22,5,4,2,2,5,2,5,2,5,Goiânia,Aviador,Viúvo,3,6,Próprio,False,15149,544719,203673,53071,44.68,145,Rocketseat Visa Travel Select
+168f8255-8895-439b-8d9b-3374fcb54a0e,Matheus Cirino,74,5,3,2,5,5,4,3,3,5,Brasília,Lixeiro/Coletor de lixo,Divorciado,13,6,Próprio,False,7822,174912,1661912,94579,78.09,45,Rocketseat Mastercard Travel Basic
+929cf90a-3ebb-44cd-a0f3-b94fdde5fd05,Erick Campos,54,3,3,4,4,4,1,1,3,5,São Paulo,Necromaquiador,Casado,9,1,Próprio,True,36758,224319,786564,401451,79.94,24,Rocketseat Mastercard Shopping Basic
+cfa1ccae-482f-4a18-8a64-183fb26fe18c,Thomas Sampaio,72,3,5,5,5,5,5,2,1,1,Fortaleza,Tecnólogo em negócios imobiliários,Divorciado,4,2,Próprio,False,21637,22755,1618001,430933,83.64,0,Rocketseat Mastercard Life Basic
+14949aa2-102e-401e-9714-9c2ef5cb96a9,Brayan Fernandes,32,5,2,1,3,4,2,4,5,1,Manaus,Supervisor,Divorciado,1,6,Próprio,True,17793,850472,629779,48184,58.41,175,Rocketseat Mastercard Travel Select
+2ecdeb2b-a314-44cb-9ae3-4a95d4af6856,Heloisa Dias,76,1,2,5,1,4,1,3,5,1,Brasília,Tecnólogo em recursos pesqueiros,Casado,10,5,Alugado,True,22914,364831,1845058,428417,77.16,31,Rocketseat Mastercard Life Basic
+a364fa09-6859-4150-9906-e183ed777bb4,Alexandre Pacheco,61,5,1,2,4,3,4,2,2,3,Rio de Janeiro,Angiologista,Viúvo,18,6,Alugado,False,48944,411967,934524,394705,74.49,75,Rocketseat Visa Travel Basic
+a35d48b0-7c1b-4f3c-a0a8-ff91b5e73f09,Isabella Araújo,23,2,4,5,2,4,4,5,2,5,Manaus,Prefeito,Casado,7,1,Próprio,False,27117,526199,911193,405707,85.32,21,Rocketseat Visa Life Basic
+7d2f1142-f76f-4192-9a40-98d448d0057a,Aylla Alves,61,3,3,2,3,3,5,1,3,2,Brasília,Ortesista,Viúvo,19,2,Próprio,True,38749,93946,235992,352189,74.9,20,Rocketseat Mastercard Shopping Basic
+9d249dd3-a05c-4a4f-b09d-6fefd0f05eb4,Mirella Monteiro,30,1,1,1,2,5,2,3,1,3,Goiânia,Professor,Solteiro,9,4,Próprio,True,45915,391979,327137,397270,71.95,56,Rocketseat Visa Shopping Basic
+427c01e9-9c4f-46a1-870a-eeff546c5f3e,Heloísa Cavalcante,31,3,5,4,5,2,1,4,5,5,São Paulo,Jóquei,Divorciado,5,1,Próprio,True,49497,564139,444334,106850,56.94,226,Rocketseat Visa Life Elite
+618d2cb8-727e-4516-a23e-494dd4e48152,Davi Lucca Silveira,21,3,3,1,1,3,4,2,4,5,Goiânia,Gourmet,Solteiro,10,4,Alugado,True,31471,686563,1982178,4369,37.2,410,Rocketseat Mastercard Shopping Platinum
+fd285b1a-2802-481d-8768-71ab3809f751,Dra. Ana Carolina Fernandes,50,2,5,3,3,4,4,2,1,3,Belém,Montador de negativos,Divorciado,11,6,Próprio,True,31014,587923,1942696,373539,78.47,69,Rocketseat Visa Life Basic
+456cfd94-b318-4eb8-98c6-91d77c560ff8,Dra. Rebeca Azevedo,69,1,5,3,2,2,3,4,2,1,Goiânia,Ginasta rítmica,Viúvo,16,6,Alugado,False,5063,656190,540392,460679,65.82,0,Rocketseat Mastercard Life Basic
+ea78c0aa-b893-437f-bd23-2c6efa77460f,Yan da Mata,54,4,5,2,2,2,5,5,2,2,Curitiba,Soldador,Casado,13,2,Alugado,False,11010,447180,655114,476963,77.93,0,Rocketseat Mastercard Life Basic
+d3e2eaf8-53b3-46b2-a2b0-728d02760c29,Stella Almeida,53,2,1,3,4,4,3,4,3,2,Florianópolis,Papiloscopista,Casado,3,2,Alugado,True,35928,994680,1508776,62069,55.78,304,Rocketseat Visa Life Elite
+d84077bd-fda9-445e-bf47-33fb2c7eede2,Davi Luiz Câmara,56,1,3,1,4,2,5,5,4,3,Belo Horizonte,Cientista,Viúvo,15,4,Alugado,True,38161,642108,484256,312664,60.74,116,Rocketseat Mastercard Shopping Select
+2a75b51d-5ca8-4311-926b-60dbb30d755b,Samuel da Rosa,32,4,2,2,2,1,2,4,5,4,Goiânia,Baterista,Divorciado,14,2,Próprio,False,3112,428436,1603354,7871,75.61,75,Rocketseat Mastercard Shopping Basic
+f6b635ff-4212-4948-af85-0c49379d4e93,Nina Novaes,56,5,5,5,5,5,1,5,1,4,Fortaleza,Hostess,Solteiro,7,5,Próprio,True,49190,864371,797702,377592,64.4,153,Rocketseat Visa Travel Select
+95d85dbf-2009-4e56-97a5-cb49f904a7e0,Cecília Pinto,51,3,3,4,2,4,3,5,1,5,Campo Grande,Ferroviário,Casado,14,6,Próprio,True,42330,51690,398145,152661,74.47,69,Rocketseat Mastercard Travel Basic
+30b43f68-586f-4793-8d1d-9bce3fd1155f,Nicole Rodrigues,29,4,4,3,4,1,2,4,5,2,Campo Grande,Timoneiro,Viúvo,2,3,Próprio,True,39367,983399,1875541,364964,81.78,92,Rocketseat Mastercard Shopping Basic
+ec781d41-f7f6-4c97-a3a2-d984057dd53a,Anna Liz da Conceição,23,5,4,5,5,2,4,5,4,1,Florianópolis,Militar da Marinha,Casado,10,5,Alugado,True,8481,740532,942456,332436,82.79,20,Rocketseat Mastercard Travel Basic
+df978a75-858a-4a9a-829f-97c9c2b12fd8,Yuri Pimenta,29,4,3,2,1,2,2,1,5,3,São Paulo,Médico legista,Viúvo,15,4,Alugado,False,47664,53802,879926,161513,79.71,72,Rocketseat Mastercard Shopping Basic
+db37bfda-9284-478e-b3d4-63068a77d9d0,Josué Marques,31,1,5,5,1,2,5,3,5,5,Vitória,Gestor público,Casado,1,2,Alugado,True,39591,691505,997640,237889,75.34,107,Rocketseat Visa Life Select
+99ec42a3-58d8-4031-8d86-dd2748c3a1ab,Sr. Anthony Marques,20,5,3,3,1,1,1,4,2,2,Belém,Odontopediatra,Divorciado,19,6,Alugado,False,10527,895304,68015,349698,0,80,Rocketseat Visa Travel Basic
+e7d23ee5-59f6-40a8-91d7-71e6221a8329,Maria Julia Aragão,77,4,1,4,5,1,3,4,2,1,Goiânia,Ciclista,Divorciado,10,5,Próprio,True,3348,97649,1611686,156916,80.2,18,Rocketseat Mastercard Life Basic
+623a6039-01bc-4f58-b06a-2e19f0ef1f42,Lara Mendonça,57,5,1,4,5,3,4,5,3,3,Recife,Operador de vídeo,Divorciado,4,5,Próprio,False,4813,114611,1198243,382587,88.47,0,Rocketseat Visa Travel Basic
+67c6a076-0bc3-4918-9ec6-3b890af685d2,Vitória Ramos,69,2,1,1,1,4,1,2,5,4,Salvador,Ferramenteiro,Solteiro,10,3,Alugado,True,12790,926588,1278016,122013,69.72,124,Rocketseat Mastercard Shopping Select
+f06f6717-43a8-4187-b386-5ad21b8b99a8,Davi Luiz Correia,62,5,5,3,1,1,3,3,4,5,Manaus,Clarinetista,Solteiro,5,2,Próprio,False,19456,266776,1657160,35565,62.41,140,Rocketseat Visa Travel Select
+e710ada9-1b15-4255-a39f-4d388b382c68,Ana Cecília Rocha,76,2,4,5,3,4,4,1,5,3,Manaus,Radiooperador de vôo,Divorciado,17,5,Alugado,True,32096,835981,74571,338507,0,244,Rocketseat Visa Life Elite
+55226f26-a10d-4b18-9d6a-674ae7f1dc38,Lucas Gabriel Rezende,69,3,4,5,2,5,5,4,2,5,Rio de Janeiro,Gerente de banco,Divorciado,10,6,Alugado,False,24173,69429,313115,147041,75.16,32,Rocketseat Visa Life Basic
+d4ca2567-a21b-4bd7-8317-cc2c8e65e26a,Zoe Santos,23,3,2,5,3,2,1,3,1,2,Campo Grande,Imunologista,Solteiro,14,5,Alugado,False,33574,919652,498371,194816,60.01,175,Rocketseat Mastercard Life Select
+c3209a88-d917-42fd-8d4c-b45ef4f24558,Gabriel Ferreira,30,3,3,2,1,5,2,2,1,4,Salvador,Boxeador,Solteiro,0,3,Alugado,True,23289,968503,1013914,384010,79.11,57,Rocketseat Visa Shopping Basic
+03b3e65d-0f57-4052-a2ee-4b5d71368e4e,Isis Andrade,47,3,1,5,3,2,3,2,2,3,Curitiba,Windsurfer,Divorciado,14,6,Alugado,False,4023,108111,1091730,401699,89.46,0,Rocketseat Mastercard Life Basic
+463142d4-cdf7-4f72-b75e-3de86d356781,Manuella da Rocha,28,1,2,5,3,5,3,3,2,3,Manaus,Controller,Casado,5,1,Próprio,False,18933,120020,31995,326602,36.24,0,Rocketseat Visa Life Basic
+3a0c108f-5b9b-41d2-b553-2c34a1f3ec17,Giovanna Cunha,21,1,4,1,1,4,4,2,5,5,Belém,Tecnólogo em Ciências das plantas medicinais,Viúvo,19,3,Próprio,False,9524,30401,987204,473585,96.48,0,Rocketseat Mastercard Shopping Basic
+166c3ffc-a558-4017-990b-a9b6f8ffb34d,Thomas Correia,63,4,5,2,1,4,1,4,3,4,Fortaleza,Delegado,Casado,7,2,Próprio,False,44966,848612,1118798,41180,46.42,371,Rocketseat Visa Life Elite
+358a6e7d-f53b-446b-8723-85460fd4a7ad,Dra. Isabel Moreira,29,3,4,4,1,1,4,1,3,4,Fortaleza,Deputado,Casado,9,3,Alugado,True,46849,961821,1394984,173186,73.58,176,Rocketseat Visa Life Select
+f197fe77-d63f-43bb-a91d-ca08bac5b5e3,Ana Beatriz Sousa,70,1,3,5,4,4,5,4,2,5,Porto Alegre,Sociólogo,Casado,15,4,Alugado,False,47810,835461,224356,170849,16.3,434,Rocketseat Mastercard Life Platinum
+506aa4a1-f238-4ef3-809d-afd5b12bceaf,Dr. Breno Rios,70,5,3,5,2,2,1,5,4,1,Manaus,Técnico em desporto,Viúvo,10,5,Alugado,False,46485,619677,904183,411206,71.03,92,Rocketseat Mastercard Travel Basic
+76b2ecc9-b521-4d52-ba0d-668c28f1533d,Pedro Andrade,37,5,4,3,4,1,1,2,2,5,Campo Grande,Barbeiro,Solteiro,4,6,Alugado,False,27594,72988,1254640,57013,73.74,85,Rocketseat Visa Travel Basic
+2779c7bb-0bf6-4f9f-9546-ba568bdda283,Diego Duarte,42,3,3,5,3,4,3,1,5,1,Manaus,Coveiro/Sepultador,Viúvo,4,3,Alugado,False,41342,606005,937762,102585,63.6,191,Rocketseat Mastercard Life Select
+3d7079a8-c8be-46d1-accc-cf0fdfe7bbcf,Mirella Rezende,18,3,1,2,4,5,4,3,4,4,Salvador,Digitador,Viúvo,17,2,Alugado,False,47095,587234,1721244,188347,78.93,121,Rocketseat Mastercard Shopping Select
+27f44bfb-8587-4087-b5da-3e789de70b19,Srta. Larissa Barros,30,4,2,3,2,2,1,1,1,2,Goiânia,Optometrista,Viúvo,13,2,Alugado,True,37400,403277,1768586,484694,86.58,28,Rocketseat Visa Travel Basic
+dcbc0ac5-5bdf-406b-852f-99e4344d5137,Luiz Felipe Rios,73,4,5,2,4,5,4,5,4,4,Brasília,Tecnólogo em irrigação e drenagem,Casado,5,4,Alugado,False,30886,936989,1654502,364584,71.59,114,Rocketseat Mastercard Life Select
+3823b804-3418-4712-8dfe-5fcf18bfafbe,Sr. Otávio Aparecida,63,3,1,1,5,4,3,1,5,4,Goiânia,Bioquímico,Solteiro,4,6,Próprio,False,33881,282329,861589,485786,78.15,12,Rocketseat Mastercard Life Basic
+7a8f0aa5-1f24-4163-804e-528514ba5a49,Antônio Dias,51,1,5,5,3,5,1,3,5,1,Fortaleza,Químico,Viúvo,16,4,Próprio,False,40981,92742,514287,247700,79.18,43,Rocketseat Visa Life Basic
+9aab6659-ffa9-4120-9786-fd297b0876ac,Amanda Rocha,79,5,3,5,3,1,4,5,2,5,São Paulo,Kite-surfer,Divorciado,19,1,Próprio,False,20308,303257,351290,18521,39.39,166,Rocketseat Mastercard Travel Select
+51b347fb-7307-4c33-b9a8-57395bce5849,Aurora Fernandes,26,2,5,3,3,3,1,1,5,2,Campo Grande,Sonoplasta,Casado,14,3,Alugado,False,34134,80595,1785610,410917,89.61,15,Rocketseat Mastercard Life Basic
+9be1963f-5e2c-44ab-8dc1-eb8fac841789,Renan Borges,49,1,2,5,2,4,4,4,2,4,Goiânia,Angiologista,Casado,6,5,Próprio,True,12849,838202,1106014,451943,74.89,26,Rocketseat Visa Life Basic
+5615ac5c-afc4-4110-87b0-fa3c5d0ab706,Benício Garcia,66,3,4,5,2,4,4,4,3,2,Recife,Médico nuclear,Viúvo,0,3,Próprio,False,8601,55074,351483,243277,81.09,0,Rocketseat Visa Life Basic
+0b2191a7-606e-4b8a-a457-2974b809102c,Antônio Marques,79,3,4,5,3,3,3,3,1,3,Belém,Instrumentista musical,Viúvo,14,6,Alugado,True,35750,716047,86020,51046,0,469,Rocketseat Visa Life Platinum
+93a4477e-914b-48e0-9e0e-02f873d870f1,Sra. Cecília Gonçalves,61,1,1,1,4,1,5,1,4,3,Porto Alegre,Tesoureiro,Divorciado,8,2,Alugado,True,46238,188656,656974,287106,72.17,73,Rocketseat Mastercard Shopping Basic
+5f416eff-8ec1-46a6-85c0-53b9340cc8c9,Laura Sampaio,21,5,1,1,1,5,2,4,5,2,Campo Grande,Tecnólogo em produção moveleira,Solteiro,5,3,Próprio,False,39937,688500,1874784,438021,85.31,53,Rocketseat Mastercard Travel Basic
+5ff44bdd-bdfc-4655-b261-98403171b765,Dr. Vitor das Neves,58,3,3,2,1,3,1,4,4,3,São Paulo,Engenheiro mecatrônico,Divorciado,8,2,Próprio,True,30716,967516,579618,403365,58.35,113,Rocketseat Visa Travel Select
+14a55c7c-f3f6-4934-8c06-d7d828a6e213,Melina Viana,80,1,2,5,4,2,5,1,4,3,Rio de Janeiro,Estivador,Solteiro,2,1,Próprio,False,14151,639947,823414,93555,63.69,114,Rocketseat Mastercard Life Select
+cac25caf-85d4-4dbf-835c-51db4be47144,Dr. Heitor Silveira,75,1,4,3,2,3,4,5,1,5,Goiânia,Pescador,Viúvo,15,4,Próprio,True,33617,156085,1369157,335720,74.08,48,Rocketseat Mastercard Travel Basic
+b6104d18-0831-4575-af08-f46fc69e5883,Eloá Vieira,18,5,5,3,3,3,4,1,1,3,Recife,Engenheiro cartográfico,Divorciado,2,4,Próprio,True,26193,722742,1715421,408855,87.98,33,Rocketseat Mastercard Travel Basic
+e8bb89c5-cff4-478a-a057-2089471b81ab,Sra. Ana Julia Rezende,53,4,1,3,4,1,4,2,2,1,Porto Alegre,Plastimodelista,Solteiro,18,2,Próprio,False,3577,402824,1385659,100140,81.81,38,Rocketseat Mastercard Travel Basic
+5590bbd4-0639-497b-9c08-b51e316a1831,Theodoro da Luz,68,4,1,1,3,1,3,1,4,1,Porto Alegre,Regente,Viúvo,17,2,Alugado,True,36425,674661,645358,261978,62.66,130,Rocketseat Mastercard Travel Select
+7d709213-2a91-462f-b04b-549f39700dcd,Luan Lopes,65,5,1,2,2,1,2,1,3,1,Fortaleza,Preparador de máquinas,Casado,18,1,Alugado,True,10279,512643,1371184,9994,50.07,182,Rocketseat Visa Travel Select
+cc793821-6b62-4d88-b661-681817dee2ed,Maria Laura Alves,56,3,4,3,1,5,5,2,3,2,Florianópolis,Digitador,Solteiro,18,2,Próprio,True,41345,231287,132351,421765,55.44,34,Rocketseat Mastercard Shopping Basic
+f6fd572a-ccc8-4ed6-9272-27d9dcc2d81d,Theo da Costa,35,5,2,4,2,5,1,2,1,5,Salvador,Investigador de Polícia,Casado,0,4,Alugado,True,10256,794348,870641,88107,74.79,85,Rocketseat Mastercard Travel Basic
+7672cedf-6255-493c-a3c8-20ff7df09b93,Olivia Alves,29,4,4,2,2,2,3,5,4,4,Porto Alegre,Dublê,Casado,19,6,Alugado,True,6841,741071,1366830,311285,87.76,20,Rocketseat Visa Travel Basic
+d9dc7ab5-6ae5-4de9-80f5-5940d89ae0ff,Erick Brito,57,4,1,5,2,2,1,5,1,5,Brasília,Engenheiro industrial,Casado,14,6,Alugado,False,6768,657658,1733261,410298,80.59,19,Rocketseat Mastercard Life Basic
+f4a58a3e-eec9-44da-a8fe-bcf1f7edbfa7,Sra. Beatriz Souza,30,4,4,2,2,1,1,3,3,2,Salvador,Comandante,Divorciado,10,5,Próprio,True,8384,835309,312931,359265,55.31,28,Rocketseat Mastercard Travel Basic
+3928e15d-06ec-4f96-9bab-8593e0d8cb24,Sr. Theodoro Jesus,65,1,4,5,1,1,2,4,5,5,Brasília,Técnico em taquigrafia,Viúvo,6,6,Próprio,True,4437,969787,1126926,92215,68.88,114,Rocketseat Mastercard Life Select
+2eff59e5-0d49-4687-9e09-00e18cd56f84,Maya Castro,38,2,4,2,1,4,5,4,1,4,Belo Horizonte,Técnico em segurança do trabalho,Casado,19,4,Alugado,False,15927,102827,497273,386792,87.09,0,Rocketseat Visa Shopping Basic
+0858edca-a3e1-4734-8cbb-6dd8951fa2a4,Sr. Breno Rocha,26,3,2,3,2,1,5,1,3,2,Rio de Janeiro,Profissional de educação física,Viúvo,14,4,Alugado,False,30998,754787,407172,331361,62.35,94,Rocketseat Mastercard Shopping Basic
+a60266f7-aaea-4a1e-ba9c-84bf2f4063b7,Yan Garcia,74,5,2,5,5,2,1,4,5,4,Vitória,Cadista,Casado,18,4,Próprio,False,20343,632958,328808,413949,53.79,25,Rocketseat Mastercard Travel Basic
+6ec2deab-0327-4ab0-8384-6af2c0db55ef,Heloisa Araújo,64,4,5,2,5,2,5,1,4,1,São Paulo,Técnico em higiene dentária,Viúvo,16,1,Próprio,False,29056,771939,1829971,129317,67.9,174,Rocketseat Visa Life Select
+2ec5417e-1b05-451a-8f78-f252f72f367b,Manuella Melo,69,1,5,1,4,2,2,3,3,2,Belém,Engenheiro de energia,Solteiro,0,4,Próprio,True,46655,861186,205519,237209,12.51,405,Rocketseat Visa Life Platinum
+15bbd366-94eb-4759-bfc3-ac6f411ca963,Esther Monteiro,72,4,2,4,2,3,4,1,1,4,Campo Grande,Viveirista,Divorciado,16,1,Próprio,False,38380,783586,1224023,12799,32.28,443,Rocketseat Visa Travel Platinum
+fa75df8f-9be7-406e-97b1-e282b8c6a327,Ravi Lucca Mendes,62,1,5,3,1,5,3,1,1,4,Brasília,Contra regra,Viúvo,19,1,Próprio,False,41140,568784,1206343,416535,73.07,77,Rocketseat Mastercard Life Basic
+d23d5bc8-6936-454a-a9ab-0d87003f63d2,Maria Clara Jesus,59,2,2,3,2,5,1,4,5,2,Florianópolis,Webmaster,Casado,10,3,Próprio,False,37620,739113,140521,293998,3.09,292,Rocketseat Visa Shopping Elite
+06dbb356-1ed2-40d1-ada1-58c7f64dbd3a,Letícia Castro,21,5,1,4,5,5,3,4,5,3,Florianópolis,Ferreiro,Solteiro,6,4,Alugado,True,5152,390923,723992,237193,87.81,5,Rocketseat Visa Travel Basic
+be670e28-bb81-4086-aa3b-526356224a5a,Dr. Calebe Barbosa,75,1,2,4,2,2,5,1,3,4,Belém,Sushiman,Casado,15,3,Próprio,False,12718,302380,161370,57338,43.07,93,Rocketseat Mastercard Shopping Basic
+ff49c05c-83fe-4225-8476-8241bc70f3fd,Caleb Mendes,36,5,3,4,5,3,3,4,5,5,Vitória,Inspetor,Viúvo,14,3,Alugado,False,13390,66007,46214,457070,71.88,0,Rocketseat Mastercard Travel Basic
+fadaa1ff-3898-4250-b0e6-75857b1ec93a,Ana Sophia Cavalcanti,68,1,2,3,3,4,2,5,2,5,Curitiba,Levantador de peso,Casado,5,6,Alugado,True,18039,237798,1015531,194983,79.26,33,Rocketseat Mastercard Travel Basic
+0f61a6a6-1374-428e-bf19-6a8267018997,Brenda Nogueira,25,3,2,2,5,1,3,3,2,3,Fortaleza,Vistoriador de sinistros,Casado,17,3,Alugado,True,3696,332006,1204866,66308,88.65,22,Rocketseat Visa Life Basic
+26787673-0f30-4b69-8304-df2707c1fa50,Maria Eduarda Cavalcanti,77,3,2,1,5,5,3,3,4,3,Florianópolis,Infectologista,Casado,18,6,Próprio,False,33729,805849,304892,496914,39.58,87,Rocketseat Mastercard Life Basic
+87ed5518-b47d-45c2-a9db-a34e6e903b21,Theodoro Lima,64,1,3,1,4,5,2,4,3,1,Brasília,Operador de vídeo,Solteiro,19,6,Alugado,True,32390,943901,84055,73097,0,492,Rocketseat Visa Shopping Platinum
+87bd2527-3b72-4ffe-9249-162738a65cc8,Luna Martins,30,1,5,4,2,4,3,5,5,5,São Paulo,Somelier,Divorciado,12,2,Próprio,False,2477,87649,1129132,445357,93.23,0,Rocketseat Visa Life Basic
+da6dbb68-f43c-4801-a36d-d833e056d51d,João Felipe Casa Grande,41,4,5,1,2,4,4,4,3,2,Florianópolis,Economista,Viúvo,13,2,Alugado,True,1798,298477,723350,184211,84.52,4,Rocketseat Mastercard Life Basic
+0e00f8f7-a1da-46d8-88e6-44cadf6315dd,Guilherme Aparecida,37,5,4,1,1,4,3,4,2,5,Fortaleza,Ortopedista,Casado,6,2,Próprio,False,32104,909666,1101636,175854,69.43,153,Rocketseat Visa Travel Select
+79c2bbb0-7de7-46dd-914c-b89665e38ec8,Alexandre da Rocha,20,4,2,1,1,2,3,3,4,1,Belém,Caça-talentos/Olheiro,Divorciado,13,2,Próprio,True,20791,875126,1227270,159338,79.85,85,Rocketseat Mastercard Travel Basic
+41f0c086-7ef2-4ba3-8d23-e887cbca8a38,Mateus Pereira,25,5,4,5,4,3,4,1,3,5,Goiânia,Dentista,Solteiro,8,2,Alugado,True,19167,517000,139932,313991,38.61,44,Rocketseat Visa Travel Basic
+2897d527-f727-4a32-8c44-d316177ee4de,Benjamim da Costa,47,3,4,3,1,3,3,5,1,5,Porto Alegre,Agente penitenciário,Casado,3,5,Alugado,False,46434,142079,749491,85620,64.57,149,Rocketseat Visa Travel Select
+e1cc3c81-c739-4e0e-8f3e-d7408543e319,Emilly Pacheco,70,3,1,5,5,3,2,1,2,5,Curitiba,Traumatologista,Divorciado,15,4,Próprio,True,45890,838732,631394,142322,51.37,276,Rocketseat Mastercard Life Elite
+c1fffeb8-0121-4a53-86b2-ba6decc5561b,Emanuel Marques,31,5,5,5,5,5,1,4,4,1,Rio de Janeiro,Torreiro/Torrista,Casado,0,4,Próprio,False,11128,527835,463708,435984,74.62,0,Rocketseat Visa Travel Basic
+bb620248-01c5-4e81-9f52-f0eda4f05bc9,Sr. Joaquim da Cruz,26,3,2,3,1,1,2,2,2,2,Curitiba,Fiscal,Casado,6,2,Alugado,False,29962,932945,1253360,274266,80.24,84,Rocketseat Mastercard Travel Basic
+e27596c1-fa71-4802-8659-3fa83eed039e,Sr. Paulo Araújo,22,2,1,1,5,5,1,4,1,3,São Paulo,Figurante,Solteiro,9,6,Alugado,True,2232,812323,1015556,397061,84.32,7,Rocketseat Mastercard Life Basic
+2252fe75-ddad-4a04-965f-a9f6bcd14858,Henrique da Cunha,76,3,1,1,2,3,5,3,3,2,Vitória,Profissional de manutenção industrial,Casado,16,5,Alugado,True,40439,215378,1232292,472475,74.65,34,Rocketseat Mastercard Shopping Basic
+7808e09c-7db4-4700-ae1e-3d9d5fb7b24b,Raquel Moraes,51,5,1,1,2,5,4,3,5,2,Fortaleza,Moldureiro,Solteiro,5,3,Próprio,False,15221,750582,401704,147774,54.48,122,Rocketseat Mastercard Travel Select
+98fc83f2-23cd-4a6b-9175-4450a4ed9f9d,Dr. Miguel Nunes,50,1,4,1,5,2,4,3,3,5,Goiânia,Engenheiro aeronáutico,Solteiro,2,3,Próprio,True,15912,427376,236654,399197,63.03,0,Rocketseat Visa Life Basic
+e5f5dd31-c6fc-445b-bc8a-5194e93d0920,Henry Gabriel Farias,36,4,2,5,4,3,4,2,1,4,Belém,Arranjador musical,Divorciado,5,1,Próprio,True,30946,629554,1543869,163581,78.77,98,Rocketseat Visa Life Basic
+769e3fa1-4efa-46bf-82f0-62fc78421418,Dra. Maria Alice Santos,46,4,4,5,1,2,1,3,2,3,Porto Alegre,Infectologista,Viúvo,3,2,Próprio,False,35253,690537,1418762,44567,55.3,266,Rocketseat Visa Life Elite
+3a5bc784-f5ae-48c2-849c-24b088169f71,Enzo Campos,66,4,3,4,5,4,4,5,3,2,Florianópolis,Transcritor,Viúvo,3,1,Próprio,False,47759,803180,1220371,311243,67.01,164,Rocketseat Visa Life Select
+921dfaf7-a3cb-4850-8cad-72a095fe9c92,Srta. Ana Liz Cunha,32,1,1,4,1,2,4,5,3,2,Curitiba,Policial militar,Solteiro,2,6,Próprio,False,42180,988181,282294,15583,0,650,Rocketseat Mastercard Travel Platinum
+255c9d7a-4f60-42df-89a3-eb8fd8952269,Sra. Ana Beatriz da Mata,36,3,5,5,1,1,4,1,4,4,Brasília,Profissional de marketing,Viúvo,14,4,Alugado,True,44390,522084,1028129,264657,76.07,96,Rocketseat Mastercard Life Basic
+cf49c301-b649-46ca-bb91-7cad736c9ce9,Juliana Nogueira,53,2,4,4,2,3,4,4,1,5,Belém,Pizzaiolo,Viúvo,17,6,Próprio,False,44215,902153,1634483,158882,69.83,199,Rocketseat Mastercard Shopping Select
+d2e0e3b7-e577-443f-b8bc-af387de271f4,Paulo Castro,50,4,5,3,3,3,1,1,5,1,Belo Horizonte,Cientista social,Divorciado,11,6,Alugado,False,4652,410396,552370,259360,78.25,2,Rocketseat Visa Life Basic
+07de4039-2879-44ac-9110-eb9e99b769d0,Benício Souza,24,2,2,2,3,5,1,1,3,1,Brasília,Major,Casado,0,5,Próprio,True,29059,361908,749450,215969,81.4,45,Rocketseat Visa Shopping Basic
+0baf1490-4cbf-46bc-9ca4-f39803b794d6,Bernardo Martins,60,1,4,5,1,3,4,5,4,3,Manaus,Selecionador de pessoal,Solteiro,15,1,Alugado,False,28687,595642,1079529,472598,75.4,34,Rocketseat Visa Life Basic
+c5bd0343-7ea4-49bb-8672-891323261407,Sr. Miguel Carvalho,50,4,2,4,1,5,2,3,3,1,Curitiba,Empacotador,Viúvo,7,5,Alugado,True,44737,356032,349442,322346,66.4,81,Rocketseat Visa Shopping Basic
+1344c41a-a749-4ed0-af3c-c114d3b3dbe1,Aylla Viana,35,2,3,1,3,5,3,4,5,3,Porto Alegre,Gestor de recursos humanos,Viúvo,12,3,Próprio,True,5408,593943,1680208,278430,87.18,21,Rocketseat Mastercard Shopping Basic
+a40cb0f6-da38-40ac-83bb-ee79fdb0039d,Vitor Câmara,58,2,4,3,5,5,4,5,1,5,Porto Alegre,Geógrafo,Divorciado,14,2,Alugado,True,47093,541300,1809233,97800,64.39,229,Rocketseat Visa Life Elite
+a19ef230-bf69-4422-ba73-e6eae01d1b0c,Sr. Luan Alves,72,1,2,4,3,3,2,3,5,2,Salvador,Coordenador,Casado,3,2,Alugado,True,29533,430189,668264,450985,72.81,19,Rocketseat Mastercard Shopping Basic
+8fef3ab9-797a-48d5-9d97-aeacadbc2f5b,Sabrina Garcia,69,4,1,2,2,3,2,1,3,3,Belém,Químico farmacêutico,Casado,20,1,Próprio,True,21351,486706,1017920,293509,76.47,43,Rocketseat Mastercard Travel Basic
+f42ba31e-9590-447a-aa61-297c9efcd3ff,Dr. Mateus Nascimento,73,4,3,1,4,2,2,1,5,5,Campo Grande,Preparador de máquinas,Solteiro,16,6,Próprio,False,6500,329153,1261646,156226,79.78,31,Rocketseat Mastercard Shopping Basic
+92983bb8-5062-4175-b2d3-10f51c8f0dc0,Daniela Ramos,33,5,4,2,4,2,2,1,2,2,Curitiba,Panificador/Padeiro,Viúvo,13,3,Alugado,False,40309,128216,1621498,422936,86.91,24,Rocketseat Visa Travel Basic
+200f58ff-3166-44b2-a1e5-6be5ef7d7d4a,Isadora Carvalho,62,2,3,2,3,4,3,3,1,5,São Paulo,Maestro,Solteiro,7,3,Próprio,False,8403,331863,1144510,222183,80.34,20,Rocketseat Visa Shopping Basic
+0404c81f-2435-4b10-85e9-ae43c800c545,Ana Liz Cavalcante,75,4,4,1,4,3,3,1,2,3,Porto Alegre,Massagista,Casado,14,6,Próprio,False,45908,127982,1121789,454533,75.22,38,Rocketseat Mastercard Travel Basic
+f8d37cc4-0de6-4fca-81a4-a3be98ea611d,Ana Liz Costela,35,4,3,4,1,2,3,5,1,3,Salvador,Terapeuta ocupacional,Divorciado,14,6,Alugado,True,6249,863185,1634639,493090,85.04,12,Rocketseat Mastercard Travel Basic
+9f6be7aa-5061-4bb5-97da-4704f506743a,Manuela Barros,58,2,3,3,5,1,1,2,2,5,Goiânia,Esgrimista,Casado,19,6,Próprio,False,30058,829443,1344481,71351,58.48,235,Rocketseat Visa Life Elite
+ca0d22e4-5f38-4980-a74e-36ce3520ef57,Vitor Hugo da Rosa,48,3,3,2,1,4,3,2,4,4,Vitória,Turismólogo,Casado,0,1,Alugado,True,49180,139995,546685,90952,66.54,140,Rocketseat Visa Shopping Select
+c56bf784-e3c2-4ce9-90ce-24f07e384622,Srta. Bruna Santos,30,5,4,5,3,2,1,3,2,5,Rio de Janeiro,Subprefeito,Solteiro,16,4,Próprio,False,18156,735325,1786418,88476,76.36,112,Rocketseat Mastercard Travel Select
+0a551841-c863-4d76-8239-b4a079cdeb99,Eduarda Barros,32,3,3,4,4,2,4,2,5,2,Vitória,Engenheiro físico,Divorciado,6,4,Alugado,False,47764,213013,399600,496003,83.04,15,Rocketseat Mastercard Shopping Basic
+51c32328-6e1e-49bc-9fcf-81c5682b3a6c,Thiago Barros,19,2,3,5,4,1,1,4,2,3,Goiânia,Maestro,Viúvo,6,6,Próprio,False,20018,274516,493849,323842,85.67,5,Rocketseat Visa Life Basic
+74066d66-64af-4b01-98ab-ac227e884a0f,Gabrielly da Conceição,22,2,4,3,5,5,1,1,3,5,Manaus,Retificador,Viúvo,9,4,Próprio,True,7244,584056,123212,27322,12.49,196,Rocketseat Mastercard Life Select
+5dd477d6-6449-4b01-955e-0411b4a855ca,Dr. Luiz Gustavo Costela,55,3,4,2,1,3,5,4,2,3,Rio de Janeiro,Operador de vídeo,Divorciado,1,2,Próprio,False,12755,272935,356235,264108,74.46,2,Rocketseat Visa Shopping Basic
+bfe293d0-19b5-4067-aeed-da92f63819db,Rebeca da Rocha,77,3,5,3,4,2,3,4,2,5,Vitória,Engenheiro mecânico,Viúvo,1,2,Alugado,True,29186,296668,1893293,459767,76.13,34,Rocketseat Mastercard Life Basic
+0537377b-5b88-4715-89ad-9a07c52ac6b5,João Fogaça,29,4,1,4,1,4,3,5,4,4,Fortaleza,Oculista,Solteiro,4,1,Próprio,True,3350,493090,545729,85749,80.47,31,Rocketseat Mastercard Travel Basic
+0af854fe-3b43-4d3e-9e31-c178f56dfade,Mariane Guerra,73,3,5,5,2,5,1,5,5,2,Salvador,Gestor de recursos humanos,Solteiro,7,4,Alugado,False,19619,189430,1751024,88235,72.96,86,Rocketseat Mastercard Life Basic
+f37cc1ab-e700-43e5-9901-80a8d354855d,Alice Sousa,36,1,3,2,1,1,4,4,4,3,Manaus,Fotógrafo,Solteiro,10,1,Próprio,False,45650,713702,255833,206658,40.17,263,Rocketseat Mastercard Shopping Elite
+243a6634-8e3e-44bf-a4be-60c4a70d2801,Lucas Gabriel Teixeira,31,1,1,5,5,4,1,4,3,2,Porto Alegre,Técnico em higiene dentária,Viúvo,2,1,Alugado,True,4190,840494,1349819,148349,82.88,52,Rocketseat Visa Life Basic
+eb7e3175-711f-4b79-94aa-3ad3df06e0c2,Fernando da Luz,67,2,1,3,4,4,3,5,2,3,Belém,Moleiro,Solteiro,11,5,Alugado,False,27371,298776,1357209,394557,80.83,25,Rocketseat Visa Travel Basic
+658321cf-1cb0-4e9d-8535-f9327ba6e5e5,Sophie Novaes,74,1,4,3,5,2,4,4,1,1,Recife,Degustador,Divorciado,14,6,Alugado,True,26433,499583,563042,295204,66.26,61,Rocketseat Visa Life Basic
+3e4b1d2d-c70d-4b74-9c7e-2cdb7ef32d62,Sra. Isadora Albuquerque,51,4,1,4,3,2,2,3,2,5,Salvador,Árbitro e mediador,Divorciado,18,1,Alugado,True,42258,678665,1100329,44024,50.07,308,Rocketseat Mastercard Shopping Elite
+562cc03e-3538-4c7b-ba01-bbe9ef5af835,Eloá Vasconcelos,50,5,3,3,3,5,1,5,1,1,Goiânia,Engenheiro mecatrônico,Viúvo,5,2,Próprio,True,28847,433082,198148,243613,51.67,90,Rocketseat Mastercard Travel Basic
+fcb83a57-4b4d-40ef-874a-7a711e98caa6,Dr. Liam Gonçalves,44,4,5,3,3,2,2,2,1,5,Curitiba,Ceramista,Solteiro,13,5,Alugado,True,47162,312106,658393,307866,77.54,65,Rocketseat Visa Life Basic
+53092391-3528-4625-91a1-edfa211f0542,Davi Miguel da Costa,25,4,5,4,3,5,5,3,4,3,Rio de Janeiro,Contra regra,Casado,4,1,Alugado,True,1871,180077,1375314,250148,93.64,0,Rocketseat Mastercard Life Basic
+e4069b56-1049-4247-9d76-0b7a5a11b5e9,Rafael Pereira,62,2,2,4,5,2,1,3,4,2,Fortaleza,Jogador de handebol,Viúvo,0,1,Alugado,True,13335,900739,56235,109696,0,295,Rocketseat Visa Life Elite
+01a2249e-9d12-4618-bc04-562dce3a2f2e,Amanda Caldeira,79,2,2,3,5,4,1,3,1,1,Belém,Engenheiro de aquicultura,Viúvo,13,4,Próprio,True,32788,494392,41162,450780,0,54,Rocketseat Visa Life Basic
+07d369fc-99ae-4533-9b08-e91a16c1a1de,Maya Câmara,43,4,2,1,5,1,4,5,3,5,Rio de Janeiro,Biomédico,Divorciado,20,4,Próprio,True,32857,538292,1239499,379906,81.02,46,Rocketseat Visa Life Basic
+79dab04e-900c-4580-b028-c1b3222d2cac,Ana Lívia Lopes,57,2,3,2,4,3,4,2,5,2,Manaus,Promotor de vendas,Divorciado,19,6,Próprio,True,43348,363608,940206,365698,75.77,62,Rocketseat Visa Shopping Basic
+1627760e-ca2f-48dc-9528-f22142c7492d,Dr. Renan Sá,64,3,4,2,5,2,3,1,4,2,Belo Horizonte,Penhorista,Casado,5,5,Próprio,True,47621,409333,874221,436774,75.78,59,Rocketseat Visa Life Basic
+f99e8509-abb1-441e-9f9c-c3358956820f,Joana Melo,78,1,3,3,3,2,2,5,1,1,Brasília,Estoquista,Viúvo,3,5,Alugado,True,33356,318402,492241,109803,59.6,131,Rocketseat Mastercard Travel Select
+4f00ef2a-6b8d-4ba1-af05-b380eecd33af,Sofia Peixoto,49,5,3,2,5,5,1,1,4,4,Vitória,Engenheiro aeronáutico,Solteiro,3,5,Alugado,True,17896,356855,1646024,186248,83.08,45,Rocketseat Mastercard Travel Basic
+ef843e60-4314-45d9-8767-4080691e8adf,Rebeca Pimenta,28,2,3,4,5,4,1,2,3,3,Vitória,Corretor de imóveis,Casado,3,2,Próprio,False,42282,123794,1826345,107681,79.62,96,Rocketseat Mastercard Life Basic
+c40a07d8-df9c-49f9-9b41-f1f370bd9a24,Gabrielly Sales,33,3,3,4,3,2,2,5,4,2,Belo Horizonte,Corregedor de justiça,Viúvo,13,4,Próprio,False,32042,357900,601375,264777,77.2,48,Rocketseat Mastercard Travel Basic
+c2b536b9-23c2-4847-ab7d-56a45f1a21e9,Pietra Moreira,46,1,1,3,3,4,2,4,1,4,Florianópolis,Continuista,Solteiro,20,2,Alugado,False,10541,807562,20863,376242,0,28,Rocketseat Visa Shopping Basic
+6d2650b8-2f5d-47d9-9ece-8843c49cdf7e,Dr. João Guilherme da Costa,43,3,3,1,3,5,5,2,4,4,Belém,Cumim,Casado,17,5,Próprio,False,45621,734831,1161005,457989,75.84,81,Rocketseat Visa Shopping Basic
+4af79e34-a3a8-46ab-a572-4ddd22e4542e,Joaquim Fernandes,67,3,4,2,5,5,3,2,1,5,Recife,Locutor,Divorciado,16,3,Alugado,True,13929,923768,632357,44187,47.14,220,Rocketseat Mastercard Life Elite
+5bf92756-c307-40f7-9247-f4cabca5c6cb,Maria Sophia Caldeira,74,3,4,5,1,1,3,3,5,3,Rio de Janeiro,Flanelinha,Solteiro,20,1,Próprio,False,36385,621285,542512,126531,55.08,193,Rocketseat Mastercard Life Select
+5db26e5d-b6c3-4c8d-b63f-0ff2cc34817b,Emanuelly Sousa,47,5,5,5,2,3,3,3,5,2,Goiânia,Atleta de nado sincronizado,Viúvo,16,6,Alugado,True,23215,247565,1689020,390992,87.63,14,Rocketseat Visa Travel Basic
+c375c71b-5b73-4ae3-a8df-5165c5971470,Ana Julia da Mata,51,1,2,4,4,1,1,1,4,2,Fortaleza,Percursionista,Casado,14,1,Próprio,False,39166,201908,1725626,408184,82.05,39,Rocketseat Visa Life Basic
+1cfa153e-87a5-4863-9bfb-9f0ccd9c2707,João Miguel Rodrigues,73,4,4,4,2,2,5,2,4,4,Belo Horizonte,Geofísico,Solteiro,6,4,Próprio,True,18281,612686,1046116,333688,71.97,47,Rocketseat Mastercard Shopping Basic
+7ac75fce-ef86-46fe-8d96-9892b6540e65,Nathan Silva,78,4,1,1,3,5,3,1,5,2,Rio de Janeiro,Radiologista,Divorciado,9,3,Próprio,False,37636,387272,1932939,499028,73.88,55,Rocketseat Visa Shopping Basic
+6eda28a6-2bfe-44fc-b413-f00cfb5472e9,Antonella Nogueira,19,3,3,2,2,4,1,1,5,3,Rio de Janeiro,Jogador de futebol,Solteiro,13,4,Próprio,False,10363,149044,1643732,309132,94.05,3,Rocketseat Visa Shopping Basic
+0ca8616c-4c8a-4693-8f24-c9eaa5ee7ac1,Henry Oliveira,68,2,2,5,4,4,4,2,3,1,Florianópolis,Ferroviário,Viúvo,12,2,Próprio,False,25727,498312,1749989,377504,79.07,48,Rocketseat Mastercard Life Basic
+50fa8973-0ca1-4edf-bece-39cc9a1f0f17,Dra. Isis Farias,79,1,2,1,5,3,5,1,5,1,Porto Alegre,Gestor de recursos humanos,Solteiro,18,5,Alugado,False,44938,933277,929240,385830,60.31,168,Rocketseat Mastercard Life Select
+66a525a9-bc79-4138-b5ac-92618d809755,Mathias Cavalcante,25,3,2,2,5,4,1,5,5,3,Salvador,Bombeiro,Solteiro,15,1,Próprio,False,44139,981657,1115390,94237,66.22,231,Rocketseat Mastercard Life Elite
+1a8fa151-cd01-478c-a592-2b0f8dea1336,Maya Duarte,44,1,1,1,5,2,3,2,2,3,Florianópolis,Cabeleireiro,Solteiro,4,3,Próprio,True,2576,901406,1107090,166399,77.78,60,Rocketseat Mastercard Life Basic
+39eb54e9-8b5f-4b72-897f-0d8808b6d492,Srta. Rebeca Rios,57,4,1,3,2,4,3,3,4,1,São Paulo,Capitão,Casado,7,5,Alugado,False,22318,190272,56982,373974,32.58,0,Rocketseat Visa Travel Basic
+fec06c14-fd25-4267-b56c-935e4f1218e2,Kevin Costela,78,4,1,4,1,4,2,1,3,5,Manaus,Redator,Solteiro,7,5,Alugado,False,8541,282368,127154,166899,46.59,17,Rocketseat Visa Shopping Basic
+ef35f98f-3a62-4fe4-a0f3-b57bf6fb5dca,Maria Julia Brito,46,2,3,5,2,2,5,4,5,4,São Paulo,Embaixador,Solteiro,14,5,Próprio,True,6499,887386,1333367,262370,78.08,53,Rocketseat Mastercard Life Basic
+ed844b6a-5a4a-4047-92fc-34a55f66fbd5,Antony Correia,21,4,3,2,5,5,3,1,2,5,Manaus,Panfleteiro,Solteiro,9,1,Próprio,True,32600,286578,1253819,131538,83.6,60,Rocketseat Mastercard Life Basic
+50b1318e-9aee-463c-ae80-ac285706415d,Amanda Oliveira,64,5,3,3,3,4,3,2,3,3,Porto Alegre,Pesquisador,Viúvo,19,3,Alugado,True,37469,293033,1841885,226472,74.15,101,Rocketseat Mastercard Travel Select
+0237e1b4-fb31-49ec-9415-1709d4f65b8e,Arthur Miguel Martins,56,4,5,4,4,5,1,1,5,1,Campo Grande,Profissional de cinema,Viúvo,3,3,Próprio,False,32229,4487,1890467,5021,37.42,278,Rocketseat Visa Life Elite
+eaafedaa-0c1f-4161-bb09-6359876e6b78,Dra. Aurora Cunha,29,2,4,1,2,1,3,3,2,1,Vitória,Traumatologista,Divorciado,7,2,Próprio,False,46680,8840,261648,242584,84.41,32,Rocketseat Mastercard Life Basic
+1a31ab0f-2c60-40d0-b4ef-b3e26aa2bd81,Cecília Abreu,35,1,2,4,1,3,5,5,4,2,Recife,Guarda roupeiro,Casado,18,6,Alugado,True,33298,948444,1476495,370654,79.7,82,Rocketseat Mastercard Shopping Basic
+f4a2df73-b0f3-40ec-9db1-840e31afb15f,Pietro Nascimento,65,2,5,3,2,1,5,5,3,5,Campo Grande,Tecnólogo em Ciências das plantas medicinais,Viúvo,0,4,Alugado,False,5263,133620,544471,489456,82.28,0,Rocketseat Visa Life Basic
+083554fe-04c1-493c-a298-abade53007a8,Anthony Gabriel Teixeira,72,4,3,5,1,2,1,3,4,5,Fortaleza,Oftalmologista,Divorciado,0,4,Alugado,False,27665,287347,255260,356606,63.39,17,Rocketseat Mastercard Life Basic
+4405c0b2-30a1-4d9c-8567-345b261dc583,Bento Araújo,74,4,1,2,2,2,3,3,1,1,São Paulo,Jogador de basquete,Viúvo,13,1,Próprio,False,38474,846906,53208,386633,0,258,Rocketseat Mastercard Travel Elite
+04d52cb2-65e6-41c3-82f0-0f5023a37869,José Abreu,24,3,5,2,1,5,5,4,1,4,Manaus,Pedreiro,Solteiro,2,1,Alugado,False,32036,249937,714713,436478,84.92,8,Rocketseat Visa Life Basic
+67ee76c6-0a3d-43bf-b40d-0156375bd5b6,Dra. Ana Laura Silveira,74,4,1,3,5,4,1,1,1,5,São Paulo,Degustador,Divorciado,12,4,Alugado,False,46440,68187,1641328,66865,56.59,218,Rocketseat Mastercard Life Elite
+65f2ef82-54f2-4d2a-a9eb-69b58f781df6,Renan Alves,73,4,4,4,5,5,1,3,1,4,Recife,Pediatra,Divorciado,18,2,Alugado,True,40293,825727,1383541,327159,66.27,151,Rocketseat Mastercard Life Select
+a17f80b1-aa19-4aab-8bd4-8e721f475017,Noah Guerra,56,5,2,5,3,3,4,4,5,4,Belo Horizonte,Broker/Corretor da bolsa de valores,Casado,4,1,Alugado,True,47746,70825,1243373,413881,83.14,33,Rocketseat Visa Travel Basic
+1a26d365-45a1-4bfe-9740-43ffbf6a2864,Sr. Enzo Gabriel Rios,55,5,5,2,2,4,3,5,3,3,Brasília,Técnico em óptica,Solteiro,16,5,Alugado,True,29563,538051,1366724,395509,77.96,48,Rocketseat Mastercard Travel Basic
+9cf13540-638a-4395-9600-d864b7469bb8,Dr. Raul Cunha,50,2,2,1,3,2,4,4,5,3,Vitória,Office-boy,Divorciado,19,3,Próprio,False,37664,900414,114519,221281,0,406,Rocketseat Mastercard Shopping Platinum
+e3082e71-19fa-421c-9ed0-cc221c3402a3,Giovanna Cunha,24,2,1,2,2,4,5,2,2,4,Goiânia,Chaveiro,Divorciado,12,2,Próprio,True,30773,918663,1655054,477386,82.25,54,Rocketseat Mastercard Shopping Basic
+796010de-1c83-4b76-af72-966ae290bcfe,Srta. Ana Luiza Araújo,41,2,3,4,2,5,3,1,1,2,Porto Alegre,Ortopedista,Divorciado,5,2,Próprio,True,1648,77312,750542,15737,85.29,15,Rocketseat Visa Shopping Basic
+b5e054a8-5cfa-4e4f-a134-fde3e4927642,Liam Marques,72,3,1,1,2,4,1,3,2,3,Fortaleza,Analista de sistemas,Casado,11,3,Alugado,False,37340,257912,374428,102753,55.78,147,Rocketseat Mastercard Shopping Select
+8a81408f-84a8-4f17-bbbb-7f689ec7353f,Ian Peixoto,25,2,5,4,3,3,5,4,2,1,Florianópolis,Militar do Exército,Casado,17,3,Alugado,False,10465,925602,1938094,68574,82.62,87,Rocketseat Mastercard Life Basic
+b9055653-f4d4-4908-bd3d-0099dfc0a9c7,Thiago Lima,21,5,5,4,2,1,4,5,1,2,Recife,Produtor de audio visual,Viúvo,20,5,Próprio,False,42252,834259,587356,457625,69.01,87,Rocketseat Visa Travel Basic
+f0d3e5a1-c75e-4311-8319-accaf9b85945,Maria Eduarda Câmara,29,4,4,3,5,4,5,1,2,2,Campo Grande,Coach,Casado,14,2,Próprio,True,22091,747096,784080,275500,77.48,58,Rocketseat Visa Life Basic
+ce39e663-d796-4259-8665-39cd36a56d5c,Davi Lucas Marques,45,3,5,1,2,1,3,4,5,3,Porto Alegre,Vigia parlamentar,Solteiro,14,5,Próprio,False,25712,599125,329691,490470,62.71,10,Rocketseat Visa Life Basic
+368b316a-091e-4add-b54f-b3608fdc033e,Léo Peixoto,47,3,4,1,2,4,2,3,1,3,Campo Grande,Relações públicas,Solteiro,9,5,Alugado,False,29344,428818,770728,421792,78.49,22,Rocketseat Mastercard Life Basic
+82c47ddc-aa01-41d7-992c-0ddcbae6b57a,Theodoro Araújo,24,3,2,3,3,3,3,2,5,2,Vitória,Seguidor de compras,Divorciado,0,3,Próprio,False,8771,74814,755471,20070,77.0,35,Rocketseat Visa Shopping Basic
+bc09c147-9371-4158-8519-e4fa26f6a7e1,Srta. Maria Helena Câmara,78,4,5,2,4,2,2,2,4,2,Recife,Desenhista,Viúvo,14,3,Alugado,False,27591,861784,1216251,397308,69.25,87,Rocketseat Mastercard Life Basic
+88e4a3d1-4dc8-49f6-8c08-bc4c3d1a5693,Leonardo Moraes,45,5,1,3,2,5,2,3,1,4,Florianópolis,Instrumentador cirúrgico,Divorciado,10,2,Próprio,False,46740,437977,439531,229995,65.92,124,Rocketseat Visa Travel Select
+fc706d69-19c9-45d3-b6e1-d8e3bcd96408,Antonella Andrade,66,5,1,2,2,3,5,5,5,5,Vitória,Montador,Viúvo,12,2,Próprio,True,46253,563718,628384,170959,60.2,185,Rocketseat Visa Travel Select
+2e17af67-dc5d-47c1-8088-bd271e5a277f,Ana Laura Montenegro,30,3,1,2,1,5,2,1,5,4,São Paulo,Artesão,Casado,6,1,Próprio,False,32115,113915,689630,298589,89.01,13,Rocketseat Mastercard Shopping Basic
+18fbb29c-8d2f-413c-8ffd-b28f4ddbe2ae,Manuela Peixoto,32,3,5,1,2,3,4,4,2,1,Belo Horizonte,Farmacêutico,Viúvo,15,6,Alugado,False,20077,691609,1099737,36689,63.62,163,Rocketseat Mastercard Life Select
+02036e69-8f00-4d4e-8316-d0284127bd5d,Pedro Henrique Pimenta,26,4,2,5,5,3,5,2,5,4,Curitiba,Pneumologista,Casado,0,2,Próprio,True,14479,324803,906390,428813,89.71,0,Rocketseat Visa Life Basic
+77eeedb2-15a4-4fb3-8044-dfc068facce9,Yago Ribeiro,56,4,4,4,5,1,1,3,4,3,Goiânia,Bombeiro,Divorciado,12,5,Alugado,False,17176,551400,689735,477260,74.77,0,Rocketseat Mastercard Life Basic
+87900469-651b-4c10-802f-085350e26d16,Sr. Antônio Ferreira,29,2,5,1,4,1,2,2,3,5,Curitiba,Gestor de tecnologia da informação,Solteiro,6,4,Próprio,True,41483,768862,906130,240033,73.1,124,Rocketseat Visa Life Select
+17d3b945-288d-4bdc-a267-fe882cdf5089,Sr. Vitor das Neves,22,4,2,3,2,5,1,4,1,1,Belém,Forneiro,Viúvo,12,3,Próprio,True,7895,528896,1607548,408688,90.06,6,Rocketseat Visa Shopping Basic
+0f1a638c-fbbc-4eb4-984b-06eeac60707d,Joaquim Ramos,20,3,4,4,4,1,1,5,2,4,Belo Horizonte,Laboratorista,Viúvo,8,2,Alugado,True,1703,262779,240507,371772,82.92,0,Rocketseat Mastercard Travel Basic
+969653dd-c706-4a7d-83b1-d370e6f1553f,Pietro Vieira,29,1,1,3,2,4,3,2,2,1,Campo Grande,Servente-de-obras,Casado,14,6,Alugado,True,20277,130182,1121250,388731,89.99,0,Rocketseat Visa Shopping Basic
+84c5ea00-8cd9-4070-aaa4-6dbc79a9cdb4,Otto Moraes,62,4,2,2,3,2,2,1,1,4,São Paulo,Cirurgião bucal,Solteiro,10,2,Alugado,True,21206,465553,109922,313631,17.19,57,Rocketseat Mastercard Travel Basic
+9287149c-3705-4db1-ba34-c6ada1eb4c57,Maria Sophia Carvalho,69,5,1,3,3,5,2,5,2,5,Salvador,Profissional de cinema,Viúvo,3,2,Alugado,True,44523,176037,1518362,87580,61.01,191,Rocketseat Visa Travel Select
+76a12615-aa69-429a-9089-41cb11fc4f6b,Guilherme Gomes,38,4,2,4,2,1,3,5,3,1,Rio de Janeiro,Tenista,Casado,13,3,Próprio,True,12378,15722,843347,342880,89.71,0,Rocketseat Mastercard Travel Basic
+2e5d33fb-b769-424a-9db7-ff657a35cadc,Anna Liz Mendes,34,2,3,2,3,4,1,3,1,5,Campo Grande,Profissional de recursos humanos,Viúvo,12,5,Alugado,True,7209,629006,680220,330759,79.83,10,Rocketseat Mastercard Shopping Basic
+50e9fe3f-59ee-4c87-b1d7-937242673ad0,Dante Melo,19,4,2,5,1,1,2,3,4,3,Porto Alegre,Metalúrgico,Casado,12,2,Alugado,True,41393,795807,1880682,65041,67.11,232,Rocketseat Visa Life Elite
+06f15c64-a0d6-4358-834a-89771e2d2bd4,Catarina Alves,65,1,5,4,3,1,2,3,3,2,Porto Alegre,Auxiliar de reprografia,Solteiro,7,6,Alugado,False,22541,140789,583273,166481,76.19,35,Rocketseat Visa Life Basic
+43e026b6-0680-4f48-aa0b-1729c46dc638,Luiz Gustavo Pacheco,29,1,2,1,2,2,2,1,2,5,Recife,Hematologista,Casado,7,5,Alugado,False,29990,660374,12672,33877,0,412,Rocketseat Visa Shopping Platinum
+66b5dc5f-5b07-4642-a893-47f70f562264,Maria Luísa Gomes,37,5,2,3,3,5,4,2,3,4,Rio de Janeiro,Cantor,Divorciado,12,4,Alugado,False,11758,756729,414263,128411,60.44,103,Rocketseat Visa Travel Select
+5e358303-9093-4271-993c-cd8c0a670a49,Gabriel Sá,45,4,1,4,4,1,3,5,5,2,Recife,Ceramista,Casado,8,4,Próprio,False,34114,638996,1541255,227242,78.5,94,Rocketseat Visa Travel Basic
+03f07ea4-c69e-460e-a96e-df696aebbc68,Yasmin Freitas,36,2,4,2,2,2,1,1,5,3,Fortaleza,Radiologista,Viúvo,13,4,Próprio,False,25585,589448,1270927,252100,78.87,65,Rocketseat Visa Shopping Basic
+d30ea655-8e1d-4e85-a7f2-a40c37d0e3bd,Dr. Lucas Gabriel Sousa,37,1,4,5,2,2,4,3,3,5,Goiânia,Líder comunitário,Viúvo,20,6,Próprio,True,43011,616886,149389,214322,23.21,286,Rocketseat Visa Life Elite
+a38683d3-ecdd-4cea-88ba-96cebde9fb36,Maria Rocha,77,3,1,2,3,5,4,2,3,2,Manaus,Tecnólogo em recursos pesqueiros,Casado,0,1,Alugado,False,28789,771399,517559,127062,49.7,207,Rocketseat Visa Shopping Elite
+b5cd1cef-e969-4b4f-a383-6cb09bc947ab,Cecilia Freitas,63,4,2,4,3,3,5,5,4,5,Curitiba,Jogador de vôlei,Viúvo,2,1,Próprio,True,39414,944762,168502,271862,0,398,Rocketseat Visa Shopping Elite
+270fbf6f-0583-43ae-9f27-7733d1773964,Dra. Sophie Lopes,65,1,2,4,1,1,1,4,5,4,Belém,Pesquisador,Divorciado,13,2,Alugado,False,14731,975193,1569278,208651,73.97,104,Rocketseat Mastercard Shopping Select
+cdab0f38-4a14-471e-ad59-23aa48257233,Sofia Santos,63,1,4,5,2,2,2,1,2,2,Curitiba,Embalsamador,Viúvo,14,6,Alugado,True,9803,207639,1020204,95412,78.12,36,Rocketseat Mastercard Life Basic
+986fedb5-1b15-435e-979e-c4bac13dceae,Kamilly Costa,36,1,5,2,4,4,1,1,1,3,Florianópolis,Juiz ou árbitro de futebol,Solteiro,18,1,Alugado,True,6616,396077,261476,145103,65.98,28,Rocketseat Mastercard Life Basic
+8675cfd7-a6f8-40d7-bb7b-bf960c9f54f4,João Guilherme Marques,42,4,3,5,4,3,3,3,3,2,Brasília,Funileiro,Viúvo,12,5,Alugado,False,40517,545337,1596695,139374,75.52,131,Rocketseat Visa Life Select
+0e938f0e-62f8-4481-a603-789203b98c76,Oliver Campos,69,2,1,5,1,5,3,2,3,4,Manaus,Faxineiro,Viúvo,16,4,Alugado,True,7565,3234,958229,456414,85.21,0,Rocketseat Visa Life Basic
+148027f9-7eb5-4ba1-a47a-e03725f2882e,Kevin da Mata,19,3,4,2,5,4,4,5,1,3,Salvador,Secretária,Viúvo,3,6,Próprio,False,42535,377702,1831724,23988,58.64,255,Rocketseat Mastercard Life Elite
+58c57072-9fa4-4435-9459-830b1fea1f84,Kaique da Rosa,63,5,1,2,4,1,3,5,4,2,Campo Grande,Marinheiro,Viúvo,3,4,Alugado,True,10382,912112,1090633,459398,73.24,26,Rocketseat Mastercard Travel Basic
+6ae3f199-2cba-4b2e-afa3-6176bde1d595,Maria Eduarda Nascimento,28,1,2,3,4,3,2,3,4,1,Belém,Assessor de imprensa,Casado,17,6,Próprio,True,44237,733907,187552,55296,9.81,495,Rocketseat Visa Life Platinum
+4d2b0727-ad66-4a7d-a8a6-9b26070001cd,Isadora Novais,73,1,3,4,4,5,4,2,2,3,Rio de Janeiro,Serventuário,Divorciado,2,1,Alugado,False,15667,977042,1207901,401781,71.98,61,Rocketseat Mastercard Shopping Basic
+9fa5febe-6902-43a9-8e67-602d4d034f06,Benjamin Sá,65,4,5,1,3,1,5,5,2,4,Salvador,Homeopata,Divorciado,11,6,Alugado,True,8609,600665,771200,66803,69.48,83,Rocketseat Mastercard Life Basic
+e3f878e2-7026-4feb-ba95-238e97074e91,Otto Almeida,43,3,2,4,4,2,5,3,2,1,Manaus,Atleta de tiro com arco,Divorciado,9,5,Alugado,False,1602,564441,1787532,241488,85.7,24,Rocketseat Visa Shopping Basic
+3e059a7a-db21-4889-a397-c3a306a995b1,Enrico Vasconcelos,58,1,3,2,2,2,1,2,4,4,Curitiba,Agente penitenciário,Casado,0,5,Próprio,False,15136,519071,611309,369172,75.23,11,Rocketseat Visa Shopping Basic
+c1900f3e-f09e-448a-aa7e-70f3455b11bd,Davi Pinto,61,5,3,3,2,5,4,1,2,3,Florianópolis,Radialista programador,Solteiro,9,4,Alugado,True,32026,365226,1589041,205186,75.16,90,Rocketseat Visa Travel Basic
+3373eb7e-302c-4f29-81ff-58ce3fa7a0ec,Dr. Gustavo Henrique Montenegro,62,2,1,3,5,1,2,4,4,2,Campo Grande,Profissional de relações públicas,Solteiro,3,3,Próprio,True,32617,305221,1881602,75928,65.09,168,Rocketseat Mastercard Life Select
+38d11d74-1db2-49d3-a01a-0dd80f68ec22,Bryan Mendonça,25,2,4,2,1,1,2,4,4,3,Goiânia,Leiloeiro,Casado,20,6,Próprio,True,34779,681676,709856,311108,75.48,75,Rocketseat Visa Life Basic
+2bea336d-ccfd-40d3-800a-2604e2d83007,Valentina Fogaça,73,3,1,1,1,1,1,4,5,2,São Paulo,Militar da Aeronáutica,Viúvo,8,6,Alugado,True,43618,400661,577169,331524,67.63,85,Rocketseat Visa Shopping Basic
+1c590949-d7d9-4944-b983-cb7466323267,Dr. Otávio Peixoto,48,1,3,1,5,2,4,1,4,5,Vitória,Publicitário,Viúvo,2,5,Alugado,True,43244,736873,909443,156428,65.71,183,Rocketseat Mastercard Life Select
+c6568ee7-aea4-488d-9a24-aae56c2da710,Marina Freitas,29,3,1,1,2,5,2,2,1,5,Curitiba,Operador de telemarketing,Solteiro,2,1,Próprio,False,40262,728986,377356,2791,10.44,516,Rocketseat Mastercard Shopping Platinum
+be718cd7-8174-44b2-bba3-3f0d667c3cb5,Sophie Pimenta,45,5,3,5,4,2,5,4,3,5,Campo Grande,Odontopediatra,Divorciado,19,5,Alugado,True,44133,89,520800,157600,75.85,67,Rocketseat Mastercard Travel Basic
+1b929c94-bfe4-44ed-bbb4-c9b99e3237a1,Miguel Novais,33,2,2,5,5,2,5,3,3,2,Goiânia,Lutador de kung fu,Viúvo,2,5,Próprio,False,3407,197209,297097,157133,84.8,0,Rocketseat Visa Life Basic
+f532de67-be3c-49be-b9d1-f87a8a3d84c6,Otávio Santos,59,4,2,5,2,1,3,2,3,5,Belém,Patologista oral,Casado,13,2,Próprio,False,11703,419492,956443,43649,70.71,82,Rocketseat Visa Life Basic
+f19a32cb-fd31-44eb-b8a7-3854dde6e92b,Léo Montenegro,19,1,5,4,1,3,1,3,3,3,Belo Horizonte,Soldado,Casado,8,1,Alugado,False,40558,259520,162580,141623,58.57,126,Rocketseat Mastercard Life Select
+2d14139c-915f-4527-9bd2-275ce2701de2,Helena Azevedo,42,3,5,4,1,5,3,5,3,5,Curitiba,Leão de chácara,Solteiro,1,2,Próprio,False,7881,820755,1941199,64751,77.53,101,Rocketseat Mastercard Life Select
+99119f81-8615-4c8f-8ed5-b23222fdbd7a,Isis Porto,40,4,4,5,2,3,1,5,2,2,Belo Horizonte,Florista,Viúvo,18,6,Próprio,True,49581,710737,1654123,278754,77.25,126,Rocketseat Visa Life Select
+95418c74-be41-4ec3-9e83-75ca3f75d5e5,Apollo Cavalcante,63,2,4,3,4,5,3,3,4,5,Goiânia,Embalsamador,Casado,9,6,Alugado,False,17325,711160,1276542,219280,75.03,76,Rocketseat Visa Shopping Basic
+191207b7-f963-4cd6-9d3b-92fb61019e2a,Henrique Novais,67,2,1,2,5,1,1,3,5,4,Florianópolis,Médico,Solteiro,13,6,Alugado,False,21495,886304,189038,332753,9.68,172,Rocketseat Visa Life Select
+869c8c3a-b9c2-405d-969e-5f902a868709,Dra. Valentina Vasconcelos,50,4,1,5,2,1,4,5,3,2,Goiânia,Promotor de eventos,Solteiro,19,4,Alugado,True,45900,709649,1862439,279135,76.8,126,Rocketseat Mastercard Life Select
+6063da95-822e-42b3-9644-1accac6a881e,Olivia Lima,22,1,4,4,4,2,3,1,3,2,Vitória,Estilista,Solteiro,9,3,Próprio,False,25055,880184,279589,269318,43.94,155,Rocketseat Visa Life Select
+f9e48e06-7b66-4eab-b71f-cc15ba9a7567,Vitor Hugo Câmara,31,3,5,1,4,5,4,1,3,1,Manaus,Desembargador de justiça,Viúvo,10,3,Próprio,True,1146,773876,1323672,298237,85.22,20,Rocketseat Mastercard Life Basic
+d2e6c4bf-be4e-4a86-9cee-5910c2e72e1b,Ryan Oliveira,40,4,4,2,1,5,5,2,4,1,Campo Grande,Meeiro,Viúvo,0,2,Próprio,True,48345,195200,843197,185877,74.19,98,Rocketseat Visa Shopping Basic
+1c2d2a2e-b936-45b9-8808-32f020a9f122,Renan Siqueira,43,5,3,1,4,4,2,2,3,4,São Paulo,Trompetista,Divorciado,6,1,Alugado,False,25530,313823,764402,224574,81.43,36,Rocketseat Mastercard Travel Basic
+dcc87515-2960-4089-a17b-9be0d0ed4ba7,Isis Santos,26,2,2,4,3,1,4,4,5,4,Florianópolis,Profissional de reciclagem,Casado,10,4,Próprio,True,26856,441508,1560121,173651,85.72,52,Rocketseat Mastercard Shopping Basic
+1df7555c-43df-4490-b272-5a8b3295f682,Ana Lívia Vasconcelos,79,5,1,2,1,3,4,5,1,4,Fortaleza,Assistente de produção,Divorciado,9,4,Alugado,False,8069,831219,44359,66125,0,265,Rocketseat Mastercard Travel Elite
+f9a409ed-4664-4033-a27b-b96c8021172f,Henry Abreu,57,1,3,2,4,2,4,1,5,5,Belo Horizonte,Porteiro,Casado,18,6,Alugado,True,10993,764672,1072147,97968,70.25,103,Rocketseat Mastercard Shopping Select
+55948228-f4fd-43d6-a698-c0dbc69cabf9,Henry Nascimento,26,4,1,5,2,1,1,4,4,5,Curitiba,Remador,Casado,7,3,Próprio,False,27298,40230,574329,100756,84.3,33,Rocketseat Mastercard Life Basic
+4db3cafa-d8ce-40e3-bed0-992ce5038f6e,Lunna Abreu,50,3,3,3,4,2,3,1,2,1,São Paulo,Massagista,Solteiro,10,2,Próprio,False,28988,675149,108329,159535,0,318,Rocketseat Visa Life Elite
+66ec4a1e-0cfa-43a7-9c7b-9f66e78a8c90,Enzo Gabriel Vieira,76,4,3,3,3,1,1,1,5,2,Brasília,Boxeador,Divorciado,11,6,Próprio,True,40749,105656,903678,96909,62.75,138,Rocketseat Visa Shopping Select
+efdf4ee6-428f-4a90-9d18-b90dbe08511f,Breno Fernandes,31,5,1,1,5,2,2,4,1,1,Recife,Engenheiro de projetos,Divorciado,9,6,Próprio,True,39294,402704,182937,465145,55.09,37,Rocketseat Mastercard Travel Basic
+48840478-4c1c-4ebe-a263-7c93aebecd14,Marina Almeida,20,5,3,3,4,1,4,1,4,4,Recife,Manicure,Solteiro,5,5,Próprio,True,9377,201019,877055,288618,93.23,0,Rocketseat Visa Travel Basic
+4214e6d7-435b-470b-a950-710b16a44f5f,Henry Gabriel da Paz,20,4,4,5,5,1,2,4,5,4,Recife,Notário,Viúvo,12,5,Próprio,True,38104,63746,1665957,363752,89.69,21,Rocketseat Mastercard Life Basic
+9fc2f082-a1d4-4da5-af9b-668b46fdb699,Noah Camargo,18,5,4,5,5,3,3,2,3,3,Recife,Engenheiro de segurança do trabalho,Solteiro,5,2,Alugado,True,11485,599678,456775,310437,77.15,16,Rocketseat Visa Travel Basic
+05166174-5790-47e4-88e7-cf5166a3a03a,Maria Fernanda Oliveira,20,2,3,1,2,2,5,1,1,3,Belém,Tecnólogo em processos químicos,Divorciado,10,1,Próprio,True,42917,155335,1975613,463262,90.12,21,Rocketseat Visa Shopping Basic
+d266bb0f-87ec-4065-bc26-d5d14f735e0a,Pedro Correia,75,1,3,2,3,2,3,1,5,5,Rio de Janeiro,Tosador,Viúvo,20,3,Alugado,False,41074,309220,680809,30022,42.9,266,Rocketseat Mastercard Shopping Elite
+5c503416-4cd9-401a-a279-e2a4408e0ec3,Lara da Costa,38,4,2,4,2,4,3,2,4,1,Fortaleza,Tecnólogo em papel e celulose,Casado,14,2,Alugado,True,18615,213824,1219837,330196,88.71,8,Rocketseat Visa Travel Basic
+18e7e939-6c7d-4887-a0aa-fa8acd9e3cf7,Théo Rodrigues,78,2,2,4,5,2,1,2,1,4,Porto Alegre,Torneiro mecânico,Viúvo,20,4,Alugado,True,48807,189170,1358040,147872,63.63,169,Rocketseat Mastercard Life Select
+a4b47c88-5981-4519-89a9-c9e2eb270592,Arthur Gabriel Araújo,56,1,1,2,2,1,3,2,5,1,Florianópolis,Apresentador,Solteiro,3,5,Próprio,True,7535,396230,805286,10861,54.59,114,Rocketseat Mastercard Shopping Select
+c14b402d-6284-4508-90e0-0e74093fb675,Cecília Correia,26,2,3,3,4,2,2,1,5,3,Belém,Mestre-de-obras,Solteiro,0,1,Alugado,False,32485,796573,1180384,467869,81.7,44,Rocketseat Mastercard Shopping Basic
+4625df70-ed2c-444d-8d2f-0f89db30e0ed,Bella Fonseca,50,2,4,4,2,3,3,2,4,1,Fortaleza,Administrador de banco de dados DBA,Casado,3,2,Alugado,False,28216,148724,2538,478238,0,0,Rocketseat Visa Life Basic
+83433b79-75ee-4c83-80e2-be531d9c4758,Guilherme Barros,22,1,1,5,2,2,4,5,3,5,Belo Horizonte,Transcritor,Viúvo,4,6,Próprio,False,41350,349935,248199,189002,67.2,101,Rocketseat Visa Life Select
+c944e5de-a79c-4dda-833c-306443a5c438,Henrique Moreira,74,3,1,1,2,2,3,2,4,4,Goiânia,Administrador,Viúvo,2,1,Próprio,False,7810,284261,1921482,261751,80.85,25,Rocketseat Mastercard Shopping Basic
+0fdcced6-a2c7-4049-8fa0-e3456d09deac,Ana Liz Novaes,23,3,4,4,4,4,5,3,2,2,Salvador,Torreiro/Torrista,Viúvo,17,4,Próprio,True,22171,133730,381413,402409,87.78,0,Rocketseat Visa Shopping Basic
+9da4f5e4-e184-4551-90b8-8063530ed696,Breno da Rocha,23,2,1,2,3,1,2,1,3,5,Fortaleza,Prensista,Casado,3,1,Próprio,False,39074,749649,884664,276271,76.99,93,Rocketseat Mastercard Shopping Basic
+0c55b76d-4ab7-4cb4-a816-91c5ef84532e,Rhavi Nogueira,36,4,2,2,2,1,2,1,2,4,Goiânia,Engenheiro agrônomo,Solteiro,13,3,Alugado,True,31172,151141,1751651,447381,88.55,13,Rocketseat Mastercard Travel Basic
+2694f899-277e-48d2-a480-4ad43f09c1a9,Ana Júlia Souza,48,2,1,2,1,1,5,4,2,2,Fortaleza,Corretor de imóveis,Casado,16,6,Próprio,False,39923,912761,331713,15826,4.49,586,Rocketseat Visa Shopping Platinum
+af3c13a4-b61c-4aa6-ba0f-2187dfc06185,Matheus Pinto,64,3,1,2,1,1,5,2,5,2,São Paulo,Marketeiro,Viúvo,13,6,Próprio,False,23107,465540,1638708,338085,79.38,45,Rocketseat Visa Shopping Basic
+77c513c5-1a62-49cf-aa27-f19c57fc02ba,Srta. Cecília Mendes,63,1,5,4,2,2,4,5,1,2,Salvador,Ombudsman,Casado,17,5,Alugado,False,15897,444250,1953392,82208,72.47,107,Rocketseat Visa Life Select
+0053dd1c-2950-4267-90ce-5b552a3df1da,Melissa Cassiano,38,1,3,4,2,3,1,1,1,3,Manaus,Infectologista,Divorciado,0,2,Próprio,True,43775,673071,849556,433719,75.02,72,Rocketseat Mastercard Life Basic
+c02035fa-5c52-43b7-a752-7dc77dc217dd,Melissa da Rosa,22,2,5,2,1,2,3,1,5,5,São Paulo,Leão de chácara,Viúvo,1,1,Próprio,True,14887,626116,23020,396635,0,0,Rocketseat Visa Life Basic
+a572a1af-baed-42b7-b4a4-4f0e6002e12a,Yuri Câmara,18,3,4,3,2,1,3,4,5,1,Recife,Profissional de rádio e tv,Casado,0,5,Próprio,False,24373,788193,592240,208738,71.76,91,Rocketseat Mastercard Shopping Basic
+ae519635-91cb-4fc1-a0c9-fd8aafb86eff,Matteo Leão,36,1,2,2,2,2,5,5,5,5,Campo Grande,Marketeiro,Divorciado,14,2,Próprio,False,11565,158898,1431041,242801,87.0,12,Rocketseat Visa Shopping Basic
+1f7f4917-de87-4507-a515-8817bac434aa,Sr. Vitor Gabriel Rezende,57,4,2,2,5,5,1,2,5,4,Rio de Janeiro,Cientista de alimentos,Solteiro,4,3,Alugado,False,29239,41956,1867891,373692,84.93,20,Rocketseat Mastercard Life Basic
+696ba081-0a61-4289-849b-7188162aefaf,Felipe Vargas,47,3,5,3,3,1,1,2,4,3,Fortaleza,Técnico em óptica,Divorciado,14,6,Alugado,True,21559,177961,1958857,154983,80.37,58,Rocketseat Visa Life Basic
+62e5b922-0d6d-4a91-965b-d349fb033994,Augusto Pires,20,5,2,4,3,5,5,3,3,1,Belém,Engenheiro agrônomo,Viúvo,16,4,Próprio,True,24820,900730,601096,210207,68.23,115,Rocketseat Mastercard Travel Select
+5de42507-3c8b-46be-8fb9-ab7a18c0d31b,Maria Luiza Moura,65,1,3,4,2,5,4,1,2,4,Vitória,Neurocirurgião,Viúvo,2,3,Próprio,False,17044,733736,1722254,294020,74.11,76,Rocketseat Visa Shopping Basic
+3565af86-ee5e-4931-8809-cba5f3146f63,Davi Miguel Lopes,24,4,4,2,4,3,1,3,3,5,Fortaleza,Cambista,Casado,15,1,Próprio,False,6624,189030,1534649,56805,90.47,21,Rocketseat Mastercard Shopping Basic
+1f1e96f2-a966-4018-b91f-422842bca291,Pedro Miguel Garcia,52,3,5,1,5,4,1,3,4,4,Porto Alegre,Intérprete de Bíblias,Solteiro,6,1,Próprio,False,11206,994609,985593,76291,67.38,139,Rocketseat Visa Life Select
+d8cf2e6c-cb7f-41fd-9f64-7600ee7edb5d,Luna Campos,58,1,3,4,4,5,2,3,2,1,Rio de Janeiro,Veterinário,Viúvo,10,3,Alugado,True,12541,87651,297245,36311,67.04,42,Rocketseat Visa Shopping Basic
+1ca823b6-89e6-42fa-877f-84d2ca3fba12,Maria Cecília Barros,78,2,4,3,5,4,1,5,5,2,Rio de Janeiro,Tabelião,Casado,10,6,Próprio,True,28466,505020,997194,280759,70.82,74,Rocketseat Mastercard Life Basic
+b7f2170d-fae5-4f8b-a06c-b8ed0f0392dc,Vitor Barros,75,1,4,3,5,1,4,2,4,5,Rio de Janeiro,Astrofísico,Solteiro,6,6,Alugado,False,31058,979180,309301,261853,31.72,248,Rocketseat Mastercard Life Elite
+d0eb5ea3-9ce5-4350-ba23-65c7ea1a4f0b,Bernardo Sousa,56,5,1,3,3,1,3,3,5,1,Goiânia,Gandula,Viúvo,20,4,Próprio,False,25743,226636,729988,109976,74.72,65,Rocketseat Visa Travel Basic
+9f55964c-9c32-4245-8c93-9a473c203985,Davi Lucas Câmara,40,2,4,4,3,2,5,5,2,5,Salvador,Agente de defesa sanitária,Viúvo,9,6,Próprio,False,36551,446535,1097166,401122,80.56,42,Rocketseat Mastercard Shopping Basic
+ee6ef7c0-8a47-43c1-a56e-d87e99e0924d,Kaique Fernandes,23,4,1,4,5,5,1,4,5,5,Florianópolis,Digitador,Solteiro,9,4,Alugado,True,7803,93992,1362361,8612,67.77,71,Rocketseat Visa Life Basic
+0248df97-02cb-431c-a053-94b63c9718be,Eduardo Campos,53,1,3,4,4,4,1,3,2,5,Curitiba,Gestor de recursos humanos,Divorciado,8,3,Próprio,True,25974,120063,410119,448970,81.43,0,Rocketseat Mastercard Shopping Basic
+b82424cb-4baa-4006-9d89-9cf3cd8406c2,Maya Câmara,75,3,5,5,3,3,2,5,4,2,Recife,Gestor de qualidade,Viúvo,6,5,Próprio,True,28168,34261,32568,13760,25.93,169,Rocketseat Visa Life Select
+9fc89beb-a968-4e43-8313-e7f6825c60cf,Srta. Olívia Nunes,26,3,5,2,4,2,1,2,5,1,Belém,Designer de interiores,Viúvo,20,3,Alugado,False,42698,409376,1526963,91077,72.34,151,Rocketseat Mastercard Life Select
+1edc958c-64d9-4c1b-a815-7196f25fd286,Lara Peixoto,23,5,2,1,5,5,1,5,4,1,Goiânia,Bancário,Casado,14,6,Próprio,True,7112,26885,917338,6049,64.53,54,Rocketseat Mastercard Travel Basic
+02726f9f-831d-4d98-8b76-b1589c0f9e8b,André Ribeiro,59,4,3,1,3,1,2,1,5,1,Rio de Janeiro,Penhorista,Viúvo,19,1,Alugado,True,15532,311345,406488,280712,74.82,8,Rocketseat Visa Shopping Basic
+5b547e13-d725-4d74-b6d3-765893337273,Maria Alice Fernandes,34,2,4,1,4,1,4,1,4,1,Porto Alegre,Judoca,Viúvo,12,3,Próprio,True,12837,97283,162280,259126,83.9,0,Rocketseat Mastercard Life Basic
+14ba8029-f15a-4e34-940e-2969de34c38c,Yan Costa,37,5,1,1,3,3,4,5,5,5,São Paulo,Caldeireiro,Casado,16,6,Próprio,True,1664,947533,374712,345855,55.37,26,Rocketseat Mastercard Travel Basic
+a5e9bae2-8774-4a9e-a9a5-47a43432f2dc,Caio Teixeira,56,2,2,3,1,2,1,3,2,2,Rio de Janeiro,Jóquei,Casado,8,3,Próprio,True,2936,561988,48314,271578,0,0,Rocketseat Mastercard Life Basic
+84c15efc-2ec8-437d-af3e-edd21e645f48,Thiago da Cunha,40,4,4,5,4,2,3,2,2,3,Salvador,Petroleiro,Solteiro,18,5,Próprio,True,47404,578286,1367184,154308,71.89,159,Rocketseat Mastercard Life Select
+1d821e29-0a1b-416d-a105-2c30e3b4ede3,Larissa Macedo,79,5,3,3,5,1,5,4,4,2,Manaus,Corregedor de justiça,Divorciado,11,6,Alugado,False,48320,511528,909055,462871,68.37,82,Rocketseat Mastercard Travel Basic
+329d0b28-283c-4a63-b338-722b2a76ee97,Sophie Gonçalves,74,5,5,3,4,1,1,2,3,4,Florianópolis,Gestor público,Casado,11,2,Alugado,True,3212,536196,530712,307688,67.77,0,Rocketseat Visa Travel Basic
+1105693d-36f2-49de-9b54-975930d3d501,Thomas Almeida,41,1,3,2,4,5,3,2,5,1,Salvador,Professor,Divorciado,19,2,Alugado,True,10505,817380,659455,64122,62.76,128,Rocketseat Visa Shopping Select
+5f18b495-9346-478c-853d-ed613ac2be72,Valentim Ramos,63,1,5,4,4,3,3,2,2,1,Florianópolis,Profissional de cinema,Viúvo,15,1,Próprio,False,40839,992237,1852540,423324,75.24,117,Rocketseat Mastercard Life Select
+57c96d6f-6f14-42fc-9b8b-4e487a1efad8,Zoe Almeida,25,2,5,1,3,1,5,1,4,3,Belo Horizonte,Endocrinologista,Viúvo,1,5,Alugado,False,30673,179453,1261291,171376,85.46,42,Rocketseat Mastercard Life Basic
+d93a04d2-cabd-40a4-88de-784aac5dff2e,Matheus Moraes,22,3,3,3,3,4,1,5,3,4,Manaus,Seringueiro,Solteiro,12,3,Próprio,False,31794,99740,1740322,420748,91.5,10,Rocketseat Mastercard Travel Basic
+d2d9da01-d79d-49c8-bfb0-9de1f1833c02,Igor Moura,71,1,1,2,1,3,4,2,2,1,Porto Alegre,Engenheiro agrimensor,Divorciado,17,1,Alugado,False,25504,983253,1295991,53867,51.74,283,Rocketseat Mastercard Shopping Elite
+ab4a1166-68da-41e4-b624-0d3fb62fce7f,Dra. Evelyn Porto,25,5,4,3,2,2,5,4,1,2,Brasília,Auxiliar de reprografia,Casado,18,4,Próprio,True,4145,993153,638142,39343,66.0,124,Rocketseat Mastercard Travel Select
+d4e140e9-474a-4e88-baf2-9679ae820176,Dom Fonseca,54,4,2,1,3,3,1,3,5,2,Belém,Escultor,Casado,2,1,Próprio,True,32321,693390,1027822,147084,67.18,148,Rocketseat Mastercard Shopping Select
+3dce0838-6ec3-4fa4-9bf2-775b5e7549c8,Maitê Silveira,18,4,1,3,2,5,5,5,3,3,Goiânia,Instrumentista musical,Viúvo,20,2,Alugado,True,44941,226634,981782,429135,88.27,21,Rocketseat Mastercard Shopping Basic
+f1415b62-d9fd-46b5-84c8-810aa47fd1c3,Gael Henrique Silva,76,2,4,2,1,3,4,2,3,5,Belém,Implantodontista,Solteiro,4,4,Alugado,True,24831,404305,948818,455007,74.61,13,Rocketseat Mastercard Shopping Basic
+a7668f29-f052-4953-927f-10f3aa9806a4,Davi Lucas Nogueira,19,5,4,3,3,1,5,1,3,4,Porto Alegre,Profissional de áudio,Casado,12,5,Próprio,False,31202,196114,559429,14987,51.84,170,Rocketseat Mastercard Travel Select
+a1467b51-24bf-4d4c-a790-88e3db1694d9,Yago da Paz,46,4,2,3,2,4,2,5,3,5,Manaus,Engenheiro cartográfico,Viúvo,16,4,Alugado,True,18864,387743,205128,25760,38.02,166,Rocketseat Mastercard Travel Select
+8311a751-c7cb-4dc9-af1d-61309e1d9d0d,Isabelly Vieira,79,5,3,2,1,5,1,3,2,5,Goiânia,Servente-de-obras,Viúvo,12,4,Alugado,True,8279,230246,241566,27859,56.68,59,Rocketseat Visa Travel Basic
+2975b4e2-84dd-4c66-a662-adb7e2302c31,Sr. Bernardo Almeida,49,3,5,3,1,1,2,5,5,4,Goiânia,Assistente de câmera,Divorciado,7,2,Próprio,True,14481,179337,1647790,106732,80.69,48,Rocketseat Mastercard Life Basic
+2df3d69f-385f-47db-b418-92aeb6dc2a9e,Bianca Cardoso,29,4,4,3,1,2,3,1,2,1,Manaus,Turismólogo,Divorciado,15,5,Alugado,False,22768,943581,954657,74361,68.67,157,Rocketseat Mastercard Travel Select
+62e29e39-9e62-4c0f-8c83-e0dc84bd20e4,Ravi Lucca Pereira,48,3,2,5,5,2,2,1,1,3,Florianópolis,Operador de telemarketing,Divorciado,14,4,Próprio,False,8168,47371,1717413,9117,62.07,93,Rocketseat Visa Life Basic
+e39a7c07-dbc0-43d4-9f27-240961eff418,João Felipe Machado,34,3,5,5,4,1,3,5,1,2,Salvador,Meredeira,Casado,4,3,Próprio,True,24874,481035,28439,433979,0,0,Rocketseat Mastercard Life Basic
+b4f96296-77b9-4b95-bc47-4407bfb15cd9,Dr. Thomas Jesus,54,1,2,4,1,3,5,4,5,2,Curitiba,Personal trainer,Divorciado,10,4,Próprio,False,49562,729605,903286,188439,62.92,206,Rocketseat Visa Shopping Elite
+fed9c715-7e85-43bf-bd7c-c9bff3ad04dc,Rodrigo Teixeira,30,5,1,4,4,5,3,3,1,1,Fortaleza,Corretor de seguros,Casado,14,6,Alugado,False,3693,607667,1090682,367964,85.26,4,Rocketseat Mastercard Travel Basic
+d0d6822e-64a7-404a-8212-c1c3640b41aa,Julia Rocha,37,4,1,2,3,5,1,1,4,3,São Paulo,Contatólogo,Viúvo,11,6,Alugado,True,32904,302262,135510,419317,54.4,15,Rocketseat Visa Shopping Basic
+91d8013b-11bb-4f49-a8ee-f26cf2e19163,Vitória Fernandes,26,5,2,1,3,2,2,4,5,1,Curitiba,Atleta de nado sincronizado,Casado,1,4,Próprio,True,23951,921406,594050,411704,71.23,57,Rocketseat Visa Travel Basic
+69feada2-1fb2-4494-b411-b8ebc0676e88,Stella Vargas,45,3,5,3,2,5,4,3,5,2,Belém,Podólogo,Casado,8,2,Próprio,True,27156,948083,205811,468206,17.67,122,Rocketseat Visa Life Select
+4d2ebab6-20ab-49c9-98e7-301c8ec3ee11,Larissa Moura,37,5,2,4,4,1,2,5,4,3,Recife,Broker/Corretor da bolsa de valores,Divorciado,14,3,Próprio,False,6609,311777,1188382,486077,89.15,0,Rocketseat Visa Travel Basic
+fa674a59-96bb-441a-bf83-dec74002677d,Dra. Bella Nunes,79,4,1,2,5,3,2,5,5,3,Belo Horizonte,Produtor de eventos,Divorciado,1,4,Alugado,False,27886,483691,58034,478443,0,0,Rocketseat Mastercard Life Basic
+f46ef319-1e3d-400b-b842-9c2da51a48cb,Ana Beatriz Pastor,47,3,1,3,5,1,3,5,4,3,Vitória,Xilógrafo,Solteiro,3,6,Alugado,True,34948,482576,1759925,28493,51.51,280,Rocketseat Mastercard Life Elite
+a164c601-5f62-475f-9553-603b5cf96930,Arthur Miguel Borges,53,2,3,3,1,4,5,2,1,1,São Paulo,Guarda ou policial rodoviário,Casado,19,1,Alugado,True,49524,519364,286057,117201,46.17,262,Rocketseat Mastercard Shopping Elite
+b517721a-acda-4f17-a4ed-a46c79e620d4,Carolina Siqueira,24,1,1,3,4,4,2,2,5,3,Vitória,Turismólogo,Viúvo,19,1,Próprio,True,32047,25854,1746353,265187,89.53,24,Rocketseat Mastercard Shopping Basic
+8f954465-2535-4813-a640-47fb098c7f86,Dr. Ian Pinto,29,5,5,2,4,4,3,3,1,5,Fortaleza,Cartunista,Divorciado,8,4,Próprio,True,10285,858311,1561536,344701,83.97,35,Rocketseat Visa Travel Basic
+03846b97-54b2-464a-a8f6-6724b7dead20,Henry Nascimento,44,5,4,1,5,3,1,5,4,1,Campo Grande,Pintor,Divorciado,4,4,Próprio,False,28841,155363,58658,148594,41.8,96,Rocketseat Mastercard Travel Basic
+340b566b-6f7d-4018-8f9d-ab5254d86625,Lucas Gabriel Costela,80,2,3,5,4,5,1,2,2,3,Belém,Terapeuta floral,Divorciado,14,6,Alugado,False,11375,375125,1049914,448706,77.46,0,Rocketseat Visa Life Basic
+db8aff63-dee3-4ade-8eca-08840f9a0723,Lucas Nascimento,77,4,4,5,2,5,5,5,3,2,Goiânia,Atleta de arremesso de peso,Divorciado,18,5,Próprio,False,26816,71523,1921326,440048,79.97,15,Rocketseat Mastercard Life Basic
+57ebc268-8a4b-4e0d-9148-cd21adbc865b,Enzo Camargo,20,1,4,4,3,2,2,1,2,4,Florianópolis,Antropólogo,Viúvo,2,1,Próprio,True,2934,893419,1536955,83455,85.4,55,Rocketseat Mastercard Life Basic
+4380b4c6-6c04-4a2f-b5c9-b42d1feb92c7,Srta. Letícia Rios,72,1,2,3,1,4,4,2,5,5,Porto Alegre,Embalsamador,Casado,8,4,Próprio,False,5776,462976,1600865,196252,78.98,40,Rocketseat Mastercard Shopping Basic
+e23946ff-b3b8-4f03-a288-e8c3ea33ebe6,Sra. Marcela Campos,30,2,1,5,1,1,2,1,2,1,Brasília,Dialoguista,Viúvo,18,5,Alugado,False,49637,169963,910296,426685,86.09,28,Rocketseat Mastercard Life Basic
+53241de1-beee-4f11-a13d-54ed97055933,Cecília Azevedo,61,2,2,5,4,5,3,3,5,5,Vitória,Cancerologista ou Oncologista,Casado,2,4,Próprio,False,48839,955240,1527321,336714,70.41,166,Rocketseat Mastercard Life Select
+65b03e67-9d12-4afe-a2e2-f0d9d1b92df0,Ana Clara da Conceição,54,1,4,2,1,5,5,3,1,2,Vitória,Engenheiro de telecomunicações,Divorciado,8,4,Próprio,True,6121,133370,1640785,271186,85.45,5,Rocketseat Mastercard Shopping Basic
+37c78ba3-f5c2-488a-88ae-914d5237dfbd,Yago Cardoso,79,5,5,5,3,4,5,1,5,1,Manaus,Auditor,Viúvo,8,6,Alugado,True,19878,78409,1120767,301652,76.7,12,Rocketseat Visa Travel Basic
+b259087b-6879-46d8-93b3-5ea087f5c620,Murilo da Luz,44,2,2,5,3,1,2,4,1,5,Campo Grande,Astronauta,Solteiro,11,1,Próprio,True,18097,210251,701583,465582,86.08,0,Rocketseat Visa Life Basic
+0b698cc2-cd3a-4be5-8f9f-3ba9b83c5e7a,Isadora Pacheco,78,4,5,2,3,4,4,3,2,1,Campo Grande,Ventríloquo,Solteiro,0,2,Próprio,True,9484,283648,1516932,21884,60.07,118,Rocketseat Visa Life Select
+4c3e7453-142f-4471-945e-8828f6ffec58,Natália Cunha,21,4,5,2,1,4,1,5,3,3,Porto Alegre,Serralheiro,Divorciado,13,1,Alugado,True,26370,802875,791104,364611,76.11,57,Rocketseat Mastercard Life Basic
+49054a8f-c72e-4dbf-b435-7b99b13c6d16,Breno Albuquerque,55,5,5,1,1,2,1,1,1,2,Fortaleza,Prefeito,Casado,9,1,Próprio,False,1658,238158,866261,391892,85.64,0,Rocketseat Mastercard Travel Basic
+5da20fb3-cf96-4f49-a20f-2409b1f4a452,Ana Clara Gonçalves,36,1,1,3,5,2,4,3,2,4,Goiânia,Técnico em segurança do trabalho,Divorciado,11,5,Próprio,True,9501,635566,834286,250977,80.67,29,Rocketseat Visa Life Basic
+3156e0ae-69ce-4ce8-b4cd-46ebf9d50d85,João Vitor da Cunha,38,4,5,4,3,1,2,2,5,2,Curitiba,Separador,Casado,3,3,Alugado,True,46729,567719,1055801,54724,55.07,272,Rocketseat Mastercard Life Elite
+a61dba9b-1634-4b10-9aea-0ca511328134,Maria Fernanda Correia,62,1,4,1,3,3,5,4,3,1,São Paulo,Tecnólogo em geoprocessamento,Divorciado,19,4,Próprio,True,29854,681478,1602626,237902,76.2,98,Rocketseat Visa Shopping Basic
+4398d680-57e5-4964-964e-c73cc7ce2add,Gabriel Montenegro,42,4,5,1,3,1,5,3,1,5,Florianópolis,Tecnólogo em geoprocessamento,Divorciado,8,5,Alugado,True,30099,46573,470702,107861,76.82,50,Rocketseat Visa Life Basic
+2a465b2a-b6cb-4674-bd2d-0e983382edfa,Sofia Vasconcelos,64,1,1,5,4,3,5,4,4,5,Goiânia,Tecnólogo em esporte e lazer,Divorciado,5,4,Próprio,True,41732,455161,1815593,224158,74.74,119,Rocketseat Mastercard Life Select
+4547680b-2a37-4170-97ef-91e1fe77bf37,Yan Siqueira,76,1,2,5,3,3,5,4,1,5,Curitiba,Clarinetista,Divorciado,8,6,Próprio,True,1995,294335,1676859,357878,82.79,0,Rocketseat Mastercard Life Basic
+452c322e-0d12-40c6-80a8-c2f7cbf89acf,João Miguel Pinto,37,2,4,4,1,4,1,4,1,3,Fortaleza,Ginasta artística,Casado,13,1,Alugado,False,38253,692874,673163,438304,71.82,65,Rocketseat Visa Life Basic
+16e49d23-4509-41f3-9a53-a137428183df,Isaque Rocha,79,3,3,4,2,2,2,2,5,1,Porto Alegre,Mergulhador,Solteiro,20,1,Alugado,False,5197,461834,377076,135269,63.49,40,Rocketseat Visa Shopping Basic
+60d1703e-7228-4b23-9ae2-ca5458f0935d,Carolina Souza,20,3,3,1,3,5,1,5,2,3,Rio de Janeiro,Engenheiro de telecomunicações,Solteiro,16,4,Alugado,True,37268,752204,478050,31883,43.82,307,Rocketseat Mastercard Shopping Elite
+be7ceb9b-c9cd-4e92-bc93-3ac61b4820e0,Sr. Leonardo Sales,31,4,1,4,3,2,1,3,5,3,Brasília,Lanterneiro,Viúvo,20,3,Próprio,False,22350,598071,778797,434707,81.91,16,Rocketseat Mastercard Shopping Basic
+f6875b08-0d0b-421c-8649-3bffcbd83e56,Beatriz Ramos,28,5,1,1,5,2,3,5,5,5,Goiânia,Tecnólogo em desenvolvimento social,Divorciado,6,4,Alugado,True,25137,46777,610004,487749,89.66,0,Rocketseat Visa Travel Basic
+9cfc347f-4509-410f-ad6d-432bd12e9983,Zoe da Costa,66,5,5,5,5,4,5,1,5,1,Manaus,Aeromoça,Viúvo,16,5,Próprio,False,43546,82255,162133,490480,75.96,0,Rocketseat Visa Travel Basic
+c2559454-18e1-49e7-a758-bf28b9c8bad3,Srta. Sarah Cardoso,30,3,2,4,3,1,2,4,4,3,Rio de Janeiro,Modelista,Divorciado,17,5,Alugado,False,38699,307301,1910651,127941,77.8,109,Rocketseat Visa Life Select
+bc8c583f-e3aa-4d4f-a32f-0e9e83ed39b2,Vinicius Camargo,56,2,5,2,4,5,2,5,3,3,Brasília,Agente de viagens,Divorciado,3,1,Próprio,False,16096,470777,1648999,219598,78.77,55,Rocketseat Mastercard Life Basic
+b7a7eb2a-f94d-4deb-b17f-ad1187e938cf,Alice Carvalho,54,2,4,1,2,1,4,3,5,4,Goiânia,Policial civil,Solteiro,4,1,Próprio,True,33387,663360,1848516,405088,77.54,73,Rocketseat Mastercard Shopping Basic
+27ce99ce-5812-47f4-b23c-6df3b4b39b78,Davi Miguel Caldeira,22,4,3,2,4,5,2,3,1,3,Campo Grande,Investigador de Polícia,Divorciado,18,5,Alugado,True,9675,539908,1817979,277510,92.62,15,Rocketseat Mastercard Shopping Basic
+06c984ce-b994-4c63-8b55-c0176271e1a8,Diego Sousa,65,4,4,3,4,2,2,5,5,1,Belo Horizonte,Arquiteto,Solteiro,18,5,Próprio,False,24262,996062,941401,477455,67.02,68,Rocketseat Visa Travel Basic
+8ddcddac-8c88-48a4-a6c6-a1d30d5dbe1c,Henry Gabriel Guerra,38,1,2,3,4,3,1,5,5,5,Manaus,Modelista,Viúvo,9,3,Próprio,False,29743,185306,1066752,378815,86.47,13,Rocketseat Mastercard Travel Basic
+310d709f-e7a9-4c7f-bc81-e232a2592bd5,Isaque Andrade,79,2,4,5,3,5,5,3,1,3,Curitiba,Flanelinha,Casado,3,3,Próprio,False,10384,43971,1707054,495479,82.3,0,Rocketseat Visa Life Basic
+467e3e2a-bd44-4a15-ab85-4333d2fecc60,Elisa Ferreira,32,5,1,2,3,2,1,2,5,5,Florianópolis,Delegado,Casado,0,5,Alugado,True,12096,302491,1969655,481135,89.52,0,Rocketseat Mastercard Travel Basic
+64623770-6213-4d49-af7a-3b360d4ee767,Ana Cecília da Rocha,49,5,4,4,5,2,4,3,1,1,Fortaleza,Engenheiro de ergonomia,Viúvo,15,3,Alugado,True,2689,387491,426017,147764,77.74,14,Rocketseat Visa Travel Basic
+a6d55c78-2187-47cf-b8cb-8d30f887a025,Marcelo Correia,64,2,1,3,2,5,3,3,4,5,Belém,Médico legista,Solteiro,10,1,Próprio,True,44824,122119,741807,421339,76.16,32,Rocketseat Visa Shopping Basic
+d29e0946-09d1-41d9-aaf2-76b6a110049f,Isadora Cunha,30,1,2,2,5,4,2,2,3,4,Belo Horizonte,Tecnólogo em produção Sucroalcooleira,Viúvo,5,6,Próprio,False,37580,693245,1756647,460101,85.18,47,Rocketseat Mastercard Life Basic
+f737388d-52fc-47eb-8b44-8082beb8cc59,Dr. Bryan Jesus,30,2,1,4,1,4,5,5,2,2,São Paulo,Instrutor,Viúvo,8,5,Próprio,True,42600,918409,186041,498510,16.31,198,Rocketseat Visa Shopping Select
+217e85bf-94b5-43ce-90d1-e75cee6eb8a9,Sr. Erick Albuquerque,48,2,3,4,4,4,5,3,5,4,Curitiba,Técnico em óptica,Solteiro,7,1,Próprio,False,35764,688852,377622,460267,57.81,68,Rocketseat Visa Shopping Basic
+3bf40b27-8f44-44f3-9d6b-1312776d0331,Marina Siqueira,38,3,1,3,4,2,4,4,5,4,Belém,Astrólogo,Casado,0,3,Próprio,True,17213,694595,891007,60722,66.44,130,Rocketseat Visa Shopping Select
+09399936-ab8d-4436-b1c2-c60b923c3ef2,Nicole Moreira,21,4,4,4,4,4,3,1,3,4,Goiânia,Panificador/Padeiro,Casado,10,6,Alugado,False,37848,809289,677782,137156,67.24,165,Rocketseat Visa Travel Select
+5aecd9c8-fdb5-47a8-a3ed-55f2d7052ff1,Sr. Vitor Hugo Pires,44,1,5,5,3,2,5,5,1,1,Florianópolis,Ourives,Viúvo,2,6,Próprio,False,15503,600315,1836312,87312,77.73,93,Rocketseat Mastercard Life Basic
+8ba528b8-0c57-453b-ac17-79e813b49e33,Bruno Cunha,59,2,5,4,2,3,2,3,3,4,Porto Alegre,Gerente de banco,Casado,0,1,Alugado,True,4225,543842,441373,189843,68.14,28,Rocketseat Visa Life Basic
+7e859309-7e34-4101-9922-4ab39932f294,Luara Almeida,68,2,2,1,3,1,4,4,2,3,Vitória,Profissional de comércio exterior,Solteiro,2,1,Próprio,True,32778,44339,329138,148420,71.63,54,Rocketseat Mastercard Shopping Basic
+736aaf9a-f03b-47a6-8a2a-1f861ef1f3c9,Benjamim Lopes,65,5,4,2,5,3,3,4,5,1,Curitiba,Catador de carangueijos,Divorciado,14,2,Alugado,False,36500,634254,1927229,79611,60.43,242,Rocketseat Visa Travel Elite
+e35d2a92-f4c5-4ebc-899f-766588479ebc,Giovanna Borges,42,5,3,4,3,5,5,2,4,1,Fortaleza,Plastimodelista,Viúvo,11,5,Alugado,False,20086,450399,195165,116524,50.9,109,Rocketseat Mastercard Travel Select
+fced88bc-809a-4e94-8dda-b30b7b95160c,Lucas Silveira,54,4,5,1,3,3,2,1,1,5,Belo Horizonte,Médico legista,Casado,15,5,Alugado,True,2631,416650,1617335,121695,83.6,35,Rocketseat Mastercard Life Basic
+62490908-a523-4813-8e68-860f5ba01f80,Carlos Eduardo Barros,43,5,2,1,4,3,4,3,3,2,São Paulo,Cartunista,Divorciado,18,5,Próprio,True,41402,878780,993032,274415,71.73,134,Rocketseat Visa Travel Select
+a521b471-6933-4ef2-b79d-f79a24be29a0,Joaquim Costela,62,4,3,2,3,4,4,5,5,1,Campo Grande,Frentista,Solteiro,13,6,Alugado,False,14711,791714,1179458,416649,74.83,35,Rocketseat Mastercard Travel Basic
+def97bb3-4a55-47eb-9e95-9e05953582c5,Paulo Gonçalves,66,2,4,1,1,4,4,2,5,4,Belo Horizonte,Cinegrafista,Viúvo,12,1,Próprio,True,1892,169966,1090391,392245,81.48,0,Rocketseat Visa Shopping Basic
+25d4293c-78a6-419f-8227-863d76c0c0de,Dra. Lara Andrade,36,3,5,3,5,2,2,3,5,2,Florianópolis,Microfonista,Divorciado,16,5,Próprio,False,48182,966755,1845968,354776,77.33,131,Rocketseat Visa Life Select
+fb56c8ed-8088-4bb6-a7fa-586cc7d8745e,Ana Cecília Sá,31,2,2,5,4,1,3,4,2,2,Fortaleza,Transcritor,Solteiro,0,3,Alugado,True,22638,972113,1566078,377555,84.53,51,Rocketseat Mastercard Life Basic
+5d124280-0fd9-49ef-973a-b57b7a17f09f,Sr. Kaique Barros,52,5,2,1,3,5,2,3,1,2,Curitiba,Açougueiro,Divorciado,13,5,Próprio,False,31054,347115,198630,32038,34.38,228,Rocketseat Visa Travel Elite
+83b7a60b-52d0-499d-8e4a-b3a09960f313,Sr. Breno Pacheco,77,1,5,2,1,2,3,2,3,5,Rio de Janeiro,Engenheiro de petróleo,Casado,16,5,Próprio,False,17695,588368,1134594,336382,73.27,43,Rocketseat Visa Life Basic
+3c72874b-7ea1-4f5c-8572-c9db5e7d8393,Esther Oliveira,79,2,2,1,2,2,1,5,2,2,Belo Horizonte,Separador,Viúvo,0,3,Alugado,True,49317,913662,1291609,350484,66.78,172,Rocketseat Mastercard Travel Select
+5654f482-1c11-4696-980f-356304c75366,Emanuelly Peixoto,50,5,1,2,5,4,4,4,4,3,Curitiba,Aeronauta,Divorciado,16,1,Alugado,True,29815,446070,1394275,247300,77.88,69,Rocketseat Visa Travel Basic
+decb7a33-1def-4808-a59a-e05dba3f652c,Francisco Aparecida,63,3,1,5,4,3,2,1,3,4,Florianópolis,Tecnólogo em Ciências das plantas medicinais,Divorciado,13,2,Alugado,False,10364,880673,916965,293856,70.01,61,Rocketseat Visa Life Basic
+ec0ad26a-7abd-4499-aff1-73f8665df31f,Anna Liz Pereira,29,2,1,5,3,3,1,3,3,5,Campo Grande,Personal trainer,Solteiro,19,3,Alugado,False,49996,11190,410698,231777,83.5,43,Rocketseat Visa Life Basic
+34c1868f-121d-4af8-be2a-93b51364393a,Gabriel da Mota,43,1,5,1,4,5,4,4,2,4,Goiânia,Físico,Solteiro,1,3,Alugado,True,3878,729283,1476949,132664,81.51,54,Rocketseat Mastercard Life Basic
+0c71b5b7-f25b-4e58-a821-0d53f3fa8143,Pedro Henrique Sousa,73,1,4,1,3,1,5,3,2,5,Goiânia,Dublador,Solteiro,10,6,Próprio,True,9627,86847,879907,437289,83.21,0,Rocketseat Visa Shopping Basic
+3b13eaee-3807-47a2-946e-dd96c1e60719,Ana Vitória Correia,51,1,1,2,5,2,3,1,2,4,São Paulo,Engenheiro mecânico,Divorciado,19,2,Próprio,True,1928,986233,1393547,211378,78.17,61,Rocketseat Mastercard Life Basic
+9bb7420f-ef3c-4394-989e-ce81edf7ed8f,Dra. Sabrina Martins,37,5,1,5,4,1,1,1,2,1,Belo Horizonte,Catador de carangueijos,Divorciado,18,6,Alugado,True,18941,587789,735439,61716,66.38,118,Rocketseat Mastercard Travel Select
+8d11ce6f-ed51-4baa-ae67-61bb567b4033,Cecilia Ramos,31,2,3,2,2,3,1,4,3,2,Curitiba,Piloto automobilístico,Casado,18,3,Próprio,True,42808,392722,965422,42611,60.46,207,Rocketseat Mastercard Travel Elite
+e5900e00-29ee-4c67-a8f1-585b26169d69,Vitor Souza,35,3,1,4,3,5,3,3,5,4,Vitória,Pianista,Casado,1,5,Próprio,True,14056,185715,618517,135976,84.61,19,Rocketseat Mastercard Shopping Basic
+e6853513-af2b-441f-8884-d7342abc7d08,Luiz Felipe Abreu,62,3,2,3,5,5,3,1,5,2,Curitiba,Alpinista,Casado,14,3,Alugado,True,29433,363773,1354776,425149,80.0,28,Rocketseat Mastercard Life Basic
+35dc139f-595b-465b-b310-d20f31383387,Ian Duarte,48,4,5,1,3,1,3,1,2,4,Fortaleza,Cartazeiro,Divorciado,10,6,Alugado,True,10162,489943,1230652,169340,80.49,42,Rocketseat Visa Life Basic
+6d42b441-5586-4afc-9f61-bfb1af963e25,Sophia Nogueira,37,4,5,4,5,5,4,4,4,2,Curitiba,Triatleta,Divorciado,19,3,Próprio,False,11665,489518,1146676,97601,81.7,51,Rocketseat Visa Life Basic
+3117ccef-3fbb-4379-9bbc-68c767a67325,Théo Casa Grande,20,1,4,4,3,5,4,5,1,2,Recife,Tecnólogo em negócios imobiliários,Casado,9,5,Alugado,True,16355,800244,1960322,472312,91.5,16,Rocketseat Mastercard Shopping Basic
+2c1c6a37-36b7-4d82-9cb9-c949fedfecbd,Alice Albuquerque,60,2,3,4,4,2,4,1,2,2,Campo Grande,Cenógrafo,Casado,9,3,Alugado,True,22833,826874,112826,47394,0,404,Rocketseat Mastercard Life Platinum
+ea642c1b-6877-479b-b4b0-80866fcdff19,Dra. Ana Julia Fonseca,72,5,3,1,4,2,3,1,4,5,Belém,Químico farmacêutico,Viúvo,6,4,Próprio,False,14324,457754,189093,379654,44.73,0,Rocketseat Mastercard Travel Basic
+bf6c81fc-39e3-48a1-a1ea-c2e4a23c8e89,Josué Câmara,66,2,4,3,3,4,5,4,5,1,Brasília,Clínico geral,Viúvo,18,1,Alugado,True,7279,406400,269489,166910,62.19,28,Rocketseat Mastercard Shopping Basic
+d361808f-8eec-4edf-bbfa-2a125f303478,Ana Júlia Cirino,41,5,4,1,2,2,4,2,1,2,Curitiba,Tenista,Viúvo,2,3,Próprio,True,24742,356359,1051629,431613,81.42,12,Rocketseat Visa Travel Basic
+974fc1bf-0933-4a38-b4e1-c3591b4d1d3e,Clarice Cunha,27,1,3,4,2,2,4,5,1,4,Florianópolis,Radiooperador de vôo,Solteiro,11,6,Alugado,False,19675,326203,811210,354037,88.17,6,Rocketseat Mastercard Travel Basic
+bdc47cb8-e3cb-470a-ae7f-34b9af95336f,Thiago Machado,28,4,1,4,4,4,1,3,4,3,Goiânia,Enólogo,Solteiro,19,4,Próprio,False,21907,134993,1205195,265798,88.67,14,Rocketseat Visa Travel Basic
+51bcde63-ea62-4460-9323-27cae0803cd7,Sophia Alves,72,4,5,4,1,2,1,3,5,3,Porto Alegre,Matemático,Viúvo,13,1,Próprio,False,36063,382585,234193,411825,53.56,45,Rocketseat Mastercard Life Basic
+8030259c-080d-44a8-a050-f28755620431,Dra. Hellena Casa Grande,25,3,3,4,3,3,1,5,3,2,Curitiba,Estoquista,Divorciado,13,1,Próprio,False,33087,482607,769873,26252,55.34,208,Rocketseat Visa Travel Elite
+e31eb47f-bef9-4681-a300-fc89f71ae02b,Raul Nunes,58,5,4,2,2,1,5,1,2,2,Belém,Profissional de hotelaria,Viúvo,13,3,Próprio,False,3334,624719,234216,187298,48.1,46,Rocketseat Mastercard Travel Basic
+467fd76a-e0f9-425a-9546-1ccbf6476eff,Sra. Ester Abreu,76,1,3,3,1,2,5,1,4,5,Goiânia,Almirante,Solteiro,10,6,Próprio,False,49017,860341,1097982,298355,63.07,193,Rocketseat Visa Shopping Select
+0db62775-cd43-4c6a-8251-0a642e600a53,Júlia Sales,19,1,4,1,2,5,3,3,5,5,Recife,Prático,Casado,1,3,Próprio,True,13054,996523,1566083,134667,84.01,72,Rocketseat Visa Shopping Basic
+1bc0d9a5-f793-4ea2-bd6f-a4593f1d9c86,Ana Aragão,35,1,5,4,2,3,3,1,4,2,São Paulo,Recepcionista,Viúvo,4,3,Próprio,False,49946,722325,1632232,97367,65.65,241,Rocketseat Visa Life Elite
+05bb83e5-e29f-46fa-9596-6eaec06d065e,Allana Caldeira,24,1,5,3,5,4,5,4,5,3,Recife,Plastimodelista,Viúvo,15,5,Alugado,False,15504,235745,37901,371724,0,0,Rocketseat Visa Life Basic
+8f41e02c-41b8-4e01-b1e6-34e037b58708,Emilly Mendes,38,4,2,5,2,4,3,4,1,5,Rio de Janeiro,Procurador de justiça,Viúvo,17,3,Alugado,True,23699,862588,931938,79575,65.16,167,Rocketseat Visa Life Select
+dc74aae4-40dc-4491-b409-9d99738ae0e4,Lavínia Moraes,37,1,2,5,5,2,5,3,5,4,Salvador,Motorista,Solteiro,9,5,Próprio,True,20124,787331,661311,236715,71.56,78,Rocketseat Visa Life Basic
+843d7c9b-83bb-48e6-85e8-67fa939cd337,Melissa Vargas,76,1,1,4,2,2,1,5,3,2,Vitória,Cientista de alimentos,Casado,12,5,Próprio,False,36231,138094,793622,318306,77.0,36,Rocketseat Mastercard Travel Basic
+902c1b7d-a5ef-4585-9930-ce2f3f1fbce4,Benicio Pastor,44,1,3,5,5,5,4,2,4,4,Florianópolis,Repórter,Viúvo,9,4,Alugado,True,40272,292426,669837,403963,78.83,33,Rocketseat Visa Life Basic
+df31e632-edda-4419-9818-17867d325ecd,Ana Liz da Rosa,36,2,1,4,5,4,4,4,2,1,Manaus,Procurador de justiça,Casado,4,5,Alugado,False,1218,558540,1740355,175140,89.59,22,Rocketseat Mastercard Life Basic
+26095fc7-87c8-44ce-89f9-27855f88a263,Eduarda Carvalho,38,1,3,1,5,4,5,5,2,2,Fortaleza,Caldeireiro,Divorciado,7,2,Próprio,True,40964,262081,349089,298480,75.13,50,Rocketseat Visa Life Basic
+557a31c2-191b-4599-95fd-a58b76b0429b,Srta. Beatriz Cassiano,26,4,4,2,5,4,2,2,4,5,Belém,Técnico de som,Solteiro,19,3,Alugado,True,20200,67961,1875788,16195,60.69,140,Rocketseat Visa Life Select
+52a81f6f-a2d8-49ca-be0f-36932dac8102,Maria Fernanda Ribeiro,64,4,5,4,4,1,4,3,5,1,Goiânia,Pedreiro,Solteiro,14,4,Alugado,False,5577,7217,1569945,16946,72.48,52,Rocketseat Visa Life Basic
+a6c10814-26c5-444b-bb75-25234b7d4d91,Ravy Pastor,71,5,4,4,1,1,2,3,5,1,Goiânia,Funileiro,Casado,11,4,Próprio,True,48523,806104,83689,190512,0,486,Rocketseat Mastercard Travel Platinum
+c39a60d4-e04a-4c92-9e19-4b3bdd09ad92,Enrico Garcia,68,1,4,4,2,3,3,3,4,3,Florianópolis,Jogador de badminton,Viúvo,8,5,Próprio,True,32627,220290,554712,50921,55.26,153,Rocketseat Mastercard Life Select
+44e4a5cd-93a1-446c-a344-5cd92144e62f,Melina Vargas,27,5,3,3,3,2,5,3,4,4,Belém,Educador,Divorciado,4,6,Alugado,True,35195,302441,54401,115878,0.28,284,Rocketseat Visa Travel Elite
+99332158-9c46-454b-8723-fcf1558661d9,Sra. Emilly Brito,72,2,5,3,2,5,1,3,3,5,Goiânia,Lanterneiro,Viúvo,15,5,Alugado,False,26180,269804,1335387,119494,68.33,104,Rocketseat Mastercard Life Select
+a26662e6-d493-4b9f-9d34-b78c21f299d2,Vitor Fonseca,55,4,2,5,4,2,4,4,1,1,Brasília,Especialista em agronegócios,Casado,9,2,Alugado,True,33839,329563,1097518,196273,74.81,81,Rocketseat Visa Life Basic
+4a4596b4-ca18-428f-b377-d54287ba9355,Dr. Fernando Gonçalves,56,4,4,5,1,5,2,2,3,1,Salvador,Vistoriador de sinistros,Solteiro,10,5,Alugado,False,48760,827614,250801,340785,29.98,274,Rocketseat Mastercard Life Elite
+492aedb8-2748-4c8f-9752-3361119d5017,Caio Ribeiro,80,3,2,2,2,4,2,1,5,3,Recife,Parteira tradicional,Divorciado,2,6,Alugado,True,4668,468328,1188460,274175,74.32,20,Rocketseat Mastercard Shopping Basic
+8d72aa5d-7c66-47a3-a067-2bd6afee961e,Srta. Kamilly Dias,51,5,4,4,1,5,1,3,1,2,Fortaleza,Epidemiólogo,Solteiro,14,1,Próprio,True,20841,63821,435645,119320,77.35,30,Rocketseat Mastercard Travel Basic
+2f0ca00d-d466-4af3-9d2c-f4497fe8288f,Zoe Cavalcante,52,1,5,4,1,4,2,5,5,4,São Paulo,Fisiculturista,Divorciado,13,5,Próprio,False,39625,225437,1254712,255449,77.75,68,Rocketseat Mastercard Life Basic
+2a669f0d-0e91-403a-8a17-6abc68b13474,Theo Camargo,39,3,3,5,2,3,3,5,5,3,Belém,Acupunturista,Viúvo,3,2,Próprio,True,34245,506755,1078356,148769,76.73,97,Rocketseat Visa Life Basic
+6f68fee6-957a-425f-a570-462d82d061dc,Pedro Miguel Teixeira,75,4,3,1,4,3,5,2,2,1,Florianópolis,Webdesigner,Casado,6,3,Próprio,False,34393,493361,1039742,85527,57.82,193,Rocketseat Visa Shopping Select
+0099e8bd-79f7-4be7-bfc8-9257ca1bbef4,Sra. Hadassa Cirino,24,2,3,2,2,4,2,2,5,2,Brasília,Engenheiro de controle e automação,Viúvo,20,5,Próprio,False,45875,314637,1945216,319567,85.09,60,Rocketseat Mastercard Shopping Basic
+1f900044-e566-44fd-855b-ecd1374f0835,Dr. Pietro Pacheco,77,3,2,3,3,3,3,4,3,4,Manaus,Engenheiro sanitarista,Viúvo,13,1,Próprio,True,18226,494908,1959431,448915,78.79,28,Rocketseat Visa Travel Basic
+472e8cca-0c5f-4ce5-a564-9a712ca7f056,Henry Gabriel Araújo,40,1,2,2,3,3,3,1,3,4,Florianópolis,Profissional de recursos humanos,Viúvo,10,5,Alugado,True,43322,844492,293455,239541,41.48,256,Rocketseat Visa Shopping Elite
+1518f92d-0124-4260-8bac-98a4e48c03fe,Noah Rocha,72,4,5,4,1,4,4,2,3,5,Manaus,Urbanista,Viúvo,1,1,Alugado,False,18954,112024,156084,127474,64.27,35,Rocketseat Visa Life Basic
+5d8357a2-f515-4436-87ee-cbdd94457eeb,Enrico Barros,52,2,1,3,4,2,2,5,3,5,Porto Alegre,Engenheiro de petróleo,Solteiro,14,2,Próprio,False,25212,459406,1936942,149021,75.31,102,Rocketseat Visa Travel Select
+b00a802d-0d3e-407f-b652-e5246ba029ca,Maria Luísa Nogueira,62,3,3,4,2,2,3,4,2,4,Brasília,Profissional de relações públicas,Divorciado,6,6,Próprio,False,2432,147290,1619212,403652,83.12,0,Rocketseat Mastercard Life Basic
+e525521d-5a46-45f2-8172-697f0d8f60cd,Lucca Costa,26,4,1,5,1,5,3,1,5,4,São Paulo,Cumim,Divorciado,17,4,Próprio,False,8811,673437,861465,224044,81.48,33,Rocketseat Mastercard Life Basic
+eec07e92-aaa0-4313-b6a0-308cf7f44f36,Eduarda Castro,65,5,2,5,1,5,4,5,2,1,Florianópolis,Esteticista,Viúvo,8,4,Próprio,True,5951,592767,193238,292705,40.44,6,Rocketseat Visa Travel Basic
+8a1f1294-8b5e-4eac-9890-06166e06a58a,Maria Júlia Mendes,22,4,1,4,5,3,1,5,4,1,São Paulo,Dedetizador,Casado,10,4,Alugado,False,12906,679309,1206331,178158,84.27,45,Rocketseat Mastercard Life Basic
+e38c96e6-6ed6-4a36-a349-c2df9c208115,Antony Viana,55,2,5,3,5,2,2,2,2,3,Belo Horizonte,Matemático,Solteiro,0,5,Alugado,True,45206,805074,684970,279112,62.55,168,Rocketseat Visa Life Select
+57cec534-fe60-4a5c-99ca-62f33600dfca,Bella Novais,79,2,2,3,2,4,3,2,2,3,São Paulo,Engenheiro mecatrônico,Casado,14,1,Próprio,True,5539,343367,1825688,165327,80.13,39,Rocketseat Visa Shopping Basic
+70c05001-321a-4c45-8147-df1d8cac0b74,Bruna Souza,73,4,4,4,2,2,4,5,1,1,Belo Horizonte,Prensista,Solteiro,5,2,Alugado,False,49755,895681,1551709,109358,56.23,321,Rocketseat Visa Travel Elite
+cf97c0c2-b943-46b2-b898-a9f36d223d07,Maria Julia Novais,65,5,3,4,3,5,1,4,1,1,Salvador,Teólogo,Viúvo,12,1,Próprio,False,21767,435293,400516,110272,62.48,96,Rocketseat Visa Travel Basic
+5f300a7a-4265-45f3-99b1-98df42126541,Dr. Lucas Moraes,71,2,1,4,4,1,3,3,1,2,Vitória,Capoeirista,Casado,5,5,Alugado,True,5279,455238,1983781,444495,81.36,4,Rocketseat Mastercard Life Basic
+d4419136-c03a-43d6-b0dd-b2e714c9ba4d,Maria Cirino,26,2,3,3,5,4,2,4,2,2,Campo Grande,Lavador,Casado,5,3,Alugado,True,46552,492634,1598633,20442,47.49,349,Rocketseat Mastercard Life Elite
+04c6a43e-bf37-4979-ad86-19c2e4f7ae00,Benjamin Pereira,49,3,5,3,1,1,3,1,4,1,Goiânia,Torreiro/Torrista,Casado,13,1,Próprio,True,14374,320932,846524,327843,81.41,6,Rocketseat Mastercard Life Basic
+6db36099-6119-4df2-8561-ca12c38175d9,Alice Macedo,24,1,1,4,4,4,5,4,2,5,Florianópolis,Lutador de karatê,Solteiro,9,4,Próprio,False,1979,365603,1881541,116758,90.55,21,Rocketseat Mastercard Shopping Basic
+e5f12a28-f64c-4951-acd1-718e2d65dad3,Melissa Viana,38,1,4,4,5,2,2,2,5,2,Florianópolis,Letrista,Casado,7,6,Alugado,True,44016,566216,766682,321708,75.54,83,Rocketseat Visa Life Basic
+a7eea302-43d9-4d87-8191-e7d57bd3b84a,Dra. Eloá Viana,36,3,3,4,5,5,5,5,3,2,Brasília,Administrador de redes,Viúvo,11,6,Alugado,True,41305,110339,523824,118606,73.6,85,Rocketseat Visa Life Basic
+cb43899e-8c28-45c5-9705-15c2beed74f1,Isaque Albuquerque,58,1,2,2,4,3,1,5,4,4,Vitória,Tapeceiro,Divorciado,6,6,Próprio,False,4146,832773,415018,95510,52.98,117,Rocketseat Mastercard Travel Select
+fbec1814-2e46-4b6d-9456-64678268fe6e,Leandro Rodrigues,47,3,5,3,3,2,3,3,4,5,Fortaleza,Capitão,Solteiro,10,5,Próprio,True,41718,275570,1144792,230614,76.04,83,Rocketseat Visa Life Basic
+7ab60d60-f7cd-414b-8323-7b58112b9a70,Ana Júlia Lima,45,4,1,1,5,3,2,3,3,4,Salvador,Relações públicas,Solteiro,16,2,Próprio,True,43093,26648,1139422,66179,65.21,144,Rocketseat Mastercard Life Select
+972cb457-94bb-4e21-ba01-6b47f628dc84,Caio Sousa,71,3,5,5,2,5,5,5,1,5,Brasília,Aviador,Casado,16,2,Próprio,True,45602,232634,1627204,8765,30.77,409,Rocketseat Mastercard Life Platinum
+58ca3bcb-ef86-4157-b0c8-3242eca648a7,Srta. Mariah Albuquerque,61,2,5,5,4,2,3,1,4,3,Salvador,Profissional de linguística,Viúvo,15,4,Próprio,True,11855,665748,1330249,450332,78.79,14,Rocketseat Visa Life Basic
+96f6ae99-5074-46bd-bf6a-a5f1e78c7595,Arthur Miguel Cirino,18,2,5,5,1,1,4,2,2,4,Vitória,Cabeleireiro,Casado,7,4,Alugado,False,5906,263537,1485498,291376,94.99,2,Rocketseat Visa Life Basic
+4b7000ca-11e6-4669-936a-7d88c4fa6670,Hadassa Correia,55,3,2,4,1,5,2,2,4,2,Belém,Moldureiro,Divorciado,10,1,Alugado,False,13672,260647,1749714,183714,80.21,43,Rocketseat Mastercard Shopping Basic
+fa63a1fa-a4aa-4354-9a62-297be1976b20,Carlos Eduardo Cirino,67,3,1,5,5,4,2,1,3,3,São Paulo,Estampador de tecidos,Viúvo,8,1,Próprio,False,42192,627516,987987,121729,61.58,203,Rocketseat Mastercard Life Elite
+ab3b2860-ab37-4da8-a0c5-868c0f003e6b,Alana Nogueira,74,3,2,5,1,1,5,5,3,2,Vitória,Lanterneiro,Viúvo,13,4,Alugado,True,47514,725024,1815097,416523,71.8,126,Rocketseat Visa Life Select
+bc96b3d0-de84-45cb-854f-41c1c74ba13c,Diego Jesus,71,5,3,4,3,3,1,1,1,4,Porto Alegre,Policial civil,Viúvo,7,5,Próprio,False,48451,768021,578532,474339,58.03,124,Rocketseat Mastercard Travel Select
+e6aca8c8-da0c-466b-9750-a2c4a41af698,Luiz Gustavo da Rocha,67,4,5,5,4,1,5,1,5,1,Manaus,Tecnólogo em processos químicos,Solteiro,3,2,Próprio,False,47434,511560,1175811,318054,73.12,106,Rocketseat Visa Life Select
+4486d976-3410-4ef8-8cc5-fd8d9343fbbf,Sra. Alexia Camargo,63,4,5,5,1,4,4,1,2,5,Belo Horizonte,Fisioterapeuta,Solteiro,20,3,Alugado,False,49779,41801,728350,339260,79.65,43,Rocketseat Visa Life Basic
+221732bc-9025-4a30-b7fe-d5fe1f41ebe7,Cauã Rodrigues,69,3,3,3,2,3,4,1,3,4,Goiânia,Profissional de linguística,Divorciado,5,2,Próprio,False,2859,764472,957608,445345,74.85,0,Rocketseat Visa Shopping Basic
+0b23beb0-a5ea-42f3-beb7-db3fc4ad3ff9,Asafe Silveira,67,3,5,5,2,3,3,1,1,4,Brasília,Figurante,Viúvo,20,2,Próprio,True,12275,885752,1048232,449129,69.42,33,Rocketseat Visa Life Basic
+a13a00b7-614a-4d9f-a98b-c7a0ca8f6b26,Luigi da Mata,72,3,2,2,3,1,1,2,5,3,Campo Grande,Produtor de multimídia,Divorciado,17,5,Alugado,False,47359,509021,735248,176685,62.96,172,Rocketseat Mastercard Shopping Select
+10219f8e-1d84-4e9f-a818-eaa533625149,Gabrielly Teixeira,30,4,3,2,3,5,3,4,2,4,Rio de Janeiro,Técnico em hardware,Divorciado,19,5,Alugado,False,7118,94940,1492470,313508,94.79,0,Rocketseat Mastercard Shopping Basic
+d0513276-9078-4e42-bf0a-8898efad0d59,Alice Moreira,46,3,1,4,2,2,2,2,4,2,Belo Horizonte,Pianista,Solteiro,9,2,Alugado,False,3672,257848,1149212,81270,85.88,22,Rocketseat Visa Life Basic
+bd126b74-e40a-4e8a-8b55-91d92a7ccfdd,Cauê Macedo,44,5,5,4,5,4,3,3,3,4,Brasília,Ufólogo,Divorciado,7,3,Próprio,True,37459,578002,1191362,100788,67.53,166,Rocketseat Mastercard Travel Select
+2083a494-eccb-4874-91d4-08d6785bdf33,Juan Farias,38,1,5,4,5,3,1,5,2,3,Goiânia,Lutador de taekwondo,Casado,14,3,Alugado,False,47034,258888,1668404,282211,82.5,69,Rocketseat Visa Life Basic
+e01acf26-e432-444c-8c01-ef2c857b4658,Henry Gabriel Brito,49,1,5,4,5,1,3,4,2,1,Belém,Astrônomo,Divorciado,2,6,Próprio,False,39735,457372,135597,499732,37.71,43,Rocketseat Mastercard Life Basic
+2fe8fdfa-d89f-46eb-8862-04a6b171fd43,Lara Gonçalves,63,2,4,2,4,3,5,3,3,2,Manaus,Técnico em aviação,Viúvo,4,5,Próprio,True,40173,514651,903516,369212,73.64,71,Rocketseat Mastercard Shopping Basic
+177c78f7-afcf-44e5-b511-2faca0a8dfa7,Sarah Vieira,63,5,1,5,4,2,2,2,5,2,Vitória,Engenheiro de horticultura,Casado,0,6,Próprio,True,24484,615983,250994,406124,48.91,41,Rocketseat Visa Travel Basic
+30a06e84-dac3-457b-9a16-d6d8e6c5cdf2,Sra. Alice Pinto,23,4,4,4,4,2,3,2,1,3,Brasília,Instrutor,Casado,13,3,Próprio,True,7170,992107,846316,300942,78.77,42,Rocketseat Mastercard Travel Basic
+ceab5c28-57b6-43a7-98b2-0f4a30422889,Yuri Oliveira,34,1,3,4,1,5,3,1,5,1,Recife,Catador de material reciclável,Solteiro,11,1,Alugado,True,27307,210351,475298,184130,82.04,33,Rocketseat Mastercard Shopping Basic
+7de5980f-b56a-4f41-89c4-831a2234f4f1,Yan Duarte,18,5,5,3,1,2,2,5,4,2,Recife,Endocrinologista,Casado,11,1,Alugado,False,22421,403443,642281,14498,53.64,164,Rocketseat Mastercard Travel Select
+0972b35f-4661-45b9-8947-43aa3b92f801,Gael Henrique Sá,75,5,2,4,1,5,1,5,1,3,Campo Grande,Ciclista,Divorciado,3,3,Alugado,True,29881,740680,1774134,461201,75.2,67,Rocketseat Mastercard Travel Basic
+ccc5bb9e-4025-4091-98f7-16cc04ca2cca,Theo Nunes,49,4,5,4,4,1,5,1,3,2,Brasília,Meeiro,Casado,7,4,Alugado,False,13658,632819,325588,321489,60.75,29,Rocketseat Mastercard Life Basic
+0abc425e-d4ae-4811-8a3a-9330bb615ff5,Eduardo Siqueira,40,5,1,5,1,3,5,5,5,5,Recife,Manobrista,Viúvo,17,6,Alugado,False,4841,961135,1931738,251880,85.46,46,Rocketseat Visa Travel Basic
+9d796afc-7225-45d5-b9dc-8967951974fd,Dra. Isadora Santos,26,4,4,4,4,1,4,1,4,1,Brasília,Viveirista,Viúvo,19,4,Próprio,False,30353,800611,415323,153594,59.41,163,Rocketseat Visa Travel Select
+2ab43ad4-2299-419a-a16e-feb76f6f1d2d,Matheus Fogaça,67,2,1,3,5,5,5,2,3,1,Recife,Dentista,Solteiro,1,3,Próprio,True,45830,732851,115585,276588,0,377,Rocketseat Visa Life Elite
+e6d54263-7c65-4967-b936-7ef791fa3ddb,Cauê da Mota,79,4,5,5,2,5,3,1,2,1,Fortaleza,Engenheiro de energia,Casado,7,6,Próprio,True,36242,54982,1727520,432744,78.56,29,Rocketseat Mastercard Life Basic
+b3786a1d-98a1-47e9-aeb1-95254c5076bc,Dr. Yuri Gomes,49,4,2,1,3,1,2,3,2,4,Vitória,Engenheiro ambiental,Casado,11,4,Alugado,True,14548,598889,1343060,321397,78.54,37,Rocketseat Mastercard Travel Basic
+1e8ffce5-0a7d-4f83-b05a-7033cca655a6,Henrique Castro,56,4,5,3,2,3,4,1,4,4,Salvador,Designer de jóia,Divorciado,6,4,Próprio,True,17133,651966,1402014,135363,76.69,85,Rocketseat Visa Life Basic
+42a31dbf-c881-4478-918c-2677bface961,Ravi Lucca Ferreira,20,2,1,1,1,2,4,1,2,5,Brasília,Diretor de produção,Casado,8,6,Próprio,False,46613,804390,941890,67574,61.01,255,Rocketseat Visa Shopping Elite
+013f9f61-6ca8-40d2-a43d-193b60d1e21b,Theodoro Nunes,36,2,1,5,4,2,2,5,1,4,Fortaleza,Sargento,Solteiro,3,2,Alugado,False,38362,274201,227524,398977,68.26,29,Rocketseat Mastercard Life Basic
+01db3105-0d01-4a01-9591-7b473462b9b5,José Pedro Pinto,23,3,4,2,4,5,1,5,2,2,Goiânia,Técnico em tratamento de água,Divorciado,1,5,Alugado,True,46456,845581,141348,126747,0,538,Rocketseat Visa Shopping Platinum
+d4a875f5-a825-4749-bb7b-59fa9fa39ea1,Dra. Maria Vitória Mendes,73,1,4,4,2,3,5,1,2,2,Belém,Gestor público,Casado,10,6,Próprio,True,17436,966619,368111,183562,39.47,193,Rocketseat Visa Shopping Select
+95ef89e4-a96f-4104-a188-8c0afd656d63,Sra. Hellena Silva,22,2,5,3,1,1,1,4,5,5,São Paulo,Bombeiro,Casado,10,3,Alugado,True,17107,630886,1108463,150893,82.64,55,Rocketseat Mastercard Life Basic
+358672c4-93c2-49eb-8c84-63b1cd40e8f9,Maria Vitória Abreu,61,4,5,1,2,1,5,5,1,1,Belém,Guitarrista,Viúvo,18,6,Próprio,False,16313,6188,799462,1793,33.39,140,Rocketseat Visa Life Select
+d7073c1b-f564-4ea8-bc93-d7ea68c43736,Felipe Novais,46,4,4,2,4,5,3,2,2,3,Belém,Chargista,Casado,12,3,Alugado,False,16575,716052,1028783,321183,76.37,46,Rocketseat Mastercard Shopping Basic
+01461389-86c4-46ca-86f8-7abf6839bc33,Luiz Fernando Siqueira,45,5,2,4,2,3,2,4,4,4,Fortaleza,Ortesista,Viúvo,14,4,Próprio,False,20651,150977,89244,241136,60.69,10,Rocketseat Visa Travel Basic
+6b0ef02e-d7c6-4dcf-9362-ce206696b5fe,Henrique Siqueira,38,2,2,2,5,2,5,3,4,5,Vitória,Flanelinha,Viúvo,11,6,Próprio,True,44605,418259,279161,379221,64.36,74,Rocketseat Visa Life Basic
+744aaf4d-b4d6-4e73-8ec3-9b8e4643eaa3,Ana Julia das Neves,27,5,4,1,2,2,3,5,2,4,Campo Grande,Ortodontista,Viúvo,5,4,Alugado,True,31817,113927,1138394,341960,88.9,14,Rocketseat Visa Travel Basic
+70aa0351-8fb8-482f-808a-27cfcdb3a876,Thomas Sousa,54,2,4,5,2,2,4,3,4,2,Vitória,Pedreiro,Casado,15,3,Alugado,True,44712,180712,573193,391104,79.02,33,Rocketseat Mastercard Life Basic
+b14b6455-1a52-43aa-9bca-1ceaa6d8b6e1,Srta. Julia Barros,23,3,1,3,3,2,2,2,3,1,Brasília,Anestesiologista,Divorciado,18,4,Próprio,False,2406,9089,1929740,452066,98.21,0,Rocketseat Mastercard Travel Basic
+35fb3474-9341-4208-a4bf-6002a209ccdc,Maria Clara da Rosa,36,2,2,4,1,5,5,4,2,5,Recife,Lubrificador de máquinas,Viúvo,8,6,Alugado,True,20873,106429,1682620,294590,86.88,17,Rocketseat Mastercard Shopping Basic
+415fc958-6185-47a4-8eaf-a46bef96f426,Maria Luísa Fonseca,76,4,4,4,4,2,1,5,3,4,Manaus,Cirurgião dentista,Casado,14,1,Próprio,False,30157,101784,1584762,20645,45.1,227,Rocketseat Visa Travel Elite
+2087632c-fdac-4af5-9f9f-13279acd768b,Eduarda Viana,23,4,2,1,2,3,3,1,3,5,Florianópolis,Costureira,Viúvo,0,5,Próprio,True,25246,72236,371689,70749,78.67,44,Rocketseat Visa Shopping Basic
+39e3a8e8-9b5a-4b96-8587-cc99d583fac4,Sr. Gustavo Henrique da Luz,72,1,4,3,2,1,2,3,3,4,Salvador,Veterinário,Divorciado,1,3,Próprio,True,17561,201350,1076725,146929,77.7,43,Rocketseat Visa Life Basic
+4d0e3102-ec98-468a-9b0f-cd7e7dbba641,Lucas Gabriel da Cunha,53,5,1,3,4,2,4,4,4,1,Goiânia,Prático,Divorciado,12,3,Próprio,False,3056,136996,1828800,485776,88.37,0,Rocketseat Visa Travel Basic
+54aa216f-7cb1-492f-9c5e-2386040f2ba8,Kaique Sousa,63,5,2,4,3,3,1,4,1,3,Vitória,Terapeuta ocupacional,Solteiro,0,2,Alugado,True,23421,138768,1977417,181529,79.94,56,Rocketseat Mastercard Travel Basic
+f767062c-0e56-45f2-a94b-2dc49fdb594d,Sra. Ana Carolina Brito,29,1,1,1,1,3,5,1,2,5,Belém,Endocrinologista,Viúvo,20,3,Alugado,True,25470,68114,322974,299844,88.9,2,Rocketseat Mastercard Shopping Basic
+95227784-08e3-4f7c-9520-c126a54fec91,Otto Rezende,63,2,1,1,1,4,2,2,1,1,Salvador,Catador de carangueijos,Divorciado,20,5,Alugado,False,10090,209213,1925190,391152,85.74,3,Rocketseat Mastercard Shopping Basic
+a784545d-bec8-412e-ae55-d886c8ca9e0d,Sr. Benjamin Sampaio,63,5,1,4,2,5,1,1,2,2,Curitiba,Catador de carangueijos,Casado,17,5,Alugado,True,33460,634868,1481163,97551,64.84,186,Rocketseat Mastercard Travel Select
+d958bab7-98d1-48e5-9df3-eb11b02b9989,Léo Abreu,30,2,4,5,3,5,4,5,3,2,Salvador,Paramédico,Divorciado,11,6,Alugado,True,13258,889838,674036,396511,75.72,30,Rocketseat Visa Life Basic
+2b1d9609-7d46-4baa-8a22-d4defa4db92f,Isaac Casa Grande,36,1,5,4,1,4,1,1,3,5,Florianópolis,Cadeirinha,Divorciado,19,6,Alugado,False,11568,67793,129225,32916,70.0,30,Rocketseat Visa Life Basic
+9a3ad556-7195-426d-8da2-773dcea0d889,Cauê Freitas,46,3,4,3,5,2,2,5,2,1,Goiânia,Jogador de badminton,Divorciado,13,4,Próprio,False,24469,778245,1700717,251893,78.18,87,Rocketseat Visa Life Basic
+4caaa1df-a54a-4f2f-8419-3c92c3f4cc95,Lucas Gabriel Sampaio,47,4,4,1,2,3,4,2,4,3,São Paulo,Boticário,Viúvo,5,2,Alugado,True,31434,474141,320203,74492,51.92,176,Rocketseat Mastercard Travel Select
+c0cdf9b2-7918-4126-b950-6fdb32d07532,Dra. Maitê Alves,19,1,4,4,2,3,5,3,2,2,Fortaleza,Sacoleira,Viúvo,13,4,Alugado,False,26643,495230,314362,142024,63.83,101,Rocketseat Mastercard Shopping Select
+f403c29a-9ba5-4413-b966-14094d7ea1c5,Maitê Silveira,40,5,3,2,2,5,4,2,4,4,São Paulo,Lamboteiro,Divorciado,20,2,Próprio,False,7947,70156,1998481,169493,90.32,14,Rocketseat Visa Travel Basic
+2124bc57-4203-46b4-818d-ec8cdcb5d9b3,Beatriz da Conceição,57,3,2,3,5,4,1,1,4,3,Salvador,Jogador de badminton,Casado,6,3,Alugado,False,8985,628218,271430,277682,50.56,32,Rocketseat Visa Life Basic
+23ec6f35-8017-4783-9a33-a75d9bb05cfb,Eduarda Fogaça,68,2,2,3,5,2,5,5,2,2,Fortaleza,Coloproctologista,Viúvo,0,3,Alugado,False,19384,581955,714619,302629,71.14,46,Rocketseat Mastercard Life Basic
+0be659ff-938e-4b7a-869d-7b4126bbfd6c,Bernardo Câmara,57,3,1,4,4,2,3,2,3,1,Fortaleza,Técnico em tratamento de água,Casado,7,6,Alugado,False,22079,85257,1109887,257394,82.17,19,Rocketseat Visa Life Basic
+385ee67e-7685-48a0-82b2-bdc84240aa40,Olívia Gonçalves,70,3,4,3,5,5,2,2,5,5,Rio de Janeiro,Engenheiro petroquímico,Divorciado,1,6,Alugado,False,41675,505993,1178343,76609,58.84,223,Rocketseat Mastercard Life Elite
+d6702344-c286-4fc6-8203-11260335ab49,Alana Aragão,68,3,3,2,2,3,1,1,4,1,Brasília,Figurante,Viúvo,4,4,Próprio,True,25642,443538,1469361,429175,79.35,29,Rocketseat Visa Shopping Basic
+2197cc75-8147-4d84-a35e-3ecd47b41013,Beatriz Farias,66,2,5,4,3,2,5,2,3,1,Rio de Janeiro,Retificador,Solteiro,10,5,Próprio,False,21584,112978,1964827,143420,77.07,66,Rocketseat Mastercard Life Basic
+e186d58a-a0fa-43b5-9c2e-d0eadf6c5111,Thiago Carvalho,38,3,4,2,3,5,1,3,3,5,Florianópolis,Ceramista,Solteiro,16,1,Alugado,False,48218,393246,1153700,13351,41.54,356,Rocketseat Mastercard Shopping Elite
+320cfe4e-fb25-4848-a521-ccaf97617a1c,Dom Oliveira,77,2,1,3,3,3,1,4,3,1,Fortaleza,Taxista,Viúvo,17,1,Próprio,False,5449,146707,317865,53610,70.9,22,Rocketseat Mastercard Travel Basic
+8bddbcf4-b908-4752-a624-3bbff4e01ef7,Otto Garcia,53,3,2,2,1,5,1,1,2,4,São Paulo,Cenógrafo,Solteiro,7,2,Alugado,True,6863,853922,434644,235142,56.37,73,Rocketseat Visa Shopping Basic
+31b0eab3-2893-453f-b721-903878c5fe2b,Srta. Clara Lima,38,5,3,4,1,4,5,1,1,2,Manaus,Paramédico,Solteiro,6,2,Próprio,True,26396,792684,1330287,351410,79.35,62,Rocketseat Visa Travel Basic
+e2f1431f-f465-4d8b-b3b3-7d46367d3ad9,João Pedro da Cunha,62,2,4,2,2,5,1,5,3,3,Recife,Almoxarife,Divorciado,16,4,Alugado,True,6283,609834,1848947,192999,80.21,52,Rocketseat Visa Shopping Basic
+254ab822-696b-4b2a-96e9-4677e942bc8c,Sra. Catarina Mendonça,39,3,4,1,4,5,5,4,2,2,Rio de Janeiro,Profissional de hotelaria,Solteiro,12,1,Alugado,True,13830,342945,1883091,136494,83.96,47,Rocketseat Visa Shopping Basic
+d0bc5209-792b-4ef2-988c-983dc673171b,Sra. Maria Sophia Jesus,71,3,3,4,1,2,5,3,2,5,São Paulo,Florista,Divorciado,0,2,Alugado,False,46203,706956,449508,464861,56.2,112,Rocketseat Mastercard Shopping Select
+21f80958-f0f6-44f9-a223-62f2adf80ceb,Ana Viana,49,4,5,2,4,4,5,5,3,2,Rio de Janeiro,Cantor,Solteiro,0,1,Alugado,True,48182,407446,1509885,171630,72.84,142,Rocketseat Visa Life Select
+6f6ba33f-9a1c-451a-8e0c-68e0cce27ee8,Eduardo Lima,77,2,1,1,3,2,2,4,3,1,Curitiba,Eletricista,Viúvo,20,1,Próprio,True,1000,318186,933359,199974,78.98,8,Rocketseat Mastercard Travel Basic
+3728f76f-5304-405b-9d68-4d78e3ea7d25,Emanuelly Cirino,37,2,1,1,4,2,1,1,1,2,Fortaleza,Auxiliar administrativo,Divorciado,8,1,Próprio,True,10295,275487,958246,487653,89.86,0,Rocketseat Mastercard Life Basic
+fcaa8626-0e14-456e-9fdb-b6e65570a2f3,Josué Gomes,31,4,4,4,4,2,1,5,1,1,Florianópolis,Patinador,Divorciado,9,6,Próprio,True,5270,416849,1421909,197879,86.45,20,Rocketseat Visa Travel Basic
+9874559d-ae3a-410e-a8f3-8e587ff93674,Sr. Josué da Rocha,19,4,1,1,5,4,5,4,2,1,Curitiba,Cancerologista ou Oncologista,Divorciado,2,5,Próprio,False,44990,285173,1828698,98602,75.29,136,Rocketseat Visa Life Select
+9510594f-5d3e-4d08-9d29-d8cefe9b6f50,Leonardo Rodrigues,52,5,5,2,3,3,4,2,5,4,Brasília,Pesquisador,Viúvo,11,3,Alugado,False,11741,391399,1381187,472813,83.15,0,Rocketseat Visa Travel Basic
+5844c0ff-2b34-4efc-a073-136ea80f3344,Luan Sá,41,3,3,4,4,5,2,1,3,5,Campo Grande,Dermatologista,Casado,19,3,Alugado,True,29292,90644,1262804,132749,82.25,50,Rocketseat Mastercard Shopping Basic
+5f4f88bc-b2de-438b-9020-ed2d9fa28bef,Raul Porto,70,1,5,5,1,5,1,5,1,3,Campo Grande,Gastroenterologista,Casado,7,6,Próprio,False,46430,415603,171428,431721,42.4,97,Rocketseat Mastercard Life Basic
+aa48ab8c-b0ba-46cb-b18a-03a72407dc4d,Melina Nascimento,38,4,5,4,2,5,3,4,1,2,Belém,Gandula,Viúvo,4,6,Alugado,True,48962,877101,1671247,195728,73.36,177,Rocketseat Mastercard Life Select
+7f1c3b22-d3b1-48d6-ae6e-296948344ced,Ana Julia Almeida,49,2,4,3,2,5,1,2,1,1,São Paulo,Desenhista,Divorciado,3,2,Alugado,True,10460,960331,151428,364347,0,95,Rocketseat Mastercard Shopping Basic
+dbb8b653-f634-4dc5-85e4-d42583083bd1,Ana Laura Machado,34,4,1,5,3,3,4,3,2,3,Salvador,Oficial de justiça,Viúvo,20,5,Alugado,False,30661,997209,249462,221206,28.96,279,Rocketseat Mastercard Life Elite
+b3bf4574-243d-4a4d-8f97-21c32c9674ee,Ester Ribeiro,49,4,5,1,4,5,5,3,4,1,Salvador,Assistente administrativo,Solteiro,15,1,Próprio,False,21947,368571,65096,134103,0,185,Rocketseat Mastercard Life Select
+13b0e70a-e017-4091-889f-1cab0e5402ef,João Lucas Peixoto,23,1,4,4,3,2,5,4,1,3,Curitiba,Ferroviário,Viúvo,6,5,Próprio,True,17081,759461,1741957,375184,88.25,28,Rocketseat Mastercard Shopping Basic
+abc5155a-dc90-42dd-8097-3a8f7b546875,Ágatha Garcia,61,5,4,1,5,2,4,3,5,4,Florianópolis,Catador de carangueijos,Solteiro,8,5,Alugado,False,9413,622255,1809248,354021,81.94,29,Rocketseat Mastercard Travel Basic
+17151cdd-1ec9-4ea0-8154-8977bdfe0231,Dr. Luan Santos,75,5,3,4,1,2,1,2,4,4,Porto Alegre,Engenheiro florestal,Solteiro,12,6,Alugado,False,30604,307641,1790034,85325,63.03,166,Rocketseat Mastercard Travel Select
+77763d03-474e-4046-ba4b-5aedf93b0fc5,Benjamim Moura,37,4,2,4,1,1,2,2,2,5,Manaus,Armeiro,Solteiro,14,4,Próprio,False,12971,234275,713179,453805,87.57,0,Rocketseat Mastercard Shopping Basic
+a98630d9-5275-4ac9-be22-7de8efa0a62c,Ravi Lucca Albuquerque,63,1,4,4,1,3,4,5,4,1,Rio de Janeiro,Gerente de banco,Solteiro,8,6,Próprio,False,35417,941295,1455029,193089,68.42,176,Rocketseat Visa Travel Select
+edf23009-850a-44c0-bd53-87c339e82480,Anthony Brito,50,1,2,1,5,2,2,4,5,3,Recife,Estivador,Divorciado,15,1,Alugado,False,16940,950656,1945879,459031,78.72,53,Rocketseat Mastercard Life Basic
+93a6a287-4ff5-408b-9518-fd4a0f7f8ba7,Maria Julia Farias,53,4,1,3,1,5,1,1,5,3,Manaus,General,Solteiro,9,2,Próprio,True,3605,243529,424562,77273,76.97,19,Rocketseat Visa Shopping Basic
+948e0902-8473-4cf8-91bc-a18605018690,Dr. José Câmara,69,2,1,2,4,5,5,1,2,2,Vitória,Tecnólogo em papel e celulose,Casado,2,4,Alugado,True,14995,197831,1392585,248910,79.6,24,Rocketseat Mastercard Shopping Basic
+2937efea-424e-4e73-b783-4855f775683b,Eloah Marques,58,3,4,1,4,1,3,4,1,2,Belém,Paisagista,Divorciado,12,4,Alugado,True,28099,880563,1312027,189646,72.38,129,Rocketseat Visa Life Select
+ad552478-bfd1-4ba9-942a-268beb775f56,Pietra Aragão,57,2,2,5,5,3,4,1,4,5,São Paulo,Apontador de mão-de-obra,Viúvo,2,5,Alugado,True,34393,931915,852559,338711,68.18,117,Rocketseat Mastercard Life Select
+0a985290-eb38-46e1-bdb0-881f3d70712a,Bella Marques,41,3,3,5,5,3,3,4,5,4,Salvador,Pescador,Casado,15,3,Alugado,False,19178,412370,588950,243535,78.12,31,Rocketseat Visa Life Basic
+292e13a4-d076-46c3-8910-56f40350b86c,Bryan Moura,52,3,3,3,5,5,2,3,3,2,Manaus,Luthier,Casado,11,3,Alugado,False,34881,646307,1324070,32995,50.1,289,Rocketseat Visa Life Elite
+0d0b0ad5-fbcd-4b13-ba73-8c7fed4ec913,Davi Lucca Dias,35,5,2,3,2,3,5,5,3,2,Florianópolis,Defensor Público,Viúvo,18,5,Alugado,True,18295,626797,888873,351107,81.0,27,Rocketseat Visa Travel Basic
+4388d54c-e784-4f6b-b541-7fceff441feb,Dante Pimenta,58,3,2,4,3,2,4,4,3,5,Fortaleza,Viveirista,Divorciado,4,3,Alugado,False,17189,215727,1254372,414158,83.7,0,Rocketseat Mastercard Shopping Basic
+59d413d2-c06e-447c-9d96-b623a602d0a0,Giovanna Cavalcanti,79,2,3,4,4,5,5,3,5,5,Salvador,Cientista social,Casado,8,1,Próprio,False,25678,852612,1154866,206087,62.54,154,Rocketseat Mastercard Shopping Select
+a469d034-4453-45ac-8cb2-8c650b571f7b,Maria Luiza Santos,48,1,3,1,1,1,3,1,5,5,Curitiba,Salgadeira,Casado,3,6,Próprio,True,29650,405678,656706,62623,60.15,149,Rocketseat Mastercard Shopping Select
+93e375f6-8ed2-46b9-af23-4faf18aca0e8,Vitor Hugo Alves,75,5,3,3,4,2,2,2,5,5,Manaus,Jangadeiro,Divorciado,17,3,Alugado,True,44273,594088,125577,5167,0,541,Rocketseat Mastercard Travel Platinum
+a45ad144-4724-4a94-82f8-af91ff7cfd81,Eloah Melo,53,4,2,5,5,1,2,1,5,5,Curitiba,Cobrador de ônibus,Viúvo,3,1,Alugado,False,39280,332102,1598766,115276,69.24,148,Rocketseat Mastercard Life Select
+a73f91ab-816f-4fc1-b001-3c46a7b4eb3b,Miguel Porto,33,2,3,1,1,2,3,4,5,5,Vitória,Fresador,Viúvo,14,2,Alugado,True,31114,639219,347377,467604,61.27,39,Rocketseat Mastercard Shopping Basic
+955e2015-e5ae-4446-a0d4-9b612f50a2d9,Isabel Vieira,44,4,5,4,1,5,3,2,4,4,Florianópolis,Vistoriador de sinistros,Divorciado,10,1,Próprio,False,47689,465707,928047,78845,62.56,206,Rocketseat Visa Life Elite
+d29f1d51-59c0-42a2-af3c-3bff0a95e957,Lucas da Rosa,56,4,2,4,2,2,3,3,4,3,Porto Alegre,Conferente de expedição,Divorciado,7,4,Próprio,True,14465,391078,303071,368813,64.77,0,Rocketseat Mastercard Travel Basic
+8a6d0d1e-5536-4f83-9ced-d9dfd05192d7,André Marques,59,4,5,3,3,4,1,4,4,4,Campo Grande,Frentista,Viúvo,2,4,Próprio,False,46716,67837,948428,373853,81.51,35,Rocketseat Mastercard Life Basic
+0ba3430f-7383-47b0-af5b-2d797c5ea8b2,Anna Liz Rios,35,2,5,5,5,5,2,1,4,3,São Paulo,Procurador de justiça,Casado,2,6,Alugado,True,25025,955880,544964,250887,60.29,135,Rocketseat Mastercard Life Select
+1c19b6cf-67ab-4bfa-a57d-7c1eb802899b,Luiz Felipe Câmara,34,3,2,4,3,2,2,4,3,2,Recife,Headhunter,Solteiro,7,1,Alugado,True,6194,550768,1954566,133769,86.88,40,Rocketseat Visa Life Basic
+0291a34c-a509-4459-b7f6-b5fa6c0d8e97,Apollo Pereira,53,1,2,5,1,1,1,3,2,5,Rio de Janeiro,Pedicure,Viúvo,17,3,Alugado,True,31818,987775,887648,469196,67.09,87,Rocketseat Mastercard Life Basic
+d122c624-3ec0-4307-a5d5-3d270d4ef8f7,Maria Clara Nunes,33,5,1,5,5,1,4,2,2,1,Fortaleza,Mergulhador,Casado,4,2,Próprio,False,1573,341288,1793919,90069,91.7,18,Rocketseat Visa Travel Basic
+9fe44190-4b7a-4273-9639-6db1b391e32e,Dra. Letícia Costa,33,2,5,1,1,4,2,1,3,4,Recife,Técnico em edificações,Viúvo,12,5,Próprio,False,30815,183652,1489416,57606,72.56,111,Rocketseat Visa Life Select
+1825038d-184e-45c6-939c-6889ff38fa60,Júlia Lopes,68,3,5,4,2,5,4,2,1,2,Rio de Janeiro,Meeiro,Divorciado,9,1,Próprio,False,40683,605523,1506501,439158,75.63,75,Rocketseat Visa Life Basic
+52f708b6-24cb-4713-bbc2-c6901584bb63,Benjamim da Mata,37,1,2,4,2,4,5,2,3,4,Porto Alegre,Fresador,Casado,0,2,Próprio,False,25485,25035,659649,255444,85.73,10,Rocketseat Visa Shopping Basic
+bf1bf350-7592-407f-92e4-7deb9b6e7d90,Bruna Aparecida,43,4,2,4,1,2,2,1,3,3,São Paulo,Sargento,Divorciado,14,4,Próprio,True,31562,747519,975604,194808,73.8,110,Rocketseat Visa Travel Select
+31247598-bc6d-4e64-ac21-152b805df36b,Camila Jesus,40,4,1,3,3,2,3,5,2,1,Rio de Janeiro,Cobaia Médica,Casado,17,3,Alugado,True,34591,578401,1000568,21246,48.83,273,Rocketseat Mastercard Travel Elite
+5465307a-fbdd-4282-8414-e58541cae459,Pedro Lucas da Mata,58,5,4,3,5,3,3,3,1,5,Manaus,Guarda ou policial rodoviário,Solteiro,14,4,Próprio,True,35150,389301,50624,235069,0,215,Rocketseat Mastercard Travel Elite
+5fe3d046-bb3f-4877-af6b-b69b43e1aa29,Stella Andrade,79,4,3,2,2,2,1,5,4,3,Salvador,Administrador de banco de dados DBA,Casado,1,1,Próprio,True,11048,978266,1729548,198141,70.25,118,Rocketseat Mastercard Travel Select
+9a6551be-e6e6-4fe2-b667-ad0f49cbc498,Srta. Ana Lívia Abreu,30,2,4,5,5,3,2,1,1,2,Vitória,Serventuário,Solteiro,8,6,Próprio,True,28418,596948,406143,218936,67.56,88,Rocketseat Mastercard Life Basic
+c8c35dfd-2ecc-425c-9fee-17da90b8464a,Alice Vargas,47,4,3,5,3,4,3,5,5,5,Campo Grande,Embaixador,Divorciado,20,6,Próprio,True,11853,969745,1410569,258726,75.88,77,Rocketseat Visa Life Basic
+79c81dab-da7c-4976-9598-f1c11422d045,Ester Sá,69,1,4,4,3,3,5,3,4,4,São Paulo,Violonista,Divorciado,8,1,Alugado,True,39918,816102,1880285,128606,63.16,239,Rocketseat Mastercard Shopping Elite
+bf797992-c076-4c2d-b5a7-37ba99fa018a,Juan Aragão,74,5,5,3,4,4,4,5,3,3,Rio de Janeiro,Ministro,Casado,5,5,Próprio,True,17301,486903,1898288,80351,71.65,116,Rocketseat Visa Travel Select
+a7e62d93-1b14-460c-a954-247380673b62,Maria Helena Camargo,77,4,4,1,3,3,1,3,2,4,Campo Grande,Pneumologista,Viúvo,12,5,Alugado,False,4729,456784,851285,427326,74.21,0,Rocketseat Visa Travel Basic
+389aba27-b495-4c6a-a88d-3805d7b181ba,Amanda Rocha,72,3,2,5,3,5,4,1,1,1,Rio de Janeiro,Caça-talentos/Olheiro,Solteiro,4,5,Próprio,False,16408,300383,510102,320115,74.26,4,Rocketseat Mastercard Life Basic
+fb8d6d31-6f21-401f-9dfe-8d006b3a3c90,Cecilia Rocha,77,2,1,2,3,3,3,5,1,1,Belo Horizonte,Carteiro,Divorciado,10,1,Alugado,True,46703,679445,318531,26926,10.71,525,Rocketseat Mastercard Travel Platinum
+63fb4841-dfa1-4527-8792-5b96b83d4ab9,Sr. Thomas Costela,57,4,4,1,3,5,3,5,5,1,Vitória,Urbanista,Divorciado,4,1,Próprio,False,1013,861331,1934729,100793,82.42,67,Rocketseat Mastercard Shopping Basic
+64683ebf-602b-4d53-b976-4634c7754a4c,Ísis Costela,59,3,1,4,3,2,4,4,3,5,Curitiba,Pintor,Divorciado,20,6,Próprio,False,46871,539902,201578,260264,38.95,213,Rocketseat Mastercard Shopping Elite
+99ce5abb-4cc4-40b1-a3aa-23f7d8430bae,Lívia Sá,68,2,2,1,1,1,5,1,2,1,Fortaleza,Gestor de qualidade,Casado,4,6,Alugado,False,21271,698619,684950,110387,59.21,147,Rocketseat Visa Shopping Select
+386e8d48-f820-49a0-9435-399c6670a163,Ester Barros,62,4,1,5,5,3,2,4,1,3,Belo Horizonte,Marketeiro,Viúvo,6,3,Alugado,True,21968,607408,501752,376774,65.44,37,Rocketseat Mastercard Life Basic
+bd5d83c5-45e7-4682-868b-07039e51c4c6,Gustavo Teixeira,71,4,3,4,2,3,4,3,5,2,São Paulo,Ferreiro,Casado,8,4,Alugado,False,17526,408482,391249,425993,66.71,0,Rocketseat Visa Shopping Basic
+26692c2b-b873-4830-a8f2-f741539bdd41,Isaque Correia,27,4,3,2,2,4,1,1,3,3,Florianópolis,Nefrologista,Divorciado,10,1,Alugado,False,3754,927170,294316,125841,46.82,126,Rocketseat Mastercard Travel Select
+02a3a530-a9c0-4c11-9cc9-31260e74f3d0,Ana Júlia Sampaio,31,5,3,5,4,5,5,5,5,2,Salvador,Engenheiro industrial,Solteiro,14,6,Próprio,False,10686,348670,1426809,345330,91.07,5,Rocketseat Mastercard Travel Basic
+44104477-5fa6-4e67-80c5-a4097d9ec6d9,Benjamin Azevedo,36,1,4,4,4,5,5,2,3,5,Porto Alegre,Técnico em aviação,Viúvo,8,3,Alugado,True,22797,18785,854246,308973,89.68,3,Rocketseat Visa Shopping Basic
+f20c2d61-6ae1-4da0-b74e-a49e284c3a25,Caleb Dias,43,4,2,4,1,4,1,1,3,5,Vitória,Marechal,Viúvo,0,5,Próprio,True,18391,4493,1113048,120177,81.43,30,Rocketseat Visa Shopping Basic
+112e05fe-ced0-4f75-9dad-2b22ea8f71bb,Lívia Pinto,55,1,2,4,5,3,2,5,2,1,Belém,Profissional de linguística,Viúvo,2,3,Alugado,False,14986,560033,1386822,289595,78.68,42,Rocketseat Mastercard Life Basic
+ad698a4f-541e-4cb5-972b-5034108ac2fe,Allana da Rosa,24,3,3,4,2,4,2,2,3,1,Florianópolis,Tecnólogo em desenvolvimento social,Divorciado,9,5,Alugado,True,9511,976310,1571627,383263,84.52,34,Rocketseat Mastercard Life Basic
+23cad478-5bd4-4af8-ac89-da4461586d12,Ágatha Castro,73,1,3,2,1,4,3,1,5,5,Fortaleza,Assistente de produção,Solteiro,15,6,Próprio,True,8958,894467,1965247,1744,29.47,377,Rocketseat Visa Shopping Elite
+b7ba4e12-dd41-43d1-a174-4ee5351667d2,Levi Nascimento,68,5,3,1,5,1,1,2,2,3,Belo Horizonte,Massoterapeuta,Casado,15,6,Próprio,True,7031,370399,369934,203361,70.01,12,Rocketseat Visa Travel Basic
+9800f230-6e02-44e6-9375-bd1597700ed2,Srta. Maria Laura Souza,72,5,4,2,2,2,5,4,5,1,Goiânia,Educador,Casado,15,5,Próprio,False,26511,831169,1587033,226702,68.38,139,Rocketseat Visa Travel Select
+467648fd-b0f1-4919-9e4f-dbb896fa643b,Dr. Marcos Vinicius Monteiro,59,2,1,5,3,1,3,3,4,1,Brasília,Técnico em hardware,Viúvo,2,2,Alugado,True,25174,208785,1887375,22001,51.75,210,Rocketseat Mastercard Life Elite
+978687d2-f07a-48cc-9cf7-bb2161fcb650,Maria Julia Aragão,48,1,5,1,3,2,3,5,4,3,São Paulo,Musicoterapeuta,Solteiro,1,3,Alugado,False,33397,580476,1156798,380582,79.44,52,Rocketseat Visa Life Basic
+9c082eb7-c710-4957-bac5-9dca6489039a,Benjamin Guerra,27,5,3,1,4,3,3,4,1,1,Curitiba,Economista,Divorciado,5,6,Alugado,True,19393,356454,1782027,216022,90.21,26,Rocketseat Mastercard Travel Basic
+301f0402-5614-4757-bc14-5dfc6ea96f94,Luiz Gustavo Pastor,41,1,2,5,2,5,1,2,1,3,Curitiba,Cantor,Solteiro,17,5,Próprio,False,8430,99779,554067,402652,87.49,0,Rocketseat Mastercard Life Basic
+ffee2613-8647-4ff7-a1ec-caad4778f36b,João Vieira,75,4,1,3,3,1,2,1,1,5,São Paulo,Clap loader,Solteiro,15,1,Próprio,False,27453,788845,1952002,21358,43.0,362,Rocketseat Visa Shopping Elite
+5aa56140-337e-4637-b79d-5d1838d30017,Ana Liz Gomes,52,2,1,3,2,2,5,1,1,4,Porto Alegre,Nutricionista,Casado,5,6,Alugado,False,8005,277120,333042,309777,77.71,0,Rocketseat Mastercard Shopping Basic
+5c8817e2-e03f-469e-96ea-0df33552a4aa,Dr. Alexandre Câmara,61,2,4,5,2,1,4,2,5,4,Porto Alegre,Fisioterapeuta,Divorciado,11,2,Próprio,False,35273,917580,573181,302352,58.44,155,Rocketseat Visa Life Select
+cd4407c4-0b89-4f02-a1e4-4884d523c656,Dr. Isaque Novaes,35,4,3,5,4,1,1,4,5,2,Goiânia,Odontologista estético,Divorciado,4,5,Alugado,True,17320,646326,1795455,466389,84.33,22,Rocketseat Mastercard Life Basic
+2f55a673-da4a-412f-b9a3-2a011978942b,Natália Guerra,26,1,4,2,2,3,1,5,1,2,Goiânia,Engenheiro de minas,Solteiro,0,4,Alugado,False,47600,42159,484139,131069,79.93,68,Rocketseat Mastercard Travel Basic
+9121ed20-acea-4365-adbe-932e4ab66067,Breno Cavalcante,46,3,3,4,4,5,3,4,2,2,Porto Alegre,Babá,Viúvo,11,2,Alugado,False,10462,154127,1518996,339719,89.11,1,Rocketseat Visa Shopping Basic
+f5c9a667-5ca4-4b3c-ba51-8d7acf19c50e,Eduardo Pimenta,78,4,2,1,1,4,5,3,2,4,Rio de Janeiro,Classificador contábil,Divorciado,4,3,Próprio,True,18950,458700,102620,132178,5.94,182,Rocketseat Visa Shopping Select
+fa94e471-fa55-4c3c-b2df-c63b2eddf6ca,Ryan Fogaça,67,5,4,3,3,2,4,2,3,4,Salvador,Meteorologista,Divorciado,5,4,Alugado,False,1902,496221,1647722,399839,81.1,2,Rocketseat Mastercard Travel Basic
+135594d3-8265-47a9-9f91-638bf6b83e00,Alana Casa Grande,19,5,5,2,1,3,3,5,3,1,Curitiba,Tecnólogo em produção de bebidas,Divorciado,12,1,Alugado,True,16363,676562,1019011,201631,81.88,50,Rocketseat Mastercard Travel Basic
+01bcb9e8-0f30-43cd-bb50-94b0c31fda4a,Anthony Gabriel Camargo,75,5,5,5,5,2,4,5,1,2,São Paulo,Cadeirinha,Divorciado,17,4,Próprio,True,19534,264344,1698085,128080,74.76,76,Rocketseat Visa Travel Basic
+55d4f9e1-032f-4542-9443-422d57593515,Ian Carvalho,30,4,3,3,5,2,4,5,5,5,Brasília,Locutor,Solteiro,12,4,Alugado,True,13279,113735,1536413,160609,90.41,16,Rocketseat Visa Life Basic
+84b09067-9a02-494b-b5b3-df37f0e4eac7,Emanuella Guerra,20,3,4,2,4,5,1,1,1,5,Campo Grande,Orientador educacional,Casado,7,4,Alugado,True,23029,374216,988563,397896,87.24,10,Rocketseat Visa Shopping Basic
+b55168f4-5e66-4549-bd88-0af674d54b7d,Augusto da Cunha,44,5,4,2,2,2,2,3,1,1,Curitiba,Polidor de produção,Solteiro,18,4,Alugado,False,36060,774494,152261,53799,0,493,Rocketseat Visa Travel Platinum
+bfdeacb1-0b5c-4f38-a01f-f2c9c34cf41c,Isabela Pacheco,75,1,1,3,5,5,2,1,4,3,Recife,Técnico em rede,Casado,0,4,Alugado,False,14702,98023,714739,484215,78.61,0,Rocketseat Visa Life Basic
+8b162c41-f0fb-4ba2-8254-3deb5e34ab2b,Dra. Antonella Ribeiro,24,3,1,4,3,3,4,5,2,1,Goiânia,Desembargador de justiça,Solteiro,20,5,Alugado,False,6813,528168,1222386,120234,88.92,26,Rocketseat Mastercard Travel Basic
+7f633730-3fac-40f1-9c32-9e75726fb559,Gustavo Henrique Rios,29,2,2,2,2,3,4,1,4,2,Manaus,Psicopedagogo,Casado,1,1,Alugado,False,11286,245597,1546597,23700,74.67,76,Rocketseat Visa Shopping Basic
+01033a74-f7f2-4a33-82a7-0e4d51acc110,Leonardo Silva,71,2,4,4,1,2,3,1,5,2,Belém,Tecnólogo em esporte e lazer,Viúvo,3,1,Alugado,True,46007,452798,322813,360666,54.74,112,Rocketseat Mastercard Shopping Select
+41283172-dd70-4e35-8d20-0e8a5ed01e56,Ana Fogaça,27,2,3,5,5,5,5,5,3,4,Belo Horizonte,Cardiologista,Casado,14,4,Alugado,False,28200,113707,911460,120196,83.47,42,Rocketseat Visa Life Basic
+5467202c-14bc-4038-a60c-06f523ab0a5a,Dra. Vitória Cassiano,38,1,2,4,3,4,5,4,1,5,Rio de Janeiro,Tecnólogo em produção Sucroalcooleira,Casado,1,2,Alugado,False,18054,635732,449099,485602,70.78,0,Rocketseat Visa Shopping Basic
+22eb35fa-428f-4b52-a80f-6caa0a225255,Arthur Barbosa,76,1,5,2,5,2,2,2,1,5,Vitória,Panificador/Padeiro,Solteiro,7,5,Alugado,False,43575,608868,1494113,386721,72.89,101,Rocketseat Mastercard Life Select
+8f4f8bf6-9dc0-4809-a034-25ee5f87f725,Enzo Gomes,34,1,4,4,2,2,2,1,5,2,Manaus,Neurologista,Viúvo,2,4,Alugado,False,18114,348206,1151142,71397,78.96,65,Rocketseat Visa Shopping Basic
+004f0951-275f-48c2-9b03-46588fb53caa,Luiz Otávio Mendonça,28,1,1,1,1,1,3,2,5,1,Rio de Janeiro,Arquivista,Casado,15,1,Próprio,False,45652,289733,1776761,177042,78.4,105,Rocketseat Mastercard Shopping Select
+bb0cdc6a-ecb6-4cd7-901e-cbb6d5b62468,Bárbara Correia,68,3,3,4,1,5,3,3,3,2,Rio de Janeiro,Cinematográfo,Casado,19,6,Próprio,False,42343,784829,1268505,13548,31.86,470,Rocketseat Visa Shopping Platinum
+00285793-f477-4433-b4c8-6c21693169c9,Luigi da Rocha,51,5,5,1,3,4,4,1,5,4,Fortaleza,Odontologista legal,Solteiro,1,5,Alugado,True,6020,157891,368521,432200,83.82,0,Rocketseat Visa Travel Basic
+6607bc72-b01d-4ac6-ab51-c5a04606b3db,Cecilia Barros,74,3,5,3,5,2,4,4,5,1,Porto Alegre,Leão de chácara,Viúvo,4,3,Alugado,False,17096,396252,724255,333797,72.08,17,Rocketseat Visa Life Basic
+63d01ad5-487a-4a81-ad17-a5430a2fe01c,Guilherme Oliveira,60,5,4,1,5,1,4,1,4,2,Porto Alegre,Gestor de recursos humanos,Viúvo,19,5,Próprio,False,4211,383999,650382,430743,76.41,0,Rocketseat Mastercard Travel Basic
+1b4a0af5-797f-44cd-a4d4-1b15e01bdae6,Pedro Henrique da Cruz,67,5,2,2,1,1,3,1,1,4,Curitiba,Jóquei,Solteiro,17,5,Alugado,False,41920,816435,1334302,499701,74.12,81,Rocketseat Visa Travel Basic
+a1d61c68-694e-42b6-8c53-d1877ce6946d,Enzo Machado,79,2,5,2,4,2,5,1,4,3,Porto Alegre,Endodontista,Casado,2,2,Próprio,False,43190,186064,1148143,497258,75.39,29,Rocketseat Mastercard Life Basic
+1f1fad36-63b4-4680-9887-bd699ee6cabc,Dr. Arthur Gabriel Brito,51,4,3,2,1,2,4,2,3,5,Salvador,Pediatra,Casado,3,3,Próprio,True,38448,676526,1404033,349689,77.73,83,Rocketseat Visa Shopping Basic
+bcef5aa9-7425-46c7-a69b-3cf85d90bfb9,Vitor Fonseca,73,4,2,3,3,3,1,2,4,2,Goiânia,Produtor de eventos,Divorciado,10,5,Alugado,False,3672,861968,818275,152895,69.27,76,Rocketseat Mastercard Travel Basic
+bf263767-0f0e-48b9-8ae5-32e2d8b7534a,Liam da Mota,79,3,4,3,3,5,5,5,5,1,Florianópolis,Aeronauta,Casado,3,3,Alugado,True,48791,24394,1402290,44358,50.91,247,Rocketseat Visa Shopping Elite
+1618bdeb-4750-499d-8f17-d943dc899dd9,Eloah Camargo,39,1,3,1,3,1,3,2,2,2,Porto Alegre,Estatístico,Divorciado,6,5,Próprio,False,48546,140775,976607,319865,84.34,43,Rocketseat Mastercard Life Basic
+03fabb2e-455d-42e1-9756-dc69a40bb870,Natália Abreu,43,1,1,5,4,5,4,1,5,1,Manaus,Cientista da informação e documentação,Casado,7,5,Alugado,True,48739,232656,1691782,74142,67.42,186,Rocketseat Visa Life Select
+fae01cd7-1f52-4d78-b11c-8a1ad02d5679,Sr. Henrique Moreira,31,1,4,1,1,1,5,5,4,3,Salvador,Hematologista,Solteiro,14,5,Próprio,True,9828,424667,1350625,169355,89.24,22,Rocketseat Mastercard Shopping Basic
+a9fe58f2-8c91-4620-8725-8b6f591baa03,Cauã Rezende,76,1,5,1,3,4,1,5,2,5,Recife,Quitandeiro,Solteiro,7,6,Próprio,False,13112,218841,1720396,13929,54.98,149,Rocketseat Visa Life Select
+6e4c9b84-ad67-4dd5-8c37-3bb3890297aa,Larissa Ramos,58,5,1,4,1,5,2,4,3,5,Florianópolis,Recreador,Divorciado,4,1,Alugado,False,47061,521511,553411,382342,66.21,95,Rocketseat Mastercard Travel Basic
+6bb4519a-100a-4775-8260-a57e388199fe,Dr. João Lucas Farias,69,3,1,5,3,2,2,4,5,4,Brasília,Promotor público/de justiça,Solteiro,18,2,Próprio,True,9072,913143,1103021,335171,72.61,52,Rocketseat Mastercard Life Basic
+3c9ab02e-67d0-4367-808f-d77073de7dcb,Olívia Pacheco,70,5,2,1,2,4,3,3,3,4,Rio de Janeiro,Comandante,Solteiro,8,1,Próprio,True,48379,165337,1974678,113028,66.29,183,Rocketseat Visa Travel Select
+a20805e7-3121-4e95-be79-de60d9004af5,Gustavo Borges,78,3,2,4,4,4,4,1,5,1,Rio de Janeiro,Comandante,Casado,13,1,Alugado,True,49964,44935,1739761,192327,70.89,126,Rocketseat Mastercard Shopping Select
+b864b917-26c8-464d-a3a8-983ac488ef72,Isaac Cirino,51,1,1,4,2,4,1,3,2,1,Belo Horizonte,Engenheiro de ergonomia,Casado,8,3,Próprio,True,14315,378873,819126,208577,80.88,27,Rocketseat Visa Life Basic
+1c06642d-d2f6-4f58-8a82-1d8db4423d51,Luiz Otávio Aparecida,50,4,4,5,2,5,2,5,3,3,Goiânia,Psiquiatra,Solteiro,3,2,Próprio,True,37063,192312,914862,299914,78.29,45,Rocketseat Visa Life Basic
+8ac05907-52db-4ef1-a775-165c267dcee6,Alice da Cunha,67,5,5,2,4,1,2,2,3,5,Goiânia,Catador de material reciclável,Solteiro,1,1,Próprio,False,13718,359251,625874,124479,71.07,52,Rocketseat Mastercard Travel Basic
+f0c90643-2e9c-48d1-9907-3146c829c848,Zoe da Luz,56,1,3,3,5,2,1,4,3,5,Florianópolis,Conferente de carga e descarga,Casado,12,5,Próprio,False,4112,532046,772261,295940,77.75,7,Rocketseat Visa Life Basic
+ea2042da-1a9f-4bce-a786-1ecf57170b3f,Kevin Leão,71,4,1,5,3,2,5,3,5,4,Belém,Confeiteiro,Casado,4,3,Alugado,False,37221,672922,1268064,398193,72.16,86,Rocketseat Mastercard Life Basic
+bd9dd236-8ee1-4aff-bb31-598fca646546,João Guilherme Gomes,67,2,2,2,1,2,2,3,2,4,Salvador,Ortopedista,Solteiro,13,5,Alugado,False,33796,930441,649264,298572,58.75,155,Rocketseat Mastercard Shopping Select
+a986abf1-4e3e-49dd-a69e-5b367d71b9d0,Theodoro Duarte,43,1,4,2,2,3,5,2,5,5,Porto Alegre,Hematologista,Divorciado,19,3,Alugado,True,42958,123434,958779,400446,83.59,26,Rocketseat Mastercard Shopping Basic
+c41d9b51-2473-40e5-a9b4-3d4461d1b0b9,Sofia Costa,71,4,1,2,5,5,4,3,1,5,Florianópolis,Pastilheiro,Casado,12,5,Próprio,True,19658,868235,6442,470417,0,42,Rocketseat Visa Life Basic
+223af251-c13b-4613-ae77-886145b869a5,Antony Pinto,60,4,3,4,1,2,1,5,4,4,Rio de Janeiro,Advogado,Casado,6,5,Próprio,False,18435,98039,1643330,288680,82.42,19,Rocketseat Mastercard Travel Basic
+d17e1831-4736-4693-bf44-2433a2447b87,José Pedro Sá,34,2,5,3,5,3,1,1,2,4,Florianópolis,Tecnólogo em silvicultura,Casado,0,1,Próprio,False,13585,814972,560038,209018,68.72,76,Rocketseat Visa Life Basic
+f6b850c4-40f5-4c7d-963a-9088f6065eef,Helena Rocha,22,2,1,1,2,5,3,1,1,1,Salvador,Babysitter,Solteiro,19,6,Próprio,True,4614,122456,1748417,400164,94.7,0,Rocketseat Visa Shopping Basic
+1bbdfca0-84df-476c-8814-529e5f02a7fd,Cauã Câmara,58,4,4,2,5,2,5,4,4,2,São Paulo,Assessor parlamentar,Divorciado,7,6,Próprio,False,40749,76716,1799014,386783,80.75,42,Rocketseat Mastercard Life Basic
+4caa59b3-3ce5-42ae-bc4b-8c356ad3d201,Leonardo Gonçalves,75,2,1,4,2,4,4,2,5,2,Brasília,Artista de circo,Solteiro,17,1,Próprio,False,33457,462054,928398,313962,69.41,76,Rocketseat Visa Shopping Basic
+b1eb2319-209a-4e02-9682-c7456e567cd1,Vinícius Brito,77,1,3,1,4,5,5,3,1,2,Porto Alegre,Técnico em agropecuária,Casado,14,2,Alugado,True,4125,168791,1185774,366624,82.61,0,Rocketseat Visa Shopping Basic
+862f5c1a-e60f-41ff-a2fc-3d564d47cd25,Antony Mendes,40,4,1,4,5,1,4,1,2,2,Belém,Somelier,Solteiro,2,5,Alugado,True,47852,975816,359134,106230,32.33,424,Rocketseat Visa Life Platinum
+2113e637-8f1e-49b9-9c08-80744509f5e5,Srta. Alexia Cirino,25,3,2,4,4,5,5,3,4,1,Porto Alegre,Profissional de relações públicas,Casado,14,1,Próprio,False,15343,786786,884787,124766,77.97,77,Rocketseat Visa Shopping Basic
+310dbc83-8f05-484a-bd7f-a8f595dd2230,Sr. Gabriel Vasconcelos,55,1,2,4,3,5,1,1,4,3,Curitiba,Transportador,Solteiro,7,4,Alugado,False,4223,761252,353776,453277,56.31,0,Rocketseat Mastercard Shopping Basic
+fe97f8b9-db2e-42a6-b447-35f83f257b2d,Maria Eduarda Ramos,43,4,4,5,2,2,1,1,2,1,Campo Grande,Telefonista,Viúvo,18,5,Alugado,True,31828,560130,227085,486373,49.27,29,Rocketseat Mastercard Life Basic
+3ff2d87e-6183-42b0-94de-d58c2bbf02eb,Matheus Vasconcelos,34,3,4,5,4,2,4,2,5,2,Campo Grande,Atendente,Solteiro,16,2,Próprio,False,35041,975789,880526,89978,60.92,230,Rocketseat Mastercard Life Elite
+2a615100-6129-41af-b46a-bc63922e8abd,Ana Liz da Luz,39,1,4,5,5,4,4,1,4,4,Goiânia,Maestro,Solteiro,12,4,Alugado,False,16001,600231,1573432,235742,85.51,40,Rocketseat Mastercard Life Basic
+44a805d6-7b5e-4907-ab70-7f98f103f06c,Henry Nunes,73,2,1,2,2,2,3,3,2,1,Salvador,Lixeiro/Coletor de lixo,Divorciado,0,3,Próprio,True,2013,382820,1603348,1180,42.22,168,Rocketseat Visa Shopping Select
+e9b4a215-f1c3-4410-8c5b-fd9d8c72b364,Beatriz Aparecida,43,2,1,5,2,3,5,4,4,5,São Paulo,Intérprete e tradutor de língua de sinais,Divorciado,7,4,Próprio,True,38318,157643,1536142,38200,60.28,189,Rocketseat Mastercard Life Select
+4e332fcb-0ec8-4222-8e59-c204137da096,Lívia Carvalho,26,5,2,5,4,5,3,5,3,2,Curitiba,Perito criminal,Divorciado,19,5,Alugado,True,3476,892204,693909,418583,73.89,8,Rocketseat Visa Travel Basic
+be57cbbf-36a4-4cee-a5ae-f0f085ac2360,Léo Teixeira,40,1,4,1,3,2,2,5,4,4,Salvador,Investigador de Polícia,Viúvo,6,5,Alugado,True,30613,656477,1144399,266094,77.49,77,Rocketseat Visa Travel Basic
+21f62b5a-c18e-4f80-9a5f-1682b4688cb9,Sr. Brayan Gonçalves,35,4,4,5,5,4,4,5,2,5,Manaus,Acompanhante,Viúvo,16,4,Alugado,True,25933,818149,163560,321925,12.06,186,Rocketseat Visa Life Select
+a66ae5b7-4af4-49c9-9c9b-8ca123d5e307,Dr. Augusto Gomes,51,5,3,5,1,4,2,2,3,1,Goiânia,Ourives,Divorciado,0,6,Próprio,False,38801,205681,1035798,393092,79.07,34,Rocketseat Visa Travel Basic
+ef685620-cd18-4ad0-8340-d7faf527cc4d,Juliana Fernandes,64,1,1,2,3,5,2,3,3,3,Curitiba,Impressor,Casado,16,4,Próprio,False,41602,347998,1437833,239408,74.33,100,Rocketseat Mastercard Shopping Basic
+ec1076eb-b615-44c3-aa0c-9dc84ff95771,Laura Sampaio,26,2,2,5,5,3,4,2,2,5,Campo Grande,Jangadeiro,Solteiro,10,4,Alugado,False,24135,866614,1709654,320543,83.17,62,Rocketseat Mastercard Life Basic
+62ef34a4-9cd6-408a-8b37-61237a12594a,Thiago Jesus,61,3,4,2,3,4,2,5,2,4,Manaus,Ourives,Casado,7,3,Próprio,True,45599,960492,687615,97833,47.39,339,Rocketseat Mastercard Travel Elite
+98c22fd2-a439-4219-a7bb-17b9bcfd3d52,Leandro Pereira,73,3,1,4,5,3,4,5,3,1,Manaus,Datilógrafo,Divorciado,15,6,Próprio,False,34061,111369,1174265,372567,77.26,28,Rocketseat Mastercard Life Basic
+90162be2-1449-4e00-98a0-8aa19219bf35,Beatriz da Costa,18,5,5,1,1,4,5,4,2,1,Porto Alegre,Biólogo,Divorciado,18,2,Próprio,True,13724,321513,1317279,326725,90.02,8,Rocketseat Mastercard Travel Basic
+4b3d9476-e244-49a9-b520-7fe3c22440bd,Dante Caldeira,71,3,4,1,3,3,2,1,2,2,Brasília,Sonoplasta,Casado,13,4,Alugado,True,24869,220395,827390,161260,70.68,64,Rocketseat Visa Life Basic
+b4942311-7705-4a18-aeb0-8c645188c608,Cauã Marques,46,2,1,3,1,1,3,2,4,4,Manaus,Flanelinha,Solteiro,18,5,Próprio,True,21795,48016,33673,325462,64.67,0,Rocketseat Mastercard Shopping Basic
+3b830d7e-0054-4943-96ce-84b85e2cd1e4,Dr. Luiz Miguel das Neves,66,5,5,5,3,4,2,2,3,5,Florianópolis,Subprefeito,Viúvo,13,1,Próprio,False,32327,7053,569758,189260,75.21,41,Rocketseat Visa Travel Basic
+bb75cbc5-9f5f-4379-b192-d91aaff409aa,Lívia Barros,52,4,3,5,3,3,5,3,5,4,Brasília,Limpador de vidros,Divorciado,19,3,Alugado,True,29980,293116,626314,452246,77.09,7,Rocketseat Visa Life Basic
+99790952-5745-4f7f-9f26-ab0ab78ebc47,João Gabriel da Mata,79,4,3,1,2,1,1,1,2,3,Brasília,Jardineiro,Casado,18,6,Alugado,True,41264,954714,248843,43504,0,607,Rocketseat Mastercard Travel Platinum
+a6567440-f3f3-4710-814e-bbcbebb572b7,Evelyn Siqueira,26,1,3,3,1,2,1,3,3,4,São Paulo,Designer de produto ou desenhista industrial,Casado,20,6,Próprio,True,43116,919990,1731864,462990,85.38,62,Rocketseat Mastercard Shopping Basic
+366a3990-5250-4ecc-b6ae-8054e1dc5928,Yago Casa Grande,36,4,4,5,5,4,2,4,2,4,Fortaleza,Odontologista legal,Viúvo,9,6,Próprio,True,20874,298176,1784932,272529,86.85,29,Rocketseat Mastercard Life Basic
+5b844041-596d-4b83-9868-37c9b66fafa8,Sr. Vinicius da Conceição,26,3,3,2,1,5,2,2,5,1,Goiânia,Notário,Casado,6,1,Alugado,True,25005,887056,1080691,387316,81.07,50,Rocketseat Mastercard Shopping Basic
+1123c929-4f85-4c8e-89cf-936ff8ac9840,Srta. Clara Rezende,74,1,4,1,1,5,2,4,3,4,Belo Horizonte,Levantador de peso,Casado,17,4,Próprio,True,43280,7428,1314729,159839,71.75,99,Rocketseat Mastercard Shopping Basic
+c86665e1-f4d3-4ffa-88f7-a09707967810,Pedro Martins,67,4,2,2,3,4,4,3,3,3,Recife,Ferramenteiro,Divorciado,15,2,Próprio,True,31910,423651,1087753,370234,73.08,52,Rocketseat Mastercard Travel Basic
+df54cdb7-8275-42b9-8b50-966b7326df12,Ana Sophia da Luz,38,4,4,5,2,1,4,1,5,2,Goiânia,Deputado,Viúvo,3,6,Próprio,True,10335,648661,189234,267873,40.94,48,Rocketseat Mastercard Life Basic
+cffe411f-ece5-4986-8c9c-4853d58fc6f0,Catarina Camargo,47,2,5,5,2,1,3,2,2,2,Manaus,Tabelião,Casado,13,2,Alugado,False,46054,225515,415909,232206,74.12,76,Rocketseat Visa Life Basic
+b0d213f3-24b4-4c6c-be75-e1c27fa8bfeb,Ana Luiza Silveira,60,5,2,2,2,3,3,2,5,5,Porto Alegre,Gerente de inovações ou novos negócios,Divorciado,17,3,Próprio,False,39350,79023,1342927,158963,73.39,92,Rocketseat Mastercard Travel Basic
+c28c4015-27cb-4e1a-a748-2c8e2fcc7430,Anthony Oliveira,49,4,2,2,4,3,2,1,5,3,Curitiba,Governanta,Divorciado,18,4,Alugado,True,48499,675918,971038,386460,74.34,97,Rocketseat Visa Shopping Basic
+e10a197d-5bcd-4b87-ad79-404ed22c1b7f,Daniela Sales,56,4,1,2,1,3,2,5,4,5,Campo Grande,Leiteiro,Viúvo,3,2,Próprio,False,39159,460110,5637,97934,0,374,Rocketseat Mastercard Travel Elite
+90a96c2e-3534-432c-baf4-15bc60f6836b,Luigi Cavalcanti,55,2,1,1,2,3,4,1,5,2,Belo Horizonte,Cardiologista,Solteiro,1,3,Próprio,False,37589,991747,1918853,272076,72.43,158,Rocketseat Visa Shopping Select
+4bdb2a5f-c5e5-4c13-b2d1-bdc0d246cbc3,Jade da Rosa,40,3,5,3,2,2,5,4,1,1,Porto Alegre,Operador de vídeo,Solteiro,8,3,Alugado,False,45800,220815,1453996,387963,85.0,40,Rocketseat Mastercard Life Basic
+8913964e-8ce9-40b7-899f-3b80d626831c,Lucas Gabriel Pinto,70,4,1,3,2,2,5,1,1,2,Belém,Designer de jóia,Casado,18,6,Próprio,True,38530,896727,1665660,300863,69.22,155,Rocketseat Mastercard Shopping Select
+a7e18fe9-40a5-420f-a966-e8e1d9b301b0,Srta. Maria Eduarda da Paz,37,5,2,1,5,2,1,5,4,4,Rio de Janeiro,Manicure,Casado,18,4,Alugado,True,14031,501186,581297,342755,79.8,9,Rocketseat Mastercard Travel Basic
+8b3f3e88-1350-4a0f-8c2e-81b4e35fc834,Vicente Abreu,43,2,2,1,4,4,4,2,1,1,Manaus,Contramestre em transporte marítimo,Solteiro,3,1,Próprio,False,4173,664053,316526,383650,57.89,0,Rocketseat Mastercard Life Basic
+38254ec3-aada-4e99-b079-3bcd4652cd4b,Nina Pereira,26,4,2,3,5,4,2,2,5,2,São Paulo,Engenheiro de processos,Divorciado,18,2,Próprio,False,12842,43884,253664,323752,92.22,0,Rocketseat Visa Life Basic
+37fc02a7-d049-4d5a-9495-d98280154c52,Ester das Neves,31,3,5,1,2,3,2,1,1,3,São Paulo,Profissional de logística,Viúvo,20,5,Alugado,False,36137,14060,1384827,93762,77.68,80,Rocketseat Mastercard Life Basic
+80b3b034-fae5-47ef-bdbe-d189ae735b4b,Maria Sophia Mendes,54,4,2,1,5,2,3,3,4,1,Florianópolis,Roteirista,Solteiro,6,6,Próprio,True,44576,342506,282348,78710,49.59,214,Rocketseat Visa Life Elite
+4db79688-2e8f-4fce-880c-a05d4b404eb2,Maria Isis Fernandes,70,1,2,3,2,4,3,5,3,5,Brasília,Leiteiro,Viúvo,9,2,Alugado,True,2119,814075,203776,119990,26.38,137,Rocketseat Visa Travel Select
+b6cf9088-f2c1-43da-9e0d-08598e31a233,Lara Sousa,78,2,4,1,4,1,3,5,2,4,Porto Alegre,Tecnólogo em recursos pesqueiros,Viúvo,8,1,Alugado,True,5911,931242,1557440,408169,71.46,44,Rocketseat Visa Travel Basic
+3e11c738-c32e-4dc3-acde-c4c470463361,Rafaela Marques,64,1,4,2,2,2,3,5,1,3,Brasília,Leão de chácara,Divorciado,5,6,Alugado,True,48287,89520,904337,223450,76.16,77,Rocketseat Visa Travel Basic
+a61a2111-66e6-4a3c-912b-a7f86d978392,Gabriel Nascimento,20,4,4,5,4,3,4,3,5,1,Brasília,Capataz,Viúvo,18,6,Próprio,False,17364,61496,261503,8839,54.79,80,Rocketseat Visa Life Basic
+5c5ab875-9fb4-4f3d-88e0-5f09113a5a6e,Mathias Garcia,45,1,2,3,4,4,1,1,1,5,São Paulo,Escriturário,Solteiro,16,1,Alugado,True,12303,991711,516103,131743,57.2,146,Rocketseat Mastercard Shopping Select
+120a48ba-d625-4e49-94c3-f648dc8be0bf,Maria Costa,69,4,4,3,1,4,2,4,5,1,Recife,Contábil,Solteiro,16,1,Próprio,False,49279,831027,865227,290373,60.79,195,Rocketseat Mastercard Shopping Select
+4820571e-d476-4343-906b-ddd71de73ac7,Luiz Henrique Sampaio,27,3,1,4,1,2,5,1,4,4,Rio de Janeiro,Marketeiro,Casado,1,4,Alugado,False,39846,31962,1821235,377378,87.8,25,Rocketseat Mastercard Shopping Basic
+c7448652-6868-4eaa-8f68-61574fc6e252,Sr. Luiz Henrique Fogaça,80,5,3,4,3,2,4,2,1,2,São Paulo,Escrivão,Solteiro,18,4,Alugado,False,4132,852489,1825002,150850,73.2,94,Rocketseat Visa Travel Basic
+19e968eb-1a2d-4bf9-bf81-a232ed1875de,Heitor Porto,46,1,2,1,5,1,3,2,2,5,Salvador,Nadador,Casado,14,3,Próprio,False,28912,737576,900695,312559,72.41,81,Rocketseat Visa Life Basic
+10d4d22a-5675-42c4-8c90-cb0efc8e76e8,Sr. Luiz Otávio Cardoso,70,2,2,4,1,1,1,3,4,4,Salvador,Engenheiro de aquicultura,Solteiro,9,3,Alugado,True,10759,82767,740784,306785,79.11,0,Rocketseat Mastercard Life Basic
+94a7556f-418c-496f-8298-1f11dd83c3ca,Rafaela Albuquerque,21,3,1,1,3,5,2,5,5,1,Vitória,Ortopedista,Divorciado,18,1,Próprio,True,30290,617101,1018489,349457,83.21,42,Rocketseat Mastercard Shopping Basic
+4cd85d21-673e-42c3-85a0-bcc2d04ddc41,Ana Sophia da Costa,38,1,5,3,5,4,4,5,5,4,Belém,Redator,Casado,20,1,Alugado,False,12280,44351,535867,320108,90.09,0,Rocketseat Visa Life Basic
+d03a6877-c4bd-484a-bb41-6a3405c58aa7,Allana Andrade,61,3,1,4,4,1,2,2,4,3,São Paulo,Hostess,Viúvo,15,5,Próprio,True,8882,853189,869429,200394,70.5,75,Rocketseat Mastercard Life Basic
+c037ae7f-9dc0-4d56-b236-e3c5887e28c3,Lorena Aparecida,71,5,5,5,3,5,5,1,5,4,Florianópolis,Ambulante,Solteiro,2,6,Próprio,True,12416,799219,675953,229058,62.34,84,Rocketseat Visa Travel Basic
+085d5c46-7df8-449e-a8cc-05126b219bee,Caleb Albuquerque,72,5,4,5,2,1,1,4,1,2,Belém,Imunologista,Solteiro,20,6,Próprio,True,44274,146346,55169,112377,27.59,227,Rocketseat Mastercard Travel Elite
+ee3e0a48-d190-464f-8ef4-6d5bcef78baf,Gustavo Henrique Garcia,33,5,5,5,5,4,2,1,1,4,São Paulo,Retificador,Divorciado,16,1,Alugado,False,25207,717588,1471816,393701,83.9,40,Rocketseat Visa Travel Basic
+32962161-a85d-4083-969a-2a4b7cb56fac,Lívia Araújo,37,3,5,5,2,5,4,5,3,4,Campo Grande,Jogador de futebol,Solteiro,17,2,Alugado,True,36068,144955,337046,397322,79.91,10,Rocketseat Visa Life Basic
+63007ce7-6374-4584-ac04-e4f7b9626f93,Caio Macedo,52,1,2,2,4,5,1,3,5,4,Rio de Janeiro,Somelier,Solteiro,5,5,Próprio,False,4068,439130,994695,167876,81.32,24,Rocketseat Mastercard Shopping Basic
+ed47a242-85ba-45a5-96f8-a0d11d2faad0,Dr. Matheus Gomes,56,4,4,5,4,1,3,1,5,3,Porto Alegre,Engenheiro químico,Solteiro,8,1,Próprio,True,44936,444045,1173752,473857,77.65,52,Rocketseat Visa Life Basic
+689bd550-6615-4dfe-8f8c-287d8886cc54,Sr. João Lucas Pereira,45,2,4,3,5,5,2,3,4,3,Rio de Janeiro,Lixeiro/Coletor de lixo,Viúvo,18,6,Próprio,True,3884,518369,1886570,289327,87.05,19,Rocketseat Visa Life Basic
+d2e72046-5fdf-4122-92c1-b3f620bde4d1,Marina da Costa,58,3,5,4,4,5,2,3,5,4,São Paulo,Diretor de fotografia,Divorciado,14,5,Próprio,True,3960,927745,1268245,485609,76.15,12,Rocketseat Mastercard Life Basic
+885793a6-6adf-47b8-a21c-bf06ffa5d9a9,Maria Cassiano,46,2,2,3,5,2,4,3,5,5,Belo Horizonte,Atuário,Solteiro,16,5,Alugado,False,1761,160378,1176152,177218,86.37,5,Rocketseat Visa Life Basic
+b7243a26-2d15-4c3d-8742-d86782a9c2da,Sr. Vitor Gabriel Silva,52,4,2,3,4,4,2,5,4,5,Manaus,Regente,Solteiro,13,1,Alugado,True,46658,526184,478050,321954,63.1,119,Rocketseat Visa Travel Select
+a994b8dd-6d49-4df2-8083-8b993277e95b,Helena Brito,22,2,3,5,2,2,4,1,2,2,Fortaleza,Escritor,Viúvo,0,3,Alugado,True,15054,869999,236865,307493,41.09,94,Rocketseat Mastercard Life Basic
+446fb21b-8e43-4f7b-bd8e-5c9a55bd4119,Benicio Albuquerque,76,3,1,2,3,3,3,4,2,3,Rio de Janeiro,Sushiman,Solteiro,13,3,Alugado,True,17679,336821,1166632,267934,73.43,38,Rocketseat Visa Travel Basic
+e8c654ae-227b-4e1b-8ae2-f1faedfcb71e,Sara Pacheco,35,1,4,4,1,5,2,3,5,5,Manaus,Lubrificador de máquinas,Solteiro,17,5,Alugado,False,2851,825961,1189545,218308,82.07,39,Rocketseat Visa Shopping Basic
+a27dc895-d12d-4708-aad6-528b202dece8,Srta. Esther Sousa,71,3,4,5,1,2,3,5,2,4,Belém,Ferramenteiro,Viúvo,8,5,Próprio,True,37120,152526,203210,142343,58.98,102,Rocketseat Visa Life Select
+68e8f9a9-5744-4659-9978-53e6285f9d4f,Diogo Gonçalves,62,4,5,3,1,3,3,5,3,3,Florianópolis,Designer de produto ou desenhista industrial,Solteiro,3,1,Alugado,True,41536,576247,923473,163376,67.63,151,Rocketseat Mastercard Life Select
+9b134334-8605-4af9-b596-a67701050147,Vicente da Cunha,72,4,1,3,1,1,4,1,4,1,Porto Alegre,Gandula,Viúvo,6,4,Próprio,True,46052,818986,1001928,189433,59.24,229,Rocketseat Visa Travel Elite
+a31a85da-47e1-4d72-a955-b771a7b020cd,Danilo Aparecida,80,3,3,3,5,1,4,4,1,1,São Paulo,Traumatologista,Divorciado,4,3,Próprio,True,47488,679077,263744,52433,15.44,480,Rocketseat Mastercard Life Platinum
+c64df759-a903-4e04-9656-d9dfb4ba53bb,Aylla Peixoto,36,5,5,4,4,4,4,1,3,4,Curitiba,Reumatologista,Casado,0,3,Próprio,False,25663,393262,1431114,453605,85.04,15,Rocketseat Visa Travel Basic
+6524f39b-c48c-49e1-ad2f-858396f5ad31,Breno da Cruz,49,4,3,3,2,2,5,5,1,4,Belo Horizonte,Geofísico,Casado,11,3,Próprio,False,30038,356428,1127256,467907,79.53,18,Rocketseat Mastercard Shopping Basic
+eaeb03be-36e1-4a0b-99be-1d870a521df0,Rodrigo Pires,72,3,1,1,4,3,5,5,3,2,Campo Grande,Orçamentista,Solteiro,0,6,Próprio,True,42519,193279,1615697,219537,72.15,107,Rocketseat Mastercard Shopping Select
+c0e780ed-57b2-4d30-af49-75fb141bf4e6,Srta. Antonella Mendes,25,4,4,4,4,3,4,2,3,5,Rio de Janeiro,Agricultor,Viúvo,0,1,Alugado,True,12462,159546,616798,94919,87.72,16,Rocketseat Visa Shopping Basic
+8ee90a5a-3bfa-4be1-9a67-1c4cb6140662,Clara da Luz,63,5,3,5,5,4,1,1,5,1,Rio de Janeiro,Jogador de hóquei,Viúvo,18,5,Próprio,False,7548,96783,781208,477479,86.32,0,Rocketseat Visa Travel Basic
+9be78dea-8ac2-441b-892c-aa1a64dbafc6,Marcela Vargas,53,5,3,4,1,3,4,2,4,3,Vitória,Escritor,Casado,20,4,Alugado,True,9378,205399,1834208,41488,74.87,72,Rocketseat Mastercard Travel Basic
+37278555-c977-442b-abc8-afb51c8ce5ab,Leonardo Rios,76,4,3,2,4,3,5,4,5,1,Fortaleza,Mergulhador,Divorciado,20,2,Próprio,False,11788,56068,427590,277223,77.84,0,Rocketseat Mastercard Shopping Basic
+935a3281-411d-4321-a094-767a6f1c3dd6,Eloá Barbosa,37,2,5,3,3,3,3,1,1,4,Curitiba,Arquivista,Divorciado,20,3,Próprio,False,9383,129400,1408760,292286,90.98,2,Rocketseat Visa Life Basic
+6b8da60b-067c-471e-9114-35eae8624f61,Caleb Nascimento,65,1,2,2,2,4,3,5,5,4,Belém,Oceanógrafo,Solteiro,14,4,Próprio,True,10544,912125,412739,443290,53.61,21,Rocketseat Mastercard Travel Basic
+1c679126-2396-47d7-b127-2e28eb905293,Benicio Sousa,60,4,2,1,2,5,5,4,2,1,Campo Grande,Engenheiro petroquímico,Viúvo,11,6,Alugado,True,20232,676399,1345355,355738,77.94,47,Rocketseat Mastercard Shopping Basic
+0fcd2d37-445f-4a34-98f1-24048be5a375,Ana Carolina da Mota,56,2,1,4,5,2,3,5,5,2,Curitiba,Chargista,Casado,10,2,Próprio,True,26364,258933,1733718,21864,52.23,212,Rocketseat Mastercard Life Elite
+57bc630b-f7ab-4009-a2eb-7cdd46297742,Rafaela Nunes,72,1,4,4,4,5,3,5,1,4,Brasília,Ginasta rítmica,Casado,8,3,Próprio,False,46875,826109,1330368,388133,66.74,148,Rocketseat Visa Shopping Select
+34412383-656a-4d15-9bd4-ee04a01f8a8f,Benício Cardoso,34,5,3,1,4,5,5,2,4,5,Rio de Janeiro,Pára-quedista,Solteiro,20,6,Próprio,True,29016,56085,1731936,278783,86.41,27,Rocketseat Mastercard Travel Basic
+ad704751-930b-40d4-b6a2-9ab8e8bdf055,Mirella Rezende,27,5,4,5,5,5,4,5,5,5,Florianópolis,Governador,Casado,19,1,Próprio,False,36168,478667,1053481,268693,82.62,56,Rocketseat Visa Travel Basic
+c9c9f24e-a598-4891-b197-d1e4c83c2c7e,Valentina Dias,55,4,2,3,4,2,1,1,5,5,Goiânia,Assistente social,Viúvo,8,2,Próprio,True,47076,139297,1756386,251312,76.12,94,Rocketseat Mastercard Shopping Basic
+856b9693-70ef-409f-981d-f3b0a1df81dc,Dr. Arthur Gabriel Pastor,71,5,2,2,5,1,2,1,5,4,São Paulo,Amolador de ferramentas,Viúvo,5,5,Alugado,True,37486,680208,474761,310584,56.54,132,Rocketseat Mastercard Travel Select
+6d4571f3-9cf1-4c19-ac0e-8098e7199cec,Ravi Lucca da Rocha,63,1,1,1,1,2,2,2,1,1,Rio de Janeiro,Profissional de comércio exterior,Viúvo,14,4,Próprio,True,38884,584104,1938026,111196,65.02,207,Rocketseat Mastercard Shopping Elite
+23d1984f-ae30-4591-8e1b-0adcb9a7e3ea,Maria Júlia Araújo,76,5,4,4,1,1,5,1,3,2,Brasília,Jornalista,Viúvo,2,3,Alugado,True,2953,532596,1764281,331024,78.93,20,Rocketseat Visa Travel Basic
+8c64826a-d12f-44d6-a28f-933b1436f0dc,Luara Borges,77,5,5,1,4,3,4,5,2,2,Brasília,Crítico,Divorciado,13,5,Próprio,True,21927,681444,511639,336148,61.81,62,Rocketseat Mastercard Travel Basic
+cbb830bb-e118-4ded-9818-59712e74eb15,João Felipe Monteiro,18,4,2,1,3,3,3,5,4,4,Vitória,Copeiro,Solteiro,10,1,Alugado,False,14012,768957,1621297,8861,53.91,229,Rocketseat Visa Travel Elite
+ae464661-f731-4c94-8c82-26794e6e3e43,Bella Peixoto,80,1,4,3,3,1,1,2,3,1,Florianópolis,Saxofonista,Viúvo,17,3,Alugado,False,44807,408875,885169,140861,59.05,187,Rocketseat Visa Life Select
+5d6579af-13a3-47a1-a25c-3a66fc95f9a6,Natália Siqueira,67,3,5,2,4,4,5,2,3,5,Belo Horizonte,Projetista mecânico,Viúvo,17,6,Próprio,True,41541,492236,87991,274093,0,270,Rocketseat Visa Life Elite
+4a65fdd8-16cc-408b-aab8-b79eef4a2e54,Sabrina Barros,56,4,5,5,5,5,1,4,5,4,Florianópolis,Especialista em agronegócios,Solteiro,11,1,Próprio,False,31088,823039,32351,276800,0,277,Rocketseat Mastercard Life Elite
+447e3fe5-c2c8-44b4-bb66-90c78396e873,Noah da Mata,41,4,1,5,2,2,1,1,2,4,Campo Grande,Harpista,Divorciado,14,6,Alugado,False,30722,884885,162601,298503,4.79,275,Rocketseat Mastercard Life Elite
+f1303ee0-efa7-4289-89fc-aa5343fc29b8,Cecília Nogueira,37,5,3,2,1,4,3,3,5,3,Rio de Janeiro,Bailarina,Viúvo,15,4,Próprio,True,6155,580172,1792604,3064,49.64,201,Rocketseat Mastercard Travel Elite
+349c1c67-5ace-4c04-9b3a-86a30dcd6013,Caio da Cruz,49,1,5,5,2,3,1,5,5,4,Belo Horizonte,DJ,Viúvo,8,2,Alugado,True,20450,403803,1262743,96929,76.42,79,Rocketseat Visa Life Basic
+16df68db-6590-4b24-a9e1-b148b16764b6,Bento Costela,39,3,3,3,2,1,5,3,3,3,Fortaleza,Salva-vidas,Solteiro,10,4,Alugado,True,34569,616179,156129,235551,23.64,220,Rocketseat Mastercard Shopping Elite
+38d31bbf-e01b-447e-bd2c-d3ffab1fbd80,Ryan Ferreira,26,1,1,1,4,2,3,4,3,1,Fortaleza,Tecnólogo em silvicultura,Casado,6,2,Próprio,False,25062,521084,1741694,31,32.64,358,Rocketseat Mastercard Life Elite
+c4868ee0-7ee0-41cd-8526-9b2da15f4f71,Leandro Nogueira,50,3,1,1,1,4,5,5,2,2,Goiânia,Apicultor,Divorciado,14,2,Alugado,True,11679,964210,1174384,320353,74.71,62,Rocketseat Visa Shopping Basic
+f830a32d-ed3a-4186-a258-7a81c0291a4f,Maria Helena Marques,22,3,1,4,1,1,3,5,1,1,Rio de Janeiro,Alfaiate,Divorciado,0,5,Alugado,False,26525,987336,1958656,284292,86.44,65,Rocketseat Mastercard Travel Basic
+8f486f6f-e825-454b-b8b1-df0920621065,Esther Andrade,80,1,3,2,4,1,5,2,2,1,São Paulo,Apontador de mão-de-obra,Viúvo,2,4,Próprio,True,44053,90359,660568,97480,61.41,142,Rocketseat Mastercard Shopping Select
+c149900a-b482-4fef-b4bb-c3302751a87c,Oliver Freitas,79,1,5,5,3,5,3,3,2,2,Florianópolis,Enfermeiro,Viúvo,13,5,Alugado,False,32710,268881,1900126,367348,77.37,54,Rocketseat Visa Life Basic
+4e5af7db-8c74-4931-8daa-06277afacc45,Ian Peixoto,26,4,1,5,5,2,4,2,3,5,Rio de Janeiro,Cadista,Casado,2,1,Próprio,False,40005,269579,585165,247577,82.07,47,Rocketseat Mastercard Life Basic
+b2bd8201-8bc8-436e-9afd-7ad6a4c65f86,Srta. Marina Borges,27,2,2,1,4,3,2,3,4,3,Recife,Tecnólogo em produção de bebidas,Casado,10,2,Próprio,True,24055,812314,1177509,348120,82.08,49,Rocketseat Visa Life Basic
+f7bb4a7a-2551-4f39-b1b6-f564754580bc,Benjamim Costa,73,4,2,5,5,2,3,3,5,5,Porto Alegre,Gourmet,Divorciado,5,3,Alugado,False,18891,572176,913145,20404,47.23,210,Rocketseat Visa Life Elite
+4477389d-ae32-451c-bd52-359699bf94a8,Sra. Evelyn Machado,43,4,4,3,1,4,3,4,5,3,Brasília,Contabilista,Solteiro,11,4,Alugado,True,10037,566432,99473,173459,2.22,119,Rocketseat Mastercard Shopping Select
